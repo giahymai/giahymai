@@ -6,7 +6,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 03 June 2026** — refreshed 11:41 CET
+📅 **Wednesday, 03 June 2026** — refreshed 11:42 CET
 <!-- DATE:end -->
 
 ---
@@ -48,8 +48,8 @@
 <!-- HN:start -->
 - [Life and work is not meant to be spent in isolation](https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers)
 - [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
-- [Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2](https://handwritten.danieljanus.pl/2026-06-01-edsger.html)
 - [AI outperforms law professors in Stanford Law study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
+- [Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2](https://handwritten.danieljanus.pl/2026-06-01-edsger.html)
 <!-- HN:end -->
 
 ---
