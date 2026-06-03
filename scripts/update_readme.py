@@ -14,8 +14,13 @@ SKY_LAT, SKY_LNG, SKY_TZ = 51.4416, 5.4697, "Europe/Amsterdam"  # Eindhoven sky
 NASA_KEY = os.environ.get("NASA_API_KEY", "DEMO_KEY")
 CET_OFFSET = 2
 
+UA = "giahymai-readme-bot/1.0 (https://github.com/giahymai/giahymai)"
+
 def fetch(url, timeout=20):
-    req = urllib.request.Request(url, headers={"User-Agent": "profile-bot"})
+    req = urllib.request.Request(url, headers={
+        "User-Agent": UA,
+        "Accept": "application/json",
+    })
     with urllib.request.urlopen(req, timeout=timeout) as r:
         return r.read().decode("utf-8", "replace")
 
