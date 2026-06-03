@@ -6,7 +6,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 03 June 2026** — refreshed 11:52 CET
+📅 **Wednesday, 03 June 2026** — refreshed 12:01 CET
 <!-- DATE:end -->
 
 ---
@@ -57,8 +57,8 @@
 <!-- HN:start -->
 - [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
 - [Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2](https://handwritten.danieljanus.pl/2026-06-01-edsger.html)
-- [AI outperforms law professors in Stanford Law study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
 - [Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)](https://github.com/s-macke/Test-Drive-3-Maps)
+- [Use your Nvidia GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
 <!-- HN:end -->
 
 ---
