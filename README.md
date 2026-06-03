@@ -6,7 +6,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 03 June 2026** — refreshed 12:02 CET
+📅 **Wednesday, 03 June 2026** — refreshed 12:08 CET
 <!-- DATE:end -->
 
 ---
@@ -21,7 +21,7 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:25:52 AM  ·  🌇 **Sunset** 9:49:30 PM
 ✨ **Golden hour** 8:56:35 PM  ·  ⏳ **Day length** 16:23:37
-🌖 **Moon**: Waning Gibbous (92% lit)
+🌖 **Moon**: Waning Gibbous (91% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
@@ -34,7 +34,9 @@
 
 ### 🔭 NASA Picture of the Day
 <!-- APOD:start -->
-🛰️ APOD unavailable (HTTPError)
+<a href="https://apod.nasa.gov/apod/image/2606/andromeda_1024.png"><img src="https://apod.nasa.gov/apod/image/2606/andromeda.png" width="100%" alt="NASA APOD: Andromeda Through Gas and Dust" /></a>
+
+<sub>📷 <b>Andromeda Through Gas and Dust</b> · NASA Astronomy Picture of the Day</sub>
 <!-- APOD:end -->
 
 ---
