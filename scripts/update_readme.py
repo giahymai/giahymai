@@ -123,6 +123,63 @@ def get_apod():
     except Exception as e:
         return f"🛰️ APOD unavailable ({e.__class__.__name__})", False
 
+# ---------- Landmark of the day (curated names, images via Wikipedia API) ----------
+# Only the name + note are hard-coded; the image is fetched live from Wikipedia,
+# so links never rot. (title, country, wiki_page, note)
+LANDMARKS = [
+    ("Eiffel Tower", "France 🇫🇷", "Eiffel_Tower",
+     "Built for the 1889 World's Fair and meant to be torn down 20 years later — it stayed."),
+    ("Machu Picchu", "Peru 🇵🇪", "Machu_Picchu",
+     "A 15th-century Inca citadel at 2,430 m, unknown to the outside world until 1911."),
+    ("Taj Mahal", "India 🇮🇳", "Taj_Mahal",
+     "A marble mausoleum built by Shah Jahan for his wife — it shifts color through the day."),
+    ("Petra", "Jordan 🇯🇴", "Petra",
+     "An entire city carved into rose-red sandstone over 2,000 years ago by the Nabataeans."),
+    ("Great Wall of China", "China 🇨🇳", "Great_Wall_of_China",
+     "Not one wall but many, built over centuries — together stretching more than 21,000 km."),
+    ("Colosseum", "Italy 🇮🇹", "Colosseum",
+     "Rome's amphitheatre held ~50,000 people and could even be flooded for mock sea battles."),
+    ("Santorini", "Greece 🇬🇷", "Santorini",
+     "Its white-and-blue towns sit on the rim of a volcano that erupted catastrophically ~1600 BC."),
+    ("Mount Fuji", "Japan 🇯🇵", "Mount_Fuji",
+     "Japan's highest peak (3,776 m) and an active volcano, last erupting in 1707."),
+    ("Sydney Opera House", "Australia 🇦🇺", "Sydney_Opera_House",
+     "Its sail-like shells are covered in over a million self-cleaning tiles."),
+    ("Christ the Redeemer", "Brazil 🇧🇷", "Christ_the_Redeemer_(statue)",
+     "A 30-m statue atop Corcovado, struck by lightning several times a year."),
+    ("Angkor Wat", "Cambodia 🇰🇭", "Angkor_Wat",
+     "The largest religious monument on Earth, built in the early 12th century."),
+    ("Neuschwanstein Castle", "Germany 🇩🇪", "Neuschwanstein_Castle",
+     "The fairy-tale castle that inspired Disney's Sleeping Beauty castle."),
+    ("Grand Canyon", "USA 🇺🇸", "Grand_Canyon",
+     "Carved by the Colorado River over ~6 million years, up to 1.8 km deep."),
+    ("Hạ Long Bay", "Vietnam 🇻🇳", "Ha_Long_Bay",
+     "Thousands of limestone karsts rising from emerald water — a drowned karst landscape."),
+    ("Pyramids of Giza", "Egypt 🇪🇬", "Giza_pyramid_complex",
+     "The Great Pyramid stood as the tallest human-made structure for ~3,800 years."),
+    ("Golden Gate Bridge", "USA 🇺🇸", "Golden_Gate_Bridge",
+     "Its colour, 'International Orange', was chosen to stay visible in San Francisco fog."),
+]
+
+def get_landmark():
+    idx = datetime.date.today().toordinal() % len(LANDMARKS)
+    name, country, page, note = LANDMARKS[idx]
+    img = ""
+    try:
+        data = json.loads(fetch(
+            f"https://en.wikipedia.org/api/rest_v1/page/summary/{page}"))
+        img = (data.get("originalimage") or data.get("thumbnail") or {}).get("source", "")
+    except Exception:
+        img = ""
+    page_url = f"https://en.wikipedia.org/wiki/{page}"
+    if img:
+        media = (f'<a href="{page_url}"><img src="{img}" width="100%" '
+                 f'alt="{html.escape(name)}" /></a>\n\n')
+    else:
+        media = ""  # image fetch failed; show text only
+    return (f'{media}<sub>📍 <b>{html.escape(name)}</b> — {country} · '
+            f'{html.escape(note)} · <a href="{page_url}">read more</a></sub>')
+
 # ===================== SKY SVG =====================
 
 def lerp(a, b, t): return a + (b - a) * t
@@ -241,6 +298,7 @@ def main():
     text = replace_block(text, "FACT", get_fact())
     text = replace_block(text, "SKY", sky_text(sky))
     text = replace_block(text, "APOD", apod_md)
+    text = replace_block(text, "LANDMARK", get_landmark())
     text = replace_block(text, "HN", get_hn())
 
     with open(README, "w", encoding="utf-8") as f:

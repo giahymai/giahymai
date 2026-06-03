@@ -9,7 +9,6 @@ on:
     paths-ignore:
       - 'README.md'
       - 'assets/**'
-      - 'profile-summary-card-output/**'
 
 permissions:
   contents: write
@@ -24,28 +23,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # 1) Stats cards -> commit images into main (no auto-push; we batch later)
-      - name: Generate summary cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "main"
-          UTC_OFFSET: 2
-          AUTO_PUSH: false
-
-      # 2) Update README dynamic sections + draw assets/sky.svg + fetch NASA APOD
+      # Update README + draw assets/sky.svg + fetch NASA APOD + landmark
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
 
-      - name: Update README, sky & APOD
+      - name: Update README, sky, APOD & landmark
         env:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}   # optional; falls back to DEMO_KEY
         run: python3 scripts/update_readme.py
 
-      # 3) One commit, one push (with retry handled by the action)
+      # One commit, one push (with retry handled by the action)
       - name: Commit & push everything
         uses: stefanzweifel/git-auto-commit-action@v5
         with:

@@ -39,6 +39,12 @@
 
 ---
 
+### 🗺️ Landmark of the day
+<!-- LANDMARK:start -->
+<!-- LANDMARK:end -->
+
+---
+
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
 💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
@@ -63,13 +69,4 @@
 
 ---
 
-### 📊 Stats
-<p align="center">
-  <img src="https://raw.githubusercontent.com/giahymai/giahymai/main/profile-summary-card-output/nord_dark/0-profile-details.svg" />
-</p>
-<p align="center">
-  <img height="200" src="https://raw.githubusercontent.com/giahymai/giahymai/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg" />
-  <img height="200" src="https://raw.githubusercontent.com/giahymai/giahymai/main/profile-summary-card-output/nord_dark/3-stats.svg" />
-</p>
-
-<p align="center"><sub>⚙️ Sky, APOD, weather & stats auto-refresh via GitHub Actions — no servers, no Vercel.</sub></p>
+<p align="center"><sub>⚙️ Sky, APOD, landmark & weather auto-refresh via GitHub Actions — no servers, no Vercel.</sub></p>
