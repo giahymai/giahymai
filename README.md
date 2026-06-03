@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 03 June 2026** — refreshed 18:59 CET
+📅 **Wednesday, 03 June 2026** — refreshed 23:21 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:25:52 AM  ·  🌇 **Sunset** 9:49:30 PM
 ✨ **Golden hour** 8:56:35 PM  ·  ⏳ **Day length** 16:23:37
-🌖 **Moon**: Waning Gibbous (90% lit)
+🌖 **Moon**: Waning Gibbous (89% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 19°C (feels 19°C) · Partly cloudy
+☁️ **Eindhoven**: 16°C (feels 16°C) · Overcast
 <!-- WEATHER:end -->
 
 ---
@@ -54,10 +54,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
 - [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
+- [I was recently diagnosed with anti-NMDA receptor encephalitis](https://burntsushi.net/encephalitis/)
 - [DaVinci Resolve 21](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)
-- [ESP32-S31](https://www.espressif.com/en/products/socs/esp32-s31)
-- [A Post-Quantum Future for Let's Encrypt](https://letsencrypt.org/2026/06/03/pq-certs)
 <!-- HN:end -->
 
 ---
