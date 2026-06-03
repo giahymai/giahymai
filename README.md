@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 03 June 2026** — refreshed 12:10 CET
+📅 **Wednesday, 03 June 2026** — refreshed 18:59 CET
 <!-- DATE:end -->
 
 ---
@@ -20,22 +20,20 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:25:52 AM  ·  🌇 **Sunset** 9:49:30 PM
 ✨ **Golden hour** 8:56:35 PM  ·  ⏳ **Day length** 16:23:37
-🌖 **Moon**: Waning Gibbous (91% lit)
+🌖 **Moon**: Waning Gibbous (90% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 15°C (feels 7°C) · Patchy rain nearby
+⛅ **Eindhoven**: 19°C (feels 19°C) · Partly cloudy
 <!-- WEATHER:end -->
 
 ---
 
 ### 🔭 NASA Picture of the Day
 <!-- APOD:start -->
-<a href="https://apod.nasa.gov/apod/image/2606/andromeda_1024.png"><img src="https://apod.nasa.gov/apod/image/2606/andromeda.png" width="100%" alt="NASA APOD: Andromeda Through Gas and Dust" /></a>
-
-<sub>📷 <b>Andromeda Through Gas and Dust</b> · NASA Astronomy Picture of the Day</sub>
+🛰️ APOD unavailable (TimeoutError)
 <!-- APOD:end -->
 
 ---
@@ -56,10 +54,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
-- [Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2](https://handwritten.danieljanus.pl/2026-06-01-edsger.html)
-- [Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)](https://github.com/s-macke/Test-Drive-3-Maps)
-- [Use your Nvidia GPU's VRAM as swap space on Linux](https://github.com/c0dejedi/nbd-vram)
+- [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
+- [DaVinci Resolve 21](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)
+- [ESP32-S31](https://www.espressif.com/en/products/socs/esp32-s31)
+- [A Post-Quantum Future for Let's Encrypt](https://letsencrypt.org/2026/06/03/pq-certs)
 <!-- HN:end -->
 
 ---
