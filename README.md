@@ -6,7 +6,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 03 June 2026** — refreshed 11:42 CET
+📅 **Wednesday, 03 June 2026** — refreshed 11:51 CET
 <!-- DATE:end -->
 
 ---
@@ -41,6 +41,9 @@
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
+<a href="https://en.wikipedia.org/wiki/Angkor_Wat"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Buddhist_monks_in_front_of_the_Angkor_Wat.jpg" width="100%" alt="Angkor Wat" /></a>
+
+<sub>📍 <b>Angkor Wat</b> — Cambodia 🇰🇭 · The largest religious monument on Earth, built in the early 12th century. · <a href="https://en.wikipedia.org/wiki/Angkor_Wat">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
@@ -52,10 +55,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Life and work is not meant to be spent in isolation](https://46elks.com/blog/2026/05/29/an-amazing-time-for-programmers)
 - [1-Click GitHub Token Stealing via a VSCode Bug](https://blog.ammaraskar.com/github-token-stealing/)
-- [AI outperforms law professors in Stanford Law study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
 - [Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2](https://handwritten.danieljanus.pl/2026-06-01-edsger.html)
+- [AI outperforms law professors in Stanford Law study](https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/)
+- [Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)](https://github.com/s-macke/Test-Drive-3-Maps)
 <!-- HN:end -->
 
 ---
