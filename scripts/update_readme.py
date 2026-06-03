@@ -3,7 +3,7 @@
 Update profile README dynamic sections and draw a sky SVG.
 All APIs are free / no-key (NASA uses DEMO_KEY, called once per run).
 """
-import re, os, json, math, random, datetime, urllib.request, html
+import re, os, json, math, random, datetime, urllib.request, urllib.error, html
 
 README = "README.md"
 SKY_SVG = "assets/sky.svg"
@@ -113,20 +113,26 @@ def sky_text(d):
 
 def get_apod():
     """Fetch NASA Astronomy Picture of the Day. Returns (markdown, ok)."""
-    try:
-        a = json.loads(fetch(f"https://api.nasa.gov/planetary/apod?api_key={NASA_KEY}"))
-        if a.get("media_type") != "image":
-            # APOD is sometimes a video; link it instead of embedding
-            return f"🎬 **{a.get('title','APOD')}** — [watch today's APOD]({a.get('url','')})", True
-        img = a.get("hdurl") or a.get("url")
-        title = a.get("title", "Astronomy Picture of the Day")
-        link = a.get("url")
-        md = (f'<a href="{link}"><img src="{img}" width="100%" '
-              f'alt="NASA APOD: {html.escape(title)}" /></a>\n\n'
-              f'<sub>📷 <b>{html.escape(title)}</b> · NASA Astronomy Picture of the Day</sub>')
-        return md, True
-    except Exception as e:
-        return f"🛰️ APOD unavailable ({e.__class__.__name__})", False
+    last_err = None
+    for key in (NASA_KEY, "DEMO_KEY"):   # try user key, then DEMO_KEY
+        try:
+            a = json.loads(fetch(f"https://api.nasa.gov/planetary/apod?api_key={key}"))
+            if a.get("media_type") != "image":
+                return f"🎬 **{a.get('title','APOD')}** — [watch today's APOD]({a.get('url','')})", True
+            img = a.get("hdurl") or a.get("url")
+            title = a.get("title", "Astronomy Picture of the Day")
+            link = a.get("url")
+            md = (f'<a href="{link}"><img src="{img}" width="100%" '
+                  f'alt="NASA APOD: {html.escape(title)}" /></a>\n\n'
+                  f'<sub>📷 <b>{html.escape(title)}</b> · NASA Astronomy Picture of the Day</sub>')
+            return md, True
+        except urllib.error.HTTPError as e:
+            last_err = f"HTTP {e.code}"
+            print(f"[APOD] key={key[:6]}… failed: HTTP {e.code} {e.reason}")
+        except Exception as e:
+            last_err = e.__class__.__name__
+            print(f"[APOD] key={key[:6]}… failed: {e.__class__.__name__}: {e}")
+    return f"🛰️ APOD unavailable ({last_err})", False
 
 # ---------- Landmark of the day (curated names, images via Wikipedia API) ----------
 # Only the name + note are hard-coded; the image is fetched live from Wikipedia,
