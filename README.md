@@ -74,4 +74,3 @@
 
 ---
 
-<p align="center"><sub>⚙️ Sky, APOD, landmark & weather auto-refresh via GitHub Actions — no servers, no Vercel.</sub></p>
