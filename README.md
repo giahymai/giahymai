@@ -2,7 +2,6 @@
 
 <p align="center">
   CS undergrad @ <b>TU Eindhoven</b> 🇳🇱 · originally from Vietnam 🇻🇳<br>
-  Java · Spring Boot · React · and the occasional 3am contest panic
 </p>
 
 <!-- DATE:start -->
