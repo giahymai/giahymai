@@ -28,14 +28,6 @@
 <!-- WEATHER:start -->
 ☁️ **Eindhoven**: 13°C (feels 12°C) · Overcast
 <!-- WEATHER:end -->
-
----
-
-### 🔭 NASA Picture of the Day
-<!-- APOD:start -->
-🛰️ APOD unavailable (HTTP 503)
-<!-- APOD:end -->
-
 ---
 
 ### 🗺️ Landmark of the day
