@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 03 June 2026** — refreshed 23:21 CET
+📅 **Thursday, 04 June 2026** — refreshed 06:40 CET
 <!-- DATE:end -->
 
 ---
@@ -18,46 +18,46 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:25:52 AM  ·  🌇 **Sunset** 9:49:30 PM
-✨ **Golden hour** 8:56:35 PM  ·  ⏳ **Day length** 16:23:37
-🌖 **Moon**: Waning Gibbous (89% lit)
+🌅 **Sunrise** 5:25:11 AM  ·  🌇 **Sunset** 9:50:31 PM
+✨ **Golden hour** 8:57:28 PM  ·  ⏳ **Day length** 16:25:20
+🌖 **Moon**: Waning Gibbous (87% lit)
 
-> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
+> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 16°C (feels 16°C) · Overcast
+☁️ **Eindhoven**: 13°C (feels 12°C) · Overcast
 <!-- WEATHER:end -->
 
 ---
 
 ### 🔭 NASA Picture of the Day
 <!-- APOD:start -->
-🛰️ APOD unavailable (TimeoutError)
+🛰️ APOD unavailable (HTTP 503)
 <!-- APOD:end -->
 
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Angkor_Wat"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Buddhist_monks_in_front_of_the_Angkor_Wat.jpg" width="100%" alt="Angkor Wat" /></a>
+<a href="https://en.wikipedia.org/wiki/Neuschwanstein_Castle"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Neuschwanstein_2013.jpg/3840px-Schloss_Neuschwanstein_2013.jpg" width="100%" alt="Neuschwanstein Castle" /></a>
 
-<sub>📍 <b>Angkor Wat</b> — Cambodia 🇰🇭 · The largest religious monument on Earth, built in the early 12th century. · <a href="https://en.wikipedia.org/wiki/Angkor_Wat">read more</a></sub>
+<sub>📍 <b>Neuschwanstein Castle</b> — Germany 🇩🇪 · The fairy-tale castle that inspired Disney&#x27;s Sleeping Beauty castle. · <a href="https://en.wikipedia.org/wiki/Neuschwanstein_Castle">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
+💡 `git` was written by Linus Torvalds in about 10 days in 2005.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse](https://e360.yale.edu/digest/trump-ooi-amoc)
 - [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
+- [I built a vulnerable app and spent $1,500 seeing if LLMs could hack it](https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/)
 - [Gemma 4 12B: A unified, encoder-free multimodal model](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
-- [I was recently diagnosed with anti-NMDA receptor encephalitis](https://burntsushi.net/encephalitis/)
-- [DaVinci Resolve 21](https://www.blackmagicdesign.com/products/davinciresolve/whatsnew)
 <!-- HN:end -->
 
 ---
