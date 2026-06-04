@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 04 June 2026** — refreshed 17:26 CET
+📅 **Thursday, 04 June 2026** — refreshed 22:11 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:25:11 AM  ·  🌇 **Sunset** 9:50:31 PM
 ✨ **Golden hour** 8:57:28 PM  ·  ⏳ **Day length** 16:25:20
-🌖 **Moon**: Waning Gibbous (84% lit)
+🌖 **Moon**: Waning Gibbous (82% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 17°C (feels 17°C) · Overcast
+🌡️ **Eindhoven**: 17°C (feels 17°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -47,9 +47,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/)
+- [Retro-Tech Parenting](https://havenweb.org/2026/05/28/retro-tech.html)
+- [When AI Builds Itself: Our progress toward recursive self-improvement](https://www.anthropic.com/institute/recursive-self-improvement)
 - [Ian's Secure Shoelace Knot](https://www.fieggen.com/shoelace/secureknot.htm)
-- [They’re made out of weights](https://maxleiter.com/blog/weights)
-- [Gaussian Point Splatting](https://momentsingraphics.de/Siggraph2026.html)
 <!-- HN:end -->
 
 ---
