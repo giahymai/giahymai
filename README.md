@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 04 June 2026** — refreshed 12:04 CET
+📅 **Thursday, 04 June 2026** — refreshed 17:26 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:25:11 AM  ·  🌇 **Sunset** 9:50:31 PM
 ✨ **Golden hour** 8:57:28 PM  ·  ⏳ **Day length** 16:25:20
-🌖 **Moon**: Waning Gibbous (85% lit)
+🌖 **Moon**: Waning Gibbous (84% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 16°C (feels 16°C) · Rain Shower
+☁️ **Eindhoven**: 17°C (feels 17°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [UK media fails to disclose defence sector links in nearly 60% of cases](https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/)
+- [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/)
+- [Ian's Secure Shoelace Knot](https://www.fieggen.com/shoelace/secureknot.htm)
 - [They’re made out of weights](https://maxleiter.com/blog/weights)
-- [Elixir v1.20: Now a gradually typed language](https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/)
-- [Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes](https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html)
+- [Gaussian Point Splatting](https://momentsingraphics.de/Siggraph2026.html)
 <!-- HN:end -->
 
 ---
