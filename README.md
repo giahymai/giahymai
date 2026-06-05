@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 04 June 2026** — refreshed 22:11 CET
+📅 **Friday, 05 June 2026** — refreshed 06:14 CET
 <!-- DATE:end -->
 
 ---
@@ -18,38 +18,38 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:25:11 AM  ·  🌇 **Sunset** 9:50:31 PM
-✨ **Golden hour** 8:57:28 PM  ·  ⏳ **Day length** 16:25:20
-🌖 **Moon**: Waning Gibbous (82% lit)
+🌅 **Sunrise** 5:24:32 AM  ·  🌇 **Sunset** 9:51:30 PM
+✨ **Golden hour** 8:58:18 PM  ·  ⏳ **Day length** 16:26:57
+🌖 **Moon**: Waning Gibbous (80% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 17°C) · Patchy rain nearby
+☁️ **Eindhoven**: 14°C (feels 13°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Neuschwanstein_Castle"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Neuschwanstein_2013.jpg/3840px-Schloss_Neuschwanstein_2013.jpg" width="100%" alt="Neuschwanstein Castle" /></a>
+<a href="https://en.wikipedia.org/wiki/Grand_Canyon"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Canyon_River_Tree_%28165872763%29.jpeg" width="100%" alt="Grand Canyon" /></a>
 
-<sub>📍 <b>Neuschwanstein Castle</b> — Germany 🇩🇪 · The fairy-tale castle that inspired Disney&#x27;s Sleeping Beauty castle. · <a href="https://en.wikipedia.org/wiki/Neuschwanstein_Castle">read more</a></sub>
+<sub>📍 <b>Grand Canyon</b> — USA 🇺🇸 · Carved by the Colorado River over ~6 million years, up to 1.8 km deep. · <a href="https://en.wikipedia.org/wiki/Grand_Canyon">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 `git` was written by Linus Torvalds in about 10 days in 2005.
+💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [VoidZero Is Joining Cloudflare](https://blog.cloudflare.com/voidzero-joins-cloudflare/)
-- [Retro-Tech Parenting](https://havenweb.org/2026/05/28/retro-tech.html)
-- [When AI Builds Itself: Our progress toward recursive self-improvement](https://www.anthropic.com/institute/recursive-self-improvement)
-- [Ian's Secure Shoelace Knot](https://www.fieggen.com/shoelace/secureknot.htm)
+- [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/)
+- [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness)
+- [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032)
+- [Azure Linux 4.0 is Microsoft's first general-purpose Linux](https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/)
 <!-- HN:end -->
 
 ---
