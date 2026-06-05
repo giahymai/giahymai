@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 05 June 2026** — refreshed 06:14 CET
+📅 **Friday, 05 June 2026** — refreshed 12:01 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:24:32 AM  ·  🌇 **Sunset** 9:51:30 PM
 ✨ **Golden hour** 8:58:18 PM  ·  ⏳ **Day length** 16:26:57
-🌖 **Moon**: Waning Gibbous (80% lit)
+🌖 **Moon**: Waning Gibbous (78% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 14°C (feels 13°C) · Overcast
+🌡️ **Eindhoven**: 15°C (feels 15°C) · Light Rain Shower, Rain Shower
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Changing How We Develop Ladybird](https://ladybird.org/posts/changing-how-we-develop-ladybird/)
+- [C++: The Documentary](https://herbsutter.com/2026/06/04/c-the-documentary-released-today/)
+- [Entanglement Builds Space-Time. Now "Magic" Gives It Gravity](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/)
 - [Meta enables ADB on deprecated Portal devices [video]](https://fb.watch/HxPu0fSyeH/)
-- [Anthropic's open-source framework for AI-powered vulnerability discovery](https://github.com/anthropics/defending-code-reference-harness)
-- [Do transformers need three projections? Systematic study of QKV variants](https://arxiv.org/abs/2606.04032)
-- [Azure Linux 4.0 is Microsoft's first general-purpose Linux](https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/)
 <!-- HN:end -->
 
 ---
