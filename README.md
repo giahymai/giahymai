@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 05 June 2026** — refreshed 17:15 CET
+📅 **Friday, 05 June 2026** — refreshed 22:01 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:24:32 AM  ·  🌇 **Sunset** 9:51:30 PM
 ✨ **Golden hour** 8:58:18 PM  ·  ⏳ **Day length** 16:26:57
-🌖 **Moon**: Waning Gibbous (76% lit)
+🌖 **Moon**: Waning Gibbous (74% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 15°C (feels 15°C) · Light Rain Shower, Drizzle, Rain Shower
+🌡️ **Eindhoven**: 15°C (feels 15°C) · Light Rain, Rain Shower
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Astronauts on ISS told to shelter as repairs under way to fix air leaks](https://www.bbc.com/news/live/c4g44ew3g1kt)
-- [Mouseless – keyboard-driven control of macOS/Linux/Windows](https://mouseless.click)
-- [Cooldown Support for Ruby Bundler](https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html)
-- [Tracing a powerful GNSS interference source over Europe](https://arxiv.org/abs/2606.03673)
+- [Astronauts told to return to ISS after sheltering over air leak repairs](https://www.bbc.com/news/live/c4g44ew3g1kt)
+- [pg_durable: Microsoft open sources in-database durable execution](https://github.com/microsoft/pg_durable)
+- [Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency](https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/)
+- [My Agent Skill for Test-Driven Development](https://www.saturnci.com/my-agent-skill-for-test-driven-development.html)
 <!-- HN:end -->
 
 ---
