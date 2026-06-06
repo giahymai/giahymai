@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 06 June 2026** — refreshed 10:40 CET
+📅 **Saturday, 06 June 2026** — refreshed 15:54 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:23:57 AM  ·  🌇 **Sunset** 9:52:26 PM
 ✨ **Golden hour** 8:59:07 PM  ·  ⏳ **Day length** 16:28:29
-🌖 **Moon**: Waning Gibbous (70% lit)
+🌗 **Moon**: Last Quarter (67% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 15°C (feels 15°C) · Overcast
+🌡️ **Eindhoven**: 19°C (feels 19°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -47,9 +47,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
-- [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
+- [The new bibliomaniacs](https://engelsbergideas.com/notebook/the-new-bibliomaniacs/)
+- [Pokemon Emerald Ported to WebAssembly (100k FPS)](https://pokeemerald.com/)
 - [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)
-- [Pre-Modern Armies for Worldbuilders, Part I: Why They Fight](https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/)
 <!-- HN:end -->
 
 ---
