@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 05 June 2026** — refreshed 22:01 CET
+📅 **Saturday, 06 June 2026** — refreshed 05:57 CET
 <!-- DATE:end -->
 
 ---
@@ -18,38 +18,38 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:24:32 AM  ·  🌇 **Sunset** 9:51:30 PM
-✨ **Golden hour** 8:58:18 PM  ·  ⏳ **Day length** 16:26:57
-🌖 **Moon**: Waning Gibbous (74% lit)
+🌅 **Sunrise** 5:23:57 AM  ·  🌇 **Sunset** 9:52:26 PM
+✨ **Golden hour** 8:59:07 PM  ·  ⏳ **Day length** 16:28:29
+🌖 **Moon**: Waning Gibbous (71% lit)
 
-> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
+> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 15°C (feels 15°C) · Light Rain, Rain Shower
+🌫️ **Eindhoven**: 11°C (feels 10°C) · Mist
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Grand_Canyon"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Canyon_River_Tree_%28165872763%29.jpeg" width="100%" alt="Grand Canyon" /></a>
+<a href="https://en.wikipedia.org/wiki/Ha_Long_Bay"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Ha_Long_Bay_in_2019.jpg" width="100%" alt="Hạ Long Bay" /></a>
 
-<sub>📍 <b>Grand Canyon</b> — USA 🇺🇸 · Carved by the Colorado River over ~6 million years, up to 1.8 km deep. · <a href="https://en.wikipedia.org/wiki/Grand_Canyon">read more</a></sub>
+<sub>📍 <b>Hạ Long Bay</b> — Vietnam 🇻🇳 · Thousands of limestone karsts rising from emerald water — a drowned karst landscape. · <a href="https://en.wikipedia.org/wiki/Ha_Long_Bay">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
+💡 Python is named after Monty Python, not the snake.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Astronauts told to return to ISS after sheltering over air leak repairs](https://www.bbc.com/news/live/c4g44ew3g1kt)
+- [Lockdown Mode](https://help.openai.com/en/articles/20001061-lockdown-mode)
+- [The intracies of modern camera lens repair (2024)](https://salvagedcircuitry.com/sigma-45mm.html)
+- [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
 - [pg_durable: Microsoft open sources in-database durable execution](https://github.com/microsoft/pg_durable)
-- [Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency](https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/)
-- [My Agent Skill for Test-Driven Development](https://www.saturnci.com/my-agent-skill-for-test-driven-development.html)
 <!-- HN:end -->
 
 ---
