@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 06 June 2026** — refreshed 15:54 CET
+📅 **Saturday, 06 June 2026** — refreshed 21:39 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:23:57 AM  ·  🌇 **Sunset** 9:52:26 PM
 ✨ **Golden hour** 8:59:07 PM  ·  ⏳ **Day length** 16:28:29
-🌗 **Moon**: Last Quarter (67% lit)
+🌗 **Moon**: Last Quarter (65% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 19°C) · Patchy rain nearby
+☁️ **Eindhoven**: 14°C (feels 13°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [How LLMs work](https://www.0xkato.xyz/how-llms-actually-work/)
-- [The new bibliomaniacs](https://engelsbergideas.com/notebook/the-new-bibliomaniacs/)
-- [Pokemon Emerald Ported to WebAssembly (100k FPS)](https://pokeemerald.com/)
-- [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/)
+- [Zeroserve: A zero-config web server you can script with eBPF](https://su3.io/posts/introducing-zeroserve)
+- [Nvidia is proposing a beast of a CPU system for Windows PCs](https://twitter.com/lemire/status/2062880075117113739)
+- [You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives)
+- [Benchmarks in Leipzig](https://arxiv.org/abs/2606.05818)
 <!-- HN:end -->
 
 ---
