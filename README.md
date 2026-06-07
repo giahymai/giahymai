@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 06 June 2026** — refreshed 21:39 CET
+📅 **Sunday, 07 June 2026** — refreshed 06:23 CET
 <!-- DATE:end -->
 
 ---
@@ -18,11 +18,11 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:23:57 AM  ·  🌇 **Sunset** 9:52:26 PM
-✨ **Golden hour** 8:59:07 PM  ·  ⏳ **Day length** 16:28:29
-🌗 **Moon**: Last Quarter (65% lit)
+🌅 **Sunrise** 5:23:24 AM  ·  🌇 **Sunset** 9:53:20 PM
+✨ **Golden hour** 8:59:54 PM  ·  ⏳ **Day length** 16:29:55
+🌗 **Moon**: Last Quarter (61% lit)
 
-> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
+> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
@@ -32,24 +32,24 @@
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Ha_Long_Bay"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Ha_Long_Bay_in_2019.jpg" width="100%" alt="Hạ Long Bay" /></a>
+<a href="https://en.wikipedia.org/wiki/Giza_pyramid_complex"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/3840px-Pyramids_of_the_Giza_Necropolis.jpg" width="100%" alt="Pyramids of Giza" /></a>
 
-<sub>📍 <b>Hạ Long Bay</b> — Vietnam 🇻🇳 · Thousands of limestone karsts rising from emerald water — a drowned karst landscape. · <a href="https://en.wikipedia.org/wiki/Ha_Long_Bay">read more</a></sub>
+<sub>📍 <b>Pyramids of Giza</b> — Egypt 🇪🇬 · The Great Pyramid stood as the tallest human-made structure for ~3,800 years. · <a href="https://en.wikipedia.org/wiki/Giza_pyramid_complex">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Python is named after Monty Python, not the snake.
+💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Zeroserve: A zero-config web server you can script with eBPF](https://su3.io/posts/introducing-zeroserve)
-- [Nvidia is proposing a beast of a CPU system for Windows PCs](https://twitter.com/lemire/status/2062880075117113739)
-- [You Can Run](https://magazine.atavist.com/2026/mccann-cocaine-fugitives)
-- [Benchmarks in Leipzig](https://arxiv.org/abs/2606.05818)
+- [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)
+- [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)
+- [Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering](https://arxiv.org/abs/2601.14470)
+- [Harness engineering: Leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
 <!-- HN:end -->
 
 ---
