@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 07 June 2026** — refreshed 06:23 CET
+📅 **Sunday, 07 June 2026** — refreshed 11:23 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:23:24 AM  ·  🌇 **Sunset** 9:53:20 PM
 ✨ **Golden hour** 8:59:54 PM  ·  ⏳ **Day length** 16:29:55
-🌗 **Moon**: Last Quarter (61% lit)
+🌗 **Moon**: Last Quarter (59% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 14°C (feels 13°C) · Overcast
+☁️ **Eindhoven**: 14°C (feels 12°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners](https://www.ioccc.org/2025/)
+- [I design with Claude more than Figma now](https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/)
 - [Valve P2P networking broken for more than 2 months](https://github.com/ValveSoftware/GameNetworkingSockets/issues/398)
-- [Field of clones: How horse replicas came to dominate polo](https://knowablemagazine.org/content/article/technology/2026/cloned-polo-horses)
-- [Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering](https://arxiv.org/abs/2601.14470)
-- [Harness engineering: Leveraging Codex in an agent-first world](https://openai.com/index/harness-engineering/)
+- [Speculative KV coding: losslessly compressing KV cache by up to ~4×](https://fergusfinn.com/blog/kv-entropy-coder/)
 <!-- HN:end -->
 
 ---
