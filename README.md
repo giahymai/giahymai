@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 08 June 2026** — refreshed 06:28 CET
+📅 **Monday, 08 June 2026** — refreshed 13:06 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:22:54 AM  ·  🌇 **Sunset** 9:54:11 PM
 ✨ **Golden hour** 9:00:38 PM  ·  ⏳ **Day length** 16:31:16
-🌗 **Moon**: Last Quarter (51% lit)
+🌗 **Moon**: Last Quarter (48% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 12°C (feels 12°C) · Overcast
+☁️ **Eindhoven**: 19°C (feels 19°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [New drug 'functionally cures' many hepatitis B virus infections](https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08)
-- [APC–2 – A professional record cutter for producing original playback discs](https://teenage.engineering/products/apc-2)
+- [The Cypherpunk Library](https://www.cypherpunkbooks.com)
+- [Replies to comments on my "LLMs are eroding my career" post](https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/)
+- [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/)
 - [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
-- [The Smallest Brain You Can Build: A Perceptron in Python](https://ranpara.net/posts/perceptron-explained-from-scratch/)
 <!-- HN:end -->
 
 ---
