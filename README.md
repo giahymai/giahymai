@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 08 June 2026** — refreshed 18:03 CET
+📅 **Monday, 08 June 2026** — refreshed 22:25 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:22:54 AM  ·  🌇 **Sunset** 9:54:11 PM
 ✨ **Golden hour** 9:00:38 PM  ·  ⏳ **Day length** 16:31:16
-🌗 **Moon**: Last Quarter (46% lit)
+🌗 **Moon**: Last Quarter (44% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 23°C (feels 25°C) · Overcast
+☁️ **Eindhoven**: 14°C (feels 14°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Stop the Apple Music app from launching](https://lowtechguys.com/musicdecoy/)
+- [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
 - [MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps)
 - [Show HN: Performative-UI – a react component library of design tropes](https://vorpus.github.io/performativeUI/)
-- [Zig by Example](https://github.com/boringcollege/zig-by-example)
-- [Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code](https://intunedhq.com)
 <!-- HN:end -->
 
 ---
