@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 08 June 2026** — refreshed 13:06 CET
+📅 **Monday, 08 June 2026** — refreshed 18:03 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:22:54 AM  ·  🌇 **Sunset** 9:54:11 PM
 ✨ **Golden hour** 9:00:38 PM  ·  ⏳ **Day length** 16:31:16
-🌗 **Moon**: Last Quarter (48% lit)
+🌗 **Moon**: Last Quarter (46% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 19°C (feels 19°C) · Overcast
+☁️ **Eindhoven**: 23°C (feels 25°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [The Cypherpunk Library](https://www.cypherpunkbooks.com)
-- [Replies to comments on my "LLMs are eroding my career" post](https://human-in-the-loop.bearblog.dev/replies-to-comments-on-my-llms-are-eroding-my-career-post/)
-- [Dopamine Fracking](https://igerman.cc/blog/dopamine-fracking/)
-- [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
+- [MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps)
+- [Show HN: Performative-UI – a react component library of design tropes](https://vorpus.github.io/performativeUI/)
+- [Zig by Example](https://github.com/boringcollege/zig-by-example)
+- [Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code](https://intunedhq.com)
 <!-- HN:end -->
 
 ---
