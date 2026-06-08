@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 07 June 2026** — refreshed 21:40 CET
+📅 **Monday, 08 June 2026** — refreshed 06:28 CET
 <!-- DATE:end -->
 
 ---
@@ -18,38 +18,38 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:23:24 AM  ·  🌇 **Sunset** 9:53:20 PM
-✨ **Golden hour** 8:59:54 PM  ·  ⏳ **Day length** 16:29:55
-🌗 **Moon**: Last Quarter (55% lit)
+🌅 **Sunrise** 5:22:54 AM  ·  🌇 **Sunset** 9:54:11 PM
+✨ **Golden hour** 9:00:38 PM  ·  ⏳ **Day length** 16:31:16
+🌗 **Moon**: Last Quarter (51% lit)
 
-> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
+> 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 17°C (feels 17°C) · Overcast
+☁️ **Eindhoven**: 12°C (feels 12°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Giza_pyramid_complex"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/3840px-Pyramids_of_the_Giza_Necropolis.jpg" width="100%" alt="Pyramids of Giza" /></a>
+<a href="https://en.wikipedia.org/wiki/Golden_Gate_Bridge"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/3840px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg" width="100%" alt="Golden Gate Bridge" /></a>
 
-<sub>📍 <b>Pyramids of Giza</b> — Egypt 🇪🇬 · The Great Pyramid stood as the tallest human-made structure for ~3,800 years. · <a href="https://en.wikipedia.org/wiki/Giza_pyramid_complex">read more</a></sub>
+<sub>📍 <b>Golden Gate Bridge</b> — USA 🇺🇸 · Its colour, &#x27;International Orange&#x27;, was chosen to stay visible in San Francisco fog. · <a href="https://en.wikipedia.org/wiki/Golden_Gate_Bridge">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [How's Linear so fast? A technical breakdown](https://performance.dev/how-is-linear-so-fast-a-technical-breakdown)
-- [Powering up a module from the IBM 604: an electronic calculator from 1948](https://www.righto.com/2026/06/ibm-604-thyraton-tube-module.html)
-- [Silurus/ooxml: Pixel-faithful Office documents, rendered in the browser](https://github.com/yukiyokotani/office-open-xml-viewer)
-- [You'll never guess who made the first wireless telephone](https://signoregalilei.com/2026/05/31/youll-never-guess-who-made-the-first-wireless-telephone/)
+- [New drug 'functionally cures' many hepatitis B virus infections](https://www.science.org/content/article/new-drug-functionally-cures-many-hepatitis-b-virus-infections?user_id=66c4bf745d78644b3aa57b08)
+- [APC–2 – A professional record cutter for producing original playback discs](https://teenage.engineering/products/apc-2)
+- [1k Data Breaches Later, the Disclosure Lag Is Worse](https://www.troyhunt.com/1000-data-breaches-later-the-disclosure-lag-is-worse-than-ever/)
+- [The Smallest Brain You Can Build: A Perceptron in Python](https://ranpara.net/posts/perceptron-explained-from-scratch/)
 <!-- HN:end -->
 
 ---
