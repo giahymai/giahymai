@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 09 June 2026** — refreshed 06:00 CET
+📅 **Tuesday, 09 June 2026** — refreshed 11:54 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:22:27 AM  ·  🌇 **Sunset** 9:55:00 PM
 ✨ **Golden hour** 9:01:21 PM  ·  ⏳ **Day length** 16:32:32
-🌗 **Moon**: Last Quarter (40% lit)
+🌗 **Moon**: Last Quarter (38% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 12°C (feels 10°C) · Partly cloudy
+⛅ **Eindhoven**: 16°C (feels 16°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Job: Head of Stonehenge](https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449)
-- [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
-- [Siri AI](https://www.apple.com/apple-intelligence/)
-- [Show HN: Performative-UI – A react component library of design tropes](https://vorpus.github.io/performativeUI/)
+- [Microsoft's open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
+- [Forever Young: how one molecule can lock plants in a youthful state.(2025)](https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age)
+- [OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision](https://opencv.org/opencv-5/)
+- [Eagle Computer: The rise and fall of an early PC clone](https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/)
 <!-- HN:end -->
 
 ---
