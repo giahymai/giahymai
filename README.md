@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 08 June 2026** — refreshed 22:25 CET
+📅 **Tuesday, 09 June 2026** — refreshed 06:00 CET
 <!-- DATE:end -->
 
 ---
@@ -18,38 +18,38 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:22:54 AM  ·  🌇 **Sunset** 9:54:11 PM
-✨ **Golden hour** 9:00:38 PM  ·  ⏳ **Day length** 16:31:16
-🌗 **Moon**: Last Quarter (44% lit)
+🌅 **Sunrise** 5:22:27 AM  ·  🌇 **Sunset** 9:55:00 PM
+✨ **Golden hour** 9:01:21 PM  ·  ⏳ **Day length** 16:32:32
+🌗 **Moon**: Last Quarter (40% lit)
 
-> 🔭 *A day on Venus is longer than its year.*
+> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 14°C (feels 14°C) · Overcast
+⛅ **Eindhoven**: 12°C (feels 10°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Golden_Gate_Bridge"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/3840px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg" width="100%" alt="Golden Gate Bridge" /></a>
+<a href="https://en.wikipedia.org/wiki/Eiffel_Tower"><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg" width="100%" alt="Eiffel Tower" /></a>
 
-<sub>📍 <b>Golden Gate Bridge</b> — USA 🇺🇸 · Its colour, &#x27;International Orange&#x27;, was chosen to stay visible in San Francisco fog. · <a href="https://en.wikipedia.org/wiki/Golden_Gate_Bridge">read more</a></sub>
+<sub>📍 <b>Eiffel Tower</b> — France 🇫🇷 · Built for the 1889 World&#x27;s Fair and meant to be torn down 20 years later — it stayed. · <a href="https://en.wikipedia.org/wiki/Eiffel_Tower">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
+💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Stop the Apple Music app from launching](https://lowtechguys.com/musicdecoy/)
+- [Job: Head of Stonehenge](https://www.english-heritage.org.uk/about/our-people/careers-with-us/job-search/default-job-page/?jobRef=16449)
 - [Apple reveals new AI architecture built around Google Gemini models](https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/)
-- [MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second](https://mimo.xiaomi.com/blog/mimo-tilert-1000tps)
-- [Show HN: Performative-UI – a react component library of design tropes](https://vorpus.github.io/performativeUI/)
+- [Siri AI](https://www.apple.com/apple-intelligence/)
+- [Show HN: Performative-UI – A react component library of design tropes](https://vorpus.github.io/performativeUI/)
 <!-- HN:end -->
 
 ---
