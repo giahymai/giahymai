@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 09 June 2026** — refreshed 17:15 CET
+📅 **Tuesday, 09 June 2026** — refreshed 22:12 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:22:27 AM  ·  🌇 **Sunset** 9:55:00 PM
 ✨ **Golden hour** 9:01:21 PM  ·  ⏳ **Day length** 16:32:32
-🌗 **Moon**: Last Quarter (35% lit)
+🌗 **Moon**: Last Quarter (33% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 11°C) · Light Rain With Thunderstorm
+🌡️ **Eindhoven**: 12°C (feels 10°C) · Light Drizzle And Rain, Rain And Hail Shower
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'](https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/)
+- [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
+- [GPT-2: Too Dangerous To Release (2019)](https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/)
+- [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/)
 - [Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
-- [GentleOS – Classic operating system with a lovely retro GUI](https://github.com/luke8086/gentleos32)
-- [Microsoft's open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
 <!-- HN:end -->
 
 ---
