@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 09 June 2026** — refreshed 11:54 CET
+📅 **Tuesday, 09 June 2026** — refreshed 17:15 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:22:27 AM  ·  🌇 **Sunset** 9:55:00 PM
 ✨ **Golden hour** 9:01:21 PM  ·  ⏳ **Day length** 16:32:32
-🌗 **Moon**: Last Quarter (38% lit)
+🌗 **Moon**: Last Quarter (35% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 16°C (feels 16°C) · Partly cloudy
+🌡️ **Eindhoven**: 13°C (feels 11°C) · Light Rain With Thunderstorm
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Albania Is Not for Sale: Kushner's $4B Resort Triggers'Flamingo Revolution'](https://www.yacnews.com/albania-is-not-for-sale-kushners-4-billion-resort-triggers-flamingo-revolution-asset-freeze-and-an-eu-warning/)
+- [Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
+- [GentleOS – Classic operating system with a lovely retro GUI](https://github.com/luke8086/gentleos32)
 - [Microsoft's open source tools were hacked to steal passwords of AI developers](https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/)
-- [Forever Young: how one molecule can lock plants in a youthful state.(2025)](https://omnia.sas.upenn.edu/story/biologist-scott-poethig-plants-never-age)
-- [OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision](https://opencv.org/opencv-5/)
-- [Eagle Computer: The rise and fall of an early PC clone](https://dfarq.homeip.net/eagle-computer-the-rise-and-fall-of-an-early-pc-clone/)
 <!-- HN:end -->
 
 ---
