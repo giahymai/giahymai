@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 10 June 2026** — refreshed 17:49 CET
+📅 **Wednesday, 10 June 2026** — refreshed 22:36 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:22:03 AM  ·  🌇 **Sunset** 9:55:46 PM
 ✨ **Golden hour** 9:02:01 PM  ·  ⏳ **Day length** 16:33:42
-🌘 **Moon**: Waning Crescent (25% lit)
+🌘 **Moon**: Waning Crescent (23% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 16°C (feels 16°C) · Rain Shower
+☁️ **Eindhoven**: 11°C (feels 10°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
-- [AMA: I'm Eric Ries (The Lean Startup) & Author of New Bestseller Incorruptible](https://news.ycombinator.com/item?id=48477135)
-- [Apache Burr: Build reliable AI agents and applications](https://burr.apache.org/)
-- [Mercedes‑Benz starts large‑scale production of electric axial flux motor](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf)
+- [Anthropic's Model Naming, Extrapolated](https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated)
+- [Claude Desktop spins up a VM without no way of stopping it](https://github.com/anthropics/claude-code/issues/29045)
+- [ΠFS](https://github.com/philipl/pifs)
+- [How JPL keeps the 13-year-old Curiosity rover doing science](https://spectrum.ieee.org/curiosity-rover-jpl-mars-science)
 <!-- HN:end -->
 
 ---
