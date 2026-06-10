@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 10 June 2026** — refreshed 06:11 CET
+📅 **Wednesday, 10 June 2026** — refreshed 12:12 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:22:03 AM  ·  🌇 **Sunset** 9:55:46 PM
 ✨ **Golden hour** 9:02:01 PM  ·  ⏳ **Day length** 16:33:42
-🌘 **Moon**: Waning Crescent (30% lit)
+🌘 **Moon**: Waning Crescent (27% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 10°C (feels 8°C) · Overcast
+☁️ **Eindhoven**: 16°C (feels 16°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -47,9 +47,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)
+- [Mercedes‑Benz starts large‑scale production of electric axial flux motor](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf)
 - [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
-- [Upcoming breaking changes for npm v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
-- [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)
+- [Port React Compiler to Rust](https://github.com/react/react/pull/36173)
 <!-- HN:end -->
 
 ---
