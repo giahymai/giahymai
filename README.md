@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 10 June 2026** — refreshed 12:12 CET
+📅 **Wednesday, 10 June 2026** — refreshed 17:49 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:22:03 AM  ·  🌇 **Sunset** 9:55:46 PM
 ✨ **Golden hour** 9:02:01 PM  ·  ⏳ **Day length** 16:33:42
-🌘 **Moon**: Waning Crescent (27% lit)
+🌘 **Moon**: Waning Crescent (25% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 16°C (feels 16°C) · Overcast
+🌡️ **Eindhoven**: 16°C (feels 16°C) · Rain Shower
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)
+- [Building an HTML-first site doubled our users overnight](https://mohkohn.co.uk/writing/html-first/)
+- [AMA: I'm Eric Ries (The Lean Startup) & Author of New Bestseller Incorruptible](https://news.ycombinator.com/item?id=48477135)
+- [Apache Burr: Build reliable AI agents and applications](https://burr.apache.org/)
 - [Mercedes‑Benz starts large‑scale production of electric axial flux motor](https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf)
-- [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
-- [Port React Compiler to Rust](https://github.com/react/react/pull/36173)
 <!-- HN:end -->
 
 ---
