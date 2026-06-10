@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 09 June 2026** — refreshed 22:12 CET
+📅 **Wednesday, 10 June 2026** — refreshed 06:11 CET
 <!-- DATE:end -->
 
 ---
@@ -18,38 +18,38 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:22:27 AM  ·  🌇 **Sunset** 9:55:00 PM
-✨ **Golden hour** 9:01:21 PM  ·  ⏳ **Day length** 16:32:32
-🌗 **Moon**: Last Quarter (33% lit)
+🌅 **Sunrise** 5:22:03 AM  ·  🌇 **Sunset** 9:55:46 PM
+✨ **Golden hour** 9:02:01 PM  ·  ⏳ **Day length** 16:33:42
+🌘 **Moon**: Waning Crescent (30% lit)
 
-> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
+> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 10°C) · Light Drizzle And Rain, Rain And Hail Shower
+☁️ **Eindhoven**: 10°C (feels 8°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Eiffel_Tower"><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg" width="100%" alt="Eiffel Tower" /></a>
+<a href="https://en.wikipedia.org/wiki/Machu_Picchu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg/3840px-Machu_Picchu%2C_2023_%28012%29.jpg" width="100%" alt="Machu Picchu" /></a>
 
-<sub>📍 <b>Eiffel Tower</b> — France 🇫🇷 · Built for the 1889 World&#x27;s Fair and meant to be torn down 20 years later — it stayed. · <a href="https://en.wikipedia.org/wiki/Eiffel_Tower">read more</a></sub>
+<sub>📍 <b>Machu Picchu</b> — Peru 🇵🇪 · A 15th-century Inca citadel at 2,430 m, unknown to the outside world until 1911. · <a href="https://en.wikipedia.org/wiki/Machu_Picchu">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
+💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [macOS Container Machines](https://github.com/apple/container/blob/main/docs/container-machine.md)
 - [Claude Fable 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
-- [GPT-2: Too Dangerous To Release (2019)](https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/)
-- [Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks](https://aarushgupta.io/posts/kan-fpga/)
-- [Making Graphics Like it's 1993](https://staniks.github.io/articles/catlantean-3d-blog-1/)
+- [Upcoming breaking changes for npm v12](https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/)
+- [Rich Sutton on AI creativity and discovery](https://twitter.com/RichardSSutton/status/2061216087744946656)
 <!-- HN:end -->
 
 ---
