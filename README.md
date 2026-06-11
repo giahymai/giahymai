@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 11 June 2026** — refreshed 06:24 CET
+📅 **Thursday, 11 June 2026** — refreshed 12:46 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:21:43 AM  ·  🌇 **Sunset** 9:56:30 PM
 ✨ **Golden hour** 9:02:40 PM  ·  ⏳ **Day length** 16:34:47
-🌘 **Moon**: Waning Crescent (20% lit)
+🌘 **Moon**: Waning Crescent (17% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌫️ **Eindhoven**: 7°C (feels 5°C) · Mist
+⛅ **Eindhoven**: 16°C (feels 16°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Pokémon Go Scans Trained the Navigation Tech for Military Drones](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/)
 - [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
 - [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/)
-- [πFS](https://github.com/philipl/pifs)
-- [Anthropic requires 30 day data retention for Fable and Mythos](https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models)
+- [Why AI hasn't replaced software engineers, and won't](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)
 <!-- HN:end -->
 
 ---
