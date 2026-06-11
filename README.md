@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 11 June 2026** — refreshed 12:46 CET
+📅 **Thursday, 11 June 2026** — refreshed 18:11 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:21:43 AM  ·  🌇 **Sunset** 9:56:30 PM
 ✨ **Golden hour** 9:02:40 PM  ·  ⏳ **Day length** 16:34:47
-🌘 **Moon**: Waning Crescent (17% lit)
+🌘 **Moon**: Waning Crescent (16% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 16°C (feels 16°C) · Partly cloudy
+☁️ **Eindhoven**: 17°C (feels 17°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Pokémon Go Scans Trained the Navigation Tech for Military Drones](https://dronexl.co/2026/06/09/pokemon-go-scans-niantic-vantor-military-drone-navigation/)
-- [AI agent runs amok in Fedora and elsewhere](https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/)
-- [Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable](https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/)
-- [Why AI hasn't replaced software engineers, and won't](https://www.normaltech.ai/p/why-ai-hasnt-replaced-software-engineers)
+- [MiMo Code Is Now Released and Open-Source](https://mimo.xiaomi.com/mimocode)
+- [Lines of Code Got a Better Publicist](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/)
+- [MapComplete – Contibute to OpenStreetMaps](https://mapcomplete.org/)
+- [Nextcloud Hub 26 Spring: Built together, designed for the future](https://nextcloud.com/blog/nextcloud-hub26-spring/)
 <!-- HN:end -->
 
 ---
