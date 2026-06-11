@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 11 June 2026** — refreshed 18:11 CET
+📅 **Thursday, 11 June 2026** — refreshed 22:27 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:21:43 AM  ·  🌇 **Sunset** 9:56:30 PM
 ✨ **Golden hour** 9:02:40 PM  ·  ⏳ **Day length** 16:34:47
-🌘 **Moon**: Waning Crescent (16% lit)
+🌘 **Moon**: Waning Crescent (14% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 17°C (feels 17°C) · Overcast
+🌡️ **Eindhoven**: 12°C (feels 11°C) · Light Rain, Rain
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [MiMo Code Is Now Released and Open-Source](https://mimo.xiaomi.com/mimocode)
-- [Lines of Code Got a Better Publicist](https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/)
-- [MapComplete – Contibute to OpenStreetMaps](https://mapcomplete.org/)
-- [Nextcloud Hub 26 Spring: Built together, designed for the future](https://nextcloud.com/blog/nextcloud-hub26-spring/)
+- [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)
+- [MiMo Code is now released and open-source](https://mimo.xiaomi.com/mimocode)
+- [Petition to Withdraw Canada's Bill C-22](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416)
+- [The RCE that AMD wouldn't fix](https://mrbruh.com/amd2/)
 <!-- HN:end -->
 
 ---
