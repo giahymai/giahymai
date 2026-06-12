@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 12 June 2026** — refreshed 06:27 CET
+📅 **Friday, 12 June 2026** — refreshed 12:21 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:21:25 AM  ·  🌇 **Sunset** 9:57:11 PM
 ✨ **Golden hour** 9:03:16 PM  ·  ⏳ **Day length** 16:35:45
-🌘 **Moon**: Waning Crescent (12% lit)
+🌘 **Moon**: Waning Crescent (10% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 15°C (feels 15°C) · Light Rain
+⛅ **Eindhoven**: 17°C (feels 17°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
+- [If you are asking for human attention, demonstrate human effort](https://tombedor.dev/human-attention-and-human-effort/)
 - [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
 - [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)
-- [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/)
-- [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
 <!-- HN:end -->
 
 ---
