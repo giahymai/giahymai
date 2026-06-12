@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 12 June 2026** — refreshed 17:26 CET
+📅 **Friday, 12 June 2026** — refreshed 22:17 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:21:25 AM  ·  🌇 **Sunset** 9:57:11 PM
 ✨ **Golden hour** 9:03:16 PM  ·  ⏳ **Day length** 16:35:45
-🌘 **Moon**: Waning Crescent (8% lit)
+🌘 **Moon**: Waning Crescent (7% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 19°C (feels 19°C) · Overcast
+🌡️ **Eindhoven**: 17°C (feels 17°C) · Drizzle And Rain
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [WASI 0.3.0 Released](https://github.com/WebAssembly/WASI/releases/tag/v0.3.0)
-- [A Call to Action: Stop the FCC's KYC Regime](https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/)
-- [AI agent bankrupted their operator while trying to scan DN42](https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/)
-- [Maxproof](https://arxiv.org/abs/2606.13473)
+- [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
+- [I Am Not a Reverse Centaur](https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur)
+- [How to setup a local coding agent on macOS](https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos)
+- [Malware developers added nuclear and biological weapons text to to their spyware](https://twitter.com/jsrailton/status/2064661778978533571)
 <!-- HN:end -->
 
 ---
