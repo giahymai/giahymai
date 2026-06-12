@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 11 June 2026** — refreshed 22:27 CET
+📅 **Friday, 12 June 2026** — refreshed 06:27 CET
 <!-- DATE:end -->
 
 ---
@@ -18,23 +18,23 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:21:43 AM  ·  🌇 **Sunset** 9:56:30 PM
-✨ **Golden hour** 9:02:40 PM  ·  ⏳ **Day length** 16:34:47
-🌘 **Moon**: Waning Crescent (14% lit)
+🌅 **Sunrise** 5:21:25 AM  ·  🌇 **Sunset** 9:57:11 PM
+✨ **Golden hour** 9:03:16 PM  ·  ⏳ **Day length** 16:35:45
+🌘 **Moon**: Waning Crescent (12% lit)
 
-> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
+> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 11°C) · Light Rain, Rain
+🌡️ **Eindhoven**: 15°C (feels 15°C) · Light Rain
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Taj_Mahal"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg" width="100%" alt="Taj Mahal" /></a>
+<a href="https://en.wikipedia.org/wiki/Petra"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Al_Deir_Petra.JPG/3840px-Al_Deir_Petra.JPG" width="100%" alt="Petra" /></a>
 
-<sub>📍 <b>Taj Mahal</b> — India 🇮🇳 · A marble mausoleum built by Shah Jahan for his wife — it shifts color through the day. · <a href="https://en.wikipedia.org/wiki/Taj_Mahal">read more</a></sub>
+<sub>📍 <b>Petra</b> — Jordan 🇯🇴 · An entire city carved into rose-red sandstone over 2,000 years ago by the Nabataeans. · <a href="https://en.wikipedia.org/wiki/Petra">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Nobody ever gets credit for fixing problems that never happened (2001) [pdf]](https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf)
 - [Show HN: Homebrew 6.0.0](https://brew.sh/2026/06/11/homebrew-6.0.0/)
-- [MiMo Code is now released and open-source](https://mimo.xiaomi.com/mimocode)
-- [Petition to Withdraw Canada's Bill C-22](https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416)
-- [The RCE that AMD wouldn't fix](https://mrbruh.com/amd2/)
+- [Claude Fable is relentlessly proactive](https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/)
+- [Show HN: FablePool – pool money behind a prompt, and Fable builds it in public](https://fablepool.com)
 <!-- HN:end -->
 
 ---
