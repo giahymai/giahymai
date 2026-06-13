@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 13 June 2026** — refreshed 11:23 CET
+📅 **Saturday, 13 June 2026** — refreshed 16:10 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:21:10 AM  ·  🌇 **Sunset** 9:57:49 PM
 ✨ **Golden hour** 9:03:49 PM  ·  ⏳ **Day length** 16:36:38
-🌘 **Moon**: Waning Crescent (4% lit)
+🌑 **Moon**: New Moon (3% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 16°C (feels 16°C) · Overcast
+⛅ **Eindhoven**: 18°C (feels 18°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Leaving Mozilla](https://blog.unitedheroes.net/5751)
-- [Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
-- [Statement on US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
-- [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
+- [AI OSS tool repo goes archived over night after raising $7.3M Seed](https://github.com/tensorzero/tensorzero)
+- [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
+- [An Interview with Intel's Kira Boyko: Xeon 6's Product Director](https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko)
+- [The state of building user interfaces in Rust](https://areweguiyet.com/#ecosystem)
 <!-- HN:end -->
 
 ---
