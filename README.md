@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 13 June 2026** — refreshed 16:10 CET
+📅 **Saturday, 13 June 2026** — refreshed 21:43 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:21:10 AM  ·  🌇 **Sunset** 9:57:49 PM
 ✨ **Golden hour** 9:03:49 PM  ·  ⏳ **Day length** 16:36:38
-🌑 **Moon**: New Moon (3% lit)
+🌑 **Moon**: New Moon (2% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 18°C (feels 18°C) · Partly cloudy
+⛅ **Eindhoven**: 16°C (feels 16°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [AI OSS tool repo goes archived over night after raising $7.3M Seed](https://github.com/tensorzero/tensorzero)
-- [A low-carbon computing platform from your retired phones](https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones/)
-- [An Interview with Intel's Kira Boyko: Xeon 6's Product Director](https://chipsandcheese.com/p/an-interview-with-intels-kira-boyko)
-- [The state of building user interfaces in Rust](https://areweguiyet.com/#ecosystem)
+- [US bans differential privacy in Census data](https://desfontain.es/blog/banning-noise.html)
+- [GameBoy Workboy](https://tcrf.net/Workboy)
+- [Treating pancreatic tumours may have revealed cancer's master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch)
+- [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/)
 <!-- HN:end -->
 
 ---
