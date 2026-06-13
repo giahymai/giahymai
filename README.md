@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 13 June 2026** — refreshed 06:15 CET
+📅 **Saturday, 13 June 2026** — refreshed 11:23 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:21:10 AM  ·  🌇 **Sunset** 9:57:49 PM
 ✨ **Golden hour** 9:03:49 PM  ·  ⏳ **Day length** 16:36:38
-🌘 **Moon**: Waning Crescent (5% lit)
+🌘 **Moon**: Waning Crescent (4% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 15°C (feels 15°C) · Overcast
+☁️ **Eindhoven**: 16°C (feels 16°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Leaving Mozilla](https://blog.unitedheroes.net/5751)
+- [Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
 - [Statement on US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
-- [Open source AI must win](https://opensourceaimustwin.com/?share=v2)
-- [We've suspended access to Claude Mythos 5 and Claude Fable 5](https://status.claude.com/incidents/s9w82lp9dcn9)
-- [Renault: Electric motors with no rare earths](https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/)
+- [CRISPR tech selectively shreds cancer cells, including "undruggable" cancers](https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/)
 <!-- HN:end -->
 
 ---
