@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 13 June 2026** — refreshed 21:43 CET
+📅 **Sunday, 14 June 2026** — refreshed 06:43 CET
 <!-- DATE:end -->
 
 ---
@@ -18,38 +18,38 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:21:10 AM  ·  🌇 **Sunset** 9:57:49 PM
-✨ **Golden hour** 9:03:49 PM  ·  ⏳ **Day length** 16:36:38
-🌑 **Moon**: New Moon (2% lit)
+🌅 **Sunrise** 5:20:59 AM  ·  🌇 **Sunset** 9:58:24 PM
+✨ **Golden hour** 9:04:21 PM  ·  ⏳ **Day length** 16:37:25
+🌑 **Moon**: New Moon (1% lit)
 
-> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
+> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 16°C (feels 16°C) · Partly cloudy
+☁️ **Eindhoven**: 13°C (feels 12°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Great_Wall_of_China"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/3840px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg" width="100%" alt="Great Wall of China" /></a>
+<a href="https://en.wikipedia.org/wiki/Colosseum"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/3840px-Colosseo_2020.jpg" width="100%" alt="Colosseum" /></a>
 
-<sub>📍 <b>Great Wall of China</b> — China 🇨🇳 · Not one wall but many, built over centuries — together stretching more than 21,000 km. · <a href="https://en.wikipedia.org/wiki/Great_Wall_of_China">read more</a></sub>
+<sub>📍 <b>Colosseum</b> — Italy 🇮🇹 · Rome&#x27;s amphitheatre held ~50,000 people and could even be flooded for mock sea battles. · <a href="https://en.wikipedia.org/wiki/Colosseum">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 `git` was written by Linus Torvalds in about 10 days in 2005.
+💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [US bans differential privacy in Census data](https://desfontain.es/blog/banning-noise.html)
-- [GameBoy Workboy](https://tcrf.net/Workboy)
-- [Treating pancreatic tumours may have revealed cancer's master switch](https://economist.com/science-and-technology/2026/06/12/treating-pancreatic-tumours-may-have-revealed-cancers-master-switch)
-- [Every Frame Perfect](https://tonsky.me/blog/every-frame-perfect/)
+- [The Redistribution of Housing Wealth Caused by Rent Control [pdf]](https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf)
+- [10th Gen Honda Civic Updates Are Signed with AOSP Test Keys](https://juniperspring.org/posts/honda-evil-valet/)
+- [Noise infusion banned from statistical products published by Census Bureau](https://desfontain.es/blog/banning-noise.html)
+- [GLM 5.2 Is Out](https://twitter.com/jietang/status/2065784751345287314)
 <!-- HN:end -->
 
 ---
