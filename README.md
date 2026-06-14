@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 14 June 2026** — refreshed 06:43 CET
+📅 **Sunday, 14 June 2026** — refreshed 11:43 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 13°C (feels 12°C) · Overcast
+⛅ **Eindhoven**: 16°C (feels 16°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -46,9 +46,9 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [The Redistribution of Housing Wealth Caused by Rent Control [pdf]](https://www.rhawa.org/file/secure/shs-the-impact-of-rent-control-in-st-paul.pdf)
-- [10th Gen Honda Civic Updates Are Signed with AOSP Test Keys](https://juniperspring.org/posts/honda-evil-valet/)
-- [Noise infusion banned from statistical products published by Census Bureau](https://desfontain.es/blog/banning-noise.html)
+- [Phoenix LiveView 1.2 Released](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)
+- [Honda Civics and the Evil Valet](https://juniperspring.org/posts/honda-evil-valet/)
+- [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/)
 - [GLM 5.2 Is Out](https://twitter.com/jietang/status/2065784751345287314)
 <!-- HN:end -->
 
