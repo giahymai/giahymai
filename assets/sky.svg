@@ -1,14 +1,14 @@
 <svg viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sky over the Netherlands">
 <defs>
   <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0%" stop-color="#3784d5"/>
-    <stop offset="100%" stop-color="#b9defb"/>
+    <stop offset="0%" stop-color="#3772b7"/>
+    <stop offset="100%" stop-color="#f2d4b3"/>
   </linearGradient>
 </defs>
 <rect width="800" height="240" rx="14" fill="url(#sky)"/>
 
 <circle cx="670" cy="75" r="42" fill="#f4f1e0"/>
-<circle cx="675.0" cy="75" r="42" fill="#0b1026" opacity="0.93"/>
+<circle cx="673.4" cy="75" r="42" fill="#0b1026" opacity="0.93"/>
 <circle cx="657.4" cy="66.6" r="7.6" fill="#e2ddc8" opacity="0.5"/>
 <circle cx="680.5" cy="87.6" r="5.0" fill="#e2ddc8" opacity="0.45"/>
 <path d="M0,240 L0,180 L60,180 L60,150 L100,150 L100,180 L150,180 L150,120 L185,120 L185,180 L250,180 L250,160 L290,160 L290,180 L360,180 L360,135 L400,135 L400,180 L470,180 L470,155 L510,155 L510,180 L580,180 L580,125 L620,125 L620,180 L700,180 L700,150 L740,150 L740,180 L800,180 L800,240 Z" fill="#0b1026" opacity="0.55"/>

@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 14 June 2026** — refreshed 11:43 CET
+📅 **Sunday, 14 June 2026** — refreshed 16:14 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 16°C (feels 16°C) · Partly cloudy
+⛅ **Eindhoven**: 17°C (feels 17°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Phoenix LiveView 1.2 Released](https://phoenixframework.org/blog/phoenix-liveview-1-2-released)
-- [Honda Civics and the Evil Valet](https://juniperspring.org/posts/honda-evil-valet/)
+- [The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+- [Firewood Splitting Simulator](https://screen.toys/firewood/)
+- [How did Atari apply side art to Arcade Cabinets?](https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/)
 - [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/)
-- [GLM 5.2 Is Out](https://twitter.com/jietang/status/2065784751345287314)
 <!-- HN:end -->
 
 ---
