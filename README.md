@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 14 June 2026** — refreshed 16:14 CET
+📅 **Sunday, 14 June 2026** — refreshed 21:43 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:20:59 AM  ·  🌇 **Sunset** 9:58:24 PM
 ✨ **Golden hour** 9:04:21 PM  ·  ⏳ **Day length** 16:37:25
-🌑 **Moon**: New Moon (1% lit)
+🌑 **Moon**: New Moon (0% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 17°C (feels 17°C) · Partly cloudy
+⛅ **Eindhoven**: 15°C (feels 15°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [The Birth and Death of JavaScript (2014)](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
+- [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
+- [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4)
+- [Chaosnet](https://tumbleweed.nu/r/lm-3/uv/amber.html)
 - [Firewood Splitting Simulator](https://screen.toys/firewood/)
-- [How did Atari apply side art to Arcade Cabinets?](https://arcadeblogger.com/2026/06/14/how-did-atari-apply-side-art-to-arcade-cabinets/)
-- [Free SQL→ER diagram tool, runs in the browser, nothing uploaded](https://sqltoerdiagram.com/)
 <!-- HN:end -->
 
 ---
