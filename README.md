@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 15 June 2026** — refreshed 14:26 CET
+📅 **Monday, 15 June 2026** — refreshed 23:10 CET
 <!-- DATE:end -->
 
 ---
@@ -20,7 +20,7 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:20:50 AM  ·  🌇 **Sunset** 9:58:57 PM
 ✨ **Golden hour** 9:04:50 PM  ·  ⏳ **Day length** 16:38:06
-🌑 **Moon**: New Moon (0% lit)
+🌑 **Moon**: New Moon (1% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Anthropic's Safety Superpower](https://stratechery.com/2026/anthropics-safety-superpower/)
-- [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
-- [What the Fuck Happened to Nerds](https://mrmarket.lol/what-the-fuck-happened-to-nerds/)
-- [Apple Foundation Models](https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models)
+- [A backdoor in a LinkedIn job offer](https://roman.pt/posts/linkedin-backdoor/)
+- [Iroh 1.0](https://www.iroh.computer/blog/v1)
+- [TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)](https://tinywind.io)
+- [US battery manufacturing output continues to break records](https://fred.stlouisfed.org/series/IPG33591S)
 <!-- HN:end -->
 
 ---
