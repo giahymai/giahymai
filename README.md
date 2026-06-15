@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 14 June 2026** — refreshed 21:43 CET
+📅 **Monday, 15 June 2026** — refreshed 06:57 CET
 <!-- DATE:end -->
 
 ---
@@ -18,38 +18,38 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:20:59 AM  ·  🌇 **Sunset** 9:58:24 PM
-✨ **Golden hour** 9:04:21 PM  ·  ⏳ **Day length** 16:37:25
+🌅 **Sunrise** 5:20:50 AM  ·  🌇 **Sunset** 9:58:57 PM
+✨ **Golden hour** 9:04:50 PM  ·  ⏳ **Day length** 16:38:06
 🌑 **Moon**: New Moon (0% lit)
 
-> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
+> 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 15°C (feels 15°C) · Partly cloudy
+☁️ **Eindhoven**: 11°C (feels 10°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Colosseum"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/3840px-Colosseo_2020.jpg" width="100%" alt="Colosseum" /></a>
+<a href="https://en.wikipedia.org/wiki/Santorini"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bf/2011_Dimos_Thiras.png" width="100%" alt="Santorini" /></a>
 
-<sub>📍 <b>Colosseum</b> — Italy 🇮🇹 · Rome&#x27;s amphitheatre held ~50,000 people and could even be flooded for mock sea battles. · <a href="https://en.wikipedia.org/wiki/Colosseum">read more</a></sub>
+<sub>📍 <b>Santorini</b> — Greece 🇬🇷 · Its white-and-blue towns sit on the rim of a volcano that erupted catastrophically ~1600 BC. · <a href="https://en.wikipedia.org/wiki/Santorini">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Your ePub Is fine](https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/)
+- [Even more batteries included with Emacs](https://karthinks.com/software/even-more-batteries-included-with-emacs/)
 - [Show HN: Kage – Shadow any website to a single binary for offline viewing](https://github.com/tamnd/kage)
-- [Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model](https://github.com/nex-agi/Nex-N2/issues/4)
-- [Chaosnet](https://tumbleweed.nu/r/lm-3/uv/amber.html)
-- [Firewood Splitting Simulator](https://screen.toys/firewood/)
+- [Bitsy](https://bitsy.org/)
 <!-- HN:end -->
 
 ---
