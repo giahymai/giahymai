@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 16 June 2026** — refreshed 19:04 CET
+📅 **Tuesday, 16 June 2026** — refreshed 22:57 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:20:44 AM  ·  🌇 **Sunset** 9:59:26 PM
 ✨ **Golden hour** 9:05:16 PM  ·  ⏳ **Day length** 16:38:42
-🌑 **Moon**: New Moon (4% lit)
+🌒 **Moon**: Waxing Crescent (5% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 24°C (feels 25°C) · Partly cloudy
+☁️ **Eindhoven**: 19°C (feels 19°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Nobody clicks share buttons](https://ankursethi.com/links/nobody-clicks-your-share-buttons/)
 - [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
+- [Apple is about to make Hide My Email useless](https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/)
 - [SpaceX to buy Cursor for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/)
-- [Mechanical Watch (2022)](https://ciechanow.ski/mechanical-watch/)
-- [SubQ 1.1 Small](https://subq.ai/subq-1-1-small-technical-report)
 <!-- HN:end -->
 
 ---
