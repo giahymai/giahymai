@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 16 June 2026** — refreshed 22:57 CET
+📅 **Wednesday, 17 June 2026** — refreshed 06:43 CET
 <!-- DATE:end -->
 
 ---
@@ -18,38 +18,38 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:20:44 AM  ·  🌇 **Sunset** 9:59:26 PM
-✨ **Golden hour** 9:05:16 PM  ·  ⏳ **Day length** 16:38:42
-🌒 **Moon**: Waxing Crescent (5% lit)
+🌅 **Sunrise** 5:20:42 AM  ·  🌇 **Sunset** 9:59:53 PM
+✨ **Golden hour** 9:05:41 PM  ·  ⏳ **Day length** 16:39:11
+🌒 **Moon**: Waxing Crescent (6% lit)
 
-> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 19°C (feels 19°C) · Overcast
+🌫️ **Eindhoven**: 15°C (feels 15°C) · Mist
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Mount_Fuji"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg/3840px-View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg" width="100%" alt="Mount Fuji" /></a>
+<a href="https://en.wikipedia.org/wiki/Sydney_Opera_House"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Sydney_Australia._%2821339175489%29.jpg" width="100%" alt="Sydney Opera House" /></a>
 
-<sub>📍 <b>Mount Fuji</b> — Japan 🇯🇵 · Japan&#x27;s highest peak (3,776 m) and an active volcano, last erupting in 1707. · <a href="https://en.wikipedia.org/wiki/Mount_Fuji">read more</a></sub>
+<sub>📍 <b>Sydney Opera House</b> — Australia 🇦🇺 · Its sail-like shells are covered in over a million self-cleaning tiles. · <a href="https://en.wikipedia.org/wiki/Sydney_Opera_House">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Python is named after Monty Python, not the snake.
+💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Nobody clicks share buttons](https://ankursethi.com/links/nobody-clicks-your-share-buttons/)
+- [GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
 - [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
-- [Apple is about to make Hide My Email useless](https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/)
-- [SpaceX to buy Cursor for $60B](https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/)
+- [Leaked OpenAI financials show $38.5B loss and compute burn](https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn)
+- [Humiliating IIS servers for fun and jail time](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/)
 <!-- HN:end -->
 
 ---
