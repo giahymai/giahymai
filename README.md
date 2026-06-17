@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 17 June 2026** — refreshed 13:06 CET
+📅 **Wednesday, 17 June 2026** — refreshed 17:47 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:20:42 AM  ·  🌇 **Sunset** 9:59:53 PM
 ✨ **Golden hour** 9:05:41 PM  ·  ⏳ **Day length** 16:39:11
-🌒 **Moon**: Waxing Crescent (8% lit)
+🌒 **Moon**: Waxing Crescent (9% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 21°C (feels 21°C) · Overcast
+☁️ **Eindhoven**: 24°C (feels 26°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Want your images back? Sure... That'll be $5!](https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars)
+- [Epic Games announces Lore version control system](https://lore.org/)
 - [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index)
-- [Show HN: High-Res Neural Cellular Automata](https://cells2pixels.github.io/)
-- [GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
-- [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
+- [Sixty percent of US consumers say 'AI' in brand messaging is a turnoff](https://wpvip.com/future-of-the-web-2026/)
 <!-- HN:end -->
 
 ---
