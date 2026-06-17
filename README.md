@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 17 June 2026** — refreshed 06:43 CET
+📅 **Wednesday, 17 June 2026** — refreshed 13:06 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:20:42 AM  ·  🌇 **Sunset** 9:59:53 PM
 ✨ **Golden hour** 9:05:41 PM  ·  ⏳ **Day length** 16:39:11
-🌒 **Moon**: Waxing Crescent (6% lit)
+🌒 **Moon**: Waxing Crescent (8% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌫️ **Eindhoven**: 15°C (feels 15°C) · Mist
+☁️ **Eindhoven**: 21°C (feels 21°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index)
+- [Show HN: High-Res Neural Cellular Automata](https://cells2pixels.github.io/)
 - [GrapheneOS has been ported to Android 17](https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon)
 - [Running local models is good now](https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/)
-- [Leaked OpenAI financials show $38.5B loss and compute burn](https://runtimewire.com/article/openai-leaked-financials-altman-compute-burn)
-- [Humiliating IIS servers for fun and jail time](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/)
 <!-- HN:end -->
 
 ---
