@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 17 June 2026** — refreshed 22:20 CET
+📅 **Thursday, 18 June 2026** — refreshed 06:26 CET
 <!-- DATE:end -->
 
 ---
@@ -18,38 +18,38 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:20:42 AM  ·  🌇 **Sunset** 9:59:53 PM
-✨ **Golden hour** 9:05:41 PM  ·  ⏳ **Day length** 16:39:11
-🌒 **Moon**: Waxing Crescent (10% lit)
+🌅 **Sunrise** 5:20:42 AM  ·  🌇 **Sunset** 10:00:17 PM
+✨ **Golden hour** 9:06:02 PM  ·  ⏳ **Day length** 16:39:34
+🌒 **Moon**: Waxing Crescent (13% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 24°C (feels 26°C) · Partly cloudy
+☁️ **Eindhoven**: 17°C (feels 17°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Sydney_Opera_House"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Sydney_Australia._%2821339175489%29.jpg" width="100%" alt="Sydney Opera House" /></a>
+<a href="https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg" width="100%" alt="Christ the Redeemer" /></a>
 
-<sub>📍 <b>Sydney Opera House</b> — Australia 🇦🇺 · Its sail-like shells are covered in over a million self-cleaning tiles. · <a href="https://en.wikipedia.org/wiki/Sydney_Opera_House">read more</a></sub>
+<sub>📍 <b>Christ the Redeemer</b> — Brazil 🇧🇷 · A 30-m statue atop Corcovado, struck by lightning several times a year. · <a href="https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
+💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Midjourney Medical](https://www.midjourney.com/medical/blogpost)
 - [Lore – Open source version control system designed for scalability](https://lore.org/)
 - [US holds off blacklisting DeepSeek, more than 100 firms deemed security risks](https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/)
-- [Launch HN: Adam (YC W25) – Open-Source AI CAD](https://github.com/Adam-CAD/CADAM)
-- [GLM-5.2 is the new leading open weights model on Artificial Analysis](https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index)
+- [Taxonomy of the Occlupanida (parasitoids on bread bag tags)](https://www.horg.com/horg/?page_id=921)
 <!-- HN:end -->
 
 ---
