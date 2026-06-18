@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 18 June 2026** — refreshed 06:26 CET
+📅 **Thursday, 18 June 2026** — refreshed 12:38 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:20:42 AM  ·  🌇 **Sunset** 10:00:17 PM
 ✨ **Golden hour** 9:06:02 PM  ·  ⏳ **Day length** 16:39:34
-🌒 **Moon**: Waxing Crescent (13% lit)
+🌒 **Moon**: Waxing Crescent (15% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 17°C (feels 17°C) · Overcast
+⛅ **Eindhoven**: 27°C (feels 28°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -47,9 +47,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Midjourney Medical](https://www.midjourney.com/medical/blogpost)
-- [Lore – Open source version control system designed for scalability](https://lore.org/)
-- [US holds off blacklisting DeepSeek, more than 100 firms deemed security risks](https://www.reuters.com/world/china/us-holds-off-blacklisting-chinas-deepseek-more-than-100-firms-deemed-security-2026-06-17/)
-- [Taxonomy of the Occlupanida (parasitoids on bread bag tags)](https://www.horg.com/horg/?page_id=921)
+- [I need your clothes, your boots, and your motorcycle](https://rbelmont.mameworld.info/?p=1725)
+- [DeepSeek Introduces Vision](https://chat.deepseek.com/)
+- [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
 <!-- HN:end -->
 
 ---
