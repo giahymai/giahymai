@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 18 June 2026** — refreshed 17:37 CET
+📅 **Thursday, 18 June 2026** — refreshed 22:32 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:20:42 AM  ·  🌇 **Sunset** 10:00:17 PM
 ✨ **Golden hour** 9:06:02 PM  ·  ⏳ **Day length** 16:39:34
-🌒 **Moon**: Waxing Crescent (17% lit)
+🌒 **Moon**: Waxing Crescent (18% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 31°C (feels 32°C) · Partly cloudy
+☁️ **Eindhoven**: 27°C (feels 29°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner)
-- [Ubiquiti: Enterprise NAS, Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas)
-- [Swiss parliament lifts ban on new nuclear power plants](https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html)
+- [Dutch Railways offers unlimited off-peak train travel nationwide for €49/month](https://www.ns.nl/en/season-tickets/dal-vrij)
 - [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
+- [Noam Shazeer Joins OpenAI](https://twitter.com/NoamShazeer/status/2067400851438932297)
+- [Swiss parliament lifts ban on new nuclear power plants](https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html)
 <!-- HN:end -->
 
 ---
