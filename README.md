@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 18 June 2026** — refreshed 12:38 CET
+📅 **Thursday, 18 June 2026** — refreshed 17:37 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:20:42 AM  ·  🌇 **Sunset** 10:00:17 PM
 ✨ **Golden hour** 9:06:02 PM  ·  ⏳ **Day length** 16:39:34
-🌒 **Moon**: Waxing Crescent (15% lit)
+🌒 **Moon**: Waxing Crescent (17% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 27°C (feels 28°C) · Partly cloudy
+⛅ **Eindhoven**: 31°C (feels 32°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Midjourney Medical](https://www.midjourney.com/medical/blogpost)
-- [I need your clothes, your boots, and your motorcycle](https://rbelmont.mameworld.info/?p=1725)
-- [DeepSeek Introduces Vision](https://chat.deepseek.com/)
-- [Local Qwen isn't a worse Opus, it's a different tool](https://blog.alexellis.io/local-ai-is-not-opus/)
+- [Emacs 31 Is Around the Corner: The Changes I'm Daily Driving](https://www.rahuljuliato.com/posts/emacs-31-around-the-corner)
+- [Ubiquiti: Enterprise NAS, Built on ZFS](https://blog.ui.com/article/introducing-enterprise-nas)
+- [Swiss parliament lifts ban on new nuclear power plants](https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html)
+- [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
 <!-- HN:end -->
 
 ---
