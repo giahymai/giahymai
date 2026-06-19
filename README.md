@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 19 June 2026** — refreshed 12:45 CET
+📅 **Friday, 19 June 2026** — refreshed 17:30 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:20:46 AM  ·  🌇 **Sunset** 10:00:38 PM
 ✨ **Golden hour** 9:06:22 PM  ·  ⏳ **Day length** 16:39:51
-🌒 **Moon**: Waxing Crescent (24% lit)
+🌒 **Moon**: Waxing Crescent (26% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 27°C (feels 28°C) · Sunny
+☀️ **Eindhoven**: 33°C (feels 35°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -47,9 +47,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
+- [The Productivity J-Curve [pdf] (2018)](https://ide.mit.edu/sites/default/files/publications/jcurve.pdf)
 - [DuckDB Internals: Why Is DuckDB Fast? (Part 1)](https://www.greybeam.ai/blog/duckdb-internals-part-1)
-- [To study how chips work, MIT researchers built their own operating system](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)
-- [Ten years of ClickHouse in open source](https://clickhouse.com/blog/open-source-10)
+- ["No Feigning Surprise"](https://wizardzines.com/comics/surprise/)
 <!-- HN:end -->
 
 ---
