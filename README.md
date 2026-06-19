@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 19 June 2026** — refreshed 17:30 CET
+📅 **Friday, 19 June 2026** — refreshed 21:54 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:20:46 AM  ·  🌇 **Sunset** 10:00:38 PM
 ✨ **Golden hour** 9:06:22 PM  ·  ⏳ **Day length** 16:39:51
-🌒 **Moon**: Waxing Crescent (26% lit)
+🌒 **Moon**: Waxing Crescent (28% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 33°C (feels 35°C) · Sunny
+☁️ **Eindhoven**: 33°C (feels 37°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
+- [Amateur may have cracked Linear A, a 120-year-old puzzle](https://aiclambake.com/clamtakes/linear-a/)
+- [There Are No Instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/)
 - [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
-- [The Productivity J-Curve [pdf] (2018)](https://ide.mit.edu/sites/default/files/publications/jcurve.pdf)
-- [DuckDB Internals: Why Is DuckDB Fast? (Part 1)](https://www.greybeam.ai/blog/duckdb-internals-part-1)
-- ["No Feigning Surprise"](https://wizardzines.com/comics/surprise/)
 <!-- HN:end -->
 
 ---
