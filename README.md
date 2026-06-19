@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 18 June 2026** — refreshed 22:32 CET
+📅 **Friday, 19 June 2026** — refreshed 06:54 CET
 <!-- DATE:end -->
 
 ---
@@ -18,38 +18,38 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:20:42 AM  ·  🌇 **Sunset** 10:00:17 PM
-✨ **Golden hour** 9:06:02 PM  ·  ⏳ **Day length** 16:39:34
-🌒 **Moon**: Waxing Crescent (18% lit)
+🌅 **Sunrise** 5:20:46 AM  ·  🌇 **Sunset** 10:00:38 PM
+✨ **Golden hour** 9:06:22 PM  ·  ⏳ **Day length** 16:39:51
+🌒 **Moon**: Waxing Crescent (22% lit)
 
-> 🔭 *A day on Venus is longer than its year.*
+> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 27°C (feels 29°C) · Overcast
+☁️ **Eindhoven**: 18°C (feels 18°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Christ_the_Redeemer_-_Cristo_Redentor.jpg" width="100%" alt="Christ the Redeemer" /></a>
+<a href="https://en.wikipedia.org/wiki/Angkor_Wat"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Angkor_Wat.jpg" width="100%" alt="Angkor Wat" /></a>
 
-<sub>📍 <b>Christ the Redeemer</b> — Brazil 🇧🇷 · A 30-m statue atop Corcovado, struck by lightning several times a year. · <a href="https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)">read more</a></sub>
+<sub>📍 <b>Angkor Wat</b> — Cambodia 🇰🇭 · The largest religious monument on Earth, built in the early 12th century. · <a href="https://en.wikipedia.org/wiki/Angkor_Wat">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
+💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Dutch Railways offers unlimited off-peak train travel nationwide for €49/month](https://www.ns.nl/en/season-tickets/dal-vrij)
-- [I found 10k GitHub repositories distributing Trojan malware](https://orchidfiles.com/github-repositories-distributing-malware/)
-- [Noam Shazeer Joins OpenAI](https://twitter.com/NoamShazeer/status/2067400851438932297)
-- [Swiss parliament lifts ban on new nuclear power plants](https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html)
+- [Let's Encrypt has been down most of today](https://letsencrypt.status.io/#2026)
+- [Ice Water Drowning Survival After 147-Minute Submersion and Hypothermic Arrest](https://www.jacc.org/doi/10.1016/j.jaccas.2025.104885)
+- [To study how chips work, MIT researchers built their own operating system](https://news.mit.edu/2026/to-study-how-chips-really-work-mit-researchers-built-their-own-operating-system-0610)
+- [How Japan's railways stayed one while splitting apart](https://arun.is/blog/jr-logo/)
 <!-- HN:end -->
 
 ---
