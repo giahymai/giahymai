@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 19 June 2026** — refreshed 21:54 CET
+📅 **Saturday, 20 June 2026** — refreshed 06:09 CET
 <!-- DATE:end -->
 
 ---
@@ -18,23 +18,23 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:20:46 AM  ·  🌇 **Sunset** 10:00:38 PM
-✨ **Golden hour** 9:06:22 PM  ·  ⏳ **Day length** 16:39:51
-🌒 **Moon**: Waxing Crescent (28% lit)
+🌅 **Sunrise** 5:20:53 AM  ·  🌇 **Sunset** 10:00:56 PM
+✨ **Golden hour** 9:06:39 PM  ·  ⏳ **Day length** 16:40:02
+🌓 **Moon**: First Quarter (31% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 33°C (feels 37°C) · Overcast
+⛅ **Eindhoven**: 22°C (feels 25°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Angkor_Wat"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/Angkor_Wat.jpg" width="100%" alt="Angkor Wat" /></a>
+<a href="https://en.wikipedia.org/wiki/Neuschwanstein_Castle"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Neuschwanstein_2013.jpg/3840px-Schloss_Neuschwanstein_2013.jpg" width="100%" alt="Neuschwanstein Castle" /></a>
 
-<sub>📍 <b>Angkor Wat</b> — Cambodia 🇰🇭 · The largest religious monument on Earth, built in the early 12th century. · <a href="https://en.wikipedia.org/wiki/Angkor_Wat">read more</a></sub>
+<sub>📍 <b>Neuschwanstein Castle</b> — Germany 🇩🇪 · The fairy-tale castle that inspired Disney&#x27;s Sleeping Beauty castle. · <a href="https://en.wikipedia.org/wiki/Neuschwanstein_Castle">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Hyundai buys Boston Dynamics](https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/)
-- [Amateur may have cracked Linear A, a 120-year-old puzzle](https://aiclambake.com/clamtakes/linear-a/)
-- [There Are No Instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/)
-- [Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
+- [How to feed a dictator](https://www.theguardian.com/film/2026/jun/09/how-to-feed-a-dictator-film)
+- [Data Compression Explained](https://mattmahoney.net/dc/dce.html)
+- [Think of the children: How to force real ID for all internet traffic (2023)](https://nochan.net/b/Internet-Crap/20230829-Think-Of-The-Children/)
+- [There are no instances in ATProto](https://overreacted.io/there-are-no-instances-in-atproto/)
 <!-- HN:end -->
 
 ---
