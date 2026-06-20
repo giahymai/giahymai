@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 20 June 2026** — refreshed 16:14 CET
+📅 **Saturday, 20 June 2026** — refreshed 21:44 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:20:53 AM  ·  🌇 **Sunset** 10:00:56 PM
 ✨ **Golden hour** 9:06:39 PM  ·  ⏳ **Day length** 16:40:02
-🌓 **Moon**: First Quarter (36% lit)
+🌓 **Moon**: First Quarter (38% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 29°C (feels 30°C) · Sunny
+☀️ **Eindhoven**: 27°C (feels 28°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [CSSQuake](https://cssquake.com/)
-- [I Stored a Website in a Favicon](https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/)
-- [Where to Find the Colors Your Screen Can't Show You](https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/)
-- [Bootimus – A Self-Contained PXE and HTTP Boot Server](https://bootimus.com)
+- [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community)
+- [The Wholesale Plagiarism of Obscure Sorrows](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/)
+- [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/)
+- [DOS Game "F-15 Strike Eagle II" reversing project needs DOS test pilots](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html)
 <!-- HN:end -->
 
 ---
