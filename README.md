@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 21 June 2026** — refreshed 11:56 CET
+📅 **Sunday, 21 June 2026** — refreshed 16:21 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:21:02 AM  ·  🌇 **Sunset** 10:01:10 PM
 ✨ **Golden hour** 9:06:53 PM  ·  ⏳ **Day length** 16:40:07
-🌓 **Moon**: First Quarter (44% lit)
+🌓 **Moon**: First Quarter (46% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 25°C (feels 27°C) · Partly cloudy
+☁️ **Eindhoven**: 28°C (feels 29°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/)
+- [Beyond All Reason (Free Total Annihilation Inspired RTS)](https://www.beyondallreason.info)
+- [The case against geometric algebra (2024)](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
+- [David Ahl's Basic Computer Games Ported to C](https://github.com/proteanthread/bcg)
 - [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame)
-- [Zigzag Decoding with AVX-512](https://zeux.io/2026/06/17/zigzag-decoding-avx512/)
-- [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)
 <!-- HN:end -->
 
 ---
