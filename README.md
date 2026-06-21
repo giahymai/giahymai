@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 20 June 2026** — refreshed 21:44 CET
+📅 **Sunday, 21 June 2026** — refreshed 06:50 CET
 <!-- DATE:end -->
 
 ---
@@ -18,38 +18,38 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:20:53 AM  ·  🌇 **Sunset** 10:00:56 PM
-✨ **Golden hour** 9:06:39 PM  ·  ⏳ **Day length** 16:40:02
-🌓 **Moon**: First Quarter (38% lit)
+🌅 **Sunrise** 5:21:02 AM  ·  🌇 **Sunset** 10:01:10 PM
+✨ **Golden hour** 9:06:53 PM  ·  ⏳ **Day length** 16:40:07
+🌓 **Moon**: First Quarter (42% lit)
 
-> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
+> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 27°C (feels 28°C) · Sunny
+🌡️ **Eindhoven**: 20°C (feels 20°C) · Light Rain
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Neuschwanstein_Castle"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Schloss_Neuschwanstein_2013.jpg/3840px-Schloss_Neuschwanstein_2013.jpg" width="100%" alt="Neuschwanstein Castle" /></a>
+<a href="https://en.wikipedia.org/wiki/Grand_Canyon"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Canyon_River_Tree_%28165872763%29.jpeg" width="100%" alt="Grand Canyon" /></a>
 
-<sub>📍 <b>Neuschwanstein Castle</b> — Germany 🇩🇪 · The fairy-tale castle that inspired Disney&#x27;s Sleeping Beauty castle. · <a href="https://en.wikipedia.org/wiki/Neuschwanstein_Castle">read more</a></sub>
+<sub>📍 <b>Grand Canyon</b> — USA 🇺🇸 · Carved by the Colorado River over ~6 million years, up to 1.8 km deep. · <a href="https://en.wikipedia.org/wiki/Grand_Canyon">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
+💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [SMPTE Makes Its Standards Freely Accessible](https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community)
-- [The Wholesale Plagiarism of Obscure Sorrows](https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/)
-- [UHF X11: X11 Built for VisionOS and Apple Vision Pro](https://www.lispm.net/apps/uhf-x11/)
-- [DOS Game "F-15 Strike Eagle II" reversing project needs DOS test pilots](https://neuviemeporte.github.io/f15-se2/2026/06/20/needyou.html)
+- [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
+- [Epoll vs. io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
+- [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)
+- [Loupe – A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe)
 <!-- HN:end -->
 
 ---
