@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 21 June 2026** — refreshed 06:50 CET
+📅 **Sunday, 21 June 2026** — refreshed 11:56 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:21:02 AM  ·  🌇 **Sunset** 10:01:10 PM
 ✨ **Golden hour** 9:06:53 PM  ·  ⏳ **Day length** 16:40:07
-🌓 **Moon**: First Quarter (42% lit)
+🌓 **Moon**: First Quarter (44% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 20°C (feels 20°C) · Light Rain
+⛅ **Eindhoven**: 25°C (feels 27°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Renting a sewing machine from the library](https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland)
-- [Epoll vs. io_uring in Linux](https://sibexi.co/posts/epoll-vs-io_uring/)
+- [Google Hits 50% IPv6](https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/)
+- [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame)
+- [Zigzag Decoding with AVX-512](https://zeux.io/2026/06/17/zigzag-decoding-avx512/)
 - [Developers don't understand CORS (2019)](https://fosterelli.co/developers-dont-understand-cors)
-- [Loupe – A iOS app that raises awareness about what native apps can see](https://github.com/mysk-research/loupe)
 <!-- HN:end -->
 
 ---
