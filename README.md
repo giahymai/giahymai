@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 21 June 2026** — refreshed 16:21 CET
+📅 **Sunday, 21 June 2026** — refreshed 21:50 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:21:02 AM  ·  🌇 **Sunset** 10:01:10 PM
 ✨ **Golden hour** 9:06:53 PM  ·  ⏳ **Day length** 16:40:07
-🌓 **Moon**: First Quarter (46% lit)
+🌓 **Moon**: First Quarter (49% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 28°C (feels 29°C) · Overcast
+⛅ **Eindhoven**: 28°C (feels 31°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Prefer duplication over the wrong abstraction (2016)](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
+- [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/)
 - [Beyond All Reason (Free Total Annihilation Inspired RTS)](https://www.beyondallreason.info)
-- [The case against geometric algebra (2024)](https://alexkritchevsky.com/2024/02/28/geometric-algebra.html)
-- [David Ahl's Basic Computer Games Ported to C](https://github.com/proteanthread/bcg)
-- [A 3D voxel game engine written in APL](https://github.com/namgyaaal/avoxelgame)
+- [(How to Write a (Lisp) Interpreter (In Python)) (2010)](https://norvig.com/lispy.html)
 <!-- HN:end -->
 
 ---
