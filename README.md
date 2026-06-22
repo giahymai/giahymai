@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 21 June 2026** — refreshed 21:50 CET
+📅 **Monday, 22 June 2026** — refreshed 06:59 CET
 <!-- DATE:end -->
 
 ---
@@ -18,38 +18,38 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:21:02 AM  ·  🌇 **Sunset** 10:01:10 PM
-✨ **Golden hour** 9:06:53 PM  ·  ⏳ **Day length** 16:40:07
-🌓 **Moon**: First Quarter (49% lit)
+🌅 **Sunrise** 5:21:15 AM  ·  🌇 **Sunset** 10:01:22 PM
+✨ **Golden hour** 9:07:05 PM  ·  ⏳ **Day length** 16:40:06
+🌓 **Moon**: First Quarter (53% lit)
 
-> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 28°C (feels 31°C) · Partly cloudy
+🌡️ **Eindhoven**: 18°C (feels 18°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Grand_Canyon"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Canyon_River_Tree_%28165872763%29.jpeg" width="100%" alt="Grand Canyon" /></a>
+<a href="https://en.wikipedia.org/wiki/Ha_Long_Bay"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Ha_Long_Bay_in_2019.jpg" width="100%" alt="Hạ Long Bay" /></a>
 
-<sub>📍 <b>Grand Canyon</b> — USA 🇺🇸 · Carved by the Colorado River over ~6 million years, up to 1.8 km deep. · <a href="https://en.wikipedia.org/wiki/Grand_Canyon">read more</a></sub>
+<sub>📍 <b>Hạ Long Bay</b> — Vietnam 🇻🇳 · Thousands of limestone karsts rising from emerald water — a drowned karst landscape. · <a href="https://en.wikipedia.org/wiki/Ha_Long_Bay">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
+💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Prefer duplication over the wrong abstraction (2016)](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction)
-- [JSON-LD Explained for Personal Websites](https://hawksley.dev/blog/json-ld-explained-for-personal-websites/)
-- [Beyond All Reason (Free Total Annihilation Inspired RTS)](https://www.beyondallreason.info)
-- [(How to Write a (Lisp) Interpreter (In Python)) (2010)](https://norvig.com/lispy.html)
+- [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
+- [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
+- [Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
+- [Sakana Fugu](https://sakana.ai/fugu/)
 <!-- HN:end -->
 
 ---
