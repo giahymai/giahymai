@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 22 June 2026** — refreshed 06:59 CET
+📅 **Monday, 22 June 2026** — refreshed 14:13 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:21:15 AM  ·  🌇 **Sunset** 10:01:22 PM
 ✨ **Golden hour** 9:07:05 PM  ·  ⏳ **Day length** 16:40:06
-🌓 **Moon**: First Quarter (53% lit)
+🌓 **Moon**: First Quarter (56% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 18°C (feels 18°C) · Clear 
+☀️ **Eindhoven**: 26°C (feels 27°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
-- [Apertus – Open Foundation Model for Sovereign AI](https://apertvs.ai/)
+- [Deno Desktop](https://docs.deno.com/runtime/desktop/)
+- [Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224)
 - [Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
-- [Sakana Fugu](https://sakana.ai/fugu/)
+- [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
 <!-- HN:end -->
 
 ---
