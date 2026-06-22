@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 22 June 2026** — refreshed 14:13 CET
+📅 **Monday, 22 June 2026** — refreshed 22:54 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:21:15 AM  ·  🌇 **Sunset** 10:01:22 PM
 ✨ **Golden hour** 9:07:05 PM  ·  ⏳ **Day length** 16:40:06
-🌓 **Moon**: First Quarter (56% lit)
+🌓 **Moon**: First Quarter (60% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 26°C (feels 27°C) · Sunny
+☁️ **Eindhoven**: 23°C (feels 25°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Deno Desktop](https://docs.deno.com/runtime/desktop/)
-- [Codex logging bug may write TBs to local SSDs](https://github.com/openai/codex/issues/28224)
-- [Help I accidentally a wigglegram](https://lmao.center/blog/wiggle-accidents/)
-- [Did my old job only exist because of fraud?](https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/)
+- [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
+- [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes)
+- [Canyon HUD helmet for road riding](https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/)
+- [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/)
 <!-- HN:end -->
 
 ---
