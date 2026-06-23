@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 23 June 2026** — refreshed 11:52 CET
+📅 **Tuesday, 23 June 2026** — refreshed 17:11 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:21:31 AM  ·  🌇 **Sunset** 10:01:31 PM
 ✨ **Golden hour** 9:07:14 PM  ·  ⏳ **Day length** 16:39:59
-🌓 **Moon**: First Quarter (65% lit)
+🌓 **Moon**: First Quarter (67% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 20°C (feels 20°C) · Overcast
+☀️ **Eindhoven**: 29°C (feels 29°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [The new HTTP QUERY method explained](https://kreya.app/blog/new-http-query-method-explained/)
+- [Unlimited OCR: One-Shot Long-Horizon Parsing](https://github.com/baidu/Unlimited-OCR)
+- [Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX](https://tikz.dev/editor/)
+- [Spying on kids to save kids from spying is stupid](https://pluralistic.net/2026/06/23/destroy-the-village/)
 - [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
-- [Will It Mythos?](https://swelljoe.com/post/will-it-mythos/)
-- [Polymarket has flooded social media with deceptive videos by paid creators](https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2)
 <!-- HN:end -->
 
 ---
