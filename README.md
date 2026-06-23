@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 23 June 2026** — refreshed 17:11 CET
+📅 **Tuesday, 23 June 2026** — refreshed 22:12 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:21:31 AM  ·  🌇 **Sunset** 10:01:31 PM
 ✨ **Golden hour** 9:07:14 PM  ·  ⏳ **Day length** 16:39:59
-🌓 **Moon**: First Quarter (67% lit)
+🌓 **Moon**: First Quarter (69% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 29°C (feels 29°C) · Sunny
+⛅ **Eindhoven**: 29°C (feels 31°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Unlimited OCR: One-Shot Long-Horizon Parsing](https://github.com/baidu/Unlimited-OCR)
-- [Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX](https://tikz.dev/editor/)
-- [Spying on kids to save kids from spying is stupid](https://pluralistic.net/2026/06/23/destroy-the-village/)
-- [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
+- [Jerry's Map](http://www.jerrysmap.com/the-map)
+- [Anthropic updates their terms to verify age or identity](https://www.anthropic.com/legal/privacy)
+- [Swift Package Index joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple)
+- [F3](https://github.com/future-file-format/f3)
 <!-- HN:end -->
 
 ---
