@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 22 June 2026** — refreshed 22:54 CET
+📅 **Tuesday, 23 June 2026** — refreshed 05:59 CET
 <!-- DATE:end -->
 
 ---
@@ -18,38 +18,38 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:21:15 AM  ·  🌇 **Sunset** 10:01:22 PM
-✨ **Golden hour** 9:07:05 PM  ·  ⏳ **Day length** 16:40:06
-🌓 **Moon**: First Quarter (60% lit)
+🌅 **Sunrise** 5:21:31 AM  ·  🌇 **Sunset** 10:01:31 PM
+✨ **Golden hour** 9:07:14 PM  ·  ⏳ **Day length** 16:39:59
+🌓 **Moon**: First Quarter (62% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 23°C (feels 25°C) · Overcast
+☁️ **Eindhoven**: 17°C (feels 17°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Ha_Long_Bay"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Ha_Long_Bay_in_2019.jpg" width="100%" alt="Hạ Long Bay" /></a>
+<a href="https://en.wikipedia.org/wiki/Giza_pyramid_complex"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/3840px-Pyramids_of_the_Giza_Necropolis.jpg" width="100%" alt="Pyramids of Giza" /></a>
 
-<sub>📍 <b>Hạ Long Bay</b> — Vietnam 🇻🇳 · Thousands of limestone karsts rising from emerald water — a drowned karst landscape. · <a href="https://en.wikipedia.org/wiki/Ha_Long_Bay">read more</a></sub>
+<sub>📍 <b>Pyramids of Giza</b> — Egypt 🇪🇬 · The Great Pyramid stood as the tallest human-made structure for ~3,800 years. · <a href="https://en.wikipedia.org/wiki/Giza_pyramid_complex">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
+💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Steam Machine launches today](https://store.steampowered.com/news/group/45479024/view/685257114654870245)
-- [British Columbia, Time Zones, and Postgres](https://www.crunchydata.com/blog/british-columbia-and-time-zone-changes)
-- [Canyon HUD helmet for road riding](https://media-centre.canyon.com/en-INT/266866-new-canyon-heads-up-display-helmet-could-be-a-safety-gamechanger-for-road-riding/)
-- [My Mathematical Regression](https://blog.dahl.dev/posts/my-mathematical-regression/)
+- [Runing GLM-5.2 on local hardware](https://unsloth.ai/docs/models/glm-5.2)
+- [In praise of memcached](https://jchri.st/blog/in-praise-of-memcached/)
+- [VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO](https://arxiv.org/abs/2606.16140)
 <!-- HN:end -->
 
 ---
