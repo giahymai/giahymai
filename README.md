@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 24 June 2026** — refreshed 11:39 CET
+📅 **Wednesday, 24 June 2026** — refreshed 16:41 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:21:49 AM  ·  🌇 **Sunset** 10:01:36 PM
 ✨ **Golden hour** 9:07:20 PM  ·  ⏳ **Day length** 16:39:46
-🌔 **Moon**: Waxing Gibbous (74% lit)
+🌔 **Moon**: Waxing Gibbous (76% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 28°C (feels 29°C) · Sunny
+☀️ **Eindhoven**: 35°C (feels 36°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
-- [Raspberry Pi Pico W as USB Wi-Fi Adapter](https://gitlab.com/baiyibai/pico-usb-wifi)
-- [Jerry's Map](http://www.jerrysmap.com/the-map)
-- [Why eval startups fail (2025)](https://thomasliao.com/eval-startups)
+- [We're making Bunny DNS free: because a faster internet won't build itself](https://bunny.net/blog/were-making-bunny-dns-free/)
+- [Krea 2 Technical Report](https://www.krea.ai/blog/krea-2-technical-report)
+- [Stealing Is a Skill](https://ben-mini.com/2026/stealing-is-a-skill)
+- [Haystack: Open-Source AI Framework for Production Ready Agents, RAG](https://haystack.deepset.ai/)
 <!-- HN:end -->
 
 ---
