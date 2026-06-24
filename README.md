@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 24 June 2026** — refreshed 16:41 CET
+📅 **Wednesday, 24 June 2026** — refreshed 21:52 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:21:49 AM  ·  🌇 **Sunset** 10:01:36 PM
 ✨ **Golden hour** 9:07:20 PM  ·  ⏳ **Day length** 16:39:46
-🌔 **Moon**: Waxing Gibbous (76% lit)
+🌔 **Moon**: Waxing Gibbous (78% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 35°C (feels 36°C) · Sunny
+☀️ **Eindhoven**: 32°C (feels 35°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [We're making Bunny DNS free: because a faster internet won't build itself](https://bunny.net/blog/were-making-bunny-dns-free/)
-- [Krea 2 Technical Report](https://www.krea.ai/blog/krea-2-technical-report)
-- [Stealing Is a Skill](https://ben-mini.com/2026/stealing-is-a-skill)
-- [Haystack: Open-Source AI Framework for Production Ready Agents, RAG](https://haystack.deepset.ai/)
+- [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
+- [Thomann takes legal action against Fender](https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/)
+- [RubyLLM: A Ruby framework for all major AI providers](https://rubyllm.com/)
+- [We’re making Bunny DNS free](https://bunny.net/blog/were-making-bunny-dns-free/)
 <!-- HN:end -->
 
 ---
