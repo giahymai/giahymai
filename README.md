@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 23 June 2026** — refreshed 22:12 CET
+📅 **Wednesday, 24 June 2026** — refreshed 06:01 CET
 <!-- DATE:end -->
 
 ---
@@ -18,38 +18,38 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:21:31 AM  ·  🌇 **Sunset** 10:01:31 PM
-✨ **Golden hour** 9:07:14 PM  ·  ⏳ **Day length** 16:39:59
-🌓 **Moon**: First Quarter (69% lit)
+🌅 **Sunrise** 5:21:49 AM  ·  🌇 **Sunset** 10:01:36 PM
+✨ **Golden hour** 9:07:20 PM  ·  ⏳ **Day length** 16:39:46
+🌔 **Moon**: Waxing Gibbous (72% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 29°C (feels 31°C) · Partly cloudy
+🌡️ **Eindhoven**: 17°C (feels 17°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Giza_pyramid_complex"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/3840px-Pyramids_of_the_Giza_Necropolis.jpg" width="100%" alt="Pyramids of Giza" /></a>
+<a href="https://en.wikipedia.org/wiki/Golden_Gate_Bridge"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/3840px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg" width="100%" alt="Golden Gate Bridge" /></a>
 
-<sub>📍 <b>Pyramids of Giza</b> — Egypt 🇪🇬 · The Great Pyramid stood as the tallest human-made structure for ~3,800 years. · <a href="https://en.wikipedia.org/wiki/Giza_pyramid_complex">read more</a></sub>
+<sub>📍 <b>Golden Gate Bridge</b> — USA 🇺🇸 · Its colour, &#x27;International Orange&#x27;, was chosen to stay visible in San Francisco fog. · <a href="https://en.wikipedia.org/wiki/Golden_Gate_Bridge">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
 - [Jerry's Map](http://www.jerrysmap.com/the-map)
-- [Anthropic updates their terms to verify age or identity](https://www.anthropic.com/legal/privacy)
-- [Swift Package Index joins Apple](https://swiftpackageindex.com/blog/swift-package-index-joins-apple)
-- [F3](https://github.com/future-file-format/f3)
+- [FUTO Swipe – A new swipe typing model](https://swipe.futo.tech/)
+- [A man was gifted his dream car by Kevin Mitnick, who he helped put in prison](https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison)
 <!-- HN:end -->
 
 ---
