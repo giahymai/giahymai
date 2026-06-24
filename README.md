@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 24 June 2026** — refreshed 06:01 CET
+📅 **Wednesday, 24 June 2026** — refreshed 11:39 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:21:49 AM  ·  🌇 **Sunset** 10:01:36 PM
 ✨ **Golden hour** 9:07:20 PM  ·  ⏳ **Day length** 16:39:46
-🌔 **Moon**: Waxing Gibbous (72% lit)
+🌔 **Moon**: Waxing Gibbous (74% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 17°C) · Clear 
+☀️ **Eindhoven**: 28°C (feels 29°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -47,9 +47,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Vulnerability reports are not special anymore](https://words.filippo.io/vuln-reports/)
+- [Raspberry Pi Pico W as USB Wi-Fi Adapter](https://gitlab.com/baiyibai/pico-usb-wifi)
 - [Jerry's Map](http://www.jerrysmap.com/the-map)
-- [FUTO Swipe – A new swipe typing model](https://swipe.futo.tech/)
-- [A man was gifted his dream car by Kevin Mitnick, who he helped put in prison](https://www.thedrive.com/news/this-man-was-gifted-his-dream-car-by-the-notorious-hacker-he-put-in-prison)
+- [Why eval startups fail (2025)](https://thomasliao.com/eval-startups)
 <!-- HN:end -->
 
 ---
