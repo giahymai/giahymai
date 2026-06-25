@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 24 June 2026** — refreshed 21:52 CET
+📅 **Thursday, 25 June 2026** — refreshed 06:01 CET
 <!-- DATE:end -->
 
 ---
@@ -18,38 +18,38 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:21:49 AM  ·  🌇 **Sunset** 10:01:36 PM
-✨ **Golden hour** 9:07:20 PM  ·  ⏳ **Day length** 16:39:46
-🌔 **Moon**: Waxing Gibbous (78% lit)
+🌅 **Sunrise** 5:22:11 AM  ·  🌇 **Sunset** 10:01:39 PM
+✨ **Golden hour** 9:07:25 PM  ·  ⏳ **Day length** 16:39:27
+🌔 **Moon**: Waxing Gibbous (80% lit)
 
-> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
+> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 32°C (feels 35°C) · Sunny
+🌡️ **Eindhoven**: 23°C (feels 25°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Golden_Gate_Bridge"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Golden_Gate_Bridge_as_seen_from_Battery_East.jpg/3840px-Golden_Gate_Bridge_as_seen_from_Battery_East.jpg" width="100%" alt="Golden Gate Bridge" /></a>
+<a href="https://en.wikipedia.org/wiki/Eiffel_Tower"><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg" width="100%" alt="Eiffel Tower" /></a>
 
-<sub>📍 <b>Golden Gate Bridge</b> — USA 🇺🇸 · Its colour, &#x27;International Orange&#x27;, was chosen to stay visible in San Francisco fog. · <a href="https://en.wikipedia.org/wiki/Golden_Gate_Bridge">read more</a></sub>
+<sub>📍 <b>Eiffel Tower</b> — France 🇫🇷 · Built for the 1889 World&#x27;s Fair and meant to be torn down 20 years later — it stayed. · <a href="https://en.wikipedia.org/wiki/Eiffel_Tower">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
+💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
-- [Thomann takes legal action against Fender](https://www.thomann.de/blog/en/inside/thomann-takes-legal-action-against-fender/)
-- [RubyLLM: A Ruby framework for all major AI providers](https://rubyllm.com/)
-- [We’re making Bunny DNS free](https://bunny.net/blog/were-making-bunny-dns-free/)
+- [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
+- [LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475)
+- [Ending All Respiratory Infections](https://blog.interceptfund.com/p/ending-respiratory-infections)
 <!-- HN:end -->
 
 ---
