@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 25 June 2026** — refreshed 06:01 CET
+📅 **Thursday, 25 June 2026** — refreshed 11:32 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:22:11 AM  ·  🌇 **Sunset** 10:01:39 PM
 ✨ **Golden hour** 9:07:25 PM  ·  ⏳ **Day length** 16:39:27
-🌔 **Moon**: Waxing Gibbous (80% lit)
+🌔 **Moon**: Waxing Gibbous (82% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 23°C (feels 25°C) · Clear 
+☀️ **Eindhoven**: 28°C (feels 30°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
+- [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
 - [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
-- [LuaJIT 3.0 proposed syntax extensions](https://github.com/LuaJIT/LuaJIT/issues/1475)
-- [Ending All Respiratory Infections](https://blog.interceptfund.com/p/ending-respiratory-infections)
+- [Wikipedia Workers in Britain set global first by seeking union recognition](https://utaw.tech/news/wikipedia-recognition)
+- [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
 <!-- HN:end -->
 
 ---
