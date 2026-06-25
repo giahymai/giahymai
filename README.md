@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 25 June 2026** — refreshed 16:41 CET
+📅 **Thursday, 25 June 2026** — refreshed 22:07 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:22:11 AM  ·  🌇 **Sunset** 10:01:39 PM
 ✨ **Golden hour** 9:07:25 PM  ·  ⏳ **Day length** 16:39:27
-🌔 **Moon**: Waxing Gibbous (84% lit)
+🌔 **Moon**: Waxing Gibbous (85% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 33°C (feels 35°C) · Sunny
+☁️ **Eindhoven**: 31°C (feels 36°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [You can't unit test for taste](https://dev.karltryggvason.com/you-cant-unit-test-for-taste/)
-- [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
-- [Show HN: Turn native language audio into flashcards and shadowing practice](https://lingochunk.com/try)
-- [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
+- [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
+- [Oxide computer 3D rack guided tour](https://explorer.oxide.computer/)
+- [IBM debuts sub-1 nanometer chip technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology)
+- [Zig's new bitCast semantics and LLVM back end improvements](https://ziglang.org/devlog/2026/#2026-06-25)
 <!-- HN:end -->
 
 ---
