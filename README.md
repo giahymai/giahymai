@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 25 June 2026** — refreshed 11:32 CET
+📅 **Thursday, 25 June 2026** — refreshed 16:41 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:22:11 AM  ·  🌇 **Sunset** 10:01:39 PM
 ✨ **Golden hour** 9:07:25 PM  ·  ⏳ **Day length** 16:39:27
-🌔 **Moon**: Waxing Gibbous (82% lit)
+🌔 **Moon**: Waxing Gibbous (84% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 28°C (feels 30°C) · Sunny
+☀️ **Eindhoven**: 33°C (feels 35°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [You can't unit test for taste](https://dev.karltryggvason.com/you-cant-unit-test-for-taste/)
 - [Half-Life 2 in a Browser](https://hl2.slqnt.dev/)
+- [Show HN: Turn native language audio into flashcards and shadowing practice](https://lingochunk.com/try)
 - [Anthropic says Alibaba illicitly extracted Claude AI model capabilities](https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/)
-- [Wikipedia Workers in Britain set global first by seeking union recognition](https://utaw.tech/news/wikipedia-recognition)
-- [OpenAI unveils its first custom chip, built by Broadcom](https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/)
 <!-- HN:end -->
 
 ---
