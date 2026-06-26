@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 25 June 2026** — refreshed 22:07 CET
+📅 **Friday, 26 June 2026** — refreshed 06:09 CET
 <!-- DATE:end -->
 
 ---
@@ -18,38 +18,38 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:22:11 AM  ·  🌇 **Sunset** 10:01:39 PM
-✨ **Golden hour** 9:07:25 PM  ·  ⏳ **Day length** 16:39:27
-🌔 **Moon**: Waxing Gibbous (85% lit)
+🌅 **Sunrise** 5:22:35 AM  ·  🌇 **Sunset** 10:01:38 PM
+✨ **Golden hour** 9:07:26 PM  ·  ⏳ **Day length** 16:39:02
+🌔 **Moon**: Waxing Gibbous (87% lit)
 
-> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
+> 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 31°C (feels 36°C) · Overcast
+⛅ **Eindhoven**: 23°C (feels 25°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Eiffel_Tower"><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg" width="100%" alt="Eiffel Tower" /></a>
+<a href="https://en.wikipedia.org/wiki/Machu_Picchu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg/3840px-Machu_Picchu%2C_2023_%28012%29.jpg" width="100%" alt="Machu Picchu" /></a>
 
-<sub>📍 <b>Eiffel Tower</b> — France 🇫🇷 · Built for the 1889 World&#x27;s Fair and meant to be torn down 20 years later — it stayed. · <a href="https://en.wikipedia.org/wiki/Eiffel_Tower">read more</a></sub>
+<sub>📍 <b>Machu Picchu</b> — Peru 🇵🇪 · A 15th-century Inca citadel at 2,430 m, unknown to the outside world until 1911. · <a href="https://en.wikipedia.org/wiki/Machu_Picchu">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
+💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
+- [Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)
 - [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
-- [Oxide computer 3D rack guided tour](https://explorer.oxide.computer/)
-- [IBM debuts sub-1 nanometer chip technology](https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology)
-- [Zig's new bitCast semantics and LLVM back end improvements](https://ziglang.org/devlog/2026/#2026-06-25)
+- [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
 <!-- HN:end -->
 
 ---
