@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 26 June 2026** — refreshed 16:34 CET
+📅 **Friday, 26 June 2026** — refreshed 21:57 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:22:35 AM  ·  🌇 **Sunset** 10:01:38 PM
 ✨ **Golden hour** 9:07:26 PM  ·  ⏳ **Day length** 16:39:02
-🌔 **Moon**: Waxing Gibbous (90% lit)
+🌔 **Moon**: Waxing Gibbous (91% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 38°C (feels 40°C) · Sunny
+☀️ **Eindhoven**: 34°C (feels 40°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Why have papers by one of history's most famous physicists been retracted?](https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted)
-- [Incident CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)
-- [The AI backlash is only getting started](https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started)
-- [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
+- [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
+- [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
+- [MicroVMs: Run isolated sandboxes with full lifecycle control](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/)
+- [Gossamer: a Rust-flavoured language with real goroutines and pause-free memory](https://gossamer-lang.org/)
 <!-- HN:end -->
 
 ---
