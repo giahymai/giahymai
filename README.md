@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 26 June 2026** — refreshed 06:09 CET
+📅 **Friday, 26 June 2026** — refreshed 11:36 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:22:35 AM  ·  🌇 **Sunset** 10:01:38 PM
 ✨ **Golden hour** 9:07:26 PM  ·  ⏳ **Day length** 16:39:02
-🌔 **Moon**: Waxing Gibbous (87% lit)
+🌔 **Moon**: Waxing Gibbous (89% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 23°C (feels 25°C) · Partly cloudy
+☁️ **Eindhoven**: 31°C (feels 33°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -47,9 +47,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
-- [Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line](https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true)
+- [We All Depend on Open Source. We Will Defend It Together](https://akrites.org/letter/)
 - [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
-- [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/)
+- [Libre Barcode Project](https://graphicore.github.io/librebarcode/)
 <!-- HN:end -->
 
 ---
