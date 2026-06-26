@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 26 June 2026** — refreshed 11:36 CET
+📅 **Friday, 26 June 2026** — refreshed 16:34 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:22:35 AM  ·  🌇 **Sunset** 10:01:38 PM
 ✨ **Golden hour** 9:07:26 PM  ·  ⏳ **Day length** 16:39:02
-🌔 **Moon**: Waxing Gibbous (89% lit)
+🌔 **Moon**: Waxing Gibbous (90% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 31°C (feels 33°C) · Overcast
+☀️ **Eindhoven**: 38°C (feels 40°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Why have papers by one of history's most famous physicists been retracted?](https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted)
+- [Incident CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html)
+- [The AI backlash is only getting started](https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started)
 - [Om Malik has died](https://om.co/2026/06/24/1966-2026/)
-- [We All Depend on Open Source. We Will Defend It Together](https://akrites.org/letter/)
-- [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll)
-- [Libre Barcode Project](https://graphicore.github.io/librebarcode/)
 <!-- HN:end -->
 
 ---
