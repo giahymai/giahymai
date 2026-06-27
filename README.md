@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 27 June 2026** — refreshed 05:55 CET
+📅 **Saturday, 27 June 2026** — refreshed 10:42 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:23:03 AM  ·  🌇 **Sunset** 10:01:34 PM
 ✨ **Golden hour** 9:07:25 PM  ·  ⏳ **Day length** 16:38:31
-🌔 **Moon**: Waxing Gibbous (93% lit)
+🌔 **Moon**: Waxing Gibbous (94% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 20°C (feels 20°C) · Patchy rain nearby
+☁️ **Eindhoven**: 26°C (feels 27°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1)
 - [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
-- [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
-- [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/)
-- [U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
+- [Is America Becoming a Gerontocracy?](https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy)
+- [WordStar: A Writer's Word Processor (1996)](https://www.sfwriter.com/wordstar.htm)
 <!-- HN:end -->
 
 ---
