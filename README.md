@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 27 June 2026** — refreshed 15:53 CET
+📅 **Saturday, 27 June 2026** — refreshed 21:36 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:23:03 AM  ·  🌇 **Sunset** 10:01:34 PM
 ✨ **Golden hour** 9:07:25 PM  ·  ⏳ **Day length** 16:38:31
-🌔 **Moon**: Waxing Gibbous (95% lit)
+🌔 **Moon**: Waxing Gibbous (96% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 32°C (feels 32°C) · Partly cloudy
+☁️ **Eindhoven**: 31°C (feels 35°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
+- [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
 - [OpenRA](https://www.openra.net/)
-- [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
-- [If you can't hold it, you don't own it](https://dervis.de/physical/)
+- [AI Is Designing Radio Chips That Humans Couldn't Even Imagine](https://spectrum.ieee.org/ai-radio-chip-design)
+- [DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
 <!-- HN:end -->
 
 ---
