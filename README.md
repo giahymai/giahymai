@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 27 June 2026** — refreshed 10:42 CET
+📅 **Saturday, 27 June 2026** — refreshed 15:53 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:23:03 AM  ·  🌇 **Sunset** 10:01:34 PM
 ✨ **Golden hour** 9:07:25 PM  ·  ⏳ **Day length** 16:38:31
-🌔 **Moon**: Waxing Gibbous (94% lit)
+🌔 **Moon**: Waxing Gibbous (95% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 26°C (feels 27°C) · Overcast
+⛅ **Eindhoven**: 32°C (feels 32°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [OpenTTD 16.0-Beta1](https://www.openttd.org/news/2026/06/25/openttd-16-0-beta1)
-- [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
-- [Is America Becoming a Gerontocracy?](https://www.economist.com/culture/2026/06/25/is-america-becoming-a-gerontocracy)
-- [WordStar: A Writer's Word Processor (1996)](https://www.sfwriter.com/wordstar.htm)
+- [DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
+- [OpenRA](https://www.openra.net/)
+- [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/)
+- [If you can't hold it, you don't own it](https://dervis.de/physical/)
 <!-- HN:end -->
 
 ---
