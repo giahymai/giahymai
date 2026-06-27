@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 26 June 2026** — refreshed 21:57 CET
+📅 **Saturday, 27 June 2026** — refreshed 05:55 CET
 <!-- DATE:end -->
 
 ---
@@ -18,23 +18,23 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:22:35 AM  ·  🌇 **Sunset** 10:01:38 PM
-✨ **Golden hour** 9:07:26 PM  ·  ⏳ **Day length** 16:39:02
-🌔 **Moon**: Waxing Gibbous (91% lit)
+🌅 **Sunrise** 5:23:03 AM  ·  🌇 **Sunset** 10:01:34 PM
+✨ **Golden hour** 9:07:25 PM  ·  ⏳ **Day length** 16:38:31
+🌔 **Moon**: Waxing Gibbous (93% lit)
 
-> 🔭 *A day on Venus is longer than its year.*
+> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 34°C (feels 40°C) · Sunny
+🌡️ **Eindhoven**: 20°C (feels 20°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Machu_Picchu"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg/3840px-Machu_Picchu%2C_2023_%28012%29.jpg" width="100%" alt="Machu Picchu" /></a>
+<a href="https://en.wikipedia.org/wiki/Taj_Mahal"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg" width="100%" alt="Taj Mahal" /></a>
 
-<sub>📍 <b>Machu Picchu</b> — Peru 🇵🇪 · A 15th-century Inca citadel at 2,430 m, unknown to the outside world until 1911. · <a href="https://en.wikipedia.org/wiki/Machu_Picchu">read more</a></sub>
+<sub>📍 <b>Taj Mahal</b> — India 🇮🇳 · A marble mausoleum built by Shah Jahan for his wife — it shifts color through the day. · <a href="https://en.wikipedia.org/wiki/Taj_Mahal">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
@@ -47,9 +47,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Previewing GPT‑5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol/)
-- [U.S. government will decide who gets to use GPT-5.6](https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/)
-- [MicroVMs: Run isolated sandboxes with full lifecycle control](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/)
-- [Gossamer: a Rust-flavoured language with real goroutines and pause-free memory](https://gossamer-lang.org/)
+- [Why does kinetic energy increase quadratically, not linearly, with speed? (2011)](https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed)
+- [Show HN: Hacker News on a train station-style flip board](https://popflame.quickish.space/hn-flipboard/)
+- [U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations](https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies)
 <!-- HN:end -->
 
 ---
