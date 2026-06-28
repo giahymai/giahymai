@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 27 June 2026** — refreshed 21:36 CET
+📅 **Sunday, 28 June 2026** — refreshed 06:17 CET
 <!-- DATE:end -->
 
 ---
@@ -18,38 +18,38 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:23:03 AM  ·  🌇 **Sunset** 10:01:34 PM
-✨ **Golden hour** 9:07:25 PM  ·  ⏳ **Day length** 16:38:31
-🌔 **Moon**: Waxing Gibbous (96% lit)
+🌅 **Sunrise** 5:23:33 AM  ·  🌇 **Sunset** 10:01:27 PM
+✨ **Golden hour** 9:07:21 PM  ·  ⏳ **Day length** 16:37:54
+🌕 **Moon**: Full Moon (97% lit)
 
-> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
+> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 31°C (feels 35°C) · Overcast
+☁️ **Eindhoven**: 19°C (feels 19°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Taj_Mahal"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg" width="100%" alt="Taj Mahal" /></a>
+<a href="https://en.wikipedia.org/wiki/Petra"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Al_Deir_Petra.JPG/3840px-Al_Deir_Petra.JPG" width="100%" alt="Petra" /></a>
 
-<sub>📍 <b>Taj Mahal</b> — India 🇮🇳 · A marble mausoleum built by Shah Jahan for his wife — it shifts color through the day. · <a href="https://en.wikipedia.org/wiki/Taj_Mahal">read more</a></sub>
+<sub>📍 <b>Petra</b> — Jordan 🇯🇴 · An entire city carved into rose-red sandstone over 2,000 years ago by the Nabataeans. · <a href="https://en.wikipedia.org/wiki/Petra">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
+💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
+- [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev)
+- [AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md)
 - [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium)
-- [OpenRA](https://www.openra.net/)
-- [AI Is Designing Radio Chips That Humans Couldn't Even Imagine](https://spectrum.ieee.org/ai-radio-chip-design)
-- [DSpark: Speculative decoding accelerates LLM inference [pdf]](https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf)
 <!-- HN:end -->
 
 ---
