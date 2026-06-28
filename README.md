@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 28 June 2026** — refreshed 11:17 CET
+📅 **Sunday, 28 June 2026** — refreshed 15:58 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 25°C (feels 27°C) · Sunny
+☁️ **Eindhoven**: 28°C (feels 28°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [A way to exclude sensitive files issue still open for OpenAI Codex](https://github.com/openai/codex/issues/2847)
 - [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
-- [Bashblog – a single bash script to create blogs](https://github.com/cfenollosa/bashblog)
-- [Wayfinder Router: deterministic routing of queries between local and hosted LLM](https://github.com/itsthelore/wayfinder-router)
-- [AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md)
+- [Kids act would require age checks to get online](https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online)
+- [The MUMPS 76 Primer – anniversary edition](https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc)
 <!-- HN:end -->
 
 ---
