@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 28 June 2026** — refreshed 15:58 CET
+📅 **Sunday, 28 June 2026** — refreshed 21:37 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:23:33 AM  ·  🌇 **Sunset** 10:01:27 PM
 ✨ **Golden hour** 9:07:21 PM  ·  ⏳ **Day length** 16:37:54
-🌕 **Moon**: Full Moon (98% lit)
+🌕 **Moon**: Full Moon (99% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 28°C (feels 28°C) · Overcast
+⛅ **Eindhoven**: 24°C (feels 26°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -46,10 +46,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [A way to exclude sensitive files issue still open for OpenAI Codex](https://github.com/openai/codex/issues/2847)
-- [Marfa Public Radio Puts You to Sleep](https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep)
-- [Kids act would require age checks to get online](https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online)
-- [The MUMPS 76 Primer – anniversary edition](https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc)
+- [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/)
+- [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus)
+- [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)
+- [Tokenmaxxing is dead, long live tokenmaxxing](https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing)
 <!-- HN:end -->
 
 ---
