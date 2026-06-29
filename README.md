@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 28 June 2026** — refreshed 21:37 CET
+📅 **Monday, 29 June 2026** — refreshed 06:24 CET
 <!-- DATE:end -->
 
 ---
@@ -18,38 +18,38 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:23:33 AM  ·  🌇 **Sunset** 10:01:27 PM
-✨ **Golden hour** 9:07:21 PM  ·  ⏳ **Day length** 16:37:54
+🌅 **Sunrise** 5:24:06 AM  ·  🌇 **Sunset** 10:01:17 PM
+✨ **Golden hour** 9:07:15 PM  ·  ⏳ **Day length** 16:37:11
 🌕 **Moon**: Full Moon (99% lit)
 
-> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
+> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 24°C (feels 26°C) · Partly cloudy
+☁️ **Eindhoven**: 18°C (feels 18°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 ### 🗺️ Landmark of the day
 <!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Petra"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Al_Deir_Petra.JPG/3840px-Al_Deir_Petra.JPG" width="100%" alt="Petra" /></a>
+<a href="https://en.wikipedia.org/wiki/Great_Wall_of_China"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/3840px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg" width="100%" alt="Great Wall of China" /></a>
 
-<sub>📍 <b>Petra</b> — Jordan 🇯🇴 · An entire city carved into rose-red sandstone over 2,000 years ago by the Nabataeans. · <a href="https://en.wikipedia.org/wiki/Petra">read more</a></sub>
+<sub>📍 <b>Great Wall of China</b> — China 🇨🇳 · Not one wall but many, built over centuries — together stretching more than 21,000 km. · <a href="https://en.wikipedia.org/wiki/Great_Wall_of_China">read more</a></sub>
 <!-- LANDMARK:end -->
 
 ---
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/)
-- [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus)
-- [Working around dragons with the Lemote Yeeloong laptop and OpenBSD](http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html)
-- [Tokenmaxxing is dead, long live tokenmaxxing](https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing)
+- [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)
+- [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
+- [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)
+- [Better Images of AI](https://betterimagesofai.org/)
 <!-- HN:end -->
 
 ---
