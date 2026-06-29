@@ -30,14 +30,6 @@
 <!-- WEATHER:end -->
 ---
 
-### 🗺️ Landmark of the day
-<!-- LANDMARK:start -->
-<a href="https://en.wikipedia.org/wiki/Great_Wall_of_China"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/3840px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg" width="100%" alt="Great Wall of China" /></a>
-
-<sub>📍 <b>Great Wall of China</b> — China 🇨🇳 · Not one wall but many, built over centuries — together stretching more than 21,000 km. · <a href="https://en.wikipedia.org/wiki/Great_Wall_of_China">read more</a></sub>
-<!-- LANDMARK:end -->
-
----
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
