@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 29 June 2026** — refreshed 06:24 CET
+📅 **Monday, 29 June 2026** — refreshed 13:09 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:24:06 AM  ·  🌇 **Sunset** 10:01:17 PM
 ✨ **Golden hour** 9:07:15 PM  ·  ⏳ **Day length** 16:37:11
-🌕 **Moon**: Full Moon (99% lit)
+🌕 **Moon**: Full Moon (100% lit)
 
 > 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 18°C (feels 18°C) · Overcast
+☁️ **Eindhoven**: 23°C (feels 25°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Age verification is just a precursor to automated attribution of speech](https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026)
+- [HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88](https://danunparsed.com/p/hackerrank-open-source-ats)
 - [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/)
-- [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html)
-- [Better Images of AI](https://betterimagesofai.org/)
+- [Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped](https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/)
+- [Dissecting Apple's Sparse Image Format (ASIF)](https://schamper.dev/dissecting-apples-sparse-image-format-asif/)
 <!-- HN:end -->
 
 ---
