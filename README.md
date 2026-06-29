@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 29 June 2026** — refreshed 17:55 CET
+📅 **Monday, 29 June 2026** — refreshed 22:05 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 25°C (feels 26°C) · Overcast
+☀️ **Eindhoven**: 23°C (feels 25°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
 - [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully)
-- [WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter](https://humphri.es/blog/WATaBoy/)
-- [What happens when you run a CUDA kernel?](https://fergusfinn.com/blog/what-happens-when-you-run-a-gpu-kernel/)
-- [Building Principia for Windows XP](https://voxelmanip.se/2026/06/28/building-principia-for-windows-xp/)
+- [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html)
+- [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)
 <!-- HN:end -->
 
 ---
