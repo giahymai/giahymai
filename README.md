@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 30 June 2026** — refreshed 16:28 CET
+📅 **Tuesday, 30 June 2026** — refreshed 22:04 CET
 <!-- DATE:end -->
 
 ---
@@ -20,7 +20,7 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:24:42 AM  ·  🌇 **Sunset** 10:01:04 PM
 ✨ **Golden hour** 9:07:06 PM  ·  ⏳ **Day length** 16:36:22
-🌕 **Moon**: Full Moon (100% lit)
+🌕 **Moon**: Full Moon (99% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [The US ambassador had Belgian police stop our reporting](https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting)
-- [Memoirs of Extraordinary Popular Delusions and the Madness of Crowds](https://www.gutenberg.org/ebooks/24518)
-- [European digital ID wallets rely on safety services of Google and Apple](https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/)
-- [Building a custom octocopter from scratch with no prior hardware experience](https://karolina.mgdubiel.com/drone/)
+- [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
+- [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
+- [Claude Science](https://claude.com/product/claude-science)
+- [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/)
 <!-- HN:end -->
 
 ---
