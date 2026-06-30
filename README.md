@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 29 June 2026** — refreshed 22:05 CET
+📅 **Tuesday, 30 June 2026** — refreshed 06:04 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:24:06 AM  ·  🌇 **Sunset** 10:01:17 PM
-✨ **Golden hour** 9:07:15 PM  ·  ⏳ **Day length** 16:37:11
+🌅 **Sunrise** 5:24:42 AM  ·  🌇 **Sunset** 10:01:04 PM
+✨ **Golden hour** 9:07:06 PM  ·  ⏳ **Day length** 16:36:22
 🌕 **Moon**: Full Moon (100% lit)
 
-> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
+> 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 23°C (feels 25°C) · Sunny
+🌡️ **Eindhoven**: 12°C (feels 12°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -39,9 +39,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
-- [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully)
-- [A native graphical shell for SSH](https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html)
-- [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1)
+- [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
+- [Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/)
+- [Memory Safe Context Switching (longjmp, setjmp) in Fil-C](https://fil-c.org/context_switches)
 <!-- HN:end -->
 
 ---
