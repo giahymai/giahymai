@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 30 June 2026** — refreshed 06:04 CET
+📅 **Tuesday, 30 June 2026** — refreshed 11:48 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 12°C) · Clear 
+☁️ **Eindhoven**: 20°C (feels 20°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Open Source Low Tech](https://opensourcelowtech.org/)
 - [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/)
 - [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/)
 - [Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/)
-- [Memory Safe Context Switching (longjmp, setjmp) in Fil-C](https://fil-c.org/context_switches)
 <!-- HN:end -->
 
 ---
