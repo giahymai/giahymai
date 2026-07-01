@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 01 July 2026** — refreshed 11:58 CET
+📅 **Wednesday, 01 July 2026** — refreshed 16:47 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 20°C (feels 20°C) · Partly cloudy
+⛅ **Eindhoven**: 23°C (feels 25°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
-- [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
-- [Godot will no longer accept AI-authored code contributions](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
-- [Newly discovered spider builds spring loaded snare to catch ants](https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html)
+- [Why I Stopped Arguing with People](https://wangcong.org/2026-06-30-why-i-stopped-arguing-with-people.html)
+- [Asahi Linux 7.1 Progress Report](https://asahilinux.org/2026/06/progress-report-7-1/)
+- [Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice](https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium)
+- [Launch HN: Parsewise (YC P25) – Reason Across Documents with an API](https://news.ycombinator.com/item?id=48746752)
 <!-- HN:end -->
 
 ---
