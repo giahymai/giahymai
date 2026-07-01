@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 01 July 2026** — refreshed 06:20 CET
+📅 **Wednesday, 01 July 2026** — refreshed 11:58 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:25:20 AM  ·  🌇 **Sunset** 10:00:48 PM
 ✨ **Golden hour** 9:06:54 PM  ·  ⏳ **Day length** 16:35:27
-🌕 **Moon**: Full Moon (99% lit)
+🌕 **Moon**: Full Moon (98% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌫️ **Eindhoven**: 12°C (feels 12°C) · Mist
+⛅ **Eindhoven**: 20°C (feels 20°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
 - [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
-- [Google copybara: moving code between repositories](https://github.com/google/copybara)
-- [Supersonic flight returning to US after half-century ban](https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/)
+- [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
+- [Godot will no longer accept AI-authored code contributions](https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/)
+- [Newly discovered spider builds spring loaded snare to catch ants](https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html)
 <!-- HN:end -->
 
 ---
