@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 30 June 2026** — refreshed 22:04 CET
+📅 **Wednesday, 01 July 2026** — refreshed 06:20 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:24:42 AM  ·  🌇 **Sunset** 10:01:04 PM
-✨ **Golden hour** 9:07:06 PM  ·  ⏳ **Day length** 16:36:22
+🌅 **Sunrise** 5:25:20 AM  ·  🌇 **Sunset** 10:00:48 PM
+✨ **Golden hour** 9:06:54 PM  ·  ⏳ **Day length** 16:35:27
 🌕 **Moon**: Full Moon (99% lit)
 
-> 🔭 *A day on Venus is longer than its year.*
+> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 21°C (feels 21°C) · Overcast
+🌫️ **Eindhoven**: 12°C (feels 12°C) · Mist
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
+💡 `git` was written by Linus Torvalds in about 10 days in 2005.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
 - [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography)
-- [Claude Science](https://claude.com/product/claude-science)
-- [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/)
+- [Google copybara: moving code between repositories](https://github.com/google/copybara)
+- [Supersonic flight returning to US after half-century ban](https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/)
 <!-- HN:end -->
 
 ---
