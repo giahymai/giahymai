@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 02 July 2026** — refreshed 16:11 CET
+📅 **Thursday, 02 July 2026** — refreshed 21:39 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:26:01 AM  ·  🌇 **Sunset** 10:00:28 PM
 ✨ **Golden hour** 9:06:40 PM  ·  ⏳ **Day length** 16:34:27
-🌖 **Moon**: Waning Gibbous (94% lit)
+🌖 **Moon**: Waning Gibbous (93% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 18°C (feels 18°C) · Heavy Drizzle
+☀️ **Eindhoven**: 19°C (feels 19°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Show HN: ZeroFS – A log-structured filesystem for S3](https://www.zerofs.net/)
-- [Android Developer Verification: Threat masquerading as Protection](https://f-droid.org/2026/07/01/adv-malware.html)
-- [Many people misunderstand the purpose of code review](https://mathstodon.xyz/@mjd/115096720350507897)
-- [Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train](https://arxiv.org/abs/2607.01232)
+- [Exapunks (2018)](https://www.zachtronics.com/exapunks/)
+- [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
+- [PeerTube is a free, decentralized and federated video platform](https://github.com/Chocobozzz/PeerTube)
+- [Android Developer Verification: Threat masquerading as protection](https://f-droid.org/2026/07/01/adv-malware.html)
 <!-- HN:end -->
 
 ---
