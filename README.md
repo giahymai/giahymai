@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 01 July 2026** — refreshed 22:02 CET
+📅 **Thursday, 02 July 2026** — refreshed 05:59 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:25:20 AM  ·  🌇 **Sunset** 10:00:48 PM
-✨ **Golden hour** 9:06:54 PM  ·  ⏳ **Day length** 16:35:27
-🌕 **Moon**: Full Moon (97% lit)
+🌅 **Sunrise** 5:26:01 AM  ·  🌇 **Sunset** 10:00:28 PM
+✨ **Golden hour** 9:06:40 PM  ·  ⏳ **Day length** 16:34:27
+🌖 **Moon**: Waning Gibbous (96% lit)
 
-> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
+> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 23°C (feels 25°C) · Sunny
+🌡️ **Eindhoven**: 13°C (feels 12°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 `git` was written by Linus Torvalds in about 10 days in 2005.
+💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [ZCode: Claude Code from the Makers of GLM](https://zcode.z.ai/cn)
-- [For first time, a cell built from scratch grows and divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/)
-- [What to Learn to Be a Graphics Programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/)
-- [FFmpeg 9.1's new AAC encoder](https://hydrogenaudio.org/index.php/topic,129691.0.html)
+- [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
+- [Bring Back Crappy Forums](https://tedium.co/2026/07/01/online-web-forums-retrospective/)
+- [Building an Open-Source Robot Vacuum – Meet Oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/)
+- [Show HN: Searchable directory of 22k+ products from worker-owned co-ops](https://www.workerowned.info/)
 <!-- HN:end -->
 
 ---
