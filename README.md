@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 02 July 2026** — refreshed 11:20 CET
+📅 **Thursday, 02 July 2026** — refreshed 16:11 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:26:01 AM  ·  🌇 **Sunset** 10:00:28 PM
 ✨ **Golden hour** 9:06:40 PM  ·  ⏳ **Day length** 16:34:27
-🌖 **Moon**: Waning Gibbous (95% lit)
+🌖 **Moon**: Waning Gibbous (94% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 20°C (feels 20°C) · Overcast
+🌡️ **Eindhoven**: 18°C (feels 18°C) · Heavy Drizzle
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [We Don't Have to Be This Bad at Improving Society](https://kasperjunge.com/blog/we-dont-have-to-be-this-bad-at-improving-society/)
-- [Kimi K2.7 Code is generally available in GitHub Copilot](https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/)
-- [A new Android malware from Google](https://f-droid.org/2026/07/01/adv-malware.html)
-- [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en)
+- [Show HN: ZeroFS – A log-structured filesystem for S3](https://www.zerofs.net/)
+- [Android Developer Verification: Threat masquerading as Protection](https://f-droid.org/2026/07/01/adv-malware.html)
+- [Many people misunderstand the purpose of code review](https://mathstodon.xyz/@mjd/115096720350507897)
+- [Is One Layer Enough? A Single Transformer Layer Matches Full-Parameter RL Train](https://arxiv.org/abs/2607.01232)
 <!-- HN:end -->
 
 ---
