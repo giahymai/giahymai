@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 02 July 2026** — refreshed 21:39 CET
+📅 **Friday, 03 July 2026** — refreshed 05:43 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:26:01 AM  ·  🌇 **Sunset** 10:00:28 PM
-✨ **Golden hour** 9:06:40 PM  ·  ⏳ **Day length** 16:34:27
-🌖 **Moon**: Waning Gibbous (93% lit)
+🌅 **Sunrise** 5:26:45 AM  ·  🌇 **Sunset** 10:00:06 PM
+✨ **Golden hour** 9:06:23 PM  ·  ⏳ **Day length** 16:33:21
+🌖 **Moon**: Waning Gibbous (91% lit)
 
-> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 19°C (feels 19°C) · Sunny
+🌡️ **Eindhoven**: 9°C (feels 8°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
+💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Exapunks (2018)](https://www.zachtronics.com/exapunks/)
-- [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438)
-- [PeerTube is a free, decentralized and federated video platform](https://github.com/Chocobozzz/PeerTube)
-- [Android Developer Verification: Threat masquerading as protection](https://f-droid.org/2026/07/01/adv-malware.html)
+- [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
+- [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
+- [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
+- [Right to Local Intelligence](https://righttointelligence.org/)
 <!-- HN:end -->
 
 ---
