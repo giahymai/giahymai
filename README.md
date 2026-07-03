@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 03 July 2026** — refreshed 16:19 CET
+📅 **Friday, 03 July 2026** — refreshed 21:36 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:26:45 AM  ·  🌇 **Sunset** 10:00:06 PM
 ✨ **Golden hour** 9:06:23 PM  ·  ⏳ **Day length** 16:33:21
-🌖 **Moon**: Waning Gibbous (88% lit)
+🌖 **Moon**: Waning Gibbous (87% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 22°C (feels 24°C) · Partly cloudy
+☁️ **Eindhoven**: 18°C (feels 18°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Half-Baked Product](https://weli.dev/blog/half-baked-product/)
-- [PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit)
-- [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
-- [Valve open source the Steam Machine e-ink screen so you can make your own](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/)
+- [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm)
+- [Costco is the anti-Amazon](https://phenomenalworld.org/analysis/the-anti-amazon/)
+- [Factories are just rooms](https://interconnected.org/home/2026/07/03/factories)
+- [Hunting a 16-year-old SQLite WAL bug with TLA+](https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected)
 <!-- HN:end -->
 
 ---
