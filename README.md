@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 03 July 2026** — refreshed 11:26 CET
+📅 **Friday, 03 July 2026** — refreshed 16:19 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:26:45 AM  ·  🌇 **Sunset** 10:00:06 PM
 ✨ **Golden hour** 9:06:23 PM  ·  ⏳ **Day length** 16:33:21
-🌖 **Moon**: Waning Gibbous (90% lit)
+🌖 **Moon**: Waning Gibbous (88% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 19°C (feels 19°C) · Partly cloudy
+⛅ **Eindhoven**: 22°C (feels 24°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Half-Baked Product](https://weli.dev/blog/half-baked-product/)
+- [PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit](https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit)
 - [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data)
-- [CarPlay Is Additive](https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts)
-- [Right to Local Intelligence](https://righttointelligence.org/)
-- [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc)
+- [Valve open source the Steam Machine e-ink screen so you can make your own](https://www.gamingonlinux.com/2026/07/valve-open-source-the-steam-machine-e-ink-screen-so-you-can-make-your-own/)
 <!-- HN:end -->
 
 ---
