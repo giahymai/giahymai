@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 04 July 2026** — refreshed 10:44 CET
+📅 **Saturday, 04 July 2026** — refreshed 15:44 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:27:31 AM  ·  🌇 **Sunset** 9:59:40 PM
 ✨ **Golden hour** 9:06:04 PM  ·  ⏳ **Day length** 16:32:09
-🌖 **Moon**: Waning Gibbous (83% lit)
+🌖 **Moon**: Waning Gibbous (81% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 20°C (feels 20°C) · Sunny
+☁️ **Eindhoven**: 24°C (feels 25°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
-- [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
-- [Leanstral 1.5: Proof abundance for all](https://mistral.ai/news/leanstral-1-5/)
-- [Performance per dollar is getting faster and cheaper](https://www.wafer.ai/blog/glm52-amd)
+- [Astrophysicists Puzzle over Webb’s New Universe](https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/)
+- [The Vespa at 80: Why the Italian scooter remains the coolest thing on 2 wheels](https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641)
+- [Night Witches – all-female Soviet aviator regiment WW2](https://en.wikipedia.org/wiki/Night_Witches)
+- [Maybe you should learn something](https://www.marginalia.nu/log/a_135_learn/)
 <!-- HN:end -->
 
 ---
