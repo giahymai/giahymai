@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 03 July 2026** — refreshed 21:36 CET
+📅 **Saturday, 04 July 2026** — refreshed 05:36 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:26:45 AM  ·  🌇 **Sunset** 10:00:06 PM
-✨ **Golden hour** 9:06:23 PM  ·  ⏳ **Day length** 16:33:21
-🌖 **Moon**: Waning Gibbous (87% lit)
+🌅 **Sunrise** 5:27:31 AM  ·  🌇 **Sunset** 9:59:40 PM
+✨ **Golden hour** 9:06:04 PM  ·  ⏳ **Day length** 16:32:09
+🌖 **Moon**: Waning Gibbous (84% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 18°C (feels 18°C) · Overcast
+🌡️ **Eindhoven**: 10°C (feels 9°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
+💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm)
-- [Costco is the anti-Amazon](https://phenomenalworld.org/analysis/the-anti-amazon/)
-- [Factories are just rooms](https://interconnected.org/home/2026/07/03/factories)
-- [Hunting a 16-year-old SQLite WAL bug with TLA+](https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected)
+- [Giant trees have no trouble pumping water to top branches](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
+- [Leanstral 1.5: Proof abundance for all](https://mistral.ai/news/leanstral-1-5/)
+- [GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell](https://www.wafer.ai/blog/glm52-amd)
+- [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/)
 <!-- HN:end -->
 
 ---
