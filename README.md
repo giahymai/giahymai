@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 04 July 2026** — refreshed 05:36 CET
+📅 **Saturday, 04 July 2026** — refreshed 10:44 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:27:31 AM  ·  🌇 **Sunset** 9:59:40 PM
 ✨ **Golden hour** 9:06:04 PM  ·  ⏳ **Day length** 16:32:09
-🌖 **Moon**: Waning Gibbous (84% lit)
+🌖 **Moon**: Waning Gibbous (83% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 10°C (feels 9°C) · Partly Cloudy 
+☀️ **Eindhoven**: 20°C (feels 20°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Giant trees have no trouble pumping water to top branches](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/)
+- [The bottleneck might be the air in the room](https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/)
+- [Agentic coding notes from Galapagos Island](https://danluu.com/ai-coding/#appendix-agentic-loops-and-writing-this-post)
 - [Leanstral 1.5: Proof abundance for all](https://mistral.ai/news/leanstral-1-5/)
-- [GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell](https://www.wafer.ai/blog/glm52-amd)
-- [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/)
+- [Performance per dollar is getting faster and cheaper](https://www.wafer.ai/blog/glm52-amd)
 <!-- HN:end -->
 
 ---
