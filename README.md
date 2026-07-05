@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 05 July 2026** — refreshed 15:50 CET
+📅 **Sunday, 05 July 2026** — refreshed 21:24 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:28:19 AM  ·  🌇 **Sunset** 9:59:12 PM
 ✨ **Golden hour** 9:05:41 PM  ·  ⏳ **Day length** 16:30:52
-🌖 **Moon**: Waning Gibbous (72% lit)
+🌖 **Moon**: Waning Gibbous (70% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 21°C (feels 21°C) · Partly cloudy
+☁️ **Eindhoven**: 21°C (feels 21°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Phosh 0.56.0](https://phosh.mobi/releases/rel-0.56.0/)
-- [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/)
-- [If you're a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
-- [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog)
+- [Organic Maps](https://organicmaps.app/)
+- [The Computers Used in Movies](https://www.starringthecomputer.com/computers.html)
+- [New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
+- ["These cameras are just like the Eye of Sauron"](https://arxiv.org/abs/2602.09239)
 <!-- HN:end -->
 
 ---
