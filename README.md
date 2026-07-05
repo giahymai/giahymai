@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 05 July 2026** — refreshed 11:12 CET
+📅 **Sunday, 05 July 2026** — refreshed 15:50 CET
 <!-- DATE:end -->
 
 ---
@@ -20,7 +20,7 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:28:19 AM  ·  🌇 **Sunset** 9:59:12 PM
 ✨ **Golden hour** 9:05:41 PM  ·  ⏳ **Day length** 16:30:52
-🌖 **Moon**: Waning Gibbous (74% lit)
+🌖 **Moon**: Waning Gibbous (72% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog)
-- [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
+- [Phosh 0.56.0](https://phosh.mobi/releases/rel-0.56.0/)
+- [Introduction to Compilers and Language Design](https://dthain.github.io/books/compiler/)
 - [If you're a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
-- [Pandoc Lua Filters](https://pandoc.org/lua-filters.html)
+- [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog)
 <!-- HN:end -->
 
 ---
