@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 05 July 2026** — refreshed 05:54 CET
+📅 **Sunday, 05 July 2026** — refreshed 11:12 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:28:19 AM  ·  🌇 **Sunset** 9:59:12 PM
 ✨ **Golden hour** 9:05:41 PM  ·  ⏳ **Day length** 16:30:52
-🌖 **Moon**: Waning Gibbous (76% lit)
+🌖 **Moon**: Waning Gibbous (74% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 18°C (feels 18°C) · Partly cloudy
+⛅ **Eindhoven**: 21°C (feels 21°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Shadcn/UI now defaults to Base UI instead of Radix](https://ui.shadcn.com/docs/changelog)
 - [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
-- [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364)
 - [If you're a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
-- [Jellyfish can heal wounds in minutes. Scientists want their secrets](https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets)
+- [Pandoc Lua Filters](https://pandoc.org/lua-filters.html)
 <!-- HN:end -->
 
 ---
