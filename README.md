@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 04 July 2026** — refreshed 21:21 CET
+📅 **Sunday, 05 July 2026** — refreshed 05:54 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:27:31 AM  ·  🌇 **Sunset** 9:59:40 PM
-✨ **Golden hour** 9:06:04 PM  ·  ⏳ **Day length** 16:32:09
-🌖 **Moon**: Waning Gibbous (79% lit)
+🌅 **Sunrise** 5:28:19 AM  ·  🌇 **Sunset** 9:59:12 PM
+✨ **Golden hour** 9:05:41 PM  ·  ⏳ **Day length** 16:30:52
+🌖 **Moon**: Waning Gibbous (76% lit)
 
-> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
+> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 22°C (feels 25°C) · Overcast
+⛅ **Eindhoven**: 18°C (feels 18°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+💡 `git` was written by Linus Torvalds in about 10 days in 2005.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Leaking YouTube creators' private videos](https://javoriuski.com/post/youtube)
-- [Google Books (or similar) all book scans – $200k bounty (2025)](https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234)
-- [Potential session/cache leakage between workspace instances or consumer accounts](https://github.com/anthropics/claude-code/issues/74066)
-- [Verizon is About to Break our Watches](https://www.jefftk.com/p/verizon-is-about-to-break-our-watches)
+- [Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main)
+- [GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance](https://github.com/openai/codex/issues/30364)
+- [If you're a button, you have one job](https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/)
+- [Jellyfish can heal wounds in minutes. Scientists want their secrets](https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets)
 <!-- HN:end -->
 
 ---
