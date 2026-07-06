@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 06 July 2026** — refreshed 17:43 CET
+📅 **Monday, 06 July 2026** — refreshed 22:04 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:28:14 AM  ·  🌇 **Sunset** 9:57:08 PM
 ✨ **Golden hour** 9:03:51 PM  ·  ⏳ **Day length** 16:28:54
-🌗 **Moon**: Last Quarter (62% lit)
+🌗 **Moon**: Last Quarter (61% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 26°C (feels 26°C) · Overcast
+☁️ **Eindhoven**: 27°C (feels 27°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Emily Bender Sets the Record Straight on "Stochastic Parrots"](https://spectrum.ieee.org/stochastic-parrot)
-- [Aluminum foil (2021)](https://dernocua.github.io/notes/aluminum-foil.html)
+- [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
+- [A global workspace in language models](https://www.anthropic.com/research/global-workspace)
 - [AMD Ryzen AI Halo – $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
-- [Road to Elm 1.0](https://elm-lang.org/news/faster-builds)
+- [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
 <!-- HN:end -->
 
 ---
