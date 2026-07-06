@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 05 July 2026** — refreshed 21:24 CET
+📅 **Monday, 06 July 2026** — refreshed 06:01 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:28:19 AM  ·  🌇 **Sunset** 9:59:12 PM
-✨ **Golden hour** 9:05:41 PM  ·  ⏳ **Day length** 16:30:52
-🌖 **Moon**: Waning Gibbous (70% lit)
+🌅 **Sunrise** 5:29:10 AM  ·  🌇 **Sunset** 9:58:41 PM
+✨ **Golden hour** 9:05:17 PM  ·  ⏳ **Day length** 16:29:30
+🌗 **Moon**: Last Quarter (66% lit)
 
-> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
+> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 21°C (feels 21°C) · Overcast
+☁️ **Eindhoven**: 17°C (feels 17°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 `git` was written by Linus Torvalds in about 10 days in 2005.
+💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
+- [OpenPrinter](https://www.opentools.studio/)
+- [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
 - [Organic Maps](https://organicmaps.app/)
-- [The Computers Used in Movies](https://www.starringthecomputer.com/computers.html)
-- [New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]](https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf)
-- ["These cameras are just like the Eye of Sauron"](https://arxiv.org/abs/2602.09239)
 <!-- HN:end -->
 
 ---
