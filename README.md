@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 06 July 2026** — refreshed 12:47 CET
+📅 **Monday, 06 July 2026** — refreshed 17:43 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:29:10 AM  ·  🌇 **Sunset** 9:58:41 PM
-✨ **Golden hour** 9:05:17 PM  ·  ⏳ **Day length** 16:29:30
-🌗 **Moon**: Last Quarter (63% lit)
+🌅 **Sunrise** 5:28:14 AM  ·  🌇 **Sunset** 9:57:08 PM
+✨ **Golden hour** 9:03:51 PM  ·  ⏳ **Day length** 16:28:54
+🌗 **Moon**: Last Quarter (62% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 23°C (feels 25°C) · Overcast
+☁️ **Eindhoven**: 26°C (feels 26°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Real-time map of Great Britain's rail network](https://www.map.signalbox.io)
-- [GPT-5.6 Sol Ultra will be in Codex](https://twitter.com/thsottiaux/status/2073933490513752151)
-- [Has_not_been_viewed_much](https://iamwillwang.com/notes/has-not-been-viewed-much/)
-- [Organic Maps](https://organicmaps.app/)
+- [Emily Bender Sets the Record Straight on "Stochastic Parrots"](https://spectrum.ieee.org/stochastic-parrot)
+- [Aluminum foil (2021)](https://dernocua.github.io/notes/aluminum-foil.html)
+- [AMD Ryzen AI Halo – $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
+- [Road to Elm 1.0](https://elm-lang.org/news/faster-builds)
 <!-- HN:end -->
 
 ---
