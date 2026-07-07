@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 07 July 2026** — refreshed 05:52 CET
+📅 **Tuesday, 07 July 2026** — refreshed 11:50 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:29:08 AM  ·  🌇 **Sunset** 9:56:31 PM
 ✨ **Golden hour** 9:03:22 PM  ·  ⏳ **Day length** 16:27:23
-🌗 **Moon**: Last Quarter (57% lit)
+🌗 **Moon**: Last Quarter (54% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 18°C (feels 18°C) · Overcast
+☁️ **Eindhoven**: 21°C (feels 21°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
 - [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
-- [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
 - [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
+- [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/)
+- [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
 <!-- HN:end -->
 
 ---
