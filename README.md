@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 07 July 2026** — refreshed 16:47 CET
+📅 **Tuesday, 07 July 2026** — refreshed 22:02 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:29:08 AM  ·  🌇 **Sunset** 9:56:31 PM
 ✨ **Golden hour** 9:03:22 PM  ·  ⏳ **Day length** 16:27:23
-🌗 **Moon**: Last Quarter (52% lit)
+🌗 **Moon**: Last Quarter (50% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 27°C (feels 27°C) · Overcast
+☁️ **Eindhoven**: 23°C (feels 25°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -39,9 +39,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/)
-- [A better way to tie your gym shorts. (Or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk)
-- [98% Isn't Much](https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/)
-- [Europe's company websites are mostly served by US vendors](https://ciphercue.com/blog/european-web-hosting-vendor-share-2026)
+- [Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/)
+- [AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](https://blog.zksecurity.xyz/posts/circl-bugs/)
+- [30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format](https://30papers.com/)
 <!-- HN:end -->
 
 ---
