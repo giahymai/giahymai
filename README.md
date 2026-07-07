@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 06 July 2026** — refreshed 22:04 CET
+📅 **Tuesday, 07 July 2026** — refreshed 05:52 CET
 <!-- DATE:end -->
 
 ---
@@ -18,29 +18,29 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:28:14 AM  ·  🌇 **Sunset** 9:57:08 PM
-✨ **Golden hour** 9:03:51 PM  ·  ⏳ **Day length** 16:28:54
-🌗 **Moon**: Last Quarter (61% lit)
+🌅 **Sunrise** 5:29:08 AM  ·  🌇 **Sunset** 9:56:31 PM
+✨ **Golden hour** 9:03:22 PM  ·  ⏳ **Day length** 16:27:23
+🌗 **Moon**: Last Quarter (57% lit)
 
-> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
+> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 27°C (feels 27°C) · Overcast
+☁️ **Eindhoven**: 18°C (feels 18°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
+💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle)
 - [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one)
-- [A global workspace in language models](https://www.anthropic.com/research/global-workspace)
-- [AMD Ryzen AI Halo – $4k AI Dev Kit](https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo)
+- [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home)
 - [CoMaps – FOSS Offline Maps](https://www.comaps.app/)
 <!-- HN:end -->
 
