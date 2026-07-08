@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 08 July 2026** — refreshed 16:25 CET
+📅 **Wednesday, 08 July 2026** — refreshed 21:40 CET
 <!-- DATE:end -->
 
 ---
@@ -20,7 +20,7 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:30:04 AM  ·  🌇 **Sunset** 9:55:52 PM
 ✨ **Golden hour** 9:02:51 PM  ·  ⏳ **Day length** 16:25:47
-🌗 **Moon**: Last Quarter (41% lit)
+🌗 **Moon**: Last Quarter (39% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Decoding the obfuscated bash script on a Uniqlo t-shirt](https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/)
-- [Apple to increase spend with Broadcom to produce billions more U.S. chips](https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/)
-- [GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos](https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/)
-- [EVE Online's Carbon engine is now open source: Fenris Creations explains why](https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why)
+- [What Do We Know About the Microplastics Inside Us?](https://e360.yale.edu/features/cassandra-rauert-interview)
+- [Chatto is now Open Source](https://www.hmans.dev/blog/chatto-is-open-source)
+- [Mistral's Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/)
+- [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/)
 <!-- HN:end -->
 
 ---
