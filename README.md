@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 07 July 2026** — refreshed 22:02 CET
+📅 **Wednesday, 08 July 2026** — refreshed 05:19 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:29:08 AM  ·  🌇 **Sunset** 9:56:31 PM
-✨ **Golden hour** 9:03:22 PM  ·  ⏳ **Day length** 16:27:23
-🌗 **Moon**: Last Quarter (50% lit)
+🌅 **Sunrise** 5:30:04 AM  ·  🌇 **Sunset** 9:55:52 PM
+✨ **Golden hour** 9:02:51 PM  ·  ⏳ **Day length** 16:25:47
+🌗 **Moon**: Last Quarter (47% lit)
 
-> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
+> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 23°C (feels 25°C) · Overcast
+☁️ **Eindhoven**: 19°C (feels 19°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
+💡 `git` was written by Linus Torvalds in about 10 days in 2005.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/)
-- [Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/)
-- [AI Meets Cryptography 1: What AI Found in Cloudflare's Circl](https://blog.zksecurity.xyz/posts/circl-bugs/)
-- [30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format](https://30papers.com/)
+- [Is The Economist Always Wrong?](https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong)
+- [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193)
+- [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560)
+- [Canada's only watchmaking school still ticking after 80 years](https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211)
 <!-- HN:end -->
 
 ---
