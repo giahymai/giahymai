@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 08 July 2026** — refreshed 21:40 CET
+📅 **Thursday, 09 July 2026** — refreshed 05:45 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:30:04 AM  ·  🌇 **Sunset** 9:55:52 PM
-✨ **Golden hour** 9:02:51 PM  ·  ⏳ **Day length** 16:25:47
-🌗 **Moon**: Last Quarter (39% lit)
+🌅 **Sunrise** 5:31:03 AM  ·  🌇 **Sunset** 9:55:10 PM
+✨ **Golden hour** 9:02:17 PM  ·  ⏳ **Day length** 16:24:06
+🌗 **Moon**: Last Quarter (35% lit)
 
-> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
+> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 21°C (feels 21°C) · Overcast
+🌡️ **Eindhoven**: 12°C (feels 12°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 `git` was written by Linus Torvalds in about 10 days in 2005.
+💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [What Do We Know About the Microplastics Inside Us?](https://e360.yale.edu/features/cassandra-rauert-interview)
-- [Chatto is now Open Source](https://www.hmans.dev/blog/chatto-is-open-source)
-- [Mistral's Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/)
-- [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/)
+- [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
+- [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/)
+- [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source)
+- [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
 <!-- HN:end -->
 
 ---
