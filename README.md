@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 09 July 2026** — refreshed 11:48 CET
+📅 **Thursday, 09 July 2026** — refreshed 17:20 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:31:03 AM  ·  🌇 **Sunset** 9:55:10 PM
 ✨ **Golden hour** 9:02:17 PM  ·  ⏳ **Day length** 16:24:06
-🌗 **Moon**: Last Quarter (33% lit)
+🌘 **Moon**: Waning Crescent (30% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 20°C (feels 20°C) · Sunny
+☀️ **Eindhoven**: 29°C (feels 29°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
-- [Spider venom kills varroa mites without harming honeybees](https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming)
-- [Why developers are ditching GitHub for Codeberg and self-hosting alternatives](https://www.howtogeek.com/why-developers-are-ditching-github-for-codeberg-and-self-hosting-alternatives/)
-- [Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI](https://nexte.st/)
+- [Show HN: 18 Words](https://18words.com/)
+- [No leap second will be introduced at the end of December 2026](https://datacenter.iers.org/data/latestVersion/bulletinC.txt)
+- [Introducing Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1)
+- [PostHog Open Sourced](https://github.com/PostHog/posthog-foss)
 <!-- HN:end -->
 
 ---
