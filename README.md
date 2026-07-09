@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 09 July 2026** — refreshed 17:20 CET
+📅 **Thursday, 09 July 2026** — refreshed 21:53 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:31:03 AM  ·  🌇 **Sunset** 9:55:10 PM
 ✨ **Golden hour** 9:02:17 PM  ·  ⏳ **Day length** 16:24:06
-🌘 **Moon**: Waning Crescent (30% lit)
+🌘 **Moon**: Waning Crescent (28% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 29°C (feels 29°C) · Sunny
+☀️ **Eindhoven**: 25°C (feels 26°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [GPT-5.6](https://openai.com/index/gpt-5-6/)
+- [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
+- [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
 - [Show HN: 18 Words](https://18words.com/)
-- [No leap second will be introduced at the end of December 2026](https://datacenter.iers.org/data/latestVersion/bulletinC.txt)
-- [Introducing Muse Spark 1.1](https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/?_fb_noscript=1)
-- [PostHog Open Sourced](https://github.com/PostHog/posthog-foss)
 <!-- HN:end -->
 
 ---
