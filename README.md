@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 10 July 2026** — refreshed 05:47 CET
+📅 **Friday, 10 July 2026** — refreshed 11:44 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:32:04 AM  ·  🌇 **Sunset** 9:54:25 PM
 ✨ **Golden hour** 9:01:40 PM  ·  ⏳ **Day length** 16:22:20
-🌘 **Moon**: Waning Crescent (25% lit)
+🌘 **Moon**: Waning Crescent (22% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 16°C (feels 16°C) · Overcast
+☁️ **Eindhoven**: 21°C (feels 21°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)
-- [Focus](https://boz.com/articles/focus)
-- [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
 - [GPT-5.6](https://openai.com/index/gpt-5-6/)
+- [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)
+- [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
+- [Train sim created by just one person is being called the best ever made](https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429)
 <!-- HN:end -->
 
 ---
