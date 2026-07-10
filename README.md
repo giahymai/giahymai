@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 10 July 2026** — refreshed 16:38 CET
+📅 **Friday, 10 July 2026** — refreshed 21:39 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:32:04 AM  ·  🌇 **Sunset** 9:54:25 PM
 ✨ **Golden hour** 9:01:40 PM  ·  ⏳ **Day length** 16:22:20
-🌘 **Moon**: Waning Crescent (20% lit)
+🌘 **Moon**: Waning Crescent (18% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 28°C (feels 27°C) · Overcast
+☀️ **Eindhoven**: 26°C (feels 26°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/)
-- [Punk, or why I don't stream anymore](https://geohot.github.io//blog/jekyll/update/2026/05/03/punk-or-why-i-dont-stream.html)
-- [Write code like a human will maintain it](https://unstack.io/write-code-like-a-human-will-maintain-it)
-- [Scarf has moved away from Haskell](https://avi.press/posts/2026-07-10-after-7-years-in-production-scarf-has-reluctantly-moved-away-from-haskell.html)
+- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
+- [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf)
+- [Snails' Teeth Beats Spider Silk as Nature's Strongest Material (2015)](https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/)
+- [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/)
 <!-- HN:end -->
 
 ---
