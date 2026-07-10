@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 09 July 2026** — refreshed 21:53 CET
+📅 **Friday, 10 July 2026** — refreshed 05:47 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:31:03 AM  ·  🌇 **Sunset** 9:55:10 PM
-✨ **Golden hour** 9:02:17 PM  ·  ⏳ **Day length** 16:24:06
-🌘 **Moon**: Waning Crescent (28% lit)
+🌅 **Sunrise** 5:32:04 AM  ·  🌇 **Sunset** 9:54:25 PM
+✨ **Golden hour** 9:01:40 PM  ·  ⏳ **Day length** 16:22:20
+🌘 **Moon**: Waning Crescent (25% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 25°C (feels 26°C) · Sunny
+☁️ **Eindhoven**: 16°C (feels 16°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri)
+- [Focus](https://boz.com/articles/focus)
+- [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
 - [GPT-5.6](https://openai.com/index/gpt-5-6/)
-- [ChatGPT Work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
-- [GLM 5.2 is nearly as accurate as a human book keeper](https://toot-books.pages.dev/blog/glm-5-2-vat-benchmark)
-- [Show HN: 18 Words](https://18words.com/)
 <!-- HN:end -->
 
 ---
