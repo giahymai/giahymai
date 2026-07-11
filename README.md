@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 11 July 2026** — refreshed 15:37 CET
+📅 **Saturday, 11 July 2026** — refreshed 21:10 CET
 <!-- DATE:end -->
 
 ---
@@ -20,7 +20,7 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:33:07 AM  ·  🌇 **Sunset** 9:53:37 PM
 ✨ **Golden hour** 9:01:01 PM  ·  ⏳ **Day length** 16:20:29
-🌘 **Moon**: Waning Crescent (12% lit)
+🌘 **Moon**: Waning Crescent (10% lit)
 
 > 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)
-- [Your code is fast – if you're lucky](https://tiki.li/blog/lucky_code.html)
-- [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
-- [Semantic/Hybrid Search in the Browser](https://bart.degoe.de/semantic-search-in-your-browser/)
+- [Prefer Strict Tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/)
+- [How to Hide from Killer Drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones)
+- [Who manages the agents?](https://www.off-policy.com/dont-go-quietly-into-the-ai-night/)
+- [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres)
 <!-- HN:end -->
 
 ---
