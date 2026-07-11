@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 11 July 2026** — refreshed 10:03 CET
+📅 **Saturday, 11 July 2026** — refreshed 15:37 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:33:07 AM  ·  🌇 **Sunset** 9:53:37 PM
 ✨ **Golden hour** 9:01:01 PM  ·  ⏳ **Day length** 16:20:29
-🌘 **Moon**: Waning Crescent (14% lit)
+🌘 **Moon**: Waning Crescent (12% lit)
 
 > 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 20°C (feels 20°C) · Sunny
+☀️ **Eindhoven**: 28°C (feels 28°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Networking and the Internet, from First Principles](https://fazamhd.com/mental-models/networking/)
+- [Your code is fast – if you're lucky](https://tiki.li/blog/lucky_code.html)
 - [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity)
-- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/)
-- [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/)
-- [What's the best way to do authentication in modern applications](https://neciudan.dev/most-secure-way-to-store-auth-token)
+- [Semantic/Hybrid Search in the Browser](https://bart.degoe.de/semantic-search-in-your-browser/)
 <!-- HN:end -->
 
 ---
