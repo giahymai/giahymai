@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 12 July 2026** — refreshed 10:24 CET
+📅 **Sunday, 12 July 2026** — refreshed 15:37 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:34:11 AM  ·  🌇 **Sunset** 9:52:46 PM
 ✨ **Golden hour** 9:00:19 PM  ·  ⏳ **Day length** 16:18:34
-🌘 **Moon**: Waning Crescent (6% lit)
+🌘 **Moon**: Waning Crescent (5% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 20°C (feels 20°C) · Sunny
+☁️ **Eindhoven**: 29°C (feels 29°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
-- [Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase](https://github.com/cosmtrek/mindwalk)
-- [Vint Cerf will step down from his role at Google next week](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
-- [Protobuf-py: Protobuf for Python, without compromises](https://buf.build/blog/protobuf-py)
+- [Old and new apps, via modern coding agents by Terry Tao](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)
+- [Yt-Dlp Sequence Diagrams](https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video)
+- [Understanding the Odin Programming Language](https://odinbook.com/)
+- [Ghostel.el: Terminal emulator powered by libghostty](https://dakra.github.io/ghostel/)
 <!-- HN:end -->
 
 ---
