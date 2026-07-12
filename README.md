@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 11 July 2026** — refreshed 21:10 CET
+📅 **Sunday, 12 July 2026** — refreshed 05:25 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:33:07 AM  ·  🌇 **Sunset** 9:53:37 PM
-✨ **Golden hour** 9:01:01 PM  ·  ⏳ **Day length** 16:20:29
-🌘 **Moon**: Waning Crescent (10% lit)
+🌅 **Sunrise** 5:34:11 AM  ·  🌇 **Sunset** 9:52:46 PM
+✨ **Golden hour** 9:00:19 PM  ·  ⏳ **Day length** 16:18:34
+🌘 **Moon**: Waning Crescent (8% lit)
 
-> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
+> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 28°C (feels 28°C) · Sunny
+🌡️ **Eindhoven**: 20°C (feels 20°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Prefer Strict Tables in SQLite](https://evanhahn.com/prefer-strict-tables-in-sqlite/)
-- [How to Hide from Killer Drones](https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones)
-- [Who manages the agents?](https://www.off-policy.com/dont-go-quietly-into-the-ai-night/)
-- [We scaled PgBouncer to 4x throughput](https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres)
+- [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
+- [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)
+- [What xAI's Grok Build CLI Actually Sends to xAI](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547)
+- [A pure scheme web programming tool](https://goeteia.dev)
 <!-- HN:end -->
 
 ---
