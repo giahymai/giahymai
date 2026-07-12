@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 12 July 2026** — refreshed 05:25 CET
+📅 **Sunday, 12 July 2026** — refreshed 10:24 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:34:11 AM  ·  🌇 **Sunset** 9:52:46 PM
 ✨ **Golden hour** 9:00:19 PM  ·  ⏳ **Day length** 16:18:34
-🌘 **Moon**: Waning Crescent (8% lit)
+🌘 **Moon**: Waning Crescent (6% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 20°C (feels 20°C) · Clear 
+☀️ **Eindhoven**: 20°C (feels 20°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -39,9 +39,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm)
-- [We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture](https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/)
-- [What xAI's Grok Build CLI Actually Sends to xAI](https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547)
-- [A pure scheme web programming tool](https://goeteia.dev)
+- [Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase](https://github.com/cosmtrek/mindwalk)
+- [Vint Cerf will step down from his role at Google next week](https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/)
+- [Protobuf-py: Protobuf for Python, without compromises](https://buf.build/blog/protobuf-py)
 <!-- HN:end -->
 
 ---
