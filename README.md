@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 12 July 2026** — refreshed 15:37 CET
+📅 **Sunday, 12 July 2026** — refreshed 21:11 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:34:11 AM  ·  🌇 **Sunset** 9:52:46 PM
 ✨ **Golden hour** 9:00:19 PM  ·  ⏳ **Day length** 16:18:34
-🌘 **Moon**: Waning Crescent (5% lit)
+🌘 **Moon**: Waning Crescent (4% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 29°C (feels 29°C) · Overcast
+☁️ **Eindhoven**: 26°C (feels 26°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Old and new apps, via modern coding agents by Terry Tao](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)
-- [Yt-Dlp Sequence Diagrams](https://app.ilograph.com/demo.ilograph.yt-dlp/Download%2520a%2520YouTube%2520Video)
-- [Understanding the Odin Programming Language](https://odinbook.com/)
-- [Ghostel.el: Terminal emulator powered by libghostty](https://dakra.github.io/ghostel/)
+- [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)
+- [Old and new apps, via modern coding agents](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)
+- [The shingles vaccine may reduce the risk of dementia](https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain)
+- [Don't you mean extinct?](https://fabiensanglard.net/extinct/index.html)
 <!-- HN:end -->
 
 ---
