@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 12 July 2026** — refreshed 21:11 CET
+📅 **Monday, 13 July 2026** — refreshed 05:28 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:34:11 AM  ·  🌇 **Sunset** 9:52:46 PM
-✨ **Golden hour** 9:00:19 PM  ·  ⏳ **Day length** 16:18:34
-🌘 **Moon**: Waning Crescent (4% lit)
+🌅 **Sunrise** 5:35:18 AM  ·  🌇 **Sunset** 9:51:52 PM
+✨ **Golden hour** 8:59:35 PM  ·  ⏳ **Day length** 16:16:34
+🌑 **Moon**: New Moon (3% lit)
 
-> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
+> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 26°C (feels 26°C) · Overcast
+🌡️ **Eindhoven**: 16°C (feels 16°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
+💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k](https://systima.ai/blog/claude-code-vs-opencode-token-overhead)
-- [Old and new apps, via modern coding agents](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/)
-- [The shingles vaccine may reduce the risk of dementia](https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain)
-- [Don't you mean extinct?](https://fabiensanglard.net/extinct/index.html)
+- [Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
+- [GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/)
+- [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/)
+- [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
 <!-- HN:end -->
 
 ---
