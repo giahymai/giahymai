@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 13 July 2026** — refreshed 11:36 CET
+📅 **Monday, 13 July 2026** — refreshed 16:44 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:35:18 AM  ·  🌇 **Sunset** 9:51:52 PM
 ✨ **Golden hour** 8:59:35 PM  ·  ⏳ **Day length** 16:16:34
-🌑 **Moon**: New Moon (2% lit)
+🌑 **Moon**: New Moon (1% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 20°C (feels 20°C) · Partly Cloudy 
+☁️ **Eindhoven**: 28°C (feels 27°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)
-- [Interrail: 6,379Km and 13 Countries over 7 weeks](https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/)
-- [Backtrack-Free Cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
-- [Beavis Ultrasound PnP ISA Sound Card Replica](https://github.com/schlae/BeavisUltrasound)
+- [Show HN: Clawk – Give coding agents a disposable Linux VM, not your laptop](https://github.com/clawkwork/clawk)
+- [A voxel Tokyo in real Japan time – ride the Yamanote line and study Japanese](https://jivx.com/densha)
+- [Grok uploaded my user directory to xAI's servers](https://twitter.com/a_green_being/status/2076598897779020159)
+- [Show HN: DOM-docx – HTML to native, editable Word docs (MIT)](https://github.com/floodtide/dom-docx)
 <!-- HN:end -->
 
 ---
