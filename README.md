@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 13 July 2026** — refreshed 05:28 CET
+📅 **Monday, 13 July 2026** — refreshed 11:36 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:35:18 AM  ·  🌇 **Sunset** 9:51:52 PM
 ✨ **Golden hour** 8:59:35 PM  ·  ⏳ **Day length** 16:16:34
-🌑 **Moon**: New Moon (3% lit)
+🌑 **Moon**: New Moon (2% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 16°C (feels 16°C) · Clear 
+🌡️ **Eindhoven**: 20°C (feels 20°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/)
-- [GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years](https://nebusec.ai/research/ionstack-part-2/)
-- [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/)
-- [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html)
+- [Zig Creator Calls Spade a Spade, Anthropic Blows Smoke](https://raymyers.org/post/zed-creator-calls-spade-a-spade/)
+- [Interrail: 6,379Km and 13 Countries over 7 weeks](https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/)
+- [Backtrack-Free Cursive](https://mmapped.blog/posts/52-backtrack-free-cursive)
+- [Beavis Ultrasound PnP ISA Sound Card Replica](https://github.com/schlae/BeavisUltrasound)
 <!-- HN:end -->
 
 ---
