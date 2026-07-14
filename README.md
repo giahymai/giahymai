@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 14 July 2026** — refreshed 04:50 CET
+📅 **Tuesday, 14 July 2026** — refreshed 10:16 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 20°C (feels 20°C) · Overcast
+⛅ **Eindhoven**: 22°C (feels 25°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
+- [YouTrackDB is a general-use object-oriented graph database](https://github.com/JetBrains/youtrackdb)
 - [The Git history command deserves more attention](https://lalitm.com/post/git-history/)
-- [Fundamentals of Wireless Communication](https://web.stanford.edu/~dntse/wireless_book.html)
-- [Building and shipping Mac and iOS apps without opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/)
-- [An Englishwoman who sketched India before photography took hold](https://www.bbc.com/news/articles/cm2drrv6q54o)
+- [Fundamentals of Wireless Communication (2005)](https://web.stanford.edu/~dntse/wireless_book.html)
 <!-- HN:end -->
 
 ---
