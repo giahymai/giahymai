@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 13 July 2026** — refreshed 21:34 CET
+📅 **Tuesday, 14 July 2026** — refreshed 04:50 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:35:18 AM  ·  🌇 **Sunset** 9:51:52 PM
-✨ **Golden hour** 8:59:35 PM  ·  ⏳ **Day length** 16:16:34
-🌑 **Moon**: New Moon (1% lit)
+🌅 **Sunrise** 5:36:26 AM  ·  🌇 **Sunset** 9:50:56 PM
+✨ **Golden hour** 8:58:49 PM  ·  ⏳ **Day length** 16:14:29
+🌑 **Moon**: New Moon (0% lit)
 
-> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
+> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 28°C (feels 28°C) · Overcast
+☁️ **Eindhoven**: 20°C (feels 20°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
+💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html)
-- [Show HN: Super Dario](https://superdario.pawb.de)
-- [Building and Shipping Mac and iOS Apps Without Ever Opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/)
-- [The real prices of frontier models. Tokens * Price, right?](https://playcode.io/blog/real-price-of-frontier-models)
+- [The Git history command deserves more attention](https://lalitm.com/post/git-history/)
+- [Fundamentals of Wireless Communication](https://web.stanford.edu/~dntse/wireless_book.html)
+- [Building and shipping Mac and iOS apps without opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/)
+- [An Englishwoman who sketched India before photography took hold](https://www.bbc.com/news/articles/cm2drrv6q54o)
 <!-- HN:end -->
 
 ---
