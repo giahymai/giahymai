@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 14 July 2026** — refreshed 10:16 CET
+📅 **Tuesday, 14 July 2026** — refreshed 15:55 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 22°C (feels 25°C) · Partly cloudy
+☀️ **Eindhoven**: 30°C (feels 29°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Japan develops a method to recover up to 90% of lithium from used EV batteries](https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/)
-- [YouTrackDB is a general-use object-oriented graph database](https://github.com/JetBrains/youtrackdb)
-- [The Git history command deserves more attention](https://lalitm.com/post/git-history/)
-- [Fundamentals of Wireless Communication (2005)](https://web.stanford.edu/~dntse/wireless_book.html)
+- [Codex starts encrypting sub-agent prompts](https://github.com/openai/codex/issues/28058)
+- [Codex scraped the ICM website and discovered 2026 Fields Medal winner list](https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948)
+- [Beautiful Type Erasure with C++26 Reflection](https://ryanjk5.github.io/posts/rjk-duck/)
+- [Proof of Care in the Age of A.I](https://jacobfilipp.com/care/)
 <!-- HN:end -->
 
 ---
