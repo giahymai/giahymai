@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 15 July 2026** — refreshed 10:22 CET
+📅 **Wednesday, 15 July 2026** — refreshed 15:52 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:37:37 AM  ·  🌇 **Sunset** 9:49:56 PM
 ✨ **Golden hour** 8:57:59 PM  ·  ⏳ **Day length** 16:12:19
-🌑 **Moon**: New Moon (1% lit)
+🌑 **Moon**: New Moon (2% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 20°C (feels 13°C) · Sunny
+☀️ **Eindhoven**: 28°C (feels 27°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Sleep regularity is a stronger predictor of mortality risk than sleep duration](https://academic.oup.com/sleep/article/47/1/zsad253/7280269)
+- [Mysteries of Telegram Data Centers](https://dev.moe/en/3025)
+- [The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence](https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence)
 - [Jurassic Park computers in excruciating detail](https://fabiensanglard.net/jurrasic_park_computers/index.html)
-- [RISC-V Is Inevitable: State of the Union Keynote Argues](https://www.eetimes.com/risc-v-is-inevitable-state-of-the-union-keynote-argues/)
-- [I tricked Claude into leaking your deepest, darkest secrets](https://www.ayush.digital/blog/the-memory-heist)
-- [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/)
 <!-- HN:end -->
 
 ---
