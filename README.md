@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 14 July 2026** — refreshed 21:26 CET
+📅 **Wednesday, 15 July 2026** — refreshed 04:49 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:36:26 AM  ·  🌇 **Sunset** 9:50:56 PM
-✨ **Golden hour** 8:58:49 PM  ·  ⏳ **Day length** 16:14:29
-🌑 **Moon**: New Moon (0% lit)
+🌅 **Sunrise** 5:37:37 AM  ·  🌇 **Sunset** 9:49:56 PM
+✨ **Golden hour** 8:57:59 PM  ·  ⏳ **Day length** 16:12:19
+🌑 **Moon**: New Moon (1% lit)
 
-> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
+> 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 28°C (feels 28°C) · Sunny
+☁️ **Eindhoven**: 20°C (feels 20°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK](https://marco-nett.de/blog/measuring-input-latency-on-linux-x11-vs-wayland-vrr-dxvk/)
-- [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/)
-- [Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone](https://prismml.com/news/bonsai-27b)
-- [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/)
+- [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/)
+- [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins)
+- [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b)
+- [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/)
 <!-- HN:end -->
 
 ---
