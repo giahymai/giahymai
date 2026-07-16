@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 16 July 2026** — refreshed 16:03 CET
+📅 **Thursday, 16 July 2026** — refreshed 21:19 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:38:48 AM  ·  🌇 **Sunset** 9:48:55 PM
 ✨ **Golden hour** 8:57:08 PM  ·  ⏳ **Day length** 16:10:06
-🌒 **Moon**: Waxing Crescent (7% lit)
+🌒 **Moon**: Waxing Crescent (8% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 28°C (feels 27°C) · Partly cloudy
+☀️ **Eindhoven**: 26°C (feels 26°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237)
-- [Goes-19 weather satellite enters Safe Hold mode](https://www.spaceweather.gov/news/goes-19-safe-hold)
-- [Let's Build PlanetScale from Scratch: Infrastructure](https://onatm.dev/2026/07/16/homescale-part-1/)
-- [How to spend 15 years perfecting a product](https://refactoring.guru/email/gbb-rollout2)
+- [Kimi K3 is now live](https://www.kimi.com/en)
+- [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
+- [Decoy Font](https://www.mixfont.com/experiments/decoy-font)
+- [Detecting LLM-Generated Texts with “Classical” Machine Learning](https://blog.lyc8503.net/en/post/llm-classifier/)
 <!-- HN:end -->
 
 ---
