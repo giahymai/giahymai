@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 16 July 2026** — refreshed 04:56 CET
+📅 **Thursday, 16 July 2026** — refreshed 10:21 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:38:48 AM  ·  🌇 **Sunset** 9:48:55 PM
 ✨ **Golden hour** 8:57:08 PM  ·  ⏳ **Day length** 16:10:06
-🌒 **Moon**: Waxing Crescent (4% lit)
+🌒 **Moon**: Waxing Crescent (5% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 17°C (feels 17°C) · Overcast
+🌡️ **Eindhoven**: 21°C (feels 21°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
 - [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
-- [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
-- [G# – A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/)
-- [Grok Build is open source](https://github.com/xai-org/grok-build)
+- [If you want to create a button from scratch, you must first create the universe](https://madcampos.dev/blog/2026/07/accessibility-from-scratch/)
+- [Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't](https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/)
 <!-- HN:end -->
 
 ---
