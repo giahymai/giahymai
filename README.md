@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 16 July 2026** — refreshed 10:21 CET
+📅 **Thursday, 16 July 2026** — refreshed 16:03 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:38:48 AM  ·  🌇 **Sunset** 9:48:55 PM
 ✨ **Golden hour** 8:57:08 PM  ·  ⏳ **Day length** 16:10:06
-🌒 **Moon**: Waxing Crescent (5% lit)
+🌒 **Moon**: Waxing Crescent (7% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 21°C (feels 21°C) · Partly Cloudy 
+⛅ **Eindhoven**: 28°C (feels 27°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [The lost joy of music piracy](https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming)
-- [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
-- [If you want to create a button from scratch, you must first create the universe](https://madcampos.dev/blog/2026/07/accessibility-from-scratch/)
-- [Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't](https://goughlui.com/2026/07/09/teardown-a-generic-7-port-usb-3-0-hub-that-wasnt/)
+- [OnePlus halts operations in USA and Europe](https://community.oneplus.com/thread/2170715118587871237)
+- [Goes-19 weather satellite enters Safe Hold mode](https://www.spaceweather.gov/news/goes-19-safe-hold)
+- [Let's Build PlanetScale from Scratch: Infrastructure](https://onatm.dev/2026/07/16/homescale-part-1/)
+- [How to spend 15 years perfecting a product](https://refactoring.guru/email/gbb-rollout2)
 <!-- HN:end -->
 
 ---
