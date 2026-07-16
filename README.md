@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 15 July 2026** — refreshed 21:18 CET
+📅 **Thursday, 16 July 2026** — refreshed 04:56 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:37:37 AM  ·  🌇 **Sunset** 9:49:56 PM
-✨ **Golden hour** 8:57:59 PM  ·  ⏳ **Day length** 16:12:19
-🌑 **Moon**: New Moon (3% lit)
+🌅 **Sunrise** 5:38:48 AM  ·  🌇 **Sunset** 9:48:55 PM
+✨ **Golden hour** 8:57:08 PM  ·  ⏳ **Day length** 16:10:06
+🌒 **Moon**: Waxing Crescent (4% lit)
 
-> 🔭 *A day on Venus is longer than its year.*
+> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 27°C (feels 26°C) · Sunny
+☁️ **Eindhoven**: 17°C (feels 17°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
+💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
-- [Codex Micro](https://openai.com/supply/co-lab/work-louder/)
-- [Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU](https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/)
-- [Stripe and Advent have made a joint offer to acquire PayPal – sources](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/)
+- [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/)
+- [G# – A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/)
+- [Grok Build is open source](https://github.com/xai-org/grok-build)
 <!-- HN:end -->
 
 ---
