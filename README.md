@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 16 July 2026** — refreshed 21:19 CET
+📅 **Friday, 17 July 2026** — refreshed 05:13 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:38:48 AM  ·  🌇 **Sunset** 9:48:55 PM
-✨ **Golden hour** 8:57:08 PM  ·  ⏳ **Day length** 16:10:06
-🌒 **Moon**: Waxing Crescent (8% lit)
+🌅 **Sunrise** 5:40:02 AM  ·  🌇 **Sunset** 9:47:50 PM
+✨ **Golden hour** 8:56:14 PM  ·  ⏳ **Day length** 16:07:48
+🌒 **Moon**: Waxing Crescent (10% lit)
 
-> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
+> 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 26°C (feels 26°C) · Sunny
+☁️ **Eindhoven**: 17°C (feels 17°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Kimi K3 is now live](https://www.kimi.com/en)
+- [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
 - [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
+- [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
 - [Decoy Font](https://www.mixfont.com/experiments/decoy-font)
-- [Detecting LLM-Generated Texts with “Classical” Machine Learning](https://blog.lyc8503.net/en/post/llm-classifier/)
 <!-- HN:end -->
 
 ---
