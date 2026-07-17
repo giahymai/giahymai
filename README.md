@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 17 July 2026** — refreshed 05:13 CET
+📅 **Friday, 17 July 2026** — refreshed 10:17 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:40:02 AM  ·  🌇 **Sunset** 9:47:50 PM
 ✨ **Golden hour** 8:56:14 PM  ·  ⏳ **Day length** 16:07:48
-🌒 **Moon**: Waxing Crescent (10% lit)
+🌒 **Moon**: Waxing Crescent (12% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 17°C (feels 17°C) · Overcast
+🌫️ **Eindhoven**: 17°C (feels 17°C) · Mist
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876)
+- [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/)
 - [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3)
-- [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/)
-- [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic)
-- [Decoy Font](https://www.mixfont.com/experiments/decoy-font)
+- [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026)
 <!-- HN:end -->
 
 ---
