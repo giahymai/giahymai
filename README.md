@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 17 July 2026** — refreshed 21:17 CET
+📅 **Saturday, 18 July 2026** — refreshed 04:50 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:40:02 AM  ·  🌇 **Sunset** 9:47:50 PM
-✨ **Golden hour** 8:56:14 PM  ·  ⏳ **Day length** 16:07:48
-🌒 **Moon**: Waxing Crescent (15% lit)
+🌅 **Sunrise** 5:41:17 AM  ·  🌇 **Sunset** 9:46:43 PM
+✨ **Golden hour** 8:55:17 PM  ·  ⏳ **Day length** 16:05:26
+🌒 **Moon**: Waxing Crescent (18% lit)
 
-> 🔭 *A day on Venus is longer than its year.*
+> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 22°C (feels 24°C) · Sunny
+⛅ **Eindhoven**: 15°C (feels 15°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
 - [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)
-- [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo)
-- [Mozilla: The state of open source AI](https://stateofopensource.ai/)
-- [Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/)
+- [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551)
+- [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
 <!-- HN:end -->
 
 ---
