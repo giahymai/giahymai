@@ -1,8 +1,8 @@
 <svg viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sky over the Netherlands">
 <defs>
   <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0%" stop-color="#4a90d9"/>
-    <stop offset="100%" stop-color="#aed4f5"/>
+    <stop offset="0%" stop-color="#3575be"/>
+    <stop offset="100%" stop-color="#e5d8c6"/>
   </linearGradient>
 </defs>
 <rect width="800" height="240" rx="14" fill="url(#sky)"/>

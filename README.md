@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 18 July 2026** — refreshed 09:59 CET
+📅 **Saturday, 18 July 2026** — refreshed 15:25 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:41:17 AM  ·  🌇 **Sunset** 9:46:43 PM
 ✨ **Golden hour** 8:55:17 PM  ·  ⏳ **Day length** 16:05:26
-🌒 **Moon**: Waxing Crescent (20% lit)
+🌒 **Moon**: Waxing Crescent (22% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 18°C (feels 18°C) · Overcast
+🌡️ **Eindhoven**: 27°C (feels 20°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/)
+- [LG monitors silently install software through Windows Update without consent](https://videocardz.com/newz/lg-monitors-silently-install-software-through-windows-update-without-user-consent)
+- [Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?](https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal/)
 - [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
-- [Reviving a 15-year-old netbook with Arch Linux](https://parksb.github.io/en/article/41.html)
-- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)
-- [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551)
 <!-- HN:end -->
 
 ---
