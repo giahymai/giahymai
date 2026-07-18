@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 18 July 2026** — refreshed 04:50 CET
+📅 **Saturday, 18 July 2026** — refreshed 09:59 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:41:17 AM  ·  🌇 **Sunset** 9:46:43 PM
 ✨ **Golden hour** 8:55:17 PM  ·  ⏳ **Day length** 16:05:26
-🌒 **Moon**: Waxing Crescent (18% lit)
+🌒 **Moon**: Waxing Crescent (20% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 15°C (feels 15°C) · Partly cloudy
+☁️ **Eindhoven**: 18°C (feels 18°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/)
+- [Regressive JPEGs](https://maurycyz.com/projects/bad_jpeg/)
+- [Reviving a 15-year-old netbook with Arch Linux](https://parksb.github.io/en/article/41.html)
 - [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241)
 - [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551)
-- [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html)
 <!-- HN:end -->
 
 ---
