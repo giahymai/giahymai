@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 19 July 2026** — refreshed 10:25 CET
+📅 **Sunday, 19 July 2026** — refreshed 15:27 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:42:33 AM  ·  🌇 **Sunset** 9:45:34 PM
 ✨ **Golden hour** 8:54:18 PM  ·  ⏳ **Day length** 16:03:00
-🌒 **Moon**: Waxing Crescent (29% lit)
+🌓 **Moon**: First Quarter (31% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 16°C (feels 16°C) · Partly cloudy
+☁️ **Eindhoven**: 20°C (feels 20°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp)
-- [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro)
-- [Searchable field-level encryption on Supabase with CipherStash](https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash)
-- [Codex Resets](https://codex-resets.com/)
+- [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan)
+- [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)
+- [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)
+- [Blender 5.2 LTS](https://www.blender.org/download/releases/5-2/)
 <!-- HN:end -->
 
 ---
