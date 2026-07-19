@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 19 July 2026** — refreshed 15:27 CET
+📅 **Sunday, 19 July 2026** — refreshed 21:12 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:42:33 AM  ·  🌇 **Sunset** 9:45:34 PM
 ✨ **Golden hour** 8:54:18 PM  ·  ⏳ **Day length** 16:03:00
-🌓 **Moon**: First Quarter (31% lit)
+🌓 **Moon**: First Quarter (34% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 20°C (feels 20°C) · Overcast
+☀️ **Eindhoven**: 18°C (feels 18°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Qwen 3.8 Max Preview](https://www.qwencloud.com/pricing/token-plan)
+- [Qwen 3.8](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
+- [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606)
+- [HMD Touch 4G](https://www.hmd.com/en_int/hmd-touch-4g)
 - [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)
-- [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4)
-- [Blender 5.2 LTS](https://www.blender.org/download/releases/5-2/)
 <!-- HN:end -->
 
 ---
