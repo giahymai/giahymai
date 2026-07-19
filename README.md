@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 18 July 2026** — refreshed 21:11 CET
+📅 **Sunday, 19 July 2026** — refreshed 05:21 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:41:17 AM  ·  🌇 **Sunset** 9:46:43 PM
-✨ **Golden hour** 8:55:17 PM  ·  ⏳ **Day length** 16:05:26
-🌒 **Moon**: Waxing Crescent (24% lit)
+🌅 **Sunrise** 5:42:33 AM  ·  🌇 **Sunset** 9:45:34 PM
+✨ **Golden hour** 8:54:18 PM  ·  ⏳ **Day length** 16:03:00
+🌒 **Moon**: Waxing Crescent (27% lit)
 
-> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
+> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 17°C (feels 17°C) · Partly cloudy
+⛅ **Eindhoven**: 11°C (feels 10°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
+💡 `git` was written by Linus Torvalds in about 10 days in 2005.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [REO Trucks I4 4WD Pickup Truck Starts at $21,500](https://reotrucks.com)
-- [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/)
-- [Goodbye, and Thanks for All the Bikesheds](https://queue.acm.org/detail.cfm?id=3818307)
-- [Gleam Is Now on Tangled](https://tangled.org/gleam.run/gleam)
+- [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp)
+- [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro)
+- [Better and Cheaper Than IPTV](https://github.com/stupside/castor)
+- [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/)
 <!-- HN:end -->
 
 ---
