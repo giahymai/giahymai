@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 19 July 2026** — refreshed 05:21 CET
+📅 **Sunday, 19 July 2026** — refreshed 10:25 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:42:33 AM  ·  🌇 **Sunset** 9:45:34 PM
 ✨ **Golden hour** 8:54:18 PM  ·  ⏳ **Day length** 16:03:00
-🌒 **Moon**: Waxing Crescent (27% lit)
+🌒 **Moon**: Waxing Crescent (29% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 11°C (feels 10°C) · Partly cloudy
+⛅ **Eindhoven**: 16°C (feels 16°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -40,8 +40,8 @@
 <!-- HN:start -->
 - [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp)
 - [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro)
-- [Better and Cheaper Than IPTV](https://github.com/stupside/castor)
-- [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/)
+- [Searchable field-level encryption on Supabase with CipherStash](https://supabase.com/blog/searchable-field-level-encryption-with-cipherstash)
+- [Codex Resets](https://codex-resets.com/)
 <!-- HN:end -->
 
 ---
