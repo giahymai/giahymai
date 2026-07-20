@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 19 July 2026** — refreshed 21:12 CET
+📅 **Monday, 20 July 2026** — refreshed 05:35 CET
 <!-- DATE:end -->
 
 ---
@@ -18,29 +18,29 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:42:33 AM  ·  🌇 **Sunset** 9:45:34 PM
-✨ **Golden hour** 8:54:18 PM  ·  ⏳ **Day length** 16:03:00
-🌓 **Moon**: First Quarter (34% lit)
+🌅 **Sunrise** 5:43:51 AM  ·  🌇 **Sunset** 9:44:22 PM
+✨ **Golden hour** 8:53:17 PM  ·  ⏳ **Day length** 16:00:30
+🌓 **Moon**: First Quarter (37% lit)
 
-> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
+> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 18°C (feels 18°C) · Sunny
+☁️ **Eindhoven**: 13°C (feels 13°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 `git` was written by Linus Torvalds in about 10 days in 2005.
+💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Qwen 3.8](https://twitter.com/Alibaba_Qwen/status/2078759124914098291)
 - [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606)
-- [HMD Touch 4G](https://www.hmd.com/en_int/hmd-touch-4g)
+- [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/)
+- [The Zen of Parallel Programming](https://smolnero.com/posts/the-zen-of-parallel-programming)
 - [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard)
 <!-- HN:end -->
 
