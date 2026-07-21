@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 21 July 2026** — refreshed 16:03 CET
+📅 **Tuesday, 21 July 2026** — refreshed 21:37 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:45:11 AM  ·  🌇 **Sunset** 9:43:08 PM
 ✨ **Golden hour** 8:52:14 PM  ·  ⏳ **Day length** 15:57:57
-🌓 **Moon**: First Quarter (51% lit)
+🌓 **Moon**: First Quarter (54% lit)
 
 > 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 22°C (feels 24°C) · Partly cloudy
+☀️ **Eindhoven**: 21°C (feels 21°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0)
-- [New US homeownership measure puts people first](https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first)
-- [Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog](https://fidget-spinner.github.io/posts/ultra-fast-tracing.html)
-- [Incremental – A library for incremental computations](https://github.com/janestreet/incremental)
+- [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
+- [Long presumed dead, a thriving coral reef is discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef)
+- [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)
+- [Apple has decided to compete for creativity app users](https://alex4d.com/notes/item/apple-competing-for-creativity-app-users)
 <!-- HN:end -->
 
 ---
