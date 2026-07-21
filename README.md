@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 21 July 2026** — refreshed 10:36 CET
+📅 **Tuesday, 21 July 2026** — refreshed 16:03 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:45:11 AM  ·  🌇 **Sunset** 9:43:08 PM
 ✨ **Golden hour** 8:52:14 PM  ·  ⏳ **Day length** 15:57:57
-🌓 **Moon**: First Quarter (49% lit)
+🌓 **Moon**: First Quarter (51% lit)
 
 > 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 17°C (feels 17°C) · Overcast
+⛅ **Eindhoven**: 22°C (feels 24°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge](https://qwen.ai/blog?id=qwen-image-3.0)
+- [New US homeownership measure puts people first](https://www.minneapolisfed.org/article/2026/new-homeownership-measure-puts-people-first)
+- [Python 3.15's Ultra-Low Overhead Interpreter Profiling Mode – Ken Jin's Blog](https://fidget-spinner.github.io/posts/ultra-fast-tracing.html)
 - [Incremental – A library for incremental computations](https://github.com/janestreet/incremental)
-- [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
-- [Running Doom on Our Custom CPU and Going Viral](https://www.armaangomes.com/blogs/doom/)
-- [Kimi Work](https://www.kimi.com/products/kimi-work)
 <!-- HN:end -->
 
 ---
