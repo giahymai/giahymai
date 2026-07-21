@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 20 July 2026** — refreshed 21:48 CET
+📅 **Tuesday, 21 July 2026** — refreshed 05:16 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:43:51 AM  ·  🌇 **Sunset** 9:44:22 PM
-✨ **Golden hour** 8:53:17 PM  ·  ⏳ **Day length** 16:00:30
-🌓 **Moon**: First Quarter (44% lit)
+🌅 **Sunrise** 5:45:11 AM  ·  🌇 **Sunset** 9:43:08 PM
+✨ **Golden hour** 8:52:14 PM  ·  ⏳ **Day length** 15:57:57
+🌓 **Moon**: First Quarter (47% lit)
 
-> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
+> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 20°C (feels 20°C) · Sunny
+🌡️ **Eindhoven**: 10°C (feels 9°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
+💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [China's open-weights AI strategy is winning](https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/)
-- [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/)
+- [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/)
+- [Jellyfin founder Andrew leaves team](https://forum.jellyfin.org/t-project-leadership-changes)
 - [Kimi Work](https://www.kimi.com/products/kimi-work)
-- [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/)
+- [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/)
 <!-- HN:end -->
 
 ---
