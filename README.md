@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 22 July 2026** — refreshed 16:06 CET
+📅 **Wednesday, 22 July 2026** — refreshed 21:26 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:46:31 AM  ·  🌇 **Sunset** 9:41:51 PM
 ✨ **Golden hour** 8:51:08 PM  ·  ⏳ **Day length** 15:55:19
-🌓 **Moon**: First Quarter (61% lit)
+🌓 **Moon**: First Quarter (63% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 17°C) · Mist, Light Drizzle And Rain
+☁️ **Eindhoven**: 18°C (feels 18°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [OverpAId – Fire your CEO. Hire the future](https://overpaid.lol)
-- [Back to Kagi](https://blog.melashri.net/micro/back-to-kagi/)
-- [Businesses with ugly AI menu redesigns](https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/)
-- [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+- [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
+- [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)
+- [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/)
+- [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html)
 <!-- HN:end -->
 
 ---
