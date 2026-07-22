@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 21 July 2026** — refreshed 21:37 CET
+📅 **Wednesday, 22 July 2026** — refreshed 05:14 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:45:11 AM  ·  🌇 **Sunset** 9:43:08 PM
-✨ **Golden hour** 8:52:14 PM  ·  ⏳ **Day length** 15:57:57
-🌓 **Moon**: First Quarter (54% lit)
+🌅 **Sunrise** 5:46:31 AM  ·  🌇 **Sunset** 9:41:51 PM
+✨ **Golden hour** 8:51:08 PM  ·  ⏳ **Day length** 15:55:19
+🌓 **Moon**: First Quarter (57% lit)
 
-> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
+> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 21°C (feels 21°C) · Sunny
+☁️ **Eindhoven**: 14°C (feels 14°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
+💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
+- [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
 - [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
-- [Long presumed dead, a thriving coral reef is discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef)
-- [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/)
-- [Apple has decided to compete for creativity app users](https://alex4d.com/notes/item/apple-competing-for-creativity-app-users)
+- [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)
 <!-- HN:end -->
 
 ---
