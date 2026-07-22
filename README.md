@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 22 July 2026** — refreshed 05:14 CET
+📅 **Wednesday, 22 July 2026** — refreshed 10:35 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:46:31 AM  ·  🌇 **Sunset** 9:41:51 PM
 ✨ **Golden hour** 8:51:08 PM  ·  ⏳ **Day length** 15:55:19
-🌓 **Moon**: First Quarter (57% lit)
+🌓 **Moon**: First Quarter (59% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 14°C (feels 14°C) · Overcast
+🌡️ **Eindhoven**: 16°C (feels 16°C) · Light Drizzle And Rain
 <!-- WEATHER:end -->
 ---
 
@@ -40,8 +40,8 @@
 <!-- HN:start -->
 - [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
 - [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable)
-- [FreeInk: Open ecosystem for e-readers](https://freeink.org/)
-- [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/)
+- [Original Apollo 11 Guidance Computer source code for command and lunar modules](https://github.com/chrislgarry/Apollo-11)
+- [Intel Starts Shipping High-NA EUV Silicon](https://morethanmoore.substack.com/p/intel-starts-shipping-high-na-euv)
 <!-- HN:end -->
 
 ---
