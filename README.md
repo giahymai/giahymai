@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 23 July 2026** — refreshed 10:37 CET
+📅 **Thursday, 23 July 2026** — refreshed 16:11 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:47:53 AM  ·  🌇 **Sunset** 9:40:32 PM
 ✨ **Golden hour** 8:50:00 PM  ·  ⏳ **Day length** 15:52:39
-🌓 **Moon**: First Quarter (68% lit)
+🌔 **Moon**: Waxing Gibbous (70% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 17°C (feels 17°C) · Overcast
+☁️ **Eindhoven**: 22°C (feels 24°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot](https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html)
-- [git's –end-of-options Flag](https://nesbitt.io/2026/07/21/end-of-options.html)
-- [Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
-- [Cruller: Bun's Zig Runtime, Continued on Zig 0.16](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734)
+- [Astronomers may have found the first exomoon](https://www.eso.org/public/news/eso2610/)
+- [OpenAI and Anthropic unite against open-weight AI risks to their bottom line](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
+- [Scanning for Pangram Errors](https://veryfineprint.substack.com/p/scanning-for-pangram-errors)
+- [Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
 <!-- HN:end -->
 
 ---
