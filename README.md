@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 23 July 2026** — refreshed 16:11 CET
+📅 **Thursday, 23 July 2026** — refreshed 21:24 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:47:53 AM  ·  🌇 **Sunset** 9:40:32 PM
 ✨ **Golden hour** 8:50:00 PM  ·  ⏳ **Day length** 15:52:39
-🌔 **Moon**: Waxing Gibbous (70% lit)
+🌔 **Moon**: Waxing Gibbous (72% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 22°C (feels 24°C) · Overcast
+☁️ **Eindhoven**: 19°C (feels 19°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Astronomers may have found the first exomoon](https://www.eso.org/public/news/eso2610/)
-- [OpenAI and Anthropic unite against open-weight AI risks to their bottom line](https://www.axios.com/2026/07/22/openai-anthropic-open-models-trump-china)
-- [Scanning for Pangram Errors](https://veryfineprint.substack.com/p/scanning-for-pangram-errors)
-- [Alphabet's cash burn raises alarm for Big Tech as AI spending climbs](https://www.reuters.com/business/retail-consumer/alphabets-cash-burn-raises-alarm-big-tech-ai-spending-climbs-2026-07-23/)
+- [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
+- [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all)
+- [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/)
+- [A solid-state “atomic channel” for separating rare earth elements](https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements)
 <!-- HN:end -->
 
 ---
