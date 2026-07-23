@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 23 July 2026** — refreshed 05:20 CET
+📅 **Thursday, 23 July 2026** — refreshed 10:37 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:47:53 AM  ·  🌇 **Sunset** 9:40:32 PM
 ✨ **Golden hour** 8:50:00 PM  ·  ⏳ **Day length** 15:52:39
-🌓 **Moon**: First Quarter (66% lit)
+🌓 **Moon**: First Quarter (68% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 15°C (feels 15°C) · Overcast
+☁️ **Eindhoven**: 17°C (feels 17°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Run large language models at home, BitTorrent‑style](https://petals.dev/)
-- [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
-- [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the)
-- [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/)
+- [Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot](https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html)
+- [git's –end-of-options Flag](https://nesbitt.io/2026/07/21/end-of-options.html)
+- [Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56)
+- [Cruller: Bun's Zig Runtime, Continued on Zig 0.16](https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734)
 <!-- HN:end -->
 
 ---
