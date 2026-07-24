@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 24 July 2026** — refreshed 15:54 CET
+📅 **Friday, 24 July 2026** — refreshed 21:35 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:49:16 AM  ·  🌇 **Sunset** 9:39:11 PM
 ✨ **Golden hour** 8:48:50 PM  ·  ⏳ **Day length** 15:49:55
-🌔 **Moon**: Waxing Gibbous (78% lit)
+🌔 **Moon**: Waxing Gibbous (80% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 27°C (feels 21°C) · Sunny
+☁️ **Eindhoven**: 22°C (feels 24°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Flux 3 X Mimic: The Next Generation of Video-Action Models](https://bfl.ai/blog/flux-3-mimic)
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
+- [Nvidia, Microsoft, Meta warn against overregulating open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html)
+- [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
 - [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
-- [Flux 3](https://bfl.ai/blog/flux-3)
-- [It's getting harder to focus every day](https://glyphack.com/attention/)
 <!-- HN:end -->
 
 ---
