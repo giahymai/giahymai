@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 23 July 2026** — refreshed 21:24 CET
+📅 **Friday, 24 July 2026** — refreshed 05:15 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:47:53 AM  ·  🌇 **Sunset** 9:40:32 PM
-✨ **Golden hour** 8:50:00 PM  ·  ⏳ **Day length** 15:52:39
-🌔 **Moon**: Waxing Gibbous (72% lit)
+🌅 **Sunrise** 5:49:16 AM  ·  🌇 **Sunset** 9:39:11 PM
+✨ **Golden hour** 8:48:50 PM  ·  ⏳ **Day length** 15:49:55
+🌔 **Moon**: Waxing Gibbous (75% lit)
 
-> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
+> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 19°C (feels 19°C) · Overcast
+☁️ **Eindhoven**: 12°C (feels 13°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Python is named after Monty Python, not the snake.
+💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [98.css](https://jdan.github.io/98.css/#status-bar)
 - [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
-- [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all)
-- [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/)
-- [A solid-state “atomic channel” for separating rare earth elements](https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements)
+- [The Visual 6502](http://visual6502.org/JSSim/index.html)
+- [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810)
 <!-- HN:end -->
 
 ---
