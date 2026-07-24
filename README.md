@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 24 July 2026** — refreshed 10:33 CET
+📅 **Friday, 24 July 2026** — refreshed 15:54 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:49:16 AM  ·  🌇 **Sunset** 9:39:11 PM
 ✨ **Golden hour** 8:48:50 PM  ·  ⏳ **Day length** 15:49:55
-🌔 **Moon**: Waxing Gibbous (77% lit)
+🌔 **Moon**: Waxing Gibbous (78% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 16°C (feels 16°C) · Overcast
+☀️ **Eindhoven**: 27°C (feels 21°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Flux 3 X Mimic: The Next Generation of Video-Action Models](https://bfl.ai/blog/flux-3-mimic)
+- [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
 - [Flux 3](https://bfl.ai/blog/flux-3)
-- [The PImpl idiom and the C++26 std:indirect type](https://mariusbancila.ro/blog/2026/07/23/the-pimpl-idiom-and-the-cpp26-stdindirect-type/)
-- [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your)
-- [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992)
+- [It's getting harder to focus every day](https://glyphack.com/attention/)
 <!-- HN:end -->
 
 ---
