@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 25 July 2026** — refreshed 05:13 CET
+📅 **Saturday, 25 July 2026** — refreshed 10:12 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:50:40 AM  ·  🌇 **Sunset** 9:37:47 PM
 ✨ **Golden hour** 8:47:38 PM  ·  ⏳ **Day length** 15:47:07
-🌔 **Moon**: Waxing Gibbous (83% lit)
+🌔 **Moon**: Waxing Gibbous (84% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 14°C (feels 14°C) · Overcast
+⛅ **Eindhoven**: 19°C (feels 19°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
+- [ARC-AGI Leaderboard](https://arcprize.org/leaderboard)
 - [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
-- [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
-- [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
-- [India's first privately-developed rocket reaches orbit on debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/)
+- [GC and Exceptions in Wasmtime](https://bytecodealliance.org/articles/wasmtime-gc)
 <!-- HN:end -->
 
 ---
