@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 25 July 2026** — refreshed 15:44 CET
+📅 **Saturday, 25 July 2026** — refreshed 21:14 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:50:40 AM  ·  🌇 **Sunset** 9:37:47 PM
 ✨ **Golden hour** 8:47:38 PM  ·  ⏳ **Day length** 15:47:07
-🌔 **Moon**: Waxing Gibbous (86% lit)
+🌔 **Moon**: Waxing Gibbous (87% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 27°C (feels 26°C) · Partly cloudy
+⛅ **Eindhoven**: 27°C (feels 27°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons)
+- [Open-weight AI is having its Kubernetes moment](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
 - [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
-- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
-- [My Images Are Dithered](https://dead.garden/blog/how-my-images-are-dithered.html)
-- [Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach](https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize)
+- [Show HN: I made some transistor animations](https://brandonli.net/semisim/animations)
 <!-- HN:end -->
 
 ---
