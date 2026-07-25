@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 24 July 2026** — refreshed 21:35 CET
+📅 **Saturday, 25 July 2026** — refreshed 05:13 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:49:16 AM  ·  🌇 **Sunset** 9:39:11 PM
-✨ **Golden hour** 8:48:50 PM  ·  ⏳ **Day length** 15:49:55
-🌔 **Moon**: Waxing Gibbous (80% lit)
+🌅 **Sunrise** 5:50:40 AM  ·  🌇 **Sunset** 9:37:47 PM
+✨ **Golden hour** 8:47:38 PM  ·  ⏳ **Day length** 15:47:07
+🌔 **Moon**: Waxing Gibbous (83% lit)
 
-> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
+> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 22°C (feels 24°C) · Overcast
+☁️ **Eindhoven**: 14°C (feels 14°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
+💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
-- [Nvidia, Microsoft, Meta warn against overregulating open-weight models](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html)
 - [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability)
-- [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/)
+- [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/)
+- [India's first privately-developed rocket reaches orbit on debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/)
 <!-- HN:end -->
 
 ---
