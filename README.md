@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 25 July 2026** — refreshed 21:14 CET
+📅 **Sunday, 26 July 2026** — refreshed 05:27 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:50:40 AM  ·  🌇 **Sunset** 9:37:47 PM
-✨ **Golden hour** 8:47:38 PM  ·  ⏳ **Day length** 15:47:07
-🌔 **Moon**: Waxing Gibbous (87% lit)
+🌅 **Sunrise** 5:52:05 AM  ·  🌇 **Sunset** 9:36:22 PM
+✨ **Golden hour** 8:46:24 PM  ·  ⏳ **Day length** 15:44:17
+🌔 **Moon**: Waxing Gibbous (89% lit)
 
-> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
+> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 27°C (feels 27°C) · Partly cloudy
+☁️ **Eindhoven**: 18°C (feels 18°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [JetZero](https://www.jetzero.aero)
 - [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons)
-- [Open-weight AI is having its Kubernetes moment](https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/)
-- [Android May Soon Restrict On-Device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/)
-- [Show HN: I made some transistor animations](https://brandonli.net/semisim/animations)
+- [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html)
+- [Show HN: I mapped every US golf course – 16k+ courses, free, no signup](https://golfcoursebrowser.com/)
 <!-- HN:end -->
 
 ---
