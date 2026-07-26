@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 26 July 2026** — refreshed 10:32 CET
+📅 **Sunday, 26 July 2026** — refreshed 15:38 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:52:05 AM  ·  🌇 **Sunset** 9:36:22 PM
 ✨ **Golden hour** 8:46:24 PM  ·  ⏳ **Day length** 15:44:17
-🌔 **Moon**: Waxing Gibbous (90% lit)
+🌔 **Moon**: Waxing Gibbous (92% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 12°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 22°C (feels 13°C) · Light drizzle
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
-- [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
-- [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
-- [Show HN: I mapped every US golf course](https://golfcoursebrowser.com/)
+- [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)
+- [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/)
+- [Go Analysis Framework: modular static analysis by go team](https://pkg.go.dev/golang.org/x/tools/go/analysis)
+- [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
 <!-- HN:end -->
 
 ---
