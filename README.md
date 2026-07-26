@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 26 July 2026** — refreshed 15:38 CET
+📅 **Sunday, 26 July 2026** — refreshed 21:18 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:52:05 AM  ·  🌇 **Sunset** 9:36:22 PM
 ✨ **Golden hour** 8:46:24 PM  ·  ⏳ **Day length** 15:44:17
-🌔 **Moon**: Waxing Gibbous (92% lit)
+🌔 **Moon**: Waxing Gibbous (93% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 22°C (feels 13°C) · Light drizzle
+☁️ **Eindhoven**: 20°C (feels 20°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)
-- [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/)
-- [Go Analysis Framework: modular static analysis by go team](https://pkg.go.dev/golang.org/x/tools/go/analysis)
-- [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices)
+- [Kill The Cookie Banner](https://killthecookiebanner.eu/)
+- [London Gatwick has launched a robotic airport parking service](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
+- [Design is compromise](https://stephango.com/design-is-compromise)
+- [Decker](https://beyondloom.com/decker/)
 <!-- HN:end -->
 
 ---
