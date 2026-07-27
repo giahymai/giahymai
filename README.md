@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 26 July 2026** — refreshed 21:18 CET
+📅 **Monday, 27 July 2026** — refreshed 05:35 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:52:05 AM  ·  🌇 **Sunset** 9:36:22 PM
-✨ **Golden hour** 8:46:24 PM  ·  ⏳ **Day length** 15:44:17
-🌔 **Moon**: Waxing Gibbous (93% lit)
+🌅 **Sunrise** 5:53:31 AM  ·  🌇 **Sunset** 9:34:54 PM
+✨ **Golden hour** 8:45:07 PM  ·  ⏳ **Day length** 15:41:23
+🌔 **Moon**: Waxing Gibbous (94% lit)
 
-> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
+> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 20°C (feels 20°C) · Overcast
+🌡️ **Eindhoven**: 16°C (feels 9°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
+💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Kill The Cookie Banner](https://killthecookiebanner.eu/)
-- [London Gatwick has launched a robotic airport parking service](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/)
-- [Design is compromise](https://stephango.com/design-is-compromise)
-- [Decker](https://beyondloom.com/decker/)
+- [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/)
+- [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in)
+- [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/)
+- [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time)
 <!-- HN:end -->
 
 ---
