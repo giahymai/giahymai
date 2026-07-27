@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 27 July 2026** — refreshed 16:46 CET
+📅 **Monday, 27 July 2026** — refreshed 21:41 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:53:31 AM  ·  🌇 **Sunset** 9:34:54 PM
 ✨ **Golden hour** 8:45:07 PM  ·  ⏳ **Day length** 15:41:23
-🌕 **Moon**: Full Moon (96% lit)
+🌕 **Moon**: Full Moon (97% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 22°C (feels 24°C) · Overcast
+☀️ **Eindhoven**: 20°C (feels 14°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Kimi-K3 Releases on HuggingFace 7/27](https://huggingface.co/moonshotai/Kimi-K3)
-- [Should you wash your solar panels?](https://incoherency.co.uk/blog/stories/should-you-wash-your-solar-panels.html)
-- [How is the Bun Rewrite in Rust going?](https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html)
-- [AI companies are shredding rare books](https://xcancel.com/HedgieMarkets/status/2081534588485296565)
+- [MAI-Cyber-1-Flash inside MDASH](https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/)
+- [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html)
+- [Decathlon Germany adds Wero payment option to decathlon.de website](https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article)
+- [Kimi-K3 on HuggingFace](https://huggingface.co/moonshotai/Kimi-K3)
 <!-- HN:end -->
 
 ---
