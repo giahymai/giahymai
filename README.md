@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 28 July 2026** — refreshed 16:20 CET
+📅 **Tuesday, 28 July 2026** — refreshed 21:38 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 28°C (feels 27°C) · Sunny
+☀️ **Eindhoven**: 27°C (feels 22°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [7.1 Earthquake in Japan](https://www.data.jma.go.jp/multi/quake/quake_detail.html?eventID=20260728163528&lang=en)
-- [New HIV vaccine shows unprecedented success in preclinical study](https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/)
-- [Show HN: tale.fyi, we deserve a home for fiction](https://tale.fyi/@sam/announcing-tale-fyi-read-or-listen-to-an-entire-book-from-a-single-link)
-- [Show HN: Formally verified 3D CSG: Trust 93 lines spec, not 1000 lines AI code](https://github.com/schildep/verified-3d-mesh-intersection)
+- [Deflock Casa Grande](https://deflockcg.com/)
+- [Donate to GrapheneOS](https://grapheneos.org/donate)
+- [A walk through of the DeltaNet family of linear attention variants](https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention)
+- [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/)
 <!-- HN:end -->
 
 ---
