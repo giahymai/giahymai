@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 27 July 2026** — refreshed 21:41 CET
+📅 **Tuesday, 28 July 2026** — refreshed 04:52 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:53:31 AM  ·  🌇 **Sunset** 9:34:54 PM
-✨ **Golden hour** 8:45:07 PM  ·  ⏳ **Day length** 15:41:23
-🌕 **Moon**: Full Moon (97% lit)
+🌅 **Sunrise** 5:54:57 AM  ·  🌇 **Sunset** 9:33:24 PM
+✨ **Golden hour** 8:43:48 PM  ·  ⏳ **Day length** 15:38:26
+🌕 **Moon**: Full Moon (98% lit)
 
-> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 20°C (feels 14°C) · Sunny
+🌙 **Eindhoven**: 10°C (feels 9°C) · Clear
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
+💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [MAI-Cyber-1-Flash inside MDASH](https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/)
-- [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html)
-- [Decathlon Germany adds Wero payment option to decathlon.de website](https://www.sgieurope.com/e-commerce/decathlon-germany-launches-wero-payment-on-its-website/122397.article)
-- [Kimi-K3 on HuggingFace](https://huggingface.co/moonshotai/Kimi-K3)
+- [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models)
+- [Benchmarking Opus 5 on SlopCodeBench](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md)
+- [Astronauts describe persistent 'observer' sensation after 6 month missions](https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/)
+- [EYG: A Programming Language for Humans](https://crowdhailer.me/2026-06-08/a-programming-language-for-humans/)
 <!-- HN:end -->
 
 ---
