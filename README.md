@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 29 July 2026** — refreshed 10:47 CET
+📅 **Wednesday, 29 July 2026** — refreshed 16:20 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 27°C (feels 26°C) · Sunny
+☀️ **Eindhoven**: 34°C (feels 32°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [More Tailscale tricks for your jailbroken Kindle](https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes)
-- [User Interfaces of the Demo Scene](https://www.datagubbe.se/scenegui/)
-- [Codex Security](https://github.com/openai/codex-security)
-- [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere)
+- [KOReader](https://koreader.rocks/)
+- [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398)
+- [Show HN: Bullshit Detector – agent skills that fact-check videos and articles](https://github.com/SerhiiKorniienko/bullshit-detector)
+- [Document-borne AI worms can self-propagate through Copilot for Word](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
 <!-- HN:end -->
 
 ---
