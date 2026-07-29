@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 28 July 2026** — refreshed 21:38 CET
+📅 **Wednesday, 29 July 2026** — refreshed 05:11 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:54:57 AM  ·  🌇 **Sunset** 9:33:24 PM
-✨ **Golden hour** 8:43:48 PM  ·  ⏳ **Day length** 15:38:26
-🌕 **Moon**: Full Moon (99% lit)
+🌅 **Sunrise** 5:56:25 AM  ·  🌇 **Sunset** 9:31:53 PM
+✨ **Golden hour** 8:42:28 PM  ·  ⏳ **Day length** 15:35:27
+🌕 **Moon**: Full Moon (100% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 27°C (feels 22°C) · Sunny
+🌙 **Eindhoven**: 16°C (feels 16°C) · Clear
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
+💡 Python is named after Monty Python, not the snake.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Deflock Casa Grande](https://deflockcg.com/)
-- [Donate to GrapheneOS](https://grapheneos.org/donate)
-- [A walk through of the DeltaNet family of linear attention variants](https://blog.doubleword.ai/you-could-have-come-up-with-kimi-delta-attention)
-- [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/)
+- [Codex Security](https://github.com/openai/codex-security)
+- [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere)
+- [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/)
+- [LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences](https://learnvector.ai/)
 <!-- HN:end -->
 
 ---
