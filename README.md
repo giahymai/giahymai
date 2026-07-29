@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 29 July 2026** — refreshed 16:20 CET
+📅 **Wednesday, 29 July 2026** — refreshed 21:23 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 34°C (feels 32°C) · Sunny
+☀️ **Eindhoven**: 32°C (feels 30°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)
+- [Superlogical](https://www.superlogical.com/)
+- [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice)
 - [KOReader](https://koreader.rocks/)
-- [Handbook.md shows that long policy documents do not reliably govern agents](https://arxiv.org/abs/2607.25398)
-- [Show HN: Bullshit Detector – agent skills that fact-check videos and articles](https://github.com/SerhiiKorniienko/bullshit-detector)
-- [Document-borne AI worms can self-propagate through Copilot for Word](https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/)
 <!-- HN:end -->
 
 ---
