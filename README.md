@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 30 July 2026** — refreshed 04:43 CET
+📅 **Thursday, 30 July 2026** — refreshed 10:34 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:57:54 AM  ·  🌇 **Sunset** 9:30:19 PM
 ✨ **Golden hour** 8:41:05 PM  ·  ⏳ **Day length** 15:32:25
-🌕 **Moon**: Full Moon (100% lit)
+🌕 **Moon**: Full Moon (99% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 21°C (feels 15°C) · Clear 
+☀️ **Eindhoven**: 26°C (feels 20°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -40,7 +40,7 @@
 <!-- HN:start -->
 - [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
 - [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
-- [A pharmacy chain in Vermont implemented AI for efficiency](https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/)
+- [I Have Thoughts on the iPhone Air](https://christianselig.com/2026/07/iphone-air-review/)
 - [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)
 <!-- HN:end -->
 
