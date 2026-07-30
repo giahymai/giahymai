@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 30 July 2026** — refreshed 10:34 CET
+📅 **Thursday, 30 July 2026** — refreshed 16:12 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 26°C (feels 20°C) · Sunny
+☀️ **Eindhoven**: 27°C (feels 26°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research)
-- [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/)
-- [I Have Thoughts on the iPhone Air](https://christianselig.com/2026/07/iphone-air-review/)
-- [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare)
+- ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312)
+- [RFC 8890 – The Internet is for End Users (2020)](https://mnot.net/blog/2020/for_the_users)
+- [Why Is Everyone Trying to Build a Solid-State Battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a)
+- [How Old Is Ann?](https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/)
 <!-- HN:end -->
 
 ---
