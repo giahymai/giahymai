@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 30 July 2026** — refreshed 16:12 CET
+📅 **Thursday, 30 July 2026** — refreshed 21:39 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 27°C (feels 26°C) · Sunny
+☀️ **Eindhoven**: 22°C (feels 24°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- ['VPNs are lawful technical tools,' says EU Court in landmark copyright ruling](https://remysharp.com/links/2026-07-23-35890312)
-- [RFC 8890 – The Internet is for End Users (2020)](https://mnot.net/blog/2020/for_the_users)
-- [Why Is Everyone Trying to Build a Solid-State Battery?](https://www.construction-physics.com/p/why-is-everyone-trying-to-build-a)
-- [How Old Is Ann?](https://quuxplusone.github.io/blog/2026/07/29/how-old-is-ann/)
+- [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
+- [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)
+- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
+- [Postgres Queues Actually Scale](https://www.dbos.dev/blog/making-postgres-queues-scale)
 <!-- HN:end -->
 
 ---
