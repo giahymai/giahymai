@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 31 July 2026** — refreshed 05:26 CET
+📅 **Friday, 31 July 2026** — refreshed 10:55 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:59:23 AM  ·  🌇 **Sunset** 9:28:43 PM
 ✨ **Golden hour** 8:39:41 PM  ·  ⏳ **Day length** 15:29:20
-🌕 **Moon**: Full Moon (98% lit)
+🌕 **Moon**: Full Moon (97% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌫️ **Eindhoven**: 16°C (feels 16°C) · Mist
+🌡️ **Eindhoven**: 24°C (feels 23°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
-- [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
-- [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)
-- [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish)
+- [The session you cannot take with you](https://earendil.com/posts/session-portability/)
+- [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120)
+- [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)
+- [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/)
 <!-- HN:end -->
 
 ---
