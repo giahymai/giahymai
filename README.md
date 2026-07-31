@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 31 July 2026** — refreshed 10:55 CET
+📅 **Friday, 31 July 2026** — refreshed 16:19 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 5:59:23 AM  ·  🌇 **Sunset** 9:28:43 PM
 ✨ **Golden hour** 8:39:41 PM  ·  ⏳ **Day length** 15:29:20
-🌕 **Moon**: Full Moon (97% lit)
+🌖 **Moon**: Waning Gibbous (96% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 24°C (feels 23°C) · Partly Cloudy 
+☀️ **Eindhoven**: 31°C (feels 29°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash-ga)
 - [The session you cannot take with you](https://earendil.com/posts/session-portability/)
-- [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120)
 - [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/)
-- [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/)
+- [Situational Awareness Down 67% in July in AI Stock Rout](https://www.wsj.com/finance/investing/situational-awareness-down-67-in-july-in-ai-stock-rout-cd19901f)
 <!-- HN:end -->
 
 ---
