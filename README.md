@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 30 July 2026** — refreshed 21:39 CET
+📅 **Friday, 31 July 2026** — refreshed 05:26 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:57:54 AM  ·  🌇 **Sunset** 9:30:19 PM
-✨ **Golden hour** 8:41:05 PM  ·  ⏳ **Day length** 15:32:25
-🌕 **Moon**: Full Moon (99% lit)
+🌅 **Sunrise** 5:59:23 AM  ·  🌇 **Sunset** 9:28:43 PM
+✨ **Golden hour** 8:39:41 PM  ·  ⏳ **Day length** 15:29:20
+🌕 **Moon**: Full Moon (98% lit)
 
-> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 22°C (feels 24°C) · Sunny
+🌫️ **Eindhoven**: 16°C (feels 16°C) · Mist
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Python is named after Monty Python, not the snake.
+💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/)
 - [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
-- [Advancing the price-performance frontier with GPT‑5.6](https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/)
-- [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/)
-- [Postgres Queues Actually Scale](https://www.dbos.dev/blog/making-postgres-queues-scale)
+- [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/)
+- [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish)
 <!-- HN:end -->
 
 ---
