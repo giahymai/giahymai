@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 01 August 2026** — refreshed 15:37 CET
+📅 **Saturday, 01 August 2026** — refreshed 21:16 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:00:53 AM  ·  🌇 **Sunset** 9:27:06 PM
 ✨ **Golden hour** 8:38:14 PM  ·  ⏳ **Day length** 15:26:12
-🌖 **Moon**: Waning Gibbous (91% lit)
+🌖 **Moon**: Waning Gibbous (90% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 24°C (feels 23°C) · Sunny
+☁️ **Eindhoven**: 23°C (feels 24°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)
-- [Elevators](https://john.fun/elevators)
-- [Google kills Earth AI generator after one day](https://twitter.com/newsfromgoogle/status/2083249962150760610)
-- [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
+- [NetBSD 11.0 Released](https://blog.netbsd.org/tnf/entry/netbsd_11_0_released)
+- [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
+- [The Art of 64-bit Assembly](https://nostarch.com/art-64-bit-assembly-v2)
+- [Kaisel – Routes as Values. Dart 3 Native Router for Flutter](https://kaisel.dev/)
 <!-- HN:end -->
 
 ---
