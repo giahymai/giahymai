@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 31 July 2026** — refreshed 21:41 CET
+📅 **Saturday, 01 August 2026** — refreshed 05:25 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 5:59:23 AM  ·  🌇 **Sunset** 9:28:43 PM
-✨ **Golden hour** 8:39:41 PM  ·  ⏳ **Day length** 15:29:20
-🌖 **Moon**: Waning Gibbous (95% lit)
+🌅 **Sunrise** 6:00:53 AM  ·  🌇 **Sunset** 9:27:06 PM
+✨ **Golden hour** 8:38:14 PM  ·  ⏳ **Day length** 15:26:12
+🌖 **Moon**: Waning Gibbous (94% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 21°C (feels 18°C) · Sunny
+🌙 **Eindhoven**: 14°C (feels 14°C) · Clear
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Elevators](https://john.fun/elevators)
-- [qm](https://github.com/yc-software/qm)
-- [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion)
-- [Big Food vs. the People](https://www.lighthousereports.com/investigation/big-food-vs-the-people/)
+- [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm)
+- [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
+- [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
 <!-- HN:end -->
 
 ---
