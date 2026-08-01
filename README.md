@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 01 August 2026** — refreshed 10:26 CET
+📅 **Saturday, 01 August 2026** — refreshed 15:37 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:00:53 AM  ·  🌇 **Sunset** 9:27:06 PM
 ✨ **Golden hour** 8:38:14 PM  ·  ⏳ **Day length** 15:26:12
-🌖 **Moon**: Waning Gibbous (93% lit)
+🌖 **Moon**: Waning Gibbous (91% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 17°C (feels 16°C) · Sunny
+☀️ **Eindhoven**: 24°C (feels 23°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
+- [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494)
 - [Elevators](https://john.fun/elevators)
+- [Google kills Earth AI generator after one day](https://twitter.com/newsfromgoogle/status/2083249962150760610)
 - [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
-- [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
 <!-- HN:end -->
 
 ---
