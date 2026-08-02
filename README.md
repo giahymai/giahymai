@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 02 August 2026** — refreshed 10:29 CET
+📅 **Sunday, 02 August 2026** — refreshed 15:38 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:02:23 AM  ·  🌇 **Sunset** 9:25:26 PM
 ✨ **Golden hour** 8:36:46 PM  ·  ⏳ **Day length** 15:23:03
-🌖 **Moon**: Waning Gibbous (86% lit)
+🌖 **Moon**: Waning Gibbous (85% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 21°C (feels 18°C) · Sunny
+☀️ **Eindhoven**: 31°C (feels 28°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html)
-- [Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox)
-- [I don't recommend Tailwind CSS](https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/)
-- [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
+- [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
+- [Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/)
+- [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/)
+- [Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/)
 <!-- HN:end -->
 
 ---
