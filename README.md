@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 02 August 2026** — refreshed 15:38 CET
+📅 **Sunday, 02 August 2026** — refreshed 21:17 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:02:23 AM  ·  🌇 **Sunset** 9:25:26 PM
 ✨ **Golden hour** 8:36:46 PM  ·  ⏳ **Day length** 15:23:03
-🌖 **Moon**: Waning Gibbous (85% lit)
+🌖 **Moon**: Waning Gibbous (83% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 31°C (feels 28°C) · Sunny
+🌡️ **Eindhoven**: 29°C (feels 25°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Twenty Years of RISC OS Open](https://www.riscosopen.org/news/articles/2026/06/20/twenty-years-of-risc-os-open)
-- [Meshdiff – visually compare two STL versions in the browser, client-side](https://meshdiff.com/)
-- [Show HN: Bor – Open-source policy management for Linux desktops](https://getbor.dev/blog/2026-08-02-bor-v080-release/)
-- [Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge](https://publicdomainreview.org/essay/ars-notoria/)
+- [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi)
+- [Developers are attached to tools because tools encode trust](https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/)
+- [Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark)
+- [How the words we teach English language learners changed](https://pudding.cool/2026/07/essential-words/)
 <!-- HN:end -->
 
 ---
