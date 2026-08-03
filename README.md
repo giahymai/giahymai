@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 03 August 2026** — refreshed 05:26 CET
+📅 **Monday, 03 August 2026** — refreshed 11:54 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:03:54 AM  ·  🌇 **Sunset** 9:23:45 PM
 ✨ **Golden hour** 8:35:16 PM  ·  ⏳ **Day length** 15:19:50
-🌖 **Moon**: Waning Gibbous (80% lit)
+🌖 **Moon**: Waning Gibbous (78% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 19°C (feels 19°C) · Overcast
+☀️ **Eindhoven**: 29°C (feels 29°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Apple engineer says he was fired after refusing to send cust. device IDs to AT&T](https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic)
+- [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)
 - [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
-- [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)
-- [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/)
+- [Bonsai: Janestreet's UI Library](https://github.com/janestreet/bonsai)
+- [Rust project goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
 <!-- HN:end -->
 
 ---
