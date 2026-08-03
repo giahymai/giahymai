@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 02 August 2026** — refreshed 21:17 CET
+📅 **Monday, 03 August 2026** — refreshed 05:26 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:02:23 AM  ·  🌇 **Sunset** 9:25:26 PM
-✨ **Golden hour** 8:36:46 PM  ·  ⏳ **Day length** 15:23:03
-🌖 **Moon**: Waning Gibbous (83% lit)
+🌅 **Sunrise** 6:03:54 AM  ·  🌇 **Sunset** 9:23:45 PM
+✨ **Golden hour** 8:35:16 PM  ·  ⏳ **Day length** 15:19:50
+🌖 **Moon**: Waning Gibbous (80% lit)
 
-> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
+> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 29°C (feels 25°C) · Partly Cloudy 
+☁️ **Eindhoven**: 19°C (feels 19°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
+💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi)
-- [Developers are attached to tools because tools encode trust](https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/)
-- [Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark](https://github.com/graham33/nixos-dgx-spark)
-- [How the words we teach English language learners changed](https://pudding.cool/2026/07/essential-words/)
+- [Apple engineer says he was fired after refusing to send cust. device IDs to AT&T](https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic)
+- [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
+- [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386)
+- [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/)
 <!-- HN:end -->
 
 ---
