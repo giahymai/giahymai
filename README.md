@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 04 August 2026** — refreshed 10:45 CET
+📅 **Tuesday, 04 August 2026** — refreshed 16:26 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:05:26 AM  ·  🌇 **Sunset** 9:22:02 PM
 ✨ **Golden hour** 8:33:44 PM  ·  ⏳ **Day length** 15:16:36
-🌗 **Moon**: Last Quarter (69% lit)
+🌗 **Moon**: Last Quarter (66% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 26°C (feels 27°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 30°C (feels 28°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [NHS apologises and admits Palantir have access to identifiable patient data](https://www.publictechnology.net/2026/08/03/health-and-social-care/nhs-apologises-and-admits-palantir-engineers-have-access-to-identifiable-patient-data/)
+- [Ray Bradbury's "There Will Come Soft Rains" is set today (2026-08-04)](https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj)
+- [DeepSeek V4 Flash on a Single AMD MI300X](https://github.com/ryanzhou/deepseek-v4-flash-mi300x)
+- [Xbox goes down. You can't play games you own on disc](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/)
 - [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
-- [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet)
-- [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization)
 <!-- HN:end -->
 
 ---
