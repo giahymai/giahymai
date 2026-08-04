@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 04 August 2026** — refreshed 16:26 CET
+📅 **Tuesday, 04 August 2026** — refreshed 21:42 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:05:26 AM  ·  🌇 **Sunset** 9:22:02 PM
 ✨ **Golden hour** 8:33:44 PM  ·  ⏳ **Day length** 15:16:36
-🌗 **Moon**: Last Quarter (66% lit)
+🌗 **Moon**: Last Quarter (64% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 30°C (feels 28°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 27°C (feels 28°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Ray Bradbury's "There Will Come Soft Rains" is set today (2026-08-04)](https://short-stories.co/@raybradbury/there-will-come-soft-rains-6k8vr4xxlnmj)
-- [DeepSeek V4 Flash on a Single AMD MI300X](https://github.com/ryanzhou/deepseek-v4-flash-mi300x)
-- [Xbox goes down. You can't play games you own on disc](https://birchtree.me/blog/xbox-goes-down-you-cant-play-games-you-own-on-disc/)
-- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
+- [Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/)
+- [Why some people mow a lawn better than others](https://pudding.cool/2026/06/mow/)
+- [Waymo – Dallas Open to All](https://waymo.com/blog/shorts/dallas-open-to-all/)
+- [Investors in Situational Awareness deserved to lose their shirts](https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts)
 <!-- HN:end -->
 
 ---
