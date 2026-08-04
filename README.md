@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 03 August 2026** — refreshed 21:43 CET
+📅 **Tuesday, 04 August 2026** — refreshed 04:55 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:03:54 AM  ·  🌇 **Sunset** 9:23:45 PM
-✨ **Golden hour** 8:35:16 PM  ·  ⏳ **Day length** 15:19:50
-🌖 **Moon**: Waning Gibbous (74% lit)
+🌅 **Sunrise** 6:05:26 AM  ·  🌇 **Sunset** 9:22:02 PM
+✨ **Golden hour** 8:33:44 PM  ·  ⏳ **Day length** 15:16:36
+🌖 **Moon**: Waning Gibbous (71% lit)
 
-> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
+> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 34°C (feels 32°C) · Sunny
+☁️ **Eindhoven**: 22°C (feels 25°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
+- [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization)
 - [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
 - [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
-- [Wind and solar overtake fossil fuels in Germany for the first time](https://www.intellinews.com/wind-and-solar-overtake-fossil-fuels-in-germany-for-the-first-time-ever-458379/)
-- [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase)
 <!-- HN:end -->
 
 ---
