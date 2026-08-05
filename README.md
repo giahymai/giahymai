@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 05 August 2026** — refreshed 04:51 CET
+📅 **Wednesday, 05 August 2026** — refreshed 10:42 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:06:58 AM  ·  🌇 **Sunset** 9:20:18 PM
 ✨ **Golden hour** 8:32:10 PM  ·  ⏳ **Day length** 15:13:19
-🌗 **Moon**: Last Quarter (61% lit)
+🌗 **Moon**: Last Quarter (58% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 19°C) · Clear 
+🌡️ **Eindhoven**: 25°C (feels 24°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/)
-- [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963)
+- [Stateless MCP has recaptured my interest](https://simonwillison.net/2026/Jul/31/stateless-mcp/)
+- ["Gravity is worth asking about."](https://unsung.aresluna.org/gravity-is-worth-asking-about/)
+- [The Pneumatics of Hero of Alexandria](https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html)
 - [Pi's Minimalism Is Its Advantage](https://earendil.com/posts/pi-autoresearch-and-databricks/)
-- [Mistral's Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/)
 <!-- HN:end -->
 
 ---
