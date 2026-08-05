@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 05 August 2026** — refreshed 10:42 CET
+📅 **Wednesday, 05 August 2026** — refreshed 16:19 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:06:58 AM  ·  🌇 **Sunset** 9:20:18 PM
 ✨ **Golden hour** 8:32:10 PM  ·  ⏳ **Day length** 15:13:19
-🌗 **Moon**: Last Quarter (58% lit)
+🌗 **Moon**: Last Quarter (56% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 25°C (feels 24°C) · Partly Cloudy 
+☀️ **Eindhoven**: 29°C (feels 24°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Stateless MCP has recaptured my interest](https://simonwillison.net/2026/Jul/31/stateless-mcp/)
-- ["Gravity is worth asking about."](https://unsung.aresluna.org/gravity-is-worth-asking-about/)
-- [The Pneumatics of Hero of Alexandria](https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html)
-- [Pi's Minimalism Is Its Advantage](https://earendil.com/posts/pi-autoresearch-and-databricks/)
+- [Cloudflare OS: an open platform for agents, apps, and work](https://blog.cloudflare.com/cloudflare-os/)
+- [A Sick People](https://householderkarl.com/a-sick-people/)
+- [Position: LLMs Can't Jump](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt)
+- [Why the Legendary Erdős Problems Are Falling to AI](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/)
 <!-- HN:end -->
 
 ---
