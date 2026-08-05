@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 04 August 2026** — refreshed 21:42 CET
+📅 **Wednesday, 05 August 2026** — refreshed 04:51 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:05:26 AM  ·  🌇 **Sunset** 9:22:02 PM
-✨ **Golden hour** 8:33:44 PM  ·  ⏳ **Day length** 15:16:36
-🌗 **Moon**: Last Quarter (64% lit)
+🌅 **Sunrise** 6:06:58 AM  ·  🌇 **Sunset** 9:20:18 PM
+✨ **Golden hour** 8:32:10 PM  ·  ⏳ **Day length** 15:13:19
+🌗 **Moon**: Last Quarter (61% lit)
 
-> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
+> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 27°C (feels 28°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 19°C (feels 19°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
+💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/)
-- [Why some people mow a lawn better than others](https://pudding.cool/2026/06/mow/)
-- [Waymo – Dallas Open to All](https://waymo.com/blog/shorts/dallas-open-to-all/)
-- [Investors in Situational Awareness deserved to lose their shirts](https://www.economist.com/finance-and-economics/2026/08/04/investors-in-situational-awareness-deserved-to-lose-their-shirts)
+- [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/)
+- [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963)
+- [Pi's Minimalism Is Its Advantage](https://earendil.com/posts/pi-autoresearch-and-databricks/)
+- [Mistral's Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/)
 <!-- HN:end -->
 
 ---
