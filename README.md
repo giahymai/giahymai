@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 05 August 2026** — refreshed 16:19 CET
+📅 **Wednesday, 05 August 2026** — refreshed 21:41 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:06:58 AM  ·  🌇 **Sunset** 9:20:18 PM
 ✨ **Golden hour** 8:32:10 PM  ·  ⏳ **Day length** 15:13:19
-🌗 **Moon**: Last Quarter (56% lit)
+🌗 **Moon**: Last Quarter (53% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 29°C (feels 24°C) · Sunny
+⛅ **Eindhoven**: 26°C (feels 26°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,7 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Cloudflare OS: an open platform for agents, apps, and work](https://blog.cloudflare.com/cloudflare-os/)
-- [A Sick People](https://householderkarl.com/a-sick-people/)
-- [Position: LLMs Can't Jump](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt)
-- [Why the Legendary Erdős Problems Are Falling to AI](https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/)
+- HN unavailable (URLError)
 <!-- HN:end -->
 
 ---
