@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 05 August 2026** — refreshed 21:41 CET
+📅 **Thursday, 06 August 2026** — refreshed 04:55 CET
 <!-- DATE:end -->
 
 ---
@@ -18,27 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:06:58 AM  ·  🌇 **Sunset** 9:20:18 PM
-✨ **Golden hour** 8:32:10 PM  ·  ⏳ **Day length** 15:13:19
-🌗 **Moon**: Last Quarter (53% lit)
+🌅 **Sunrise** 6:08:31 AM  ·  🌇 **Sunset** 9:18:32 PM
+✨ **Golden hour** 8:30:35 PM  ·  ⏳ **Day length** 15:10:01
+🌗 **Moon**: Last Quarter (50% lit)
 
-> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
+> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-⛅ **Eindhoven**: 26°C (feels 26°C) · Partly cloudy
+🌡️ **Eindhoven**: 15°C (feels 11°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
+💡 Python is named after Monty Python, not the snake.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- HN unavailable (URLError)
+- [LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)
+- [Discovery Loop](https://www.discoveryloop.com/)
+- [Nashville uses eminent domain to block data center near zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
+- [Zed DeltaDB](https://zed.dev/deltadb)
 <!-- HN:end -->
 
 ---
