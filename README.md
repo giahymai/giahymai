@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 06 August 2026** — refreshed 04:55 CET
+📅 **Thursday, 06 August 2026** — refreshed 10:44 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:08:31 AM  ·  🌇 **Sunset** 9:18:32 PM
 ✨ **Golden hour** 8:30:35 PM  ·  ⏳ **Day length** 15:10:01
-🌗 **Moon**: Last Quarter (50% lit)
+🌗 **Moon**: Last Quarter (47% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 15°C (feels 11°C) · Clear 
+🌡️ **Eindhoven**: 21°C (feels 18°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [LLMs won't break symmetric crypto](https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto)
+- [Crime Pays but Botany Doesn't](https://www.crimepaysbutbotanydoesnt.com/reading-list)
+- [What I love about Django](https://buttondown.com/blog/what-i-love-about-django)
+- [How to Make a Nintendo 64 Game in 2026](https://phoboslab.org/log/2026/08/xibalba64-making-of)
 - [Discovery Loop](https://www.discoveryloop.com/)
-- [Nashville uses eminent domain to block data center near zoo](https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project)
-- [Zed DeltaDB](https://zed.dev/deltadb)
 <!-- HN:end -->
 
 ---
