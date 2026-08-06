@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 06 August 2026** — refreshed 10:44 CET
+📅 **Thursday, 06 August 2026** — refreshed 16:23 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:08:31 AM  ·  🌇 **Sunset** 9:18:32 PM
 ✨ **Golden hour** 8:30:35 PM  ·  ⏳ **Day length** 15:10:01
-🌗 **Moon**: Last Quarter (47% lit)
+🌗 **Moon**: Last Quarter (44% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 21°C (feels 18°C) · Patchy rain nearby
+☁️ **Eindhoven**: 24°C (feels 24°C) · Cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Crime Pays but Botany Doesn't](https://www.crimepaysbutbotanydoesnt.com/reading-list)
-- [What I love about Django](https://buttondown.com/blog/what-i-love-about-django)
+- [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
+- [Humans missed 1 in 3 threats approving AI agent commands across 40k game runs](https://scalex.dev/blog/ai-agent-permissions-stats/)
+- [I added a real-time chat to my blog, people used it to attack me](https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/)
 - [How to Make a Nintendo 64 Game in 2026](https://phoboslab.org/log/2026/08/xibalba64-making-of)
-- [Discovery Loop](https://www.discoveryloop.com/)
 <!-- HN:end -->
 
 ---
