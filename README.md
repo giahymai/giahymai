@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 06 August 2026** — refreshed 16:23 CET
+📅 **Friday, 07 August 2026** — refreshed 02:05 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:08:31 AM  ·  🌇 **Sunset** 9:18:32 PM
-✨ **Golden hour** 8:30:35 PM  ·  ⏳ **Day length** 15:10:01
-🌗 **Moon**: Last Quarter (44% lit)
+🌅 **Sunrise** 6:10:04 AM  ·  🌇 **Sunset** 9:16:44 PM
+✨ **Golden hour** 8:28:57 PM  ·  ⏳ **Day length** 15:06:40
+🌗 **Moon**: Last Quarter (40% lit)
 
-> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
+> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 24°C (feels 24°C) · Cloudy
+🌡️ **Eindhoven**: 13°C (feels 11°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Python is named after Monty Python, not the snake.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
+- [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/)
+- [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
 - [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
-- [Humans missed 1 in 3 threats approving AI agent commands across 40k game runs](https://scalex.dev/blog/ai-agent-permissions-stats/)
-- [I added a real-time chat to my blog, people used it to attack me](https://en.andros.dev/blog/b6c32a90/i-added-a-real-time-chat-to-my-blog-people-used-it-to-attack-me/)
-- [How to Make a Nintendo 64 Game in 2026](https://phoboslab.org/log/2026/08/xibalba64-making-of)
 <!-- HN:end -->
 
 ---
