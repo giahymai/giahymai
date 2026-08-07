@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 07 August 2026** — refreshed 02:05 CET
+📅 **Friday, 07 August 2026** — refreshed 09:22 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:10:04 AM  ·  🌇 **Sunset** 9:16:44 PM
 ✨ **Golden hour** 8:28:57 PM  ·  ⏳ **Day length** 15:06:40
-🌗 **Moon**: Last Quarter (40% lit)
+🌗 **Moon**: Last Quarter (36% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 11°C) · Clear 
+☀️ **Eindhoven**: 14°C (feels 13°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -39,9 +39,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
-- [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/)
-- [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/)
+- [What Is a Product?](https://roge.onwrite.app/what-is-a-product)
 - [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
+- [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left)
 <!-- HN:end -->
 
 ---
