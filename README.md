@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 07 August 2026** — refreshed 15:13 CET
+📅 **Friday, 07 August 2026** — refreshed 21:03 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:10:04 AM  ·  🌇 **Sunset** 9:16:44 PM
 ✨ **Golden hour** 8:28:57 PM  ·  ⏳ **Day length** 15:06:40
-🌗 **Moon**: Last Quarter (34% lit)
+🌗 **Moon**: Last Quarter (31% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 24°C (feels 21°C) · Sunny
+🌡️ **Eindhoven**: 23°C (feels 20°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
-- [New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
-- [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
-- [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left)
+- [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
+- [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
+- [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+- [An all-sky map of half a million supermassive black holes](https://www.sdss.org/black-hole-mapper-release-20/)
 <!-- HN:end -->
 
 ---
