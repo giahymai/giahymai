@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 07 August 2026** — refreshed 09:22 CET
+📅 **Friday, 07 August 2026** — refreshed 15:13 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:10:04 AM  ·  🌇 **Sunset** 9:16:44 PM
 ✨ **Golden hour** 8:28:57 PM  ·  ⏳ **Day length** 15:06:40
-🌗 **Moon**: Last Quarter (36% lit)
+🌗 **Moon**: Last Quarter (34% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 14°C (feels 13°C) · Sunny
+☀️ **Eindhoven**: 24°C (feels 21°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,9 +38,9 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o)
+- [New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
 - [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
-- [What Is a Product?](https://roge.onwrite.app/what-is-a-product)
-- [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto)
 - [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left)
 <!-- HN:end -->
 
