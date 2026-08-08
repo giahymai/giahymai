@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 08 August 2026** — refreshed 14:57 CET
+📅 **Saturday, 08 August 2026** — refreshed 20:43 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:11:37 AM  ·  🌇 **Sunset** 9:14:55 PM
 ✨ **Golden hour** 8:27:18 PM  ·  ⏳ **Day length** 15:03:18
-🌘 **Moon**: Waning Crescent (23% lit)
+🌘 **Moon**: Waning Crescent (21% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 27°C (feels 25°C) · Overcast 
+☀️ **Eindhoven**: 29°C (feels 26°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [The CPU is back: Rethinking the CPU-GPU split for LLM inference](https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference)
-- [DeepMind's WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/)
-- [A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/)
-- [Hardware backdoors in some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge)
+- [Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating](https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/)
+- [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
+- [LinkedIn Feed Blocker](https://github.com/andrewpollack/linkedin-feed-blocker)
+- [A domain can now say it is for sale, in DNS](https://specification.website/spec/foundations/for-sale-dns/)
 <!-- HN:end -->
 
 ---
