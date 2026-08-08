@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 08 August 2026** — refreshed 09:00 CET
+📅 **Saturday, 08 August 2026** — refreshed 14:57 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:11:37 AM  ·  🌇 **Sunset** 9:14:55 PM
 ✨ **Golden hour** 8:27:18 PM  ·  ⏳ **Day length** 15:03:18
-🌘 **Moon**: Waning Crescent (26% lit)
+🌘 **Moon**: Waning Crescent (23% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 15°C (feels 13°C) · Sunny
+🌡️ **Eindhoven**: 27°C (feels 25°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [NASA to keep its 48-year-old Voyager 2 probe running for yet another year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
-- [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
-- [Physicist Rigged His Pet Hamster's Wheel to Strava. It Runs Far Every Night](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/)
-- [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
+- [The CPU is back: Rethinking the CPU-GPU split for LLM inference](https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference)
+- [DeepMind's WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/)
+- [A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/)
+- [Hardware backdoors in some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge)
 <!-- HN:end -->
 
 ---
