@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 07 August 2026** — refreshed 21:03 CET
+📅 **Saturday, 08 August 2026** — refreshed 03:55 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:10:04 AM  ·  🌇 **Sunset** 9:16:44 PM
-✨ **Golden hour** 8:28:57 PM  ·  ⏳ **Day length** 15:06:40
-🌗 **Moon**: Last Quarter (31% lit)
+🌅 **Sunrise** 6:11:37 AM  ·  🌇 **Sunset** 9:14:55 PM
+✨ **Golden hour** 8:27:18 PM  ·  ⏳ **Day length** 15:03:18
+🌘 **Moon**: Waning Crescent (28% lit)
 
-> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
+> 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 23°C (feels 20°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 13°C (feels 11°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
+💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code)
 - [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
+- [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
+- [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
 - [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
-- [An all-sky map of half a million supermassive black holes](https://www.sdss.org/black-hole-mapper-release-20/)
 <!-- HN:end -->
 
 ---
