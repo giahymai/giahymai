@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 09 August 2026** — refreshed 04:03 CET
+📅 **Sunday, 09 August 2026** — refreshed 09:02 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:13:11 AM  ·  🌇 **Sunset** 9:13:04 PM
 ✨ **Golden hour** 8:25:38 PM  ·  ⏳ **Day length** 14:59:53
-🌘 **Moon**: Waning Crescent (18% lit)
+🌘 **Moon**: Waning Crescent (16% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 14°C) · Clear 
+☀️ **Eindhoven**: 19°C (feels 18°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -39,9 +39,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [My server is a phone now](https://seg6.space/posts/phone-server/)
-- [Improving Heuristics for A* Pathfinding](https://www.redblobgames.com/pathfinding/heuristics/differential.html)
-- [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
-- [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
+- [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
+- [The original URL for this prediction will no longer be available in 11 years (2011)](http://longbets.org/601/)
+- [Melatonin impairs morning cognition in healthy young adults](https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621)
 <!-- HN:end -->
 
 ---
