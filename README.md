@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 09 August 2026** — refreshed 14:59 CET
+📅 **Sunday, 09 August 2026** — refreshed 20:48 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:13:11 AM  ·  🌇 **Sunset** 9:13:04 PM
 ✨ **Golden hour** 8:25:38 PM  ·  ⏳ **Day length** 14:59:53
-🌘 **Moon**: Waning Crescent (14% lit)
+🌘 **Moon**: Waning Crescent (12% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 33°C (feels 29°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 24°C (feels 23°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Reviving a four year old reMarkable 2](https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html)
-- [There Are Magic Hexagons of Every Order](https://gukov.dev/math/2026/08/02/new-magic-hexagons.html)
-- [My server is a phone now](https://seg6.space/posts/phone-server/)
-- [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
+- [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
+- [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423)
+- [OpenChamber: An Agentic Development Environment](https://openchamber.dev/)
+- [Cool URIs Don't Change (1998)](https://www.w3.org/Provider/Style/URI)
 <!-- HN:end -->
 
 ---
