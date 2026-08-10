@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 10 August 2026** — refreshed 15:18 CET
+📅 **Monday, 10 August 2026** — refreshed 21:02 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:14:45 AM  ·  🌇 **Sunset** 9:11:12 PM
 ✨ **Golden hour** 8:23:56 PM  ·  ⏳ **Day length** 14:56:27
-🌘 **Moon**: Waning Crescent (7% lit)
+🌘 **Moon**: Waning Crescent (5% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 28°C (feels 25°C) · Partly Cloudy 
+☀️ **Eindhoven**: 23°C (feels 20°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Meta Muse Glimmer – open weights 30B local coding model](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
-- [50k Boat Names](https://www.beautifulpublicdata.com/boat-names/)
-- [Because It's Not Fun Enough: why languages fail](https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough)
-- [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
+- [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
+- [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta)
+- [Sonic Pi v5](https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392)
+- [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
 <!-- HN:end -->
 
 ---
