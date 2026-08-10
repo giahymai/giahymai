@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 09 August 2026** — refreshed 20:48 CET
+📅 **Monday, 10 August 2026** — refreshed 04:07 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:13:11 AM  ·  🌇 **Sunset** 9:13:04 PM
-✨ **Golden hour** 8:25:38 PM  ·  ⏳ **Day length** 14:59:53
-🌘 **Moon**: Waning Crescent (12% lit)
+🌅 **Sunrise** 6:14:45 AM  ·  🌇 **Sunset** 9:11:12 PM
+✨ **Golden hour** 8:23:56 PM  ·  ⏳ **Day length** 14:56:27
+🌘 **Moon**: Waning Crescent (10% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 24°C (feels 23°C) · Partly Cloudy 
+☁️ **Eindhoven**: 19°C (feels 19°C) · Cloudy
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 `git` was written by Linus Torvalds in about 10 days in 2005.
+💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
+- [How We Pushed CDC into Postgres](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)
 - [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html)
-- [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423)
-- [OpenChamber: An Agentic Development Environment](https://openchamber.dev/)
-- [Cool URIs Don't Change (1998)](https://www.w3.org/Provider/Style/URI)
+- [New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media)
 <!-- HN:end -->
 
 ---
