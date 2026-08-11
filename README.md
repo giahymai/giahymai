@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 10 August 2026** — refreshed 21:02 CET
+📅 **Tuesday, 11 August 2026** — refreshed 04:02 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:14:45 AM  ·  🌇 **Sunset** 9:11:12 PM
-✨ **Golden hour** 8:23:56 PM  ·  ⏳ **Day length** 14:56:27
-🌘 **Moon**: Waning Crescent (5% lit)
+🌅 **Sunrise** 6:16:19 AM  ·  🌇 **Sunset** 9:09:19 PM
+✨ **Golden hour** 8:22:12 PM  ·  ⏳ **Day length** 14:52:59
+🌘 **Moon**: Waning Crescent (4% lit)
 
-> 🔭 *A day on Venus is longer than its year.*
+> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 23°C (feels 20°C) · Sunny
+🌡️ **Eindhoven**: 12°C (feels 10°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
-- [Learning more about Claude's mathematical capabilities](https://www.anthropic.com/research/riemann-zeta)
-- [Sonic Pi v5](https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392)
-- [Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers](https://www.stoaexchange.com)
+- [The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby)
+- [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
+- [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/)
+- [The “mechanical miracle” that ruined Mark Twain’s life](https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined)
 <!-- HN:end -->
 
 ---
