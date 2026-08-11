@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 11 August 2026** — refreshed 15:15 CET
+📅 **Tuesday, 11 August 2026** — refreshed 21:07 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:16:19 AM  ·  🌇 **Sunset** 9:09:19 PM
 ✨ **Golden hour** 8:22:12 PM  ·  ⏳ **Day length** 14:52:59
-🌑 **Moon**: New Moon (2% lit)
+🌑 **Moon**: New Moon (1% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 25°C (feels 21°C) · Sunny
+☀️ **Eindhoven**: 23°C (feels 23°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
-- [More than 10 firms pay up to $100k a month for access to Truth Social posts](https://www.bbc.com/news/articles/ce3q5nxpgk1o)
-- [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)
-- [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/)
+- [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md)
+- [OpenSSH 10.5/10.5p1](https://www.openssh.org/releasenotes.html#10.5)
+- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/)
+- [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
 <!-- HN:end -->
 
 ---
