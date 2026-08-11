@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 11 August 2026** — refreshed 04:02 CET
+📅 **Tuesday, 11 August 2026** — refreshed 09:14 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:16:19 AM  ·  🌇 **Sunset** 9:09:19 PM
 ✨ **Golden hour** 8:22:12 PM  ·  ⏳ **Day length** 14:52:59
-🌘 **Moon**: Waning Crescent (4% lit)
+🌑 **Moon**: New Moon (3% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 10°C) · Clear 
+☀️ **Eindhoven**: 13°C (feels 11°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby)
+- [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)
+- [Show HN: Mcptoon – Token-efficient MCP CLI client](https://github.com/activeing123/mcptoon)
 - [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
 - [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/)
-- [The “mechanical miracle” that ruined Mark Twain’s life](https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined)
 <!-- HN:end -->
 
 ---
