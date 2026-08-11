@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 11 August 2026** — refreshed 09:14 CET
+📅 **Tuesday, 11 August 2026** — refreshed 15:15 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:16:19 AM  ·  🌇 **Sunset** 9:09:19 PM
 ✨ **Golden hour** 8:22:12 PM  ·  ⏳ **Day length** 14:52:59
-🌑 **Moon**: New Moon (3% lit)
+🌑 **Moon**: New Moon (2% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 13°C (feels 11°C) · Sunny
+☀️ **Eindhoven**: 25°C (feels 21°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
+- [More than 10 firms pay up to $100k a month for access to Truth Social posts](https://www.bbc.com/news/articles/ce3q5nxpgk1o)
 - [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)
-- [Show HN: Mcptoon – Token-efficient MCP CLI client](https://github.com/activeing123/mcptoon)
-- [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
-- [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/)
+- [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/)
 <!-- HN:end -->
 
 ---
