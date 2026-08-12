@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 12 August 2026** — refreshed 04:19 CET
+📅 **Wednesday, 12 August 2026** — refreshed 09:38 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:17:53 AM  ·  🌇 **Sunset** 9:07:24 PM
 ✨ **Golden hour** 8:20:27 PM  ·  ⏳ **Day length** 14:49:30
-🌑 **Moon**: New Moon (1% lit)
+🌑 **Moon**: New Moon (0% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 14°C (feels 13°C) · Overcast
+⛅ **Eindhoven**: 16°C (feels 16°C) · Partly cloudy
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
+- [The hardest working font in Manhattan (2025)](https://aresluna.org/the-hardest-working-font-in-manhattan/)
 - [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
-- [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
-- [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
+- [llama.cpp](https://llama.app)
+- [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
 <!-- HN:end -->
 
 ---
