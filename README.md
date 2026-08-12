@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 11 August 2026** — refreshed 21:07 CET
+📅 **Wednesday, 12 August 2026** — refreshed 04:19 CET
 <!-- DATE:end -->
 
 ---
@@ -18,29 +18,29 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:16:19 AM  ·  🌇 **Sunset** 9:09:19 PM
-✨ **Golden hour** 8:22:12 PM  ·  ⏳ **Day length** 14:52:59
+🌅 **Sunrise** 6:17:53 AM  ·  🌇 **Sunset** 9:07:24 PM
+✨ **Golden hour** 8:20:27 PM  ·  ⏳ **Day length** 14:49:30
 🌑 **Moon**: New Moon (1% lit)
 
-> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 23°C (feels 23°C) · Sunny
+☁️ **Eindhoven**: 14°C (feels 13°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
+💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp](https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md)
-- [OpenSSH 10.5/10.5p1](https://www.openssh.org/releasenotes.html#10.5)
-- [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/)
+- [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
+- [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
+- [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
 - [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here)
 <!-- HN:end -->
 
