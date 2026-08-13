@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 13 August 2026** — refreshed 15:21 CET
+📅 **Thursday, 13 August 2026** — refreshed 21:06 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:19:28 AM  ·  🌇 **Sunset** 9:05:28 PM
 ✨ **Golden hour** 8:18:41 PM  ·  ⏳ **Day length** 14:45:59
-🌑 **Moon**: New Moon (1% lit)
+🌑 **Moon**: New Moon (2% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 35°C (feels 31°C) · Sunny
+☀️ **Eindhoven**: 34°C (feels 30°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)
-- [Choosing an AI model: one prompt, 11 models, different results](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
-- [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)
-- [The lattice of sets of natural numbers is rich (2021)](https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/)
+- [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
+- [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
+- [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
+- [Mistral OCR 4.1](https://docs.mistral.ai/models/ocr-4-1)
 <!-- HN:end -->
 
 ---
