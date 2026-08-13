@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 13 August 2026** — refreshed 09:40 CET
+📅 **Thursday, 13 August 2026** — refreshed 15:21 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:19:28 AM  ·  🌇 **Sunset** 9:05:28 PM
 ✨ **Golden hour** 8:18:41 PM  ·  ⏳ **Day length** 14:45:59
-🌑 **Moon**: New Moon (0% lit)
+🌑 **Moon**: New Moon (1% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 20°C (feels 17°C) · Sunny
+☀️ **Eindhoven**: 35°C (feels 31°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
-- [Mushroom behind 'tiny people' hallucinations identified](https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html)
-- [We tracked down the 16-year-old WAL-reset SQLite bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
-- [Delta](https://zed.dev/blog/introducing-delta)
+- [Deutsche Bank becomes first foreign yuan clearing bank in Europe](https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/)
+- [Choosing an AI model: one prompt, 11 models, different results](https://www.netlify.com/blog/one-prompt-11-models-very-different-results/)
+- [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)
+- [The lattice of sets of natural numbers is rich (2021)](https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/)
 <!-- HN:end -->
 
 ---
