@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 12 August 2026** — refreshed 21:06 CET
+📅 **Thursday, 13 August 2026** — refreshed 04:22 CET
 <!-- DATE:end -->
 
 ---
@@ -18,28 +18,28 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:17:53 AM  ·  🌇 **Sunset** 9:07:24 PM
-✨ **Golden hour** 8:20:27 PM  ·  ⏳ **Day length** 14:49:30
+🌅 **Sunrise** 6:19:28 AM  ·  🌇 **Sunset** 9:05:28 PM
+✨ **Golden hour** 8:18:41 PM  ·  ⏳ **Day length** 14:45:59
 🌑 **Moon**: New Moon (0% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 30°C (feels 26°C) · Sunny
+🌡️ **Eindhoven**: 18°C (feels 15°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
+💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
-- [Zed: Delta](https://zed.dev/blog/introducing-delta)
+- [Delta](https://zed.dev/blog/introducing-delta)
 - [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
 - [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
 <!-- HN:end -->
