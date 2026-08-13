@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 13 August 2026** — refreshed 04:22 CET
+📅 **Thursday, 13 August 2026** — refreshed 09:40 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 18°C (feels 15°C) · Clear 
+☀️ **Eindhoven**: 20°C (feels 17°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -39,9 +39,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
+- [Mushroom behind 'tiny people' hallucinations identified](https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html)
+- [We tracked down the 16-year-old WAL-reset SQLite bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
 - [Delta](https://zed.dev/blog/introducing-delta)
-- [Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
-- [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
 <!-- HN:end -->
 
 ---
