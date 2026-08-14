@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 14 August 2026** — refreshed 15:16 CET
+📅 **Friday, 14 August 2026** — refreshed 20:59 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:21:03 AM  ·  🌇 **Sunset** 9:03:31 PM
 ✨ **Golden hour** 8:16:53 PM  ·  ⏳ **Day length** 14:42:27
-🌒 **Moon**: Waxing Crescent (4% lit)
+🌒 **Moon**: Waxing Crescent (6% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 37°C (feels 34°C) · Sunny
+☀️ **Eindhoven**: 35°C (feels 31°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3)
-- [Don't classify, hallucinate!](https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications)
-- [DeepSeek peak/off-peak pricing update](https://api-docs.deepseek.com/news/news260813/)
-- [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
+- [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
+- [Count Binface receives over a quarter of votes in Clacton by-election](https://www.bbc.com/news/articles/ce97mm3vvemo)
+- [Seven books I keep close because I love them](https://blog.plover.com/2026/08/02/)
+- [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/)
 <!-- HN:end -->
 
 ---
