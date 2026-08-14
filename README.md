@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 14 August 2026** — refreshed 04:20 CET
+📅 **Friday, 14 August 2026** — refreshed 09:38 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:21:03 AM  ·  🌇 **Sunset** 9:03:31 PM
 ✨ **Golden hour** 8:16:53 PM  ·  ⏳ **Day length** 14:42:27
-🌑 **Moon**: New Moon (2% lit)
+🌑 **Moon**: New Moon (3% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 22°C (feels 18°C) · Clear 
+☀️ **Eindhoven**: 23°C (feels 21°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](https://z.ai/blog/glm-5.3)
 - [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
-- [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
-- [SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/)
 - [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
+- [Hello, me. It's been a while](https://themech.net/2026/08/hello-me-its-been-a-while/)
 <!-- HN:end -->
 
 ---
