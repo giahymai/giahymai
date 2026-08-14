@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 13 August 2026** — refreshed 21:06 CET
+📅 **Friday, 14 August 2026** — refreshed 04:20 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:19:28 AM  ·  🌇 **Sunset** 9:05:28 PM
-✨ **Golden hour** 8:18:41 PM  ·  ⏳ **Day length** 14:45:59
+🌅 **Sunrise** 6:21:03 AM  ·  🌇 **Sunset** 9:03:31 PM
+✨ **Golden hour** 8:16:53 PM  ·  ⏳ **Day length** 14:42:27
 🌑 **Moon**: New Moon (2% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 34°C (feels 30°C) · Sunny
+🌡️ **Eindhoven**: 22°C (feels 18°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
+💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
+- [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
+- [SparrowMap – Cameras that watch government vehicles](https://sparrowmap.com/)
 - [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
-- [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology)
-- [Mistral OCR 4.1](https://docs.mistral.ai/models/ocr-4-1)
 <!-- HN:end -->
 
 ---
