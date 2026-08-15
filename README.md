@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 15 August 2026** — refreshed 03:27 CET
+📅 **Saturday, 15 August 2026** — refreshed 08:45 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:22:38 AM  ·  🌇 **Sunset** 9:01:32 PM
 ✨ **Golden hour** 8:15:03 PM  ·  ⏳ **Day length** 14:38:53
-🌒 **Moon**: Waxing Crescent (7% lit)
+🌒 **Moon**: Waxing Crescent (8% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 22°C (feels 19°C) · Clear 
+☀️ **Eindhoven**: 19°C (feels 17°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -39,9 +39,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
-- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
-- [Stop sending me huge PRs; a rant](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va)
-- [The case for overhauling American science](https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science)
+- [Coin-sized device can hack a Boeing 737](https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/)
+- [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
+- ["That's not SoC 2 compliant"](https://ampcode.com/notes/thats-not-soc-2-compliant)
 <!-- HN:end -->
 
 ---
