@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 14 August 2026** — refreshed 20:59 CET
+📅 **Saturday, 15 August 2026** — refreshed 03:27 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:21:03 AM  ·  🌇 **Sunset** 9:03:31 PM
-✨ **Golden hour** 8:16:53 PM  ·  ⏳ **Day length** 14:42:27
-🌒 **Moon**: Waxing Crescent (6% lit)
+🌅 **Sunrise** 6:22:38 AM  ·  🌇 **Sunset** 9:01:32 PM
+✨ **Golden hour** 8:15:03 PM  ·  ⏳ **Day length** 14:38:53
+🌒 **Moon**: Waxing Crescent (7% lit)
 
-> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
+> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 35°C (feels 31°C) · Sunny
+🌡️ **Eindhoven**: 22°C (feels 19°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
+💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
-- [Count Binface receives over a quarter of votes in Clacton by-election](https://www.bbc.com/news/articles/ce97mm3vvemo)
-- [Seven books I keep close because I love them](https://blog.plover.com/2026/08/02/)
-- [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/)
+- [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/)
+- [Stop sending me huge PRs; a rant](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va)
+- [The case for overhauling American science](https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science)
 <!-- HN:end -->
 
 ---
