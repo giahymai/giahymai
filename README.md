@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 15 August 2026** — refreshed 08:45 CET
+📅 **Saturday, 15 August 2026** — refreshed 14:45 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:22:38 AM  ·  🌇 **Sunset** 9:01:32 PM
 ✨ **Golden hour** 8:15:03 PM  ·  ⏳ **Day length** 14:38:53
-🌒 **Moon**: Waxing Crescent (8% lit)
+🌒 **Moon**: Waxing Crescent (10% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 19°C (feels 17°C) · Sunny
+🌡️ **Eindhoven**: 30°C (feels 29°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
-- [Coin-sized device can hack a Boeing 737](https://www.wired.com/story/this-coin-sized-device-can-hack-a-boeing-737/)
+- [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/)
 - [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
-- ["That's not SoC 2 compliant"](https://ampcode.com/notes/thats-not-soc-2-compliant)
+- [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
+- [The mathematical beauty of hyperbezier curves](https://linebender.org/blog/hyperbezier/)
 <!-- HN:end -->
 
 ---
