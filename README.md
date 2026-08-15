@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 15 August 2026** — refreshed 14:45 CET
+📅 **Saturday, 15 August 2026** — refreshed 20:35 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:22:38 AM  ·  🌇 **Sunset** 9:01:32 PM
 ✨ **Golden hour** 8:15:03 PM  ·  ⏳ **Day length** 14:38:53
-🌒 **Moon**: Waxing Crescent (10% lit)
+🌒 **Moon**: Waxing Crescent (11% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 30°C (feels 29°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 29°C (feels 27°C) · Thundery outbreaks in nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Semaglutide linked to 26% lower 5-year predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)
+- [AI Isn't Outthinking Mathematicians. It's Out-Remembering Them](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians)
+- [The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
 - [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/)
-- [The other Sean Byrne doesn't exist](https://conic.al/writing/the-other-sean-byrne-doesnt-exist/)
-- [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
-- [The mathematical beauty of hyperbezier curves](https://linebender.org/blog/hyperbezier/)
 <!-- HN:end -->
 
 ---
