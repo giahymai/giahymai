@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 16 August 2026** — refreshed 14:47 CET
+📅 **Sunday, 16 August 2026** — refreshed 20:34 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:24:13 AM  ·  🌇 **Sunset** 8:59:32 PM
 ✨ **Golden hour** 8:13:12 PM  ·  ⏳ **Day length** 14:35:19
-🌒 **Moon**: Waxing Crescent (17% lit)
+🌒 **Moon**: Waxing Crescent (19% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 25°C (feels 23°C) · Sunny
+🌡️ **Eindhoven**: 25°C (feels 21°C) · Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [A SAT Attack on Tarski's High School Algebra Problem](https://arxiv.org/abs/2608.08421)
-- [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)
-- [Superconducting monolayer cuprate with a single CuO2 plane](https://www.nature.com/articles/s41586-026-10857-1)
-- [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io)
+- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
+- [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/)
+- [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers)
+- [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core)
 <!-- HN:end -->
 
 ---
