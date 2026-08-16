@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 16 August 2026** — refreshed 08:46 CET
+📅 **Sunday, 16 August 2026** — refreshed 14:47 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:24:13 AM  ·  🌇 **Sunset** 8:59:32 PM
 ✨ **Golden hour** 8:13:12 PM  ·  ⏳ **Day length** 14:35:19
-🌒 **Moon**: Waxing Crescent (15% lit)
+🌒 **Moon**: Waxing Crescent (17% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 14°C (feels 13°C) · Cloudy 
+☀️ **Eindhoven**: 25°C (feels 23°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [A SAT Attack on Tarski's High School Algebra Problem](https://arxiv.org/abs/2608.08421)
 - [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)
+- [Superconducting monolayer cuprate with a single CuO2 plane](https://www.nature.com/articles/s41586-026-10857-1)
 - [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io)
-- [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)
-- [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems)
 <!-- HN:end -->
 
 ---
