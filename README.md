@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 17 August 2026** — refreshed 14:52 CET
+📅 **Monday, 17 August 2026** — refreshed 20:45 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:25:49 AM  ·  🌇 **Sunset** 8:57:32 PM
 ✨ **Golden hour** 8:11:20 PM  ·  ⏳ **Day length** 14:31:42
-🌒 **Moon**: Waxing Crescent (26% lit)
+🌒 **Moon**: Waxing Crescent (28% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: -1°C (feels -10°C) · Blizzard
+🌡️ **Eindhoven**: 22°C (feels 19°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
-- [GPT 5.6 Sol is the best "vision" model OpenAI ever released](https://blog.roboflow.com/openai-gpt-5-6/)
-- [On A.I. regulation and messaging](https://twitter.com/DarioAmodei/status/2088758816376807762)
-- [Anthropic's 'watermark' text adulteration in Claude is a perversion of writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
+- [Qwen3.8 27B scores 52 on Artificial Analysis](https://artificialanalysis.ai/models/qwen3-8-27b)
+- [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights)
+- [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
+- [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
 <!-- HN:end -->
 
 ---
