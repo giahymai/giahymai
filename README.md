@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 17 August 2026** — refreshed 03:36 CET
+📅 **Monday, 17 August 2026** — refreshed 09:03 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:25:49 AM  ·  🌇 **Sunset** 8:57:32 PM
 ✨ **Golden hour** 8:11:20 PM  ·  ⏳ **Day length** 14:31:42
-🌒 **Moon**: Waxing Crescent (22% lit)
+🌒 **Moon**: Waxing Crescent (24% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 16°C (feels 15°C) · Partly Cloudy 
+🌡️ **Eindhoven**: -1°C (feels -9°C) · Blizzard
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
-- [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/)
-- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
 - [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
+- [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
+- [A third world engineer responds to “RISC-V: They should have known better”](https://rvembedded.com/blog_post/12/)
+- [AGI-64 Brings Sierra Adventures to the Commodore 64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
 <!-- HN:end -->
 
 ---
