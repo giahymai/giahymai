@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 16 August 2026** — refreshed 20:34 CET
+📅 **Monday, 17 August 2026** — refreshed 03:36 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:24:13 AM  ·  🌇 **Sunset** 8:59:32 PM
-✨ **Golden hour** 8:13:12 PM  ·  ⏳ **Day length** 14:35:19
-🌒 **Moon**: Waxing Crescent (19% lit)
+🌅 **Sunrise** 6:25:49 AM  ·  🌇 **Sunset** 8:57:32 PM
+✨ **Golden hour** 8:11:20 PM  ·  ⏳ **Day length** 14:31:42
+🌒 **Moon**: Waxing Crescent (22% lit)
 
-> 🔭 *A day on Venus is longer than its year.*
+> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 25°C (feels 21°C) · Cloudy 
+🌡️ **Eindhoven**: 16°C (feels 15°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
+💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
+- [The Life and Death of Direct File [pdf]](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)
 - [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/)
-- [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers)
-- [St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core](https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core)
+- [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
+- [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
 <!-- HN:end -->
 
 ---
