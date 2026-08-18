@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 18 August 2026** — refreshed 08:51 CET
+📅 **Tuesday, 18 August 2026** — refreshed 14:53 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:27:24 AM  ·  🌇 **Sunset** 8:55:30 PM
 ✨ **Golden hour** 8:09:27 PM  ·  ⏳ **Day length** 14:28:05
-🌓 **Moon**: First Quarter (33% lit)
+🌓 **Moon**: First Quarter (35% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌦️ **Eindhoven**: 16°C (feels 14°C) · Light rain
+🌡️ **Eindhoven**: 18°C (feels 16°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)
+- [Google buys crashed airline Spirit's data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
 - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
-- [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
-- [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
-- [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
+- [Teaching my kid to code with a modern MUD](https://tau.dev/2026/08/07/canon)
 <!-- HN:end -->
 
 ---
