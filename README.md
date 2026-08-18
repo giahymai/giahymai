@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 18 August 2026** — refreshed 14:53 CET
+📅 **Tuesday, 18 August 2026** — refreshed 20:43 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:27:24 AM  ·  🌇 **Sunset** 8:55:30 PM
 ✨ **Golden hour** 8:09:27 PM  ·  ⏳ **Day length** 14:28:05
-🌓 **Moon**: First Quarter (35% lit)
+🌓 **Moon**: First Quarter (37% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 18°C (feels 16°C) · Light rain shower
+🌡️ **Eindhoven**: 21°C (feels 20°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Linux 7.3 improves performance when running out of vRAM](https://pixelcluster.dev/VRAM-Overcommit/)
-- [Google buys crashed airline Spirit's data at auction, because AI](https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962)
-- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
-- [Teaching my kid to code with a modern MUD](https://tau.dev/2026/08/07/canon)
+- [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
+- [Claude Code weekly limits reduce by a third tomorrow](https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion)
+- [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
+- [Using the railway network as a flatbed scanner](https://philo.gay/linecam/)
 <!-- HN:end -->
 
 ---
