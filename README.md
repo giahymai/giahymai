@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 17 August 2026** — refreshed 20:45 CET
+📅 **Tuesday, 18 August 2026** — refreshed 03:26 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:25:49 AM  ·  🌇 **Sunset** 8:57:32 PM
-✨ **Golden hour** 8:11:20 PM  ·  ⏳ **Day length** 14:31:42
-🌒 **Moon**: Waxing Crescent (28% lit)
+🌅 **Sunrise** 6:27:24 AM  ·  🌇 **Sunset** 8:55:30 PM
+✨ **Golden hour** 8:09:27 PM  ·  ⏳ **Day length** 14:28:05
+🌒 **Moon**: Waxing Crescent (30% lit)
 
-> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
+> 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 22°C (feels 19°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 13°C (feels 13°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
+💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Qwen3.8 27B scores 52 on Artificial Analysis](https://artificialanalysis.ai/models/qwen3-8-27b)
-- [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights)
-- [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
-- [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx)
+- [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
+- [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
+- [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
+- [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
 <!-- HN:end -->
 
 ---
