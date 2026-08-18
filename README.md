@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 18 August 2026** — refreshed 03:26 CET
+📅 **Tuesday, 18 August 2026** — refreshed 08:51 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:27:24 AM  ·  🌇 **Sunset** 8:55:30 PM
 ✨ **Golden hour** 8:09:27 PM  ·  ⏳ **Day length** 14:28:05
-🌒 **Moon**: Waxing Crescent (30% lit)
+🌓 **Moon**: First Quarter (33% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 13°C) · Clear 
+🌦️ **Eindhoven**: 16°C (feels 14°C) · Light rain
 <!-- WEATHER:end -->
 ---
 
@@ -39,9 +39,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
-- [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
 - [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
-- [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
+- [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
+- [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
 <!-- HN:end -->
 
 ---
