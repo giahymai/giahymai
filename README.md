@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 18 August 2026** — refreshed 20:43 CET
+📅 **Wednesday, 19 August 2026** — refreshed 03:34 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:27:24 AM  ·  🌇 **Sunset** 8:55:30 PM
-✨ **Golden hour** 8:09:27 PM  ·  ⏳ **Day length** 14:28:05
-🌓 **Moon**: First Quarter (37% lit)
+🌅 **Sunrise** 6:29:00 AM  ·  🌇 **Sunset** 8:53:27 PM
+✨ **Golden hour** 8:07:32 PM  ·  ⏳ **Day length** 14:24:27
+🌓 **Moon**: First Quarter (40% lit)
 
-> 🔭 *A day on Venus is longer than its year.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 21°C (feels 20°C) · Light rain shower
+🌫️ **Eindhoven**: 18°C (feels 18°C) · Mist
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Data centers raise nearby temperatures by up to 4 degrees in Phoenix](https://asmedigitalcollection.asme.org/sustainablebuildings/article/7/2/024501/1233035/Data-Center-Waste-Heat-as-an-Emerging-Urban)
-- [Claude Code weekly limits reduce by a third tomorrow](https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion)
-- [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec)
-- [Using the railway network as a flatbed scanner](https://philo.gay/linecam/)
+- [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)
+- [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/)
+- [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo)
+- [Cerebras CS4](https://www.cerebras.ai/cs4)
 <!-- HN:end -->
 
 ---
