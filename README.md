@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 19 August 2026** — refreshed 03:34 CET
+📅 **Wednesday, 19 August 2026** — refreshed 08:51 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:29:00 AM  ·  🌇 **Sunset** 8:53:27 PM
 ✨ **Golden hour** 8:07:32 PM  ·  ⏳ **Day length** 14:24:27
-🌓 **Moon**: First Quarter (40% lit)
+🌓 **Moon**: First Quarter (42% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌫️ **Eindhoven**: 18°C (feels 18°C) · Mist
+🌡️ **Eindhoven**: 17°C (feels 16°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)
-- [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/)
-- [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo)
-- [Cerebras CS4](https://www.cerebras.ai/cs4)
+- [OpenLogi](https://openlogi.org/en)
+- [Supersonic Trebuchet [video]](https://www.youtube.com/watch?v=Co57SfcT-h0)
+- [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
+- [Scientists stunned by children's lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro)
 <!-- HN:end -->
 
 ---
