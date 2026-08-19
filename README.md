@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 19 August 2026** — refreshed 14:54 CET
+📅 **Wednesday, 19 August 2026** — refreshed 20:40 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:29:00 AM  ·  🌇 **Sunset** 8:53:27 PM
 ✨ **Golden hour** 8:07:32 PM  ·  ⏳ **Day length** 14:24:27
-🌓 **Moon**: First Quarter (45% lit)
+🌓 **Moon**: First Quarter (47% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 17°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 18°C (feels 18°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730)
-- [OpenLogi](https://openlogi.org/en)
+- [Openrouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
+- [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
 - [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/)
-- [Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/)
+- [Ornith-1.5: From Self-Scaffolding to Self-Improvement](https://ornith.ai/ornith_1_5.html)
 <!-- HN:end -->
 
 ---
