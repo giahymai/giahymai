@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 19 August 2026** — refreshed 08:51 CET
+📅 **Wednesday, 19 August 2026** — refreshed 14:54 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:29:00 AM  ·  🌇 **Sunset** 8:53:27 PM
 ✨ **Golden hour** 8:07:32 PM  ·  ⏳ **Day length** 14:24:27
-🌓 **Moon**: First Quarter (42% lit)
+🌓 **Moon**: First Quarter (45% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 16°C) · Light rain shower
+🌡️ **Eindhoven**: 17°C (feels 17°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [GrapheneOS in 2027 available on high-end Motorola phones](https://grapheneos.social/@GrapheneOS/117078064184215730)
 - [OpenLogi](https://openlogi.org/en)
-- [Supersonic Trebuchet [video]](https://www.youtube.com/watch?v=Co57SfcT-h0)
-- [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
-- [Scientists stunned by children's lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro)
+- [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/)
+- [Air Theremin – a browser theremin you play by waving at your webcam](https://theremin.bizibah.com/)
 <!-- HN:end -->
 
 ---
