@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 20 August 2026** — refreshed 03:27 CET
+📅 **Thursday, 20 August 2026** — refreshed 08:52 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:30:35 AM  ·  🌇 **Sunset** 8:51:23 PM
 ✨ **Golden hour** 8:05:36 PM  ·  ⏳ **Day length** 14:20:47
-🌓 **Moon**: First Quarter (50% lit)
+🌓 **Moon**: First Quarter (52% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌫️ **Eindhoven**: 14°C (feels 13°C) · Fog
+☀️ **Eindhoven**: 14°C (feels 12°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -39,9 +39,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
+- [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
 - [Go 1.27](https://go.dev/blog/go1.27)
-- [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023)
-- [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
+- [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week)
 <!-- HN:end -->
 
 ---
