@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 20 August 2026** — refreshed 08:52 CET
+📅 **Thursday, 20 August 2026** — refreshed 14:56 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:30:35 AM  ·  🌇 **Sunset** 8:51:23 PM
 ✨ **Golden hour** 8:05:36 PM  ·  ⏳ **Day length** 14:20:47
-🌓 **Moon**: First Quarter (52% lit)
+🌓 **Moon**: First Quarter (54% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 14°C (feels 12°C) · Sunny
+🌡️ **Eindhoven**: 21°C (feels 17°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
-- [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
-- [Go 1.27](https://go.dev/blog/go1.27)
-- [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week)
+- [Don't Paste the AI, please](https://dontpastetheai.com/)
+- [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
+- [Show HN: I trained a 125M model to autocomplete piano on-device](https://simedw.com/2026/08/20/midi-autocomplete/)
+- [Windows brings out the Rorschach test in everyone (2003)](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
 <!-- HN:end -->
 
 ---
