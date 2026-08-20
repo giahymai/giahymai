@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 19 August 2026** — refreshed 20:40 CET
+📅 **Thursday, 20 August 2026** — refreshed 03:27 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:29:00 AM  ·  🌇 **Sunset** 8:53:27 PM
-✨ **Golden hour** 8:07:32 PM  ·  ⏳ **Day length** 14:24:27
-🌓 **Moon**: First Quarter (47% lit)
+🌅 **Sunrise** 6:30:35 AM  ·  🌇 **Sunset** 8:51:23 PM
+✨ **Golden hour** 8:05:36 PM  ·  ⏳ **Day length** 14:20:47
+🌓 **Moon**: First Quarter (50% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 18°C (feels 18°C) · Light rain shower
+🌫️ **Eindhoven**: 14°C (feels 13°C) · Fog
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Openrouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
-- [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
-- [Geolocating a random island using geometry and CUDA programming](https://yassa9.github.io/osint/gralhix-004/)
-- [Ornith-1.5: From Self-Scaffolding to Self-Improvement](https://ornith.ai/ornith_1_5.html)
+- [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
+- [Go 1.27](https://go.dev/blog/go1.27)
+- [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023)
+- [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
 <!-- HN:end -->
 
 ---
