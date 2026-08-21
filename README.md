@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 20 August 2026** — refreshed 20:45 CET
+📅 **Friday, 21 August 2026** — refreshed 03:38 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:30:35 AM  ·  🌇 **Sunset** 8:51:23 PM
-✨ **Golden hour** 8:05:36 PM  ·  ⏳ **Day length** 14:20:47
-🌓 **Moon**: First Quarter (56% lit)
+🌅 **Sunrise** 6:32:11 AM  ·  🌇 **Sunset** 8:49:18 PM
+✨ **Golden hour** 8:03:39 PM  ·  ⏳ **Day length** 14:17:07
+🌓 **Moon**: First Quarter (59% lit)
 
-> 🔭 *A day on Venus is longer than its year.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 18°C) · Cloudy 
+🌡️ **Eindhoven**: 14°C (feels 12°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
+💡 `git` was written by Linus Torvalds in about 10 days in 2005.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
+- [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
+- [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)
 - [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
-- [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html)
-- [I should have loved biology](https://jsomers.net/i-should-have-loved-biology/)
-- [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
 <!-- HN:end -->
 
 ---
