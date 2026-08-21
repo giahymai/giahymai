@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 21 August 2026** — refreshed 14:55 CET
+📅 **Friday, 21 August 2026** — refreshed 20:41 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:32:11 AM  ·  🌇 **Sunset** 8:49:18 PM
 ✨ **Golden hour** 8:03:39 PM  ·  ⏳ **Day length** 14:17:07
-🌓 **Moon**: First Quarter (64% lit)
+🌓 **Moon**: First Quarter (66% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 20°C (feels 19°C) · Light rain shower
+🌡️ **Eindhoven**: 16°C (feels 15°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
-- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html)
-- [TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)
-- [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
+- [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
+- [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
+- [Felony Bench](https://www.felonybench.com/)
+- [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
 <!-- HN:end -->
 
 ---
