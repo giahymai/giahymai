@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 21 August 2026** — refreshed 03:38 CET
+📅 **Friday, 21 August 2026** — refreshed 08:54 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:32:11 AM  ·  🌇 **Sunset** 8:49:18 PM
 ✨ **Golden hour** 8:03:39 PM  ·  ⏳ **Day length** 14:17:07
-🌓 **Moon**: First Quarter (59% lit)
+🌓 **Moon**: First Quarter (61% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 14°C (feels 12°C) · Clear 
+🌡️ **Eindhoven**: 14°C (feels 13°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678)
-- [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
-- [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page)
+- [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674)
+- [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
 - [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
+- [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
 <!-- HN:end -->
 
 ---
