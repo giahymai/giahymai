@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 21 August 2026** — refreshed 08:54 CET
+📅 **Friday, 21 August 2026** — refreshed 14:55 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:32:11 AM  ·  🌇 **Sunset** 8:49:18 PM
 ✨ **Golden hour** 8:03:39 PM  ·  ⏳ **Day length** 14:17:07
-🌓 **Moon**: First Quarter (61% lit)
+🌓 **Moon**: First Quarter (64% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 14°C (feels 13°C) · Overcast 
+🌡️ **Eindhoven**: 20°C (feels 19°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Codex on AWS bedrock bug causing 10x charges](https://github.com/openai/codex/issues/37674)
-- [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
-- [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
-- [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
+- [DeepSeek-v4-flash-vision-exp](https://api-docs.deepseek.com/guides/vision/)
+- [AI companies destroy physical books – let's scan rare books before it's too late](https://annas-archive.pk/blog/physical-destruction.html)
+- [TigerBeetle Core System Architecture: Deconstructing Performance Engineering](https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering)
+- [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
 <!-- HN:end -->
 
 ---
