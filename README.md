@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 21 August 2026** — refreshed 20:41 CET
+📅 **Saturday, 22 August 2026** — refreshed 03:26 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:32:11 AM  ·  🌇 **Sunset** 8:49:18 PM
-✨ **Golden hour** 8:03:39 PM  ·  ⏳ **Day length** 14:17:07
-🌓 **Moon**: First Quarter (66% lit)
+🌅 **Sunrise** 6:33:46 AM  ·  🌇 **Sunset** 8:47:12 PM
+✨ **Golden hour** 8:01:41 PM  ·  ⏳ **Day length** 14:13:25
+🌓 **Moon**: First Quarter (68% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 16°C (feels 15°C) · Light rain shower
+🌡️ **Eindhoven**: 13°C (feels 12°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 `git` was written by Linus Torvalds in about 10 days in 2005.
+💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
-- [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
 - [Felony Bench](https://www.felonybench.com/)
-- [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
+- [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
+- [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
 <!-- HN:end -->
 
 ---
