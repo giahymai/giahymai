@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 22 August 2026** — refreshed 08:47 CET
+📅 **Saturday, 22 August 2026** — refreshed 14:47 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:33:46 AM  ·  🌇 **Sunset** 8:47:12 PM
 ✨ **Golden hour** 8:01:41 PM  ·  ⏳ **Day length** 14:13:25
-🌔 **Moon**: Waxing Gibbous (70% lit)
+🌔 **Moon**: Waxing Gibbous (72% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 12°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 19°C (feels 15°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
-- [GPT 5.6 Sol 20% price reduction](https://developers.openai.com/api/docs/models/gpt-5.6-sol)
-- [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
-- [Felony Bench](https://www.felonybench.com/)
+- [Canada suspends trade negotiations with USA and match tariffs dollar for dollar](https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations)
+- [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)
+- [Z80–The 1970s Microprocessor Still Alive](https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi)
+- [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
 <!-- HN:end -->
 
 ---
