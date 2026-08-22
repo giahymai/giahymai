@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 22 August 2026** — refreshed 03:26 CET
+📅 **Saturday, 22 August 2026** — refreshed 08:47 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:33:46 AM  ·  🌇 **Sunset** 8:47:12 PM
 ✨ **Golden hour** 8:01:41 PM  ·  ⏳ **Day length** 14:13:25
-🌓 **Moon**: First Quarter (68% lit)
+🌔 **Moon**: Waxing Gibbous (70% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 12°C) · Overcast 
+🌡️ **Eindhoven**: 13°C (feels 12°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
+- [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
+- [GPT 5.6 Sol 20% price reduction](https://developers.openai.com/api/docs/models/gpt-5.6-sol)
+- [Initial focus for our partnership with Motorola is a regular non-folding device](https://grapheneos.social/@GrapheneOS/117136278553665985)
 - [Felony Bench](https://www.felonybench.com/)
-- [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
-- [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/)
 <!-- HN:end -->
 
 ---
