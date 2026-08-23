@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 23 August 2026** — refreshed 14:48 CET
+📅 **Sunday, 23 August 2026** — refreshed 20:35 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:35:22 AM  ·  🌇 **Sunset** 8:45:05 PM
 ✨ **Golden hour** 7:59:41 PM  ·  ⏳ **Day length** 14:09:43
-🌔 **Moon**: Waxing Gibbous (80% lit)
+🌔 **Moon**: Waxing Gibbous (82% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 17°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 18°C (feels 16°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o)
-- [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
-- [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
-- [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/)
+- [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/)
+- [How Complex Systems Fail (1998)](https://how.complexsystems.fail/)
+- [A website for debloated open source alternatives](https://debloat.dev/)
+- [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](https://reinvently.co.uk/tools/ed-o-meter/)
 <!-- HN:end -->
 
 ---
