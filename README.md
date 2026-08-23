@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 23 August 2026** — refreshed 03:41 CET
+📅 **Sunday, 23 August 2026** — refreshed 08:48 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:35:22 AM  ·  🌇 **Sunset** 8:45:05 PM
 ✨ **Golden hour** 7:59:41 PM  ·  ⏳ **Day length** 14:09:43
-🌔 **Moon**: Waxing Gibbous (77% lit)
+🌔 **Moon**: Waxing Gibbous (78% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 11°C) · Overcast 
+🌡️ **Eindhoven**: 14°C (feels 12°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/)
-- [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
-- [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491)
-- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
+- [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
+- [The Golden Rule for Becoming a Better Writer](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
+- [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
+- [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
 <!-- HN:end -->
 
 ---
