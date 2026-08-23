@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 22 August 2026** — refreshed 20:36 CET
+📅 **Sunday, 23 August 2026** — refreshed 03:41 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:33:46 AM  ·  🌇 **Sunset** 8:47:12 PM
-✨ **Golden hour** 8:01:41 PM  ·  ⏳ **Day length** 14:13:25
-🌔 **Moon**: Waxing Gibbous (74% lit)
+🌅 **Sunrise** 6:35:22 AM  ·  🌇 **Sunset** 8:45:05 PM
+✨ **Golden hour** 7:59:41 PM  ·  ⏳ **Day length** 14:09:43
+🌔 **Moon**: Waxing Gibbous (77% lit)
 
-> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
+> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 18°C (feels 14°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 13°C (feels 11°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
-- [A Friendly Introduction to Racket](https://geometridae.bearblog.dev/a-friendly-introduction-to-racket/)
-- [RF Cafe](https://www.rfcafe.com/)
-- [Munder Difflin – Agent harness to run an office of your clones](https://munderdiffl.in/)
+- [Figmimic – A bookmarklet to copy any webpage into Figma as editable layers](https://marcua.net/minitools/figmimic/)
+- [NanoGPT Speedrun Frontier](https://www.primeintellect.ai/research/nanogpt-speedrun)
+- [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491)
+- [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
 <!-- HN:end -->
 
 ---
