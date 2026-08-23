@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 23 August 2026** — refreshed 08:48 CET
+📅 **Sunday, 23 August 2026** — refreshed 14:48 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:35:22 AM  ·  🌇 **Sunset** 8:45:05 PM
 ✨ **Golden hour** 7:59:41 PM  ·  ⏳ **Day length** 14:09:43
-🌔 **Moon**: Waxing Gibbous (78% lit)
+🌔 **Moon**: Waxing Gibbous (80% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 14°C (feels 12°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 19°C (feels 17°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
-- [The Golden Rule for Becoming a Better Writer](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
+- [Sydney Marathon medal mistakenly depicts Munich stadium](https://www.bbc.com/news/articles/cvg92y1wzn8o)
+- [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
 - [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
-- [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
+- [Show HN: Live 3D satellite tracker and the declassified Pentagon UFO archive](https://skylens.yantraai.app/)
 <!-- HN:end -->
 
 ---
