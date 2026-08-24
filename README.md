@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 23 August 2026** — refreshed 20:35 CET
+📅 **Monday, 24 August 2026** — refreshed 03:39 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:35:22 AM  ·  🌇 **Sunset** 8:45:05 PM
-✨ **Golden hour** 7:59:41 PM  ·  ⏳ **Day length** 14:09:43
-🌔 **Moon**: Waxing Gibbous (82% lit)
+🌅 **Sunrise** 6:36:58 AM  ·  🌇 **Sunset** 8:42:57 PM
+✨ **Golden hour** 7:57:40 PM  ·  ⏳ **Day length** 14:05:59
+🌔 **Moon**: Waxing Gibbous (84% lit)
 
-> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
+> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 18°C (feels 16°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 12°C (feels 11°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
+💡 Python is named after Monty Python, not the snake.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day](https://ericpardee.github.io/fire-hd-ownership/)
-- [How Complex Systems Fail (1998)](https://how.complexsystems.fail/)
-- [A website for debloated open source alternatives](https://debloat.dev/)
-- [GLM-5.3 (open-weight) beat Anthropic/OpenAI models – for 1/5 the cost](https://reinvently.co.uk/tools/ed-o-meter/)
+- [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
+- [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/)
+- [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+- [Google Workspace thinks my domain is an email provider (2025)](https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/)
 <!-- HN:end -->
 
 ---
