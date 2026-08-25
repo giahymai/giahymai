@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 24 August 2026** — refreshed 20:47 CET
+📅 **Tuesday, 25 August 2026** — refreshed 03:34 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:36:58 AM  ·  🌇 **Sunset** 8:42:57 PM
-✨ **Golden hour** 7:57:40 PM  ·  ⏳ **Day length** 14:05:59
-🌔 **Moon**: Waxing Gibbous (89% lit)
+🌅 **Sunrise** 6:38:33 AM  ·  🌇 **Sunset** 8:40:49 PM
+✨ **Golden hour** 7:55:39 PM  ·  ⏳ **Day length** 14:02:15
+🌔 **Moon**: Waxing Gibbous (91% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 20°C (feels 16°C) · Sunny
+🌡️ **Eindhoven**: 13°C (feels 11°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Python is named after Monty Python, not the snake.
+💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
 - [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
 - [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
-- [IPFS Maintainers Winding Down](https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/)
-- [The entire city of San Francisco as a video game](https://sf.thijs.gg/)
+- [Moon (2024)](https://ciechanow.ski/moon/)
 <!-- HN:end -->
 
 ---
