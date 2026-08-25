@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 25 August 2026** — refreshed 14:54 CET
+📅 **Tuesday, 25 August 2026** — refreshed 20:44 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:38:33 AM  ·  🌇 **Sunset** 8:40:49 PM
 ✨ **Golden hour** 7:55:39 PM  ·  ⏳ **Day length** 14:02:15
-🌔 **Moon**: Waxing Gibbous (93% lit)
+🌔 **Moon**: Waxing Gibbous (94% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 24°C (feels 21°C) · Sunny
+🌡️ **Eindhoven**: 22°C (feels 19°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Don't Wordle](https://dontwordle.com/)
-- [France's tax agency got hacked (in French)](https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/)
-- [HelloAssembly The smallest possible complete Windows application](https://github.com/PlummersSoftwareLLC/HelloAssembly)
-- [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
+- [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
+- [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
+- [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590)
+- [My Friend Aaron](https://rorz.io/writing/my-friend-aaron)
 <!-- HN:end -->
 
 ---
