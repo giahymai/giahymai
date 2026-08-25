@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 25 August 2026** — refreshed 08:55 CET
+📅 **Tuesday, 25 August 2026** — refreshed 14:54 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:38:33 AM  ·  🌇 **Sunset** 8:40:49 PM
 ✨ **Golden hour** 7:55:39 PM  ·  ⏳ **Day length** 14:02:15
-🌔 **Moon**: Waxing Gibbous (92% lit)
+🌔 **Moon**: Waxing Gibbous (93% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 10°C) · Partly Cloudy 
+☀️ **Eindhoven**: 24°C (feels 21°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Don't Wordle](https://dontwordle.com/)
+- [France's tax agency got hacked (in French)](https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/)
+- [HelloAssembly The smallest possible complete Windows application](https://github.com/PlummersSoftwareLLC/HelloAssembly)
 - [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
-- [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
-- [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
-- [Nostr is an inclusive communication commons](https://nostr.org/)
 <!-- HN:end -->
 
 ---
