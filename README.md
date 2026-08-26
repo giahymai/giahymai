@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 25 August 2026** — refreshed 20:44 CET
+📅 **Wednesday, 26 August 2026** — refreshed 03:38 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:38:33 AM  ·  🌇 **Sunset** 8:40:49 PM
-✨ **Golden hour** 7:55:39 PM  ·  ⏳ **Day length** 14:02:15
-🌔 **Moon**: Waxing Gibbous (94% lit)
+🌅 **Sunrise** 6:40:09 AM  ·  🌇 **Sunset** 8:38:40 PM
+✨ **Golden hour** 7:53:36 PM  ·  ⏳ **Day length** 13:58:30
+🌔 **Moon**: Waxing Gibbous (96% lit)
 
-> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
+> 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 22°C (feels 19°C) · Overcast 
+🌡️ **Eindhoven**: 15°C (feels 14°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
 - [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
+- [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia)
 - [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
-- [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590)
-- [My Friend Aaron](https://rorz.io/writing/my-friend-aaron)
 <!-- HN:end -->
 
 ---
