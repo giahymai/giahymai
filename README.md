@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 26 August 2026** — refreshed 03:38 CET
+📅 **Wednesday, 26 August 2026** — refreshed 08:56 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:40:09 AM  ·  🌇 **Sunset** 8:38:40 PM
 ✨ **Golden hour** 7:53:36 PM  ·  ⏳ **Day length** 13:58:30
-🌔 **Moon**: Waxing Gibbous (96% lit)
+🌕 **Moon**: Full Moon (96% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 15°C (feels 14°C) · Clear 
+🌡️ **Eindhoven**: 17°C (feels 17°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
+- [More than half of adults in U.S. say they lack basic statistical understanding](https://www.psu.edu/news/research/story/more-half-adults-us-say-they-lack-basic-statistical-understanding)
 - [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
+- [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
 - [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia)
-- [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
 <!-- HN:end -->
 
 ---
