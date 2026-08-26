@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 26 August 2026** — refreshed 15:00 CET
+📅 **Wednesday, 26 August 2026** — refreshed 21:52 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:40:09 AM  ·  🌇 **Sunset** 8:38:40 PM
 ✨ **Golden hour** 7:53:36 PM  ·  ⏳ **Day length** 13:58:30
-🌕 **Moon**: Full Moon (97% lit)
+🌕 **Moon**: Full Moon (98% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 26°C (feels 26°C) · Sunny
+🌡️ **Eindhoven**: 22°C (feels 21°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Omarchy is full of security holes](https://blog.happyfellow.dev/merchants-of-insecurity/)
-- [RAG Is Simpler Than You Think](https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think)
-- [Oldinsurancemaps.net is now a Charter Project](https://openstreetmap.us/news/2026/08/oim-charter-project/)
-- [Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights](https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek)
+- [Tailcat](https://github.com/tailscale/tailcat)
+- [Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]](https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf)
+- [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash)
+- [An ongoing 3D-printer AGPL violation](https://lwn.net/SubscriberLink/1089390/46116614cc74b814/)
 <!-- HN:end -->
 
 ---
