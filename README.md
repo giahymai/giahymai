@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 27 August 2026** — refreshed 10:30 CET
+📅 **Friday, 28 August 2026** — refreshed 00:02 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:41:44 AM  ·  🌇 **Sunset** 8:36:30 PM
 ✨ **Golden hour** 7:51:32 PM  ·  ⏳ **Day length** 13:54:45
-🌕 **Moon**: Full Moon (99% lit)
+🌕 **Moon**: Full Moon (100% lit)
 
 > 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 20°C) · Light rain shower
+🌡️ **Eindhoven**: 21°C (feels 23°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)
-- [Mechanical Turk shutting down September 30](https://www.mturk.com/)
-- [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash)
-- [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/)
+- [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
+- [Small Models Have Arrived](https://calv.info/small-models-have-arrived)
+- [507 Mechanical Movements](https://507movements.com/)
+- [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290)
 <!-- HN:end -->
 
 ---
