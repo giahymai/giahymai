@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 26 August 2026** — refreshed 21:52 CET
+📅 **Thursday, 27 August 2026** — refreshed 10:30 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:40:09 AM  ·  🌇 **Sunset** 8:38:40 PM
-✨ **Golden hour** 7:53:36 PM  ·  ⏳ **Day length** 13:58:30
-🌕 **Moon**: Full Moon (98% lit)
+🌅 **Sunrise** 6:41:44 AM  ·  🌇 **Sunset** 8:36:30 PM
+✨ **Golden hour** 7:51:32 PM  ·  ⏳ **Day length** 13:54:45
+🌕 **Moon**: Full Moon (99% lit)
 
-> 🔭 *A day on Venus is longer than its year.*
+> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 22°C (feels 21°C) · Overcast 
+🌡️ **Eindhoven**: 19°C (feels 20°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
+💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Tailcat](https://github.com/tailscale/tailcat)
-- [Study Reveals UnitedHealth's Profit Margins Four Times What It Claimed [pdf]](https://insurancewatchdogcoalition.com/wp-content/uploads/2026/08/UHG-Profits-Study_August-2026.pdf)
+- [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8)
+- [Mechanical Turk shutting down September 30](https://www.mturk.com/)
 - [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash)
-- [An ongoing 3D-printer AGPL violation](https://lwn.net/SubscriberLink/1089390/46116614cc74b814/)
+- [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/)
 <!-- HN:end -->
 
 ---
