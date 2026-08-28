@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 28 August 2026** — refreshed 00:02 CET
+📅 **Friday, 28 August 2026** — refreshed 12:43 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:41:44 AM  ·  🌇 **Sunset** 8:36:30 PM
-✨ **Golden hour** 7:51:32 PM  ·  ⏳ **Day length** 13:54:45
+🌅 **Sunrise** 6:43:20 AM  ·  🌇 **Sunset** 8:34:19 PM
+✨ **Golden hour** 7:49:28 PM  ·  ⏳ **Day length** 13:50:59
 🌕 **Moon**: Full Moon (100% lit)
 
-> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
+> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 21°C (feels 23°C) · Light rain shower
+🌡️ **Eindhoven**: 21°C (feels 20°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Hilariously Fast Volume Computation with the Divergence Theorem](https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html)
 - [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
 - [Small Models Have Arrived](https://calv.info/small-models-have-arrived)
-- [507 Mechanical Movements](https://507movements.com/)
-- [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290)
+- [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/)
 <!-- HN:end -->
 
 ---
