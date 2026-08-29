@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 29 August 2026** — refreshed 08:31 CET
+📅 **Saturday, 29 August 2026** — refreshed 18:29 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:44:56 AM  ·  🌇 **Sunset** 8:32:08 PM
 ✨ **Golden hour** 7:47:22 PM  ·  ⏳ **Day length** 13:47:12
-🌕 **Moon**: Full Moon (99% lit)
+🌕 **Moon**: Full Moon (98% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 16°C (feels 13°C) · Sunny
+🌡️ **Eindhoven**: 20°C (feels 17°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)
-- [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli)
-- [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
-- [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
+- [Debian votes to allow "responsible use of generative AI"](https://lwn.net/Articles/1091231/)
+- [Indirect Calling of Nested Functions on GCC Without Executable Stack](https://uecker.codeberg.page/2026-08-29.html)
+- [SQLite as a Document Database (2020)](https://dgl.cx/2020/06/sqlite-json-support)
+- [Show HN: Typebase – A single-folder back end you write in TypeScript](https://typebase.io)
 <!-- HN:end -->
 
 ---
