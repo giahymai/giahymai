@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 28 August 2026** — refreshed 23:59 CET
+📅 **Saturday, 29 August 2026** — refreshed 08:31 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:43:20 AM  ·  🌇 **Sunset** 8:34:19 PM
-✨ **Golden hour** 7:49:28 PM  ·  ⏳ **Day length** 13:50:59
+🌅 **Sunrise** 6:44:56 AM  ·  🌇 **Sunset** 8:32:08 PM
+✨ **Golden hour** 7:47:22 PM  ·  ⏳ **Day length** 13:47:12
 🌕 **Moon**: Full Moon (99% lit)
 
-> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
+> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 13°C) · Overcast 
+☀️ **Eindhoven**: 16°C (feels 13°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
+💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Stopping the smart TV from being used against you](https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/)
+- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/)
+- [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli)
 - [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
-- [25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA](https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/)
-- [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
+- [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv)
 <!-- HN:end -->
 
 ---
