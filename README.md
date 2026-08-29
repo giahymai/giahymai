@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 29 August 2026** — refreshed 18:29 CET
+📅 **Saturday, 29 August 2026** — refreshed 22:43 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:44:56 AM  ·  🌇 **Sunset** 8:32:08 PM
 ✨ **Golden hour** 7:47:22 PM  ·  ⏳ **Day length** 13:47:12
-🌕 **Moon**: Full Moon (98% lit)
+🌕 **Moon**: Full Moon (97% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 20°C (feels 17°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 18°C (feels 16°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Debian votes to allow "responsible use of generative AI"](https://lwn.net/Articles/1091231/)
-- [Indirect Calling of Nested Functions on GCC Without Executable Stack](https://uecker.codeberg.page/2026-08-29.html)
-- [SQLite as a Document Database (2020)](https://dgl.cx/2020/06/sqlite-json-support)
-- [Show HN: Typebase – A single-folder back end you write in TypeScript](https://typebase.io)
+- [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/)
+- [Tencent Releases and Open-Sources Tencent Hy4 Preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
+- [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/)
+- [Calibrate Before You Accelerate: Bias Toward Action in a New Role](https://tucker.wales/writing/bias-towards-action/)
 <!-- HN:end -->
 
 ---
