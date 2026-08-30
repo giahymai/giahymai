@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 30 August 2026** — refreshed 18:23 CET
+📅 **Sunday, 30 August 2026** — refreshed 22:48 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:46:31 AM  ·  🌇 **Sunset** 8:29:56 PM
 ✨ **Golden hour** 7:45:16 PM  ·  ⏳ **Day length** 13:43:24
-🌖 **Moon**: Waning Gibbous (93% lit)
+🌖 **Moon**: Waning Gibbous (92% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 22°C (feels 20°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 19°C (feels 17°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -40,8 +40,8 @@
 <!-- HN:start -->
 - [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
 - [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)
-- [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/)
-- [Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]](https://www.youtube.com/watch?v=hpj6r6CjJf8)
+- [Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html)
+- [Coordination Headwind: How Organizations Are Like Slime Molds](https://komoroske.com/slime-mold/)
 <!-- HN:end -->
 
 ---
