@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 29 August 2026** — refreshed 22:43 CET
+📅 **Sunday, 30 August 2026** — refreshed 06:43 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:44:56 AM  ·  🌇 **Sunset** 8:32:08 PM
-✨ **Golden hour** 7:47:22 PM  ·  ⏳ **Day length** 13:47:12
-🌕 **Moon**: Full Moon (97% lit)
+🌅 **Sunrise** 6:46:31 AM  ·  🌇 **Sunset** 8:29:56 PM
+✨ **Golden hour** 7:45:16 PM  ·  ⏳ **Day length** 13:43:24
+🌖 **Moon**: Waning Gibbous (96% lit)
 
-> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
+> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 18°C (feels 16°C) · Light rain shower
+🌡️ **Eindhoven**: 17°C (feels 13°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
+💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [The Internet Is Kind of a Predatory Cesspit Now](https://www.stephendiehl.com/posts/internet_predatory_cesspit/)
-- [Tencent Releases and Open-Sources Tencent Hy4 Preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
-- [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/)
-- [Calibrate Before You Accelerate: Bias Toward Action in a New Role](https://tucker.wales/writing/bias-towards-action/)
+- [Bug Blindness](https://danluu.com/bug-blind/)
+- [Algorithmic Rent-Pricing Litigation Expands Under New State and Local Laws](https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws)
+- [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
+- [RISC-V is now officially supported by CPython](https://blog.python.org/2026/08/riscv-now-officially-supported/)
 <!-- HN:end -->
 
 ---
