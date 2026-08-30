@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 30 August 2026** — refreshed 13:36 CET
+📅 **Sunday, 30 August 2026** — refreshed 18:23 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:46:31 AM  ·  🌇 **Sunset** 8:29:56 PM
 ✨ **Golden hour** 7:45:16 PM  ·  ⏳ **Day length** 13:43:24
-🌖 **Moon**: Waning Gibbous (94% lit)
+🌖 **Moon**: Waning Gibbous (93% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 21°C (feels 17°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 22°C (feels 20°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Longest Straight Line Paths on Water or Land on the Earth (2018)](https://arxiv.org/abs/1804.07389)
-- [Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel](https://www.qubes-os.org/news/2026/08/29/qsb-118/)
-- [Spark: Sparklines in your shell](https://git.zx2c4.com/spark/about/)
-- [Brits would quite like their private messages to stay private](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994)
+- [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
+- [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)
+- [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/)
+- [Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]](https://www.youtube.com/watch?v=hpj6r6CjJf8)
 <!-- HN:end -->
 
 ---
