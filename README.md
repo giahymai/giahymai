@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 30 August 2026** — refreshed 22:48 CET
+📅 **Monday, 31 August 2026** — refreshed 06:47 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:46:31 AM  ·  🌇 **Sunset** 8:29:56 PM
-✨ **Golden hour** 7:45:16 PM  ·  ⏳ **Day length** 13:43:24
-🌖 **Moon**: Waning Gibbous (92% lit)
+🌅 **Sunrise** 6:48:07 AM  ·  🌇 **Sunset** 8:27:43 PM
+✨ **Golden hour** 7:43:08 PM  ·  ⏳ **Day length** 13:39:36
+🌖 **Moon**: Waning Gibbous (90% lit)
 
-> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
+> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 17°C) · Overcast 
+🌡️ **Eindhoven**: 15°C (feels 12°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
+💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
 - [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
-- [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)
-- [Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html)
-- [Coordination Headwind: How Organizations Are Like Slime Molds](https://komoroske.com/slime-mold/)
+- [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
+- [It takes 5 cloud services to hear my doorbell](https://blog.vghaisas.com/rube-goldberg-doorbell/)
 <!-- HN:end -->
 
 ---
