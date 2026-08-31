@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 31 August 2026** — refreshed 15:12 CET
+📅 **Tuesday, 01 September 2026** — refreshed 00:40 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:48:07 AM  ·  🌇 **Sunset** 8:27:43 PM
 ✨ **Golden hour** 7:43:08 PM  ·  ⏳ **Day length** 13:39:36
-🌖 **Moon**: Waning Gibbous (88% lit)
+🌖 **Moon**: Waning Gibbous (85% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 14°C) · Light rain shower
+🌡️ **Eindhoven**: 16°C (feels 13°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [OpenShot 4.0: Record, Edit, and Color Like Never Before](https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/)
-- [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
-- [Breaking Claude Code Opus 5 Auto Mode](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/)
-- [Agent Memory as a File Format](https://calpaterson.com/memoryfields.html)
+- [Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/)
+- [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
+- [Playa Phone](https://playaphone.com/)
+- [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A)
 <!-- HN:end -->
 
 ---
