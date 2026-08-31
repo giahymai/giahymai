@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 31 August 2026** — refreshed 06:47 CET
+📅 **Monday, 31 August 2026** — refreshed 15:12 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:48:07 AM  ·  🌇 **Sunset** 8:27:43 PM
 ✨ **Golden hour** 7:43:08 PM  ·  ⏳ **Day length** 13:39:36
-🌖 **Moon**: Waning Gibbous (90% lit)
+🌖 **Moon**: Waning Gibbous (88% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 15°C (feels 12°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 19°C (feels 14°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [OpenShot 4.0: Record, Edit, and Color Like Never Before](https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/)
 - [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/)
-- [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)
-- [P99 0 ms* autocomplete for 240M domain names](https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names)
-- [It takes 5 cloud services to hear my doorbell](https://blog.vghaisas.com/rube-goldberg-doorbell/)
+- [Breaking Claude Code Opus 5 Auto Mode](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/)
+- [Agent Memory as a File Format](https://calpaterson.com/memoryfields.html)
 <!-- HN:end -->
 
 ---
