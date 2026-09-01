@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 01 September 2026** — refreshed 06:26 CET
+📅 **Tuesday, 01 September 2026** — refreshed 13:23 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:49:42 AM  ·  🌇 **Sunset** 8:25:30 PM
 ✨ **Golden hour** 7:41:00 PM  ·  ⏳ **Day length** 13:35:47
-🌖 **Moon**: Waning Gibbous (83% lit)
+🌖 **Moon**: Waning Gibbous (80% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 15°C (feels 13°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 20°C (feels 17°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Tailcat: Tailscale Without Tailscale, by Tailscale](https://tailscale.com/blog/tailcat)
-- [Google Antigravity introduces Boost deep reasoning (/boost)](https://antigravity.google/docs/boost/)
+- [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
+- [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/)
 - [Fastpotify](https://fastpotify.rocks/)
-- [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
+- [GPU World](https://www.gpuworld.org/)
 <!-- HN:end -->
 
 ---
