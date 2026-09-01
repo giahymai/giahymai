@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 01 September 2026** — refreshed 18:20 CET
+📅 **Tuesday, 01 September 2026** — refreshed 22:49 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:49:42 AM  ·  🌇 **Sunset** 8:25:30 PM
 ✨ **Golden hour** 7:41:00 PM  ·  ⏳ **Day length** 13:35:47
-🌖 **Moon**: Waning Gibbous (78% lit)
+🌖 **Moon**: Waning Gibbous (77% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 21°C (feels 18°C) · Overcast 
+🌡️ **Eindhoven**: 16°C (feels 14°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
-- [Ask HN: Who is hiring? (September 2026)](https://news.ycombinator.com/item?id=49522897)
-- [Ambient CSS v3 – Blender meets CSS](https://ambientcss.vercel.app/)
-- [Play Store blocks AuroraStore, hurting GrapheneOS users](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566)
+- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
+- [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)
+- [Refurbishing a Tektronix TDS7104 Oscilloscope](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html)
+- [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/)
 <!-- HN:end -->
 
 ---
