@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 01 September 2026** — refreshed 13:23 CET
+📅 **Tuesday, 01 September 2026** — refreshed 18:20 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:49:42 AM  ·  🌇 **Sunset** 8:25:30 PM
 ✨ **Golden hour** 7:41:00 PM  ·  ⏳ **Day length** 13:35:47
-🌖 **Moon**: Waning Gibbous (80% lit)
+🌖 **Moon**: Waning Gibbous (78% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 20°C (feels 17°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 21°C (feels 18°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -39,9 +39,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
-- [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/)
-- [Fastpotify](https://fastpotify.rocks/)
-- [GPU World](https://www.gpuworld.org/)
+- [Ask HN: Who is hiring? (September 2026)](https://news.ycombinator.com/item?id=49522897)
+- [Ambient CSS v3 – Blender meets CSS](https://ambientcss.vercel.app/)
+- [Play Store blocks AuroraStore, hurting GrapheneOS users](https://gitlab.com/AuroraOSS/AuroraStore/-/work_items/1566)
 <!-- HN:end -->
 
 ---
