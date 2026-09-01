@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 01 September 2026** — refreshed 00:40 CET
+📅 **Tuesday, 01 September 2026** — refreshed 06:26 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:48:07 AM  ·  🌇 **Sunset** 8:27:43 PM
-✨ **Golden hour** 7:43:08 PM  ·  ⏳ **Day length** 13:39:36
-🌖 **Moon**: Waning Gibbous (85% lit)
+🌅 **Sunrise** 6:49:42 AM  ·  🌇 **Sunset** 8:25:30 PM
+✨ **Golden hour** 7:41:00 PM  ·  ⏳ **Day length** 13:35:47
+🌖 **Moon**: Waning Gibbous (83% lit)
 
-> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
+> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 16°C (feels 13°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 15°C (feels 13°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/)
+- [Tailcat: Tailscale Without Tailscale, by Tailscale](https://tailscale.com/blog/tailcat)
+- [Google Antigravity introduces Boost deep reasoning (/boost)](https://antigravity.google/docs/boost/)
+- [Fastpotify](https://fastpotify.rocks/)
 - [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
-- [Playa Phone](https://playaphone.com/)
-- [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A)
 <!-- HN:end -->
 
 ---
