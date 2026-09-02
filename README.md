@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 02 September 2026** — refreshed 12:57 CET
+📅 **Wednesday, 02 September 2026** — refreshed 18:18 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:51:17 AM  ·  🌇 **Sunset** 8:23:16 PM
 ✨ **Golden hour** 7:38:51 PM  ·  ⏳ **Day length** 13:31:58
-🌖 **Moon**: Waning Gibbous (71% lit)
+🌗 **Moon**: Last Quarter (68% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 21°C (feels 18°C) · Overcast 
+🌡️ **Eindhoven**: 22°C (feels 20°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Commodore 64 released September 1, 1982](https://dfarq.homeip.net/commodore-64-released-september-1-1982/)
-- [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
-- [The Emergent Symbolic Structure of Artificial Neural Networks](https://arxiv.org/abs/2608.29530)
-- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
+- [Gemini 3.8 Flash](https://deepmind.google/models/model-cards/gemini-3-8-flash/)
+- [A Note from LWN](https://lwn.net/Articles/1090585/)
+- [GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435)
+- [Mistral now trains on user input by default, except on enterprise tier](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training)
 <!-- HN:end -->
 
 ---
