@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 01 September 2026** — refreshed 22:49 CET
+📅 **Wednesday, 02 September 2026** — refreshed 05:49 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:49:42 AM  ·  🌇 **Sunset** 8:25:30 PM
-✨ **Golden hour** 7:41:00 PM  ·  ⏳ **Day length** 13:35:47
-🌖 **Moon**: Waning Gibbous (77% lit)
+🌅 **Sunrise** 6:51:17 AM  ·  🌇 **Sunset** 8:23:16 PM
+✨ **Golden hour** 7:38:51 PM  ·  ⏳ **Day length** 13:31:58
+🌖 **Moon**: Waning Gibbous (74% lit)
 
-> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
+> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 16°C (feels 14°C) · Clear 
+🌡️ **Eindhoven**: 15°C (feels 13°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
+💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
-- [The ChatGPT/Codex app bundles a full copy of LibreOffice](https://simonwillison.net/2026/Sep/1/codex-libreoffice/)
-- [Refurbishing a Tektronix TDS7104 Oscilloscope](https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html)
-- [Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development](https://www.norirobotics.com/)
+- [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
+- [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/)
+- [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/)
 <!-- HN:end -->
 
 ---
