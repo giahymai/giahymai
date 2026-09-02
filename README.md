@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 02 September 2026** — refreshed 18:18 CET
+📅 **Wednesday, 02 September 2026** — refreshed 22:49 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:51:17 AM  ·  🌇 **Sunset** 8:23:16 PM
 ✨ **Golden hour** 7:38:51 PM  ·  ⏳ **Day length** 13:31:58
-🌗 **Moon**: Last Quarter (68% lit)
+🌗 **Moon**: Last Quarter (66% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 22°C (feels 20°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 18°C (feels 17°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Gemini 3.8 Flash](https://deepmind.google/models/model-cards/gemini-3-8-flash/)
-- [A Note from LWN](https://lwn.net/Articles/1090585/)
-- [GrapheneOS says Pixel 11 has MTE support after all](https://grapheneos.social/@GrapheneOS/117194007157499435)
-- [Mistral now trains on user input by default, except on enterprise tier](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training)
+- [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
+- [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
+- [I wanna live an NPC life](https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/)
+- [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html)
 <!-- HN:end -->
 
 ---
