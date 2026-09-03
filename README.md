@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 03 September 2026** — refreshed 18:08 CET
+📅 **Thursday, 03 September 2026** — refreshed 22:46 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:52:53 AM  ·  🌇 **Sunset** 8:21:02 PM
 ✨ **Golden hour** 7:36:41 PM  ·  ⏳ **Day length** 13:28:08
-🌗 **Moon**: Last Quarter (58% lit)
+🌗 **Moon**: Last Quarter (55% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 23°C (feels 20°C) · Light rain shower
+🌡️ **Eindhoven**: 19°C (feels 19°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)
-- [Grok Outage](https://status.x.ai/)
-- [Sony makes bold claim about game ownership](https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/)
-- [ChatGPT Is Throwing 404](https://chatgpt.com/)
+- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
+- [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
+- [.name Termination](https://neil.fraser.name/news/2026/09/03/)
+- [Any Human Ever – One life, drawn at random from all who have ever lived](https://anyhumanever.com/)
 <!-- HN:end -->
 
 ---
