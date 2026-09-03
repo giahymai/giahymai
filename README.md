@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 03 September 2026** — refreshed 05:49 CET
+📅 **Thursday, 03 September 2026** — refreshed 12:56 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:52:53 AM  ·  🌇 **Sunset** 8:21:02 PM
 ✨ **Golden hour** 7:36:41 PM  ·  ⏳ **Day length** 13:28:08
-🌗 **Moon**: Last Quarter (63% lit)
+🌗 **Moon**: Last Quarter (60% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 18°C (feels 14°C) · Overcast 
+🌡️ **Eindhoven**: 18°C (feels 16°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/)
+- [The Browser's Main Thread Is Expensive](https://kciter.so/posts/the-expensive-main-thread/en/)
 - [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
 - [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
-- [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html)
-- [Holden's Lightning Flight](https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight)
 <!-- HN:end -->
 
 ---
