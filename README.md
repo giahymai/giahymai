@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 02 September 2026** — refreshed 22:49 CET
+📅 **Thursday, 03 September 2026** — refreshed 05:49 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:51:17 AM  ·  🌇 **Sunset** 8:23:16 PM
-✨ **Golden hour** 7:38:51 PM  ·  ⏳ **Day length** 13:31:58
-🌗 **Moon**: Last Quarter (66% lit)
+🌅 **Sunrise** 6:52:53 AM  ·  🌇 **Sunset** 8:21:02 PM
+✨ **Golden hour** 7:36:41 PM  ·  ⏳ **Day length** 13:28:08
+🌗 **Moon**: Last Quarter (63% lit)
 
-> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
+> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 18°C (feels 17°C) · Overcast 
+🌡️ **Eindhoven**: 18°C (feels 14°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
+💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
 - [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
-- [I wanna live an NPC life](https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/)
 - [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html)
+- [Holden's Lightning Flight](https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight)
 <!-- HN:end -->
 
 ---
