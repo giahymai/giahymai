@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 04 September 2026** — refreshed 05:50 CET
+📅 **Friday, 04 September 2026** — refreshed 12:56 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:54:28 AM  ·  🌇 **Sunset** 8:18:47 PM
 ✨ **Golden hour** 7:34:31 PM  ·  ⏳ **Day length** 13:24:18
-🌗 **Moon**: Last Quarter (52% lit)
+🌗 **Moon**: Last Quarter (49% lit)
 
 > 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 17°C) · Overcast 
+🌡️ **Eindhoven**: 22°C (feels 18°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -40,8 +40,8 @@
 <!-- HN:start -->
 - [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
 - [.name Termination](https://neil.fraser.name/news/2026/09/03/)
-- [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu)
-- [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
+- [Carbon-aware electricity pricing, measured daily on 38 grids](https://carbonawarepricing.com/)
+- [The Raspberry Pi Interactive Timeline · 2006–2026](https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline)
 <!-- HN:end -->
 
 ---
