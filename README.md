@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 04 September 2026** — refreshed 18:03 CET
+📅 **Friday, 04 September 2026** — refreshed 22:33 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:54:28 AM  ·  🌇 **Sunset** 8:18:47 PM
 ✨ **Golden hour** 7:34:31 PM  ·  ⏳ **Day length** 13:24:18
-🌗 **Moon**: Last Quarter (46% lit)
+🌗 **Moon**: Last Quarter (44% lit)
 
 > 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 18°C (feels 15°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 19°C (feels 17°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Google AI Mode shows same products 21.6% more expensive than traditional search](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products)
+- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
 - [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
-- [Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html)
-- [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
+- [Shutting down our public encrypted DNS](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead)
+- [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
 <!-- HN:end -->
 
 ---
