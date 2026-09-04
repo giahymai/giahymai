@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 04 September 2026** — refreshed 12:56 CET
+📅 **Friday, 04 September 2026** — refreshed 18:03 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:54:28 AM  ·  🌇 **Sunset** 8:18:47 PM
 ✨ **Golden hour** 7:34:31 PM  ·  ⏳ **Day length** 13:24:18
-🌗 **Moon**: Last Quarter (49% lit)
+🌗 **Moon**: Last Quarter (46% lit)
 
 > 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 22°C (feels 18°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 18°C (feels 15°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Google AI Mode shows same products 21.6% more expensive than traditional search](https://productrise.app/blog/google-ai-mode-prefers-more-expensive-products)
+- [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
+- [Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html)
 - [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
-- [.name Termination](https://neil.fraser.name/news/2026/09/03/)
-- [Carbon-aware electricity pricing, measured daily on 38 grids](https://carbonawarepricing.com/)
-- [The Raspberry Pi Interactive Timeline · 2006–2026](https://raspberry.tips/en/raspberrypi-infos/raspberry-pi-history-timeline)
 <!-- HN:end -->
 
 ---
