@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 03 September 2026** — refreshed 22:46 CET
+📅 **Friday, 04 September 2026** — refreshed 05:50 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:52:53 AM  ·  🌇 **Sunset** 8:21:02 PM
-✨ **Golden hour** 7:36:41 PM  ·  ⏳ **Day length** 13:28:08
-🌗 **Moon**: Last Quarter (55% lit)
+🌅 **Sunrise** 6:54:28 AM  ·  🌇 **Sunset** 8:18:47 PM
+✨ **Golden hour** 7:34:31 PM  ·  ⏳ **Day length** 13:24:18
+🌗 **Moon**: Last Quarter (52% lit)
 
-> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
+> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 19°C) · Light rain shower
+🌡️ **Eindhoven**: 19°C (feels 17°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
+💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
-- [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
 - [.name Termination](https://neil.fraser.name/news/2026/09/03/)
-- [Any Human Ever – One life, drawn at random from all who have ever lived](https://anyhumanever.com/)
+- [Project Xanadu: Even More Hindsight](https://gwern.net/xanadu)
+- [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
 <!-- HN:end -->
 
 ---
