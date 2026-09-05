@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 04 September 2026** — refreshed 22:33 CET
+📅 **Saturday, 05 September 2026** — refreshed 05:48 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:54:28 AM  ·  🌇 **Sunset** 8:18:47 PM
-✨ **Golden hour** 7:34:31 PM  ·  ⏳ **Day length** 13:24:18
-🌗 **Moon**: Last Quarter (44% lit)
+🌅 **Sunrise** 6:56:04 AM  ·  🌇 **Sunset** 8:16:32 PM
+✨ **Golden hour** 7:32:19 PM  ·  ⏳ **Day length** 13:20:28
+🌗 **Moon**: Last Quarter (41% lit)
 
-> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
+> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 17°C) · Overcast 
+🌡️ **Eindhoven**: 14°C (feels 12°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
+💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
 - [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
 - [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
-- [Shutting down our public encrypted DNS](https://mullvad.net/en/blog/shutting-down-our-public-encrypted-dns-servers-and-sponsoring-quad9-instead)
-- [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
+- [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
 <!-- HN:end -->
 
 ---
