@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 05 September 2026** — refreshed 16:53 CET
+📅 **Saturday, 05 September 2026** — refreshed 22:08 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:56:04 AM  ·  🌇 **Sunset** 8:16:32 PM
 ✨ **Golden hour** 7:32:19 PM  ·  ⏳ **Day length** 13:20:28
-🌗 **Moon**: Last Quarter (35% lit)
+🌗 **Moon**: Last Quarter (33% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 21°C (feels 16°C) · Sunny
+🌡️ **Eindhoven**: 16°C (feels 14°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [The Luxuries in Life](https://feld.com/archives/2026/09/the-real-luxuries-in-life/)
+- [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/)
 - [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
-- [There's No Limit to How Bad Code Can Get](https://zachkehs.com/blog/theres_no_limit_to_how_bad_code_can_get/)
-- [Global warming will exceed 1.5-degree limit, UN says](https://www.pbs.org/newshour/science/global-warming-will-exceed-1-5-degree-limit-un-says-in-report-that-maps-path-back-below-danger-zone)
-- [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
+- [Visualizing Rust's Vtables: How dyn Trait Works In Memory](https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/)
 <!-- HN:end -->
 
 ---
