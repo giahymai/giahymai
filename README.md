@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 05 September 2026** — refreshed 05:48 CET
+📅 **Saturday, 05 September 2026** — refreshed 12:17 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:56:04 AM  ·  🌇 **Sunset** 8:16:32 PM
 ✨ **Golden hour** 7:32:19 PM  ·  ⏳ **Day length** 13:20:28
-🌗 **Moon**: Last Quarter (41% lit)
+🌗 **Moon**: Last Quarter (38% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 14°C (feels 12°C) · Clear 
+🌡️ **Eindhoven**: 18°C (feels 14°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
 - [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
-- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
 - [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
-- [Artificial Analysis Intelligence Index v4.2](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2)
+- [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
 <!-- HN:end -->
 
 ---
