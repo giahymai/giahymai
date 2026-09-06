@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 06 September 2026** — refreshed 05:53 CET
+📅 **Sunday, 06 September 2026** — refreshed 12:37 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:57:39 AM  ·  🌇 **Sunset** 8:14:16 PM
 ✨ **Golden hour** 7:30:07 PM  ·  ⏳ **Day length** 13:16:37
-🌘 **Moon**: Waning Crescent (30% lit)
+🌘 **Moon**: Waning Crescent (27% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 12°C) · Clear 
+🌡️ **Eindhoven**: 18°C (feels 16°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)
 - [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
-- [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)
 - [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
-- [OpenBSD Stories: Strange Medieval Devices](http://miod.online.fr/software/openbsd/stories/smd.html)
+- [Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers)
 <!-- HN:end -->
 
 ---
