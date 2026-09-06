@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 06 September 2026** — refreshed 12:37 CET
+📅 **Sunday, 06 September 2026** — refreshed 17:13 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:57:39 AM  ·  🌇 **Sunset** 8:14:16 PM
 ✨ **Golden hour** 7:30:07 PM  ·  ⏳ **Day length** 13:16:37
-🌘 **Moon**: Waning Crescent (27% lit)
+🌘 **Moon**: Waning Crescent (25% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 18°C (feels 16°C) · Overcast 
+🌡️ **Eindhoven**: 25°C (feels 22°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [A/I shuts down – Stay human](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/)
+- [Intellectual Fly Is Open (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)
 - [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)
-- [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
-- [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
-- [Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers)
+- [I Feel about AI](https://beza1e1.tuxen.de/ai_feelings.html)
 <!-- HN:end -->
 
 ---
