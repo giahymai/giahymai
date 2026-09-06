@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 06 September 2026** — refreshed 17:13 CET
+📅 **Sunday, 06 September 2026** — refreshed 22:13 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:57:39 AM  ·  🌇 **Sunset** 8:14:16 PM
 ✨ **Golden hour** 7:30:07 PM  ·  ⏳ **Day length** 13:16:37
-🌘 **Moon**: Waning Crescent (25% lit)
+🌘 **Moon**: Waning Crescent (23% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 25°C (feels 22°C) · Overcast 
+🌡️ **Eindhoven**: 20°C (feels 17°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [A/I shuts down – Stay human](https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/)
-- [Intellectual Fly Is Open (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)
-- [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)
-- [I Feel about AI](https://beza1e1.tuxen.de/ai_feelings.html)
+- [Nitter is unarchived and will continue](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
+- [An Alien Mind](https://openai.com/index/an-alien-mind/)
+- [Your intellectual fly is open (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)
+- [NetBSD 9.5 released and EOL for NetBSD-9](https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and)
 <!-- HN:end -->
 
 ---
