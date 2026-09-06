@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 05 September 2026** — refreshed 22:08 CET
+📅 **Sunday, 06 September 2026** — refreshed 05:53 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:56:04 AM  ·  🌇 **Sunset** 8:16:32 PM
-✨ **Golden hour** 7:32:19 PM  ·  ⏳ **Day length** 13:20:28
-🌗 **Moon**: Last Quarter (33% lit)
+🌅 **Sunrise** 6:57:39 AM  ·  🌇 **Sunset** 8:14:16 PM
+✨ **Golden hour** 7:30:07 PM  ·  ⏳ **Day length** 13:16:37
+🌘 **Moon**: Waning Crescent (30% lit)
 
-> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 16°C (feels 14°C) · Clear 
+🌡️ **Eindhoven**: 13°C (feels 12°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
+💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [The Luxuries in Life](https://feld.com/archives/2026/09/the-real-luxuries-in-life/)
-- [Learn Programming with OCaml](https://usr.lmf.cnrs.fr/lpo/)
-- [The "$60 Gaming PC" – AMD BC-250 (2025)](https://devquasar.com/hardware/the-60-gaming-pc-amd-bc-250/)
-- [Visualizing Rust's Vtables: How dyn Trait Works In Memory](https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/)
+- [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
+- [GPT-6 Astra on robot arms](https://openai.robocurve.org/gpt-6-astra/)
+- [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
+- [OpenBSD Stories: Strange Medieval Devices](http://miod.online.fr/software/openbsd/stories/smd.html)
 <!-- HN:end -->
 
 ---
