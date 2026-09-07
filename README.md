@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 06 September 2026** — refreshed 22:13 CET
+📅 **Monday, 07 September 2026** — refreshed 05:52 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:57:39 AM  ·  🌇 **Sunset** 8:14:16 PM
-✨ **Golden hour** 7:30:07 PM  ·  ⏳ **Day length** 13:16:37
-🌘 **Moon**: Waning Crescent (23% lit)
+🌅 **Sunrise** 6:59:14 AM  ·  🌇 **Sunset** 8:12:00 PM
+✨ **Golden hour** 7:27:54 PM  ·  ⏳ **Day length** 13:12:45
+🌘 **Moon**: Waning Crescent (20% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 20°C (feels 17°C) · Overcast 
+🌡️ **Eindhoven**: 18°C (feels 15°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
+💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Nitter is unarchived and will continue](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3)
-- [An Alien Mind](https://openai.com/index/an-alien-mind/)
-- [Your intellectual fly is open (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/)
-- [NetBSD 9.5 released and EOL for NetBSD-9](https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and)
+- [Keep Our Servers Running: Your Recurring Donation Goes 3X This September](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
+- [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
+- [The NX bit is not just about security](https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/)
+- [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
 <!-- HN:end -->
 
 ---
