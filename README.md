@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 07 September 2026** — refreshed 05:52 CET
+📅 **Monday, 07 September 2026** — refreshed 14:03 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 6:59:14 AM  ·  🌇 **Sunset** 8:12:00 PM
 ✨ **Golden hour** 7:27:54 PM  ·  ⏳ **Day length** 13:12:45
-🌘 **Moon**: Waning Crescent (20% lit)
+🌘 **Moon**: Waning Crescent (16% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 18°C (feels 15°C) · Overcast 
+🌡️ **Eindhoven**: 27°C (feels 24°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Keep Our Servers Running: Your Recurring Donation Goes 3X This September](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
-- [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html)
-- [The NX bit is not just about security](https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/)
-- [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/)
+- [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
+- [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/)
+- [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)
+- [Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)
 <!-- HN:end -->
 
 ---
