@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 08 September 2026** — refreshed 05:55 CET
+📅 **Tuesday, 08 September 2026** — refreshed 12:56 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:00:50 AM  ·  🌇 **Sunset** 8:09:44 PM
 ✨ **Golden hour** 7:25:41 PM  ·  ⏳ **Day length** 13:08:54
-🌘 **Moon**: Waning Crescent (11% lit)
+🌘 **Moon**: Waning Crescent (9% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 17°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 21°C (feels 19°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
+- [We built our house for LAN parties](https://lanparty.house/)
+- [Antiquated HTML Snippets and Artefacts](https://vale.rocks/posts/html-relics)
 - [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
-- [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
-- [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/)
-- [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
 <!-- HN:end -->
 
 ---
