@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 07 September 2026** — refreshed 23:20 CET
+📅 **Tuesday, 08 September 2026** — refreshed 05:55 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 6:59:14 AM  ·  🌇 **Sunset** 8:12:00 PM
-✨ **Golden hour** 7:27:54 PM  ·  ⏳ **Day length** 13:12:45
-🌘 **Moon**: Waning Crescent (13% lit)
+🌅 **Sunrise** 7:00:50 AM  ·  🌇 **Sunset** 8:09:44 PM
+✨ **Golden hour** 7:25:41 PM  ·  ⏳ **Day length** 13:08:54
+🌘 **Moon**: Waning Crescent (11% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 20°C (feels 19°C) · Overcast 
+🌡️ **Eindhoven**: 19°C (feels 17°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
+💡 `git` was written by Linus Torvalds in about 10 days in 2005.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
+- [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
+- [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/)
 - [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/)
-- [Finding a bug in Dummit and Foote's Abstract Algebra](https://kallus.org/blog/dummit_and_foote.html)
-- [Trusting-Trust Attack against an Entire Linux Distribution](https://arxiv.org/abs/2607.24888)
-- [WeatherNext 3](https://deepmind.google/science/weathernext/)
 <!-- HN:end -->
 
 ---
