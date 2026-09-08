@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 08 September 2026** — refreshed 18:21 CET
+📅 **Tuesday, 08 September 2026** — refreshed 22:56 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:00:50 AM  ·  🌇 **Sunset** 8:09:44 PM
 ✨ **Golden hour** 7:25:41 PM  ·  ⏳ **Day length** 13:08:54
-🌘 **Moon**: Waning Crescent (8% lit)
+🌘 **Moon**: Waning Crescent (7% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 21°C (feels 19°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 17°C (feels 14°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin)
 - [Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)
+- [Muse: Meta's personal AI agent, features and capabilities](https://ai.meta.com/muse/)
 - [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)
-- [LibreOffice breaks download records after declaring it has no AI features](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)
-- [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/)
 <!-- HN:end -->
 
 ---
