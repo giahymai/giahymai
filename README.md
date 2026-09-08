@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 08 September 2026** — refreshed 12:56 CET
+📅 **Tuesday, 08 September 2026** — refreshed 18:21 CET
 <!-- DATE:end -->
 
 ---
@@ -20,7 +20,7 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:00:50 AM  ·  🌇 **Sunset** 8:09:44 PM
 ✨ **Golden hour** 7:25:41 PM  ·  ⏳ **Day length** 13:08:54
-🌘 **Moon**: Waning Crescent (9% lit)
+🌘 **Moon**: Waning Crescent (8% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
-- [We built our house for LAN parties](https://lanparty.house/)
-- [Antiquated HTML Snippets and Artefacts](https://vale.rocks/posts/html-relics)
-- [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
+- [Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)
+- [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)
+- [LibreOffice breaks download records after declaring it has no AI features](https://manualdousuario.net/en/libreoffice-download-record-no-ai/)
+- [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/)
 <!-- HN:end -->
 
 ---
