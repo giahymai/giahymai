@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 09 September 2026** — refreshed 18:16 CET
+📅 **Wednesday, 09 September 2026** — refreshed 22:44 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:02:25 AM  ·  🌇 **Sunset** 8:07:27 PM
 ✨ **Golden hour** 7:23:27 PM  ·  ⏳ **Day length** 13:05:02
-🌑 **Moon**: New Moon (3% lit)
+🌑 **Moon**: New Moon (2% lit)
 
 > 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 18°C (feels 14°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 14°C (feels 12°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
-- [No Man's Sky Cosmos](https://www.nomanssky.com/cosmos-update/)
-- [Desert Ant Labs: local, fast models that run on device](https://desertant.com/blog/introducing-desert-ant-labs/)
-- [Claude, change the "Add to Cart" button to blue](https://opusfived.dev/)
+- [iPhone Duo](https://www.apple.com/iphone-duo/)
+- [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
+- [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
+- [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html)
 <!-- HN:end -->
 
 ---
