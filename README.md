@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 09 September 2026** — refreshed 06:00 CET
+📅 **Wednesday, 09 September 2026** — refreshed 13:00 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:02:25 AM  ·  🌇 **Sunset** 8:07:27 PM
 ✨ **Golden hour** 7:23:27 PM  ·  ⏳ **Day length** 13:05:02
-🌘 **Moon**: Waning Crescent (5% lit)
+🌑 **Moon**: New Moon (4% lit)
 
 > 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 10°C) · Clear 
+🌡️ **Eindhoven**: 16°C (feels 11°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Trees use a "muscle", tension wood, to correct their posture](https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html)
+- [How GPT‑5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments/)
 - [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)
-- [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
-- [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
+- [How An AI math breakthrough ignited a controversy](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
+- [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
 <!-- HN:end -->
 
 ---
