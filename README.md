@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 09 September 2026** — refreshed 13:00 CET
+📅 **Wednesday, 09 September 2026** — refreshed 18:16 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:02:25 AM  ·  🌇 **Sunset** 8:07:27 PM
 ✨ **Golden hour** 7:23:27 PM  ·  ⏳ **Day length** 13:05:02
-🌑 **Moon**: New Moon (4% lit)
+🌑 **Moon**: New Moon (3% lit)
 
 > 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 16°C (feels 11°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 18°C (feels 14°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [How GPT‑5.6 Sol helps run quantum computing experiments](https://openai.com/index/codex-quantum-computing-experiments/)
-- [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)
-- [How An AI math breakthrough ignited a controversy](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
-- [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
+- [Tailwind Labs is joining Shopify](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
+- [No Man's Sky Cosmos](https://www.nomanssky.com/cosmos-update/)
+- [Desert Ant Labs: local, fast models that run on device](https://desertant.com/blog/introducing-desert-ant-labs/)
+- [Claude, change the "Add to Cart" button to blue](https://opusfived.dev/)
 <!-- HN:end -->
 
 ---
