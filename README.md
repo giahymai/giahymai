@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 08 September 2026** — refreshed 22:56 CET
+📅 **Wednesday, 09 September 2026** — refreshed 06:00 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:00:50 AM  ·  🌇 **Sunset** 8:09:44 PM
-✨ **Golden hour** 7:25:41 PM  ·  ⏳ **Day length** 13:08:54
-🌘 **Moon**: Waning Crescent (7% lit)
+🌅 **Sunrise** 7:02:25 AM  ·  🌇 **Sunset** 8:07:27 PM
+✨ **Golden hour** 7:23:27 PM  ·  ⏳ **Day length** 13:05:02
+🌘 **Moon**: Waning Crescent (5% lit)
 
-> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
+> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 14°C) · Light rain shower
+🌡️ **Eindhoven**: 12°C (feels 10°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 `git` was written by Linus Torvalds in about 10 days in 2005.
+💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs](https://github.com/argonautlabsai/deltafin)
-- [Google DeepMind Releases AlphaGenome Atlas](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/)
-- [Muse: Meta's personal AI agent, features and capabilities](https://ai.meta.com/muse/)
-- [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03)
+- [Trees use a "muscle", tension wood, to correct their posture](https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html)
+- [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)
+- [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/)
+- [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH)
 <!-- HN:end -->
 
 ---
