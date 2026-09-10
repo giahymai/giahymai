@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 09 September 2026** — refreshed 22:44 CET
+📅 **Thursday, 10 September 2026** — refreshed 05:59 CET
 <!-- DATE:end -->
 
 ---
@@ -18,28 +18,28 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:02:25 AM  ·  🌇 **Sunset** 8:07:27 PM
-✨ **Golden hour** 7:23:27 PM  ·  ⏳ **Day length** 13:05:02
-🌑 **Moon**: New Moon (2% lit)
+🌅 **Sunrise** 7:04:00 AM  ·  🌇 **Sunset** 8:05:10 PM
+✨ **Golden hour** 7:21:13 PM  ·  ⏳ **Day length** 13:01:09
+🌑 **Moon**: New Moon (1% lit)
 
-> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 14°C (feels 12°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 14°C (feels 13°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+💡 Python is named after Monty Python, not the snake.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [iPhone Duo](https://www.apple.com/iphone-duo/)
-- [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)
+- [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
 - [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
 - [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html)
 <!-- HN:end -->
