@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 10 September 2026** — refreshed 18:07 CET
+📅 **Thursday, 10 September 2026** — refreshed 22:39 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 20°C (feels 18°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 16°C (feels 13°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,9 +38,9 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native)
-- [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
-- [Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls](https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/)
+- [I have a theory that software drives people insane](https://graybeard.ing/software-drives-people-insane/)
+- [Genuine Creativity Is Your New Moat (2026)](https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat)
+- [Rust is tier-1 language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
 - [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2)
 <!-- HN:end -->
 
