@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 10 September 2026** — refreshed 12:57 CET
+📅 **Thursday, 10 September 2026** — refreshed 18:07 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:04:00 AM  ·  🌇 **Sunset** 8:05:10 PM
 ✨ **Golden hour** 7:21:13 PM  ·  ⏳ **Day length** 13:01:09
-🌑 **Moon**: New Moon (1% lit)
+🌑 **Moon**: New Moon (0% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 15°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 20°C (feels 18°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [What algorithm did Windows XP use to choose your initial user picture?](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
-- [Show HN: The same nine streaming subscriptions cost $702/year more than in 2021](https://honestlyranked.com/guides/streaming-price-increases/)
-- [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
-- [iPhone Duo](https://www.apple.com/iphone-duo/)
+- [Shopify moves back to Native from React Native](https://shopify.engineering/back-to-native)
+- [Rust Is Tier-1 Language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
+- [Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls](https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/)
+- [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2)
 <!-- HN:end -->
 
 ---
