@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 11 September 2026** — refreshed 05:56 CET
+📅 **Friday, 11 September 2026** — refreshed 12:56 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 11°C) · Overcast 
+🌡️ **Eindhoven**: 17°C (feels 14°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
 - [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)
-- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201)
-- [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
-- [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)
+- [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
+- [So you want to use OpenRouter?](https://mmoustafa.com/blog/so-you-want-to-use-openrouter/)
 <!-- HN:end -->
 
 ---
