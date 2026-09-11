@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 11 September 2026** — refreshed 12:56 CET
+📅 **Friday, 11 September 2026** — refreshed 18:11 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 14°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 20°C (feels 19°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,9 +38,9 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
-- [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)
-- [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
+- [Logo Programming Language](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html)
+- [Hacker News with reduced priority for AI driven content](https://sprinklz.io/public/pdwt4dve5uai)
+- [I've operated petabyte-scale ClickHouse clusters for 5 years](https://www.tinybird.co/blog/what-i-learned-operating-clickhouse)
 - [So you want to use OpenRouter?](https://mmoustafa.com/blog/so-you-want-to-use-openrouter/)
 <!-- HN:end -->
 
