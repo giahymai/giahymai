@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 10 September 2026** — refreshed 22:39 CET
+📅 **Friday, 11 September 2026** — refreshed 05:56 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:04:00 AM  ·  🌇 **Sunset** 8:05:10 PM
-✨ **Golden hour** 7:21:13 PM  ·  ⏳ **Day length** 13:01:09
+🌅 **Sunrise** 7:05:35 AM  ·  🌇 **Sunset** 8:02:53 PM
+✨ **Golden hour** 7:18:57 PM  ·  ⏳ **Day length** 12:57:17
 🌑 **Moon**: New Moon (0% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 16°C (feels 13°C) · Clear 
+🌡️ **Eindhoven**: 13°C (feels 11°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Python is named after Monty Python, not the snake.
+💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [I have a theory that software drives people insane](https://graybeard.ing/software-drives-people-insane/)
-- [Genuine Creativity Is Your New Moat (2026)](https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat)
-- [Rust is tier-1 language at Microsoft](https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/)
-- [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2)
+- [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)
+- [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201)
+- [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview)
+- [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/)
 <!-- HN:end -->
 
 ---
