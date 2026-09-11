@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 11 September 2026** — refreshed 18:11 CET
+📅 **Friday, 11 September 2026** — refreshed 22:44 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:05:35 AM  ·  🌇 **Sunset** 8:02:53 PM
 ✨ **Golden hour** 7:18:57 PM  ·  ⏳ **Day length** 12:57:17
-🌑 **Moon**: New Moon (0% lit)
+🌑 **Moon**: New Moon (1% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 20°C (feels 19°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 16°C (feels 15°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Logo Programming Language](https://el.media.mit.edu/logo-foundation/what_is_logo/logo_programming.html)
-- [Hacker News with reduced priority for AI driven content](https://sprinklz.io/public/pdwt4dve5uai)
-- [I've operated petabyte-scale ClickHouse clusters for 5 years](https://www.tinybird.co/blog/what-i-learned-operating-clickhouse)
-- [So you want to use OpenRouter?](https://mmoustafa.com/blog/so-you-want-to-use-openrouter/)
+- [A misalignment of AI in mathematics](https://mathandai.org/)
+- [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
+- [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)
+- [Claude is only available to people over 18 years](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)
 <!-- HN:end -->
 
 ---
