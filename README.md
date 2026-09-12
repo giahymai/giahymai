@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 11 September 2026** — refreshed 22:44 CET
+📅 **Saturday, 12 September 2026** — refreshed 05:58 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:05:35 AM  ·  🌇 **Sunset** 8:02:53 PM
-✨ **Golden hour** 7:18:57 PM  ·  ⏳ **Day length** 12:57:17
+🌅 **Sunrise** 7:07:11 AM  ·  🌇 **Sunset** 8:00:35 PM
+✨ **Golden hour** 7:16:42 PM  ·  ⏳ **Day length** 12:53:24
 🌑 **Moon**: New Moon (1% lit)
 
-> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
+> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 16°C (feels 15°C) · Clear 
+🌡️ **Eindhoven**: 15°C (feels 15°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
+💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [A misalignment of AI in mathematics](https://mathandai.org/)
-- [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13)
-- [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/)
-- [Claude is only available to people over 18 years](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)
+- [Google no longer provides direct URLs in search results](https://www.autom.dev/blog/google-search-goto-links)
+- [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
+- [Pandas Should Go Extinct](https://eddie.codes/posts/pandas-should-go-extinct/)
 <!-- HN:end -->
 
 ---
