@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 12 September 2026** — refreshed 17:18 CET
+📅 **Saturday, 12 September 2026** — refreshed 22:22 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:07:11 AM  ·  🌇 **Sunset** 8:00:35 PM
 ✨ **Golden hour** 7:16:42 PM  ·  ⏳ **Day length** 12:53:24
-🌑 **Moon**: New Moon (3% lit)
+🌑 **Moon**: New Moon (4% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 23°C (feels 20°C) · Overcast 
+🌡️ **Eindhoven**: 19°C (feels 18°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html)
-- [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI)
-- [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
-- [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
+- [LG denies TV spying claims, says tracking and snooping concerns 'not true'](https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio)
+- [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
+- [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
+- [Stabilizing Rust's Never Type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/)
 <!-- HN:end -->
 
 ---
