@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 12 September 2026** — refreshed 12:23 CET
+📅 **Saturday, 12 September 2026** — refreshed 17:18 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:07:11 AM  ·  🌇 **Sunset** 8:00:35 PM
 ✨ **Golden hour** 7:16:42 PM  ·  ⏳ **Day length** 12:53:24
-🌑 **Moon**: New Moon (2% lit)
+🌑 **Moon**: New Moon (3% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 16°C) · Cloudy 
+🌡️ **Eindhoven**: 23°C (feels 20°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
+- [A Mathematical Framework for Transformer Circuits (2021)](https://transformer-circuits.pub/2021/framework/index.html)
 - [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI)
-- [A misalignment of AI in mathematics](https://mathandai.org/)
-- [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
+- [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
+- [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
 <!-- HN:end -->
 
 ---
