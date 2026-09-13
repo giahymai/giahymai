@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 13 September 2026** — refreshed 06:07 CET
+📅 **Sunday, 13 September 2026** — refreshed 13:26 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:08:46 AM  ·  🌇 **Sunset** 7:58:18 PM
 ✨ **Golden hour** 7:14:26 PM  ·  ⏳ **Day length** 12:49:31
-🌒 **Moon**: Waxing Crescent (5% lit)
+🌒 **Moon**: Waxing Crescent (6% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 15°C) · Light rain shower
+🌡️ **Eindhoven**: 17°C (feels 16°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [The Interim Computer Museum](https://icm.museum/)
+- [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
+- [Nvidia dismisses "circular financing", says every $1 it invests brings back $100](https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/)
+- [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
 - [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
-- [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
-- [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
 <!-- HN:end -->
 
 ---
