@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 13 September 2026** — refreshed 17:55 CET
+📅 **Sunday, 13 September 2026** — refreshed 22:33 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:08:46 AM  ·  🌇 **Sunset** 7:58:18 PM
 ✨ **Golden hour** 7:14:26 PM  ·  ⏳ **Day length** 12:49:31
-🌒 **Moon**: Waxing Crescent (7% lit)
+🌒 **Moon**: Waxing Crescent (8% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 20°C (feels 20°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 17°C (feels 18°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
+- [Mark Zuckerberg: "Cambridge Analytica" (2017)](https://twitter.com/TechEmails/status/2099214399840059428)
 - [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment)
-- [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
-- [Libraries Run Rust Inside Python (With PyO3)](https://belderbos.dev/blog/how-libraries-run-rust-inside-python/)
-- ['Fingerprints' inside the Sun could reveal if it once swallowed a planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet)
+- [There Is No AI (It's Just People) with Jaron Lanier](https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/)
 <!-- HN:end -->
 
 ---
