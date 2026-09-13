@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 12 September 2026** — refreshed 22:22 CET
+📅 **Sunday, 13 September 2026** — refreshed 06:07 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:07:11 AM  ·  🌇 **Sunset** 8:00:35 PM
-✨ **Golden hour** 7:16:42 PM  ·  ⏳ **Day length** 12:53:24
-🌑 **Moon**: New Moon (4% lit)
+🌅 **Sunrise** 7:08:46 AM  ·  🌇 **Sunset** 7:58:18 PM
+✨ **Golden hour** 7:14:26 PM  ·  ⏳ **Day length** 12:49:31
+🌒 **Moon**: Waxing Crescent (5% lit)
 
-> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
+> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 18°C) · Overcast 
+🌡️ **Eindhoven**: 17°C (feels 15°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [LG denies TV spying claims, says tracking and snooping concerns 'not true'](https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio)
+- [The Interim Computer Museum](https://icm.museum/)
 - [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
+- [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe)
 - [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai)
-- [Stabilizing Rust's Never Type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/)
 <!-- HN:end -->
 
 ---
