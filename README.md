@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 14 September 2026** — refreshed 14:18 CET
+📅 **Monday, 14 September 2026** — refreshed 23:40 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:10:22 AM  ·  🌇 **Sunset** 7:56:00 PM
 ✨ **Golden hour** 7:12:09 PM  ·  ⏳ **Day length** 12:45:38
-🌒 **Moon**: Waxing Crescent (13% lit)
+🌒 **Moon**: Waxing Crescent (15% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ Weather unavailable (TimeoutError)
+🌡️ **Eindhoven**: 19°C (feels 20°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [EuroBirdPortal – Live bird movements across Europe](https://www.eurobirdportal.org/ebp/en/)
-- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
-- [A 386 PC for Your RP2350](https://github.com/rh1tech/frank-386)
-- [Who Aligns the Aligners?](https://prestonbyrne.com/2026/09/13/aligners/)
+- [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular)
+- [Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit](https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html)
+- [Distributed Systems Classics (2017)](https://nvartolomei.com/dist-sys-classics/)
+- [A Beginning for Mathematics](https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/)
 <!-- HN:end -->
 
 ---
