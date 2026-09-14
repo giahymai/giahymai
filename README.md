@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 13 September 2026** — refreshed 22:33 CET
+📅 **Monday, 14 September 2026** — refreshed 06:15 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:08:46 AM  ·  🌇 **Sunset** 7:58:18 PM
-✨ **Golden hour** 7:14:26 PM  ·  ⏳ **Day length** 12:49:31
-🌒 **Moon**: Waxing Crescent (8% lit)
+🌅 **Sunrise** 7:10:22 AM  ·  🌇 **Sunset** 7:56:00 PM
+✨ **Golden hour** 7:12:09 PM  ·  ⏳ **Day length** 12:45:38
+🌒 **Moon**: Waxing Crescent (10% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 18°C) · Overcast 
+🌫️ **Eindhoven**: 15°C (feels 16°C) · Mist
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
+- [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/)
 - [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
-- [Mark Zuckerberg: "Cambridge Analytica" (2017)](https://twitter.com/TechEmails/status/2099214399840059428)
-- [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment)
-- [There Is No AI (It's Just People) with Jaron Lanier](https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/)
+- [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
 <!-- HN:end -->
 
 ---
