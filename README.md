@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 14 September 2026** — refreshed 06:15 CET
+📅 **Monday, 14 September 2026** — refreshed 14:18 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:10:22 AM  ·  🌇 **Sunset** 7:56:00 PM
 ✨ **Golden hour** 7:12:09 PM  ·  ⏳ **Day length** 12:45:38
-🌒 **Moon**: Waxing Crescent (10% lit)
+🌒 **Moon**: Waxing Crescent (13% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌫️ **Eindhoven**: 15°C (feels 16°C) · Mist
+🌡️ Weather unavailable (TimeoutError)
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [EuroBirdPortal – Live bird movements across Europe](https://www.eurobirdportal.org/ebp/en/)
 - [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)
-- [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/)
-- [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)
-- [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10)
+- [A 386 PC for Your RP2350](https://github.com/rh1tech/frank-386)
+- [Who Aligns the Aligners?](https://prestonbyrne.com/2026/09/13/aligners/)
 <!-- HN:end -->
 
 ---
