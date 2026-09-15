@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 15 September 2026** — refreshed 06:15 CET
+📅 **Tuesday, 15 September 2026** — refreshed 13:25 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:11:57 AM  ·  🌇 **Sunset** 7:53:42 PM
 ✨ **Golden hour** 7:09:52 PM  ·  ⏳ **Day length** 12:41:44
-🌒 **Moon**: Waxing Crescent (17% lit)
+🌒 **Moon**: Waxing Crescent (20% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌫️ **Eindhoven**: 16°C (feels 17°C) · Mist
+🌡️ Weather unavailable (URLError)
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
-- [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/)
-- [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)
-- [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/)
+- [Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.com/news/articles/c8ly49w9g1edo)
+- [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
+- [How much of F-Droid is LLM generated?](https://tintotint.eu/whacky-corner/f-droid_slop/)
+- [Alternatives to MinIO for single-node local S3](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/)
 <!-- HN:end -->
 
 ---
