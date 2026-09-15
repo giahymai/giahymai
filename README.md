@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 14 September 2026** — refreshed 23:40 CET
+📅 **Tuesday, 15 September 2026** — refreshed 06:15 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:10:22 AM  ·  🌇 **Sunset** 7:56:00 PM
-✨ **Golden hour** 7:12:09 PM  ·  ⏳ **Day length** 12:45:38
-🌒 **Moon**: Waxing Crescent (15% lit)
+🌅 **Sunrise** 7:11:57 AM  ·  🌇 **Sunset** 7:53:42 PM
+✨ **Golden hour** 7:09:52 PM  ·  ⏳ **Day length** 12:41:44
+🌒 **Moon**: Waxing Crescent (17% lit)
 
-> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 20°C) · Patchy rain nearby
+🌫️ **Eindhoven**: 16°C (feels 17°C) · Mist
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
+💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [A single firm is behind OpenAI, Anthropic, and Meta hacking scandals](https://www.effort.news/irregular)
-- [Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit](https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html)
-- [Distributed Systems Classics (2017)](https://nvartolomei.com/dist-sys-classics/)
-- [A Beginning for Mathematics](https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/)
+- [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
+- [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/)
+- [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion)
+- [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/)
 <!-- HN:end -->
 
 ---
