@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 15 September 2026** — refreshed 13:25 CET
+📅 **Tuesday, 15 September 2026** — refreshed 18:38 CET
 <!-- DATE:end -->
 
 ---
@@ -20,7 +20,7 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:11:57 AM  ·  🌇 **Sunset** 7:53:42 PM
 ✨ **Golden hour** 7:09:52 PM  ·  ⏳ **Day length** 12:41:44
-🌒 **Moon**: Waxing Crescent (20% lit)
+🌒 **Moon**: Waxing Crescent (21% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.com/news/articles/c8ly49w9g1edo)
-- [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
-- [How much of F-Droid is LLM generated?](https://tintotint.eu/whacky-corner/f-droid_slop/)
-- [Alternatives to MinIO for single-node local S3](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/)
+- [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
+- [Swift 6.4 Released](https://www.swift.org/blog/swift-6.4-released/)
+- [Cartesian – AI 3D Modeling for Design](https://www.formas.ai/cartesian)
+- [Show HN: Capsule – Single-file web apps that save their data into SQLite](https://withcapsule.app/)
 <!-- HN:end -->
 
 ---
