@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 15 September 2026** — refreshed 23:03 CET
+📅 **Wednesday, 16 September 2026** — refreshed 06:11 CET
 <!-- DATE:end -->
 
 ---
@@ -18,11 +18,11 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:11:57 AM  ·  🌇 **Sunset** 7:53:42 PM
-✨ **Golden hour** 7:09:52 PM  ·  ⏳ **Day length** 12:41:44
-🌒 **Moon**: Waxing Crescent (23% lit)
+🌅 **Sunrise** 7:13:32 AM  ·  🌇 **Sunset** 7:51:24 PM
+✨ **Golden hour** 7:07:34 PM  ·  ⏳ **Day length** 12:37:51
+🌒 **Moon**: Waxing Crescent (25% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
@@ -33,15 +33,15 @@
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
+💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
 - [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
-- [An Update on Wayback Machine Access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/)
-- [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/)
+- [Negativland, Culture Jamming, and the Art of Making Something New](https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/)
+- [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
 <!-- HN:end -->
 
 ---
