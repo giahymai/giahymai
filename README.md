@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 16 September 2026** — refreshed 13:11 CET
+📅 **Wednesday, 16 September 2026** — refreshed 18:31 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:13:32 AM  ·  🌇 **Sunset** 7:51:24 PM
 ✨ **Golden hour** 7:07:34 PM  ·  ⏳ **Day length** 12:37:51
-🌒 **Moon**: Waxing Crescent (28% lit)
+🌒 **Moon**: Waxing Crescent (30% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 18°C (feels 15°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 17°C (feels 14°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [EU chief opens door for Canada to become 'associate member'](https://www.bbc.com/news/articles/cjwyzrr9d3dko)
-- [Learning Programming in an Age of LLMs](https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/)
+- [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
+- [Code Is Crap](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
+- [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/abs/2609.14858)
 - [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)
-- [Salesforce Global Outage](https://status.salesforce.com/products/all)
 <!-- HN:end -->
 
 ---
