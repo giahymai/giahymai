@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 16 September 2026** — refreshed 18:31 CET
+📅 **Wednesday, 16 September 2026** — refreshed 23:05 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:13:32 AM  ·  🌇 **Sunset** 7:51:24 PM
 ✨ **Golden hour** 7:07:34 PM  ·  ⏳ **Day length** 12:37:51
-🌒 **Moon**: Waxing Crescent (30% lit)
+🌓 **Moon**: First Quarter (32% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 14°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 14°C (feels 12°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Small Programming Tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
-- [Code Is Crap](https://testing.googleblog.com/2011/02/this-code-is-crap.html)
-- [Dream-RSI: Recursive Self-Improvement through Evolving Worlds](https://arxiv.org/abs/2609.14858)
-- [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)
+- [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
+- [Vectorized and performance-portable Quicksort (2022)](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
+- [Xiami Mimo 2.6 Live Post-Training Dashboard](https://mimo.xiaomi.com/rl/)
+- [Small programming tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
 <!-- HN:end -->
 
 ---
