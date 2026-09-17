@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 17 September 2026** — refreshed 13:19 CET
+📅 **Thursday, 17 September 2026** — refreshed 18:36 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:15:08 AM  ·  🌇 **Sunset** 7:49:06 PM
 ✨ **Golden hour** 7:05:16 PM  ·  ⏳ **Day length** 12:33:57
-🌓 **Moon**: First Quarter (37% lit)
+🌓 **Moon**: First Quarter (39% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 13°C) · Overcast 
+🌡️ **Eindhoven**: 15°C (feels 13°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
-- [GLM Built Its Own Inference Infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure)
-- [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
-- [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
+- [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02)
+- [Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/)
+- [Artificial intelligence now beats some of the best human forecasters](https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters)
+- [OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance](https://asiaai.fyi/openai-misalignment-framework-global-governance/)
 <!-- HN:end -->
 
 ---
