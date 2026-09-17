@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 16 September 2026** — refreshed 23:05 CET
+📅 **Thursday, 17 September 2026** — refreshed 06:18 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:13:32 AM  ·  🌇 **Sunset** 7:51:24 PM
-✨ **Golden hour** 7:07:34 PM  ·  ⏳ **Day length** 12:37:51
-🌓 **Moon**: First Quarter (32% lit)
+🌅 **Sunrise** 7:15:08 AM  ·  🌇 **Sunset** 7:49:06 PM
+✨ **Golden hour** 7:05:16 PM  ·  ⏳ **Day length** 12:33:57
+🌓 **Moon**: First Quarter (34% lit)
 
-> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 14°C (feels 12°C) · Clear 
+🌡️ **Eindhoven**: 12°C (feels 10°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
+- [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
 - [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
-- [Vectorized and performance-portable Quicksort (2022)](https://opensource.googleblog.com/2022/06/Vectorized%20and%20performance%20portable%20Quicksort.html)
-- [Xiami Mimo 2.6 Live Post-Training Dashboard](https://mimo.xiaomi.com/rl/)
-- [Small programming tricks](https://will-keleher.com/posts/small-programming-tricks-matter/)
+- [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)
 <!-- HN:end -->
 
 ---
