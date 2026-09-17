@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 17 September 2026** — refreshed 18:36 CET
+📅 **Thursday, 17 September 2026** — refreshed 23:08 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:15:08 AM  ·  🌇 **Sunset** 7:49:06 PM
 ✨ **Golden hour** 7:05:16 PM  ·  ⏳ **Day length** 12:33:57
-🌓 **Moon**: First Quarter (39% lit)
+🌓 **Moon**: First Quarter (41% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 15°C (feels 13°C) · Light rain shower
+🌡️ **Eindhoven**: 15°C (feels 12°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Astra for Law](https://openai.com/index/astra-for-law/)
+- [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister)
 - [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02)
-- [Rate limits on GitLab.com are changing](https://about.gitlab.com/blog/rate-limit-change-2026/)
-- [Artificial intelligence now beats some of the best human forecasters](https://www.economist.com/science-and-technology/2026/09/16/artificial-intelligence-now-beats-some-of-the-best-human-forecasters)
-- [OpenAI's Misalignment Framework: A Tactical Bid to Preempt Global AI Governance](https://asiaai.fyi/openai-misalignment-framework-global-governance/)
+- [Wax motor](https://en.wikipedia.org/wiki/Wax_motor)
 <!-- HN:end -->
 
 ---
