@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 17 September 2026** — refreshed 06:18 CET
+📅 **Thursday, 17 September 2026** — refreshed 13:19 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:15:08 AM  ·  🌇 **Sunset** 7:49:06 PM
 ✨ **Golden hour** 7:05:16 PM  ·  ⏳ **Day length** 12:33:57
-🌓 **Moon**: First Quarter (34% lit)
+🌓 **Moon**: First Quarter (37% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 10°C) · Overcast 
+🌡️ **Eindhoven**: 17°C (feels 13°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
+- [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
+- [GLM Built Its Own Inference Infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure)
 - [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
-- [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
-- [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/)
+- [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
 <!-- HN:end -->
 
 ---
