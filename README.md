@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 17 September 2026** — refreshed 23:08 CET
+📅 **Friday, 18 September 2026** — refreshed 06:02 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:15:08 AM  ·  🌇 **Sunset** 7:49:06 PM
-✨ **Golden hour** 7:05:16 PM  ·  ⏳ **Day length** 12:33:57
-🌓 **Moon**: First Quarter (41% lit)
+🌅 **Sunrise** 7:16:44 AM  ·  🌇 **Sunset** 7:46:47 PM
+✨ **Golden hour** 7:02:58 PM  ·  ⏳ **Day length** 12:30:03
+🌓 **Moon**: First Quarter (44% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 15°C (feels 12°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 13°C (feels 11°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
+💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Astra for Law](https://openai.com/index/astra-for-law/)
-- [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister)
-- [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02)
-- [Wax motor](https://en.wikipedia.org/wiki/Wax_motor)
+- [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai)
+- [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
+- [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/)
 <!-- HN:end -->
 
 ---
