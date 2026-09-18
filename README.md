@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 18 September 2026** — refreshed 06:02 CET
+📅 **Friday, 18 September 2026** — refreshed 12:54 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:16:44 AM  ·  🌇 **Sunset** 7:46:47 PM
 ✨ **Golden hour** 7:02:58 PM  ·  ⏳ **Day length** 12:30:03
-🌓 **Moon**: First Quarter (44% lit)
+🌓 **Moon**: First Quarter (46% lit)
 
 > 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 11°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 17°C (feels 13°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Astra for Law](https://openai.com/index/astra-for-law/)
-- [Hacking OpenAI](https://www.hacktron.ai/blog/hacking-openai)
-- [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
-- [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/)
+- [OpenJev](https://openjev.com/)
+- [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
+- [The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)
+- [Microsoft exec called AI scraping 'the largest theft of labor in human history'](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
 <!-- HN:end -->
 
 ---
