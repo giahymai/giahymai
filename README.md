@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 18 September 2026** — refreshed 18:08 CET
+📅 **Friday, 18 September 2026** — refreshed 22:40 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:16:44 AM  ·  🌇 **Sunset** 7:46:47 PM
 ✨ **Golden hour** 7:02:58 PM  ·  ⏳ **Day length** 12:30:03
-🌓 **Moon**: First Quarter (48% lit)
+🌓 **Moon**: First Quarter (50% lit)
 
 > 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 15°C) · Overcast 
+🌡️ **Eindhoven**: 15°C (feels 13°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
+- [Korea raises data breach fines to 10% of revenue](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899)
 - [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
-- [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804)
-- [North Korean nuclear test sets off years of earthquakes](https://www.science.org/content/article/north-korean-nuclear-test-sets-years-earthquakes)
-- [OpenJev](https://openjev.com/)
+- [Saving another 100TB of RAM with math (and Rust)](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/)
 <!-- HN:end -->
 
 ---
