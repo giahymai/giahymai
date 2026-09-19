@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 19 September 2026** — refreshed 17:40 CET
+📅 **Saturday, 19 September 2026** — refreshed 22:20 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:18:19 AM  ·  🌇 **Sunset** 7:44:29 PM
 ✨ **Golden hour** 7:00:39 PM  ·  ⏳ **Day length** 12:26:09
-🌓 **Moon**: First Quarter (58% lit)
+🌓 **Moon**: First Quarter (59% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 21°C (feels 17°C) · Overcast 
+🌡️ **Eindhoven**: 20°C (feels 16°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Laya the open source version of Jev](https://laya.convaiinnovations.com/)
-- [A graphical desktop for the ZX Spectrum](https://github.com/mindbox77/zxdesk)
+- [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/)
 - [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
-- [What Zig felt like, coming from Rust](https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/)
+- [Btrfs/ZFS/bcachefs under workloads classic benchmarks skip](https://bartosz.fenski.pl/modern-fs-benchmark/)
+- [Two parallel neural ectoderm progenitors contribute to the developing brain](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
 <!-- HN:end -->
 
 ---
