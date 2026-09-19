@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 19 September 2026** — refreshed 05:59 CET
+📅 **Saturday, 19 September 2026** — refreshed 12:37 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:18:19 AM  ·  🌇 **Sunset** 7:44:29 PM
 ✨ **Golden hour** 7:00:39 PM  ·  ⏳ **Day length** 12:26:09
-🌓 **Moon**: First Quarter (53% lit)
+🌓 **Moon**: First Quarter (56% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 15°C (feels 12°C) · Light drizzle
+🌡️ **Eindhoven**: 18°C (feels 15°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
-- [Science Is Open Software](https://jepedersen.dk/blog/202505_research/)
-- [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/)
-- [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
+- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
+- [Human brain is two separate organs, Stanford Medicine-led research finds](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
+- [If math is more than proof, we need to better celebrate the rest of it](https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/)
+- [GPT-6 Astra Solves a WWI German Radio Cipher](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
 <!-- HN:end -->
 
 ---
