@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 18 September 2026** — refreshed 22:40 CET
+📅 **Saturday, 19 September 2026** — refreshed 05:59 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:16:44 AM  ·  🌇 **Sunset** 7:46:47 PM
-✨ **Golden hour** 7:02:58 PM  ·  ⏳ **Day length** 12:30:03
-🌓 **Moon**: First Quarter (50% lit)
+🌅 **Sunrise** 7:18:19 AM  ·  🌇 **Sunset** 7:44:29 PM
+✨ **Golden hour** 7:00:39 PM  ·  ⏳ **Day length** 12:26:09
+🌓 **Moon**: First Quarter (53% lit)
 
-> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
+> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 15°C (feels 13°C) · Overcast 
+🌡️ **Eindhoven**: 15°C (feels 12°C) · Light drizzle
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
+💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576)
-- [Korea raises data breach fines to 10% of revenue](https://www.koreajoongangdaily.com/business/korea-raises-data-breach-fines-to-10-of-revenue/12869899)
+- [Science Is Open Software](https://jepedersen.dk/blog/202505_research/)
+- [SDCC – Small Device C Compiler](https://sdcc.sourceforge.net/)
 - [Cloudflare Quick Tunnels](https://try.cloudflare.com/)
-- [Saving another 100TB of RAM with math (and Rust)](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/)
 <!-- HN:end -->
 
 ---
