@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 20 September 2026** — refreshed 17:46 CET
+📅 **Sunday, 20 September 2026** — refreshed 22:33 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:19:55 AM  ·  🌇 **Sunset** 7:42:11 PM
 ✨ **Golden hour** 6:58:21 PM  ·  ⏳ **Day length** 12:22:15
-🌓 **Moon**: First Quarter (67% lit)
+🌓 **Moon**: First Quarter (69% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 18°C (feels 13°C) · Sunny
+🌡️ **Eindhoven**: 14°C (feels 11°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1)
-- [Sherline Tools Is Going Out of Business](https://toolguyd.com/sherline-tools-shutting-down-usa-production/)
-- [Key symbols we lost to time, pt. 2: The Mac side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/)
-- [Apple iPhone 18 Pro Camera test](https://www.dxomark.com/apple-iphone-18-pro-camera-test/)
+- [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
+- [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)
+- [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/)
+- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1)
 <!-- HN:end -->
 
 ---
