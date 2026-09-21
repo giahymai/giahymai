@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 21 September 2026** — refreshed 14:26 CET
+📅 **Monday, 21 September 2026** — refreshed 23:50 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:21:31 AM  ·  🌇 **Sunset** 7:39:53 PM
 ✨ **Golden hour** 6:56:01 PM  ·  ⏳ **Day length** 12:18:21
-🌔 **Moon**: Waxing Gibbous (74% lit)
+🌔 **Moon**: Waxing Gibbous (78% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 17°C) · Overcast 
+🌡️ **Eindhoven**: 13°C (feels 11°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [ZuckOff Know when a camera is in the room](https://zuckoff.app/)
-- [ZuckOff Is a Free App That Sees Meta Glasses Before They See You](https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff)
-- [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main)
-- [Jev-Leftpad](https://github.com/f/jev-leftpad)
+- [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
+- [The NASA/ESA Mars Sample Return mission has been canceled](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead)
+- [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)
+- [CBP suspends all personal prescription importation Oct 22](https://www.personalimportation.org/advocacy)
 <!-- HN:end -->
 
 ---
