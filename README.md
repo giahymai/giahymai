@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 20 September 2026** — refreshed 22:33 CET
+📅 **Monday, 21 September 2026** — refreshed 06:16 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:19:55 AM  ·  🌇 **Sunset** 7:42:11 PM
-✨ **Golden hour** 6:58:21 PM  ·  ⏳ **Day length** 12:22:15
-🌓 **Moon**: First Quarter (69% lit)
+🌅 **Sunrise** 7:21:31 AM  ·  🌇 **Sunset** 7:39:53 PM
+✨ **Golden hour** 6:56:01 PM  ·  ⏳ **Day length** 12:18:21
+🌔 **Moon**: Waxing Gibbous (71% lit)
 
-> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
+> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 14°C (feels 11°C) · Overcast 
+🌡️ **Eindhoven**: 12°C (feels 10°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
 - [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
 - [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)
-- [Pirate Face Rescues LLM Models from Deletion](https://pirateface.co/)
-- [Qwen Image 2.1](https://qwen.ai/blog?id=qwen-image-2.1)
+- [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
 <!-- HN:end -->
 
 ---
