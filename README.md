@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 21 September 2026** — refreshed 06:16 CET
+📅 **Monday, 21 September 2026** — refreshed 14:26 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:21:31 AM  ·  🌇 **Sunset** 7:39:53 PM
 ✨ **Golden hour** 6:56:01 PM  ·  ⏳ **Day length** 12:18:21
-🌔 **Moon**: Waxing Gibbous (71% lit)
+🌔 **Moon**: Waxing Gibbous (74% lit)
 
 > 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 10°C) · Overcast 
+🌡️ **Eindhoven**: 19°C (feels 17°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
-- [Samsung is expected to more than double output of its HBM4 and HBM4E DRAM](https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say)
-- [ChatGPT now knows what you do on other websites via ad collector](https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/)
-- [What happened to the Snowden archive](https://libroot.org/posts/what-happened-to-the-snowden-archive)
+- [ZuckOff Know when a camera is in the room](https://zuckoff.app/)
+- [ZuckOff Is a Free App That Sees Meta Glasses Before They See You](https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff)
+- [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main)
+- [Jev-Leftpad](https://github.com/f/jev-leftpad)
 <!-- HN:end -->
 
 ---
