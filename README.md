@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 22 September 2026** — refreshed 18:38 CET
+📅 **Tuesday, 22 September 2026** — refreshed 23:04 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:23:07 AM  ·  🌇 **Sunset** 7:37:34 PM
 ✨ **Golden hour** 6:53:42 PM  ·  ⏳ **Day length** 12:14:27
-🌔 **Moon**: Waxing Gibbous (84% lit)
+🌔 **Moon**: Waxing Gibbous (85% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 17°C) · Overcast 
+🌡️ **Eindhoven**: 15°C (feels 14°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
+- [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
 - [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
-- [16-bit Intel 8088 chip](https://allpoetry.com/16-bit-Intel-8088-chip)
-- [OpenAI is well positioned to fast-follow Jev](https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/)
+- ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/)
+- [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
 <!-- HN:end -->
 
 ---
