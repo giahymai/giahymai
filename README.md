@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 22 September 2026** — refreshed 06:11 CET
+📅 **Tuesday, 22 September 2026** — refreshed 13:16 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:23:07 AM  ·  🌇 **Sunset** 7:37:34 PM
 ✨ **Golden hour** 6:53:42 PM  ·  ⏳ **Day length** 12:14:27
-🌔 **Moon**: Waxing Gibbous (80% lit)
+🌔 **Moon**: Waxing Gibbous (82% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 12°C) · Overcast 
+🌡️ **Eindhoven**: 16°C (feels 15°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [9 Ads per Minute: FIFA Cup 26 – "the price of the beautiful game"](https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html)
+- [AMD's random number generator can't generate a 0?](https://board.flatassembler.net/topic.php?t=24261)
+- [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
 - [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
-- [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
-- [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
-- [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)
 <!-- HN:end -->
 
 ---
