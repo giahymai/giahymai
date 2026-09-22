@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 21 September 2026** — refreshed 23:50 CET
+📅 **Tuesday, 22 September 2026** — refreshed 06:11 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:21:31 AM  ·  🌇 **Sunset** 7:39:53 PM
-✨ **Golden hour** 6:56:01 PM  ·  ⏳ **Day length** 12:18:21
-🌔 **Moon**: Waxing Gibbous (78% lit)
+🌅 **Sunrise** 7:23:07 AM  ·  🌇 **Sunset** 7:37:34 PM
+✨ **Golden hour** 6:53:42 PM  ·  ⏳ **Day length** 12:14:27
+🌔 **Moon**: Waxing Gibbous (80% lit)
 
-> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 11°C) · Clear 
+🌡️ **Eindhoven**: 12°C (feels 12°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Xiaomi MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
-- [The NASA/ESA Mars Sample Return mission has been canceled](https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead)
-- [Transformers Explained Visually](https://poloclub.github.io/transformer-explainer/)
-- [CBP suspends all personal prescription importation Oct 22](https://www.personalimportation.org/advocacy)
+- [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
+- [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
+- [I don't want to read what you didn't write](https://blog.colinbreck.com/i-dont-want-to-read-what-you-didnt-write/)
+- [What Sun got wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)
 <!-- HN:end -->
 
 ---
