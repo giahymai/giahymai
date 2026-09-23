@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 23 September 2026** — refreshed 06:08 CET
+📅 **Wednesday, 23 September 2026** — refreshed 13:09 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:24:43 AM  ·  🌇 **Sunset** 7:35:16 PM
 ✨ **Golden hour** 6:51:22 PM  ·  ⏳ **Day length** 12:10:32
-🌔 **Moon**: Waxing Gibbous (87% lit)
+🌔 **Moon**: Waxing Gibbous (89% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 12°C) · Clear 
+🌡️ **Eindhoven**: 19°C (feels 18°C) · Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Jev in 25 Lines of Python](https://www.nobodywho.ai/posts/jev-in-25-lines/)
 - [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
-- [US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.com/news/articles/cqj3dgy8x3vro)
 - [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
-- [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
+- [The darker side of being a doctor](https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/)
 <!-- HN:end -->
 
 ---
