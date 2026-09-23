@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 22 September 2026** — refreshed 23:04 CET
+📅 **Wednesday, 23 September 2026** — refreshed 06:08 CET
 <!-- DATE:end -->
 
 ---
@@ -18,29 +18,29 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:23:07 AM  ·  🌇 **Sunset** 7:37:34 PM
-✨ **Golden hour** 6:53:42 PM  ·  ⏳ **Day length** 12:14:27
-🌔 **Moon**: Waxing Gibbous (85% lit)
+🌅 **Sunrise** 7:24:43 AM  ·  🌇 **Sunset** 7:35:16 PM
+✨ **Golden hour** 6:51:22 PM  ·  ⏳ **Day length** 12:10:32
+🌔 **Moon**: Waxing Gibbous (87% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 15°C (feels 14°C) · Clear 
+🌡️ **Eindhoven**: 12°C (feels 12°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
+💡 Python is named after Monty Python, not the snake.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
+- [US criticises Australia's proposed algorithm opt-out laws as 'censorship'](https://www.bbc.com/news/articles/cqj3dgy8x3vro)
 - [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
-- ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/)
 - [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
 <!-- HN:end -->
 
