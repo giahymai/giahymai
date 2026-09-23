@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 23 September 2026** — refreshed 18:30 CET
+📅 **Wednesday, 23 September 2026** — refreshed 23:19 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:24:43 AM  ·  🌇 **Sunset** 7:35:16 PM
 ✨ **Golden hour** 6:51:22 PM  ·  ⏳ **Day length** 12:10:32
-🌔 **Moon**: Waxing Gibbous (90% lit)
+🌔 **Moon**: Waxing Gibbous (91% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 21°C (feels 19°C) · Overcast 
+🌡️ **Eindhoven**: 17°C (feels 16°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
+- [Once Claude can measure something, it can make it faster](https://claude.dev/blog/how-we-made-claude-ai-faster/)
 - [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html)
-- [Strands Harness](https://strandsagents.com/blog/introducing-strands-harness/)
-- [Gemini 3.8 text-to-speech says hello](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/)
-- [Stripe's Knowledge AI Platform](https://stripe.dev/blog/meet-stripes-knowledge-ai-platform)
+- [Italian parliament votes for return to nuclear energy](https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567)
 <!-- HN:end -->
 
 ---
