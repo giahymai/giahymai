@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 24 September 2026** — refreshed 06:03 CET
+📅 **Thursday, 24 September 2026** — refreshed 13:25 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:26:20 AM  ·  🌇 **Sunset** 7:32:58 PM
 ✨ **Golden hour** 6:49:02 PM  ·  ⏳ **Day length** 12:06:38
-🌔 **Moon**: Waxing Gibbous (93% lit)
+🌔 **Moon**: Waxing Gibbous (95% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 11°C) · Overcast 
+🌡️ **Eindhoven**: 16°C (feels 14°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Nokia Design Archive (2025)](https://nokiadesignarchive.aalto.fi/index.html)
 - [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
 - [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
-- [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)
-- [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
+- [Starlink ground station in Poland hit by fire in suspected arson attack](https://notesfrompoland.com/2026/09/24/starlink-ground-station-in-poland-hit-by-fire-in-suspected-arson-attack/)
 <!-- HN:end -->
 
 ---
