@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 23 September 2026** — refreshed 23:19 CET
+📅 **Thursday, 24 September 2026** — refreshed 06:03 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:24:43 AM  ·  🌇 **Sunset** 7:35:16 PM
-✨ **Golden hour** 6:51:22 PM  ·  ⏳ **Day length** 12:10:32
-🌔 **Moon**: Waxing Gibbous (91% lit)
+🌅 **Sunrise** 7:26:20 AM  ·  🌇 **Sunset** 7:32:58 PM
+✨ **Golden hour** 6:49:02 PM  ·  ⏳ **Day length** 12:06:38
+🌔 **Moon**: Waxing Gibbous (93% lit)
 
-> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
+> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 16°C) · Overcast 
+🌡️ **Eindhoven**: 13°C (feels 11°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Python is named after Monty Python, not the snake.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
 - [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
-- [Once Claude can measure something, it can make it faster](https://claude.dev/blog/how-we-made-claude-ai-faster/)
-- [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html)
-- [Italian parliament votes for return to nuclear energy](https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567)
+- [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign)
+- [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
 <!-- HN:end -->
 
 ---
