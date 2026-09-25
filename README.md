@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 25 September 2026** — refreshed 06:17 CET
+📅 **Friday, 25 September 2026** — refreshed 13:31 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:27:56 AM  ·  🌇 **Sunset** 7:30:41 PM
 ✨ **Golden hour** 6:46:42 PM  ·  ⏳ **Day length** 12:02:44
-🌕 **Moon**: Full Moon (97% lit)
+🌕 **Moon**: Full Moon (98% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 11°C (feels 10°C) · Clear 
+☀️ **Eindhoven**: 18°C (feels 16°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
-- [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
-- [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
-- [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)
+- [Dutch governments builds alternative for Microsoft based on NixOS](https://www.dawo.community/en/)
+- [The Mafia may be keeping fentanyl out of Italy](https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy)
+- [Ink and Switch Interactive Homepage](https://www.inkandswitch.com/)
+- [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
 <!-- HN:end -->
 
 ---
