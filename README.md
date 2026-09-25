@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 25 September 2026** — refreshed 18:55 CET
+📅 **Friday, 25 September 2026** — refreshed 23:19 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 23°C (feels 20°C) · Sunny
+🌡️ **Eindhoven**: 17°C (feels 14°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html)
-- [Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment)
-- [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug)
-- [First Principles Thinking](https://sunilsadasivan.com/writing/first-principles-thinking/)
+- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
+- [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/)
+- [Bug: Border radius has infected VSCode editor](https://github.com/microsoft/vscode/issues/338035)
+- [Platform-independent SIMD in Go](https://go.dev/blog/simd-experiment)
 <!-- HN:end -->
 
 ---
