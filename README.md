@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 24 September 2026** — refreshed 23:20 CET
+📅 **Friday, 25 September 2026** — refreshed 06:17 CET
 <!-- DATE:end -->
 
 ---
@@ -18,22 +18,22 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:26:20 AM  ·  🌇 **Sunset** 7:32:58 PM
-✨ **Golden hour** 6:49:02 PM  ·  ⏳ **Day length** 12:06:38
-🌕 **Moon**: Full Moon (96% lit)
+🌅 **Sunrise** 7:27:56 AM  ·  🌇 **Sunset** 7:30:41 PM
+✨ **Golden hour** 6:46:42 PM  ·  ⏳ **Day length** 12:02:44
+🌕 **Moon**: Full Moon (97% lit)
 
-> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
+> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 11°C) · Overcast 
+🌡️ **Eindhoven**: 11°C (feels 10°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
+💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
@@ -41,7 +41,7 @@
 - [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
 - [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
 - [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard)
-- [Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY)
+- [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver)
 <!-- HN:end -->
 
 ---
