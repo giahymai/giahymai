@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 25 September 2026** — refreshed 13:31 CET
+📅 **Friday, 25 September 2026** — refreshed 18:55 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:27:56 AM  ·  🌇 **Sunset** 7:30:41 PM
 ✨ **Golden hour** 6:46:42 PM  ·  ⏳ **Day length** 12:02:44
-🌕 **Moon**: Full Moon (98% lit)
+🌕 **Moon**: Full Moon (99% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 18°C (feels 16°C) · Sunny
+☀️ **Eindhoven**: 23°C (feels 20°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Dutch governments builds alternative for Microsoft based on NixOS](https://www.dawo.community/en/)
-- [The Mafia may be keeping fentanyl out of Italy](https://economist.com/europe/2026/09/24/the-mafia-may-be-keeping-fentanyl-out-of-italy)
-- [Ink and Switch Interactive Homepage](https://www.inkandswitch.com/)
-- [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
+- [U.S. appeals court upholds designation of Anthropic as supply chain risk](https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html)
+- [Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment)
+- [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug)
+- [First Principles Thinking](https://sunilsadasivan.com/writing/first-principles-thinking/)
 <!-- HN:end -->
 
 ---
