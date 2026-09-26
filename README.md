@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 25 September 2026** — refreshed 23:19 CET
+📅 **Saturday, 26 September 2026** — refreshed 06:22 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:27:56 AM  ·  🌇 **Sunset** 7:30:41 PM
-✨ **Golden hour** 6:46:42 PM  ·  ⏳ **Day length** 12:02:44
-🌕 **Moon**: Full Moon (99% lit)
+🌅 **Sunrise** 7:29:33 AM  ·  🌇 **Sunset** 7:28:23 PM
+✨ **Golden hour** 6:44:22 PM  ·  ⏳ **Day length** 11:58:50
+🌕 **Moon**: Full Moon (100% lit)
 
-> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
+> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 14°C) · Clear 
+🌡️ **Eindhoven**: 14°C (feels 12°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
+💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
+- [We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
 - [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
-- [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/)
-- [Bug: Border radius has infected VSCode editor](https://github.com/microsoft/vscode/issues/338035)
-- [Platform-independent SIMD in Go](https://go.dev/blog/simd-experiment)
+- [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)
 <!-- HN:end -->
 
 ---
