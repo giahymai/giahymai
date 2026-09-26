@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 26 September 2026** — refreshed 06:22 CET
+📅 **Saturday, 26 September 2026** — refreshed 13:06 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 14°C (feels 12°C) · Overcast 
+🌡️ **Eindhoven**: 20°C (feels 17°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
 - [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
 - [We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
-- [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
-- [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)
+- [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)
 <!-- HN:end -->
 
 ---
