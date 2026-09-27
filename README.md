@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 27 September 2026** — refreshed 06:39 CET
+📅 **Sunday, 27 September 2026** — refreshed 13:44 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:31:10 AM  ·  🌇 **Sunset** 7:26:06 PM
 ✨ **Golden hour** 6:42:02 PM  ·  ⏳ **Day length** 11:54:55
-🌕 **Moon**: Full Moon (100% lit)
+🌕 **Moon**: Full Moon (99% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 12°C) · Overcast 
+🌡️ **Eindhoven**: 23°C (feels 20°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)
-- [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe)
-- [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
-- [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
+- ["As a Language Model": Chat Template Switches LLM Self-Referential Voice](https://arxiv.org/abs/2609.25021)
+- [Flip Fluid on Flip Dots](https://mitxela.com/projects/flipflip)
+- [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later)
+- [OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
 <!-- HN:end -->
 
 ---
