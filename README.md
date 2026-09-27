@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 26 September 2026** — refreshed 22:51 CET
+📅 **Sunday, 27 September 2026** — refreshed 06:39 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:29:33 AM  ·  🌇 **Sunset** 7:28:23 PM
-✨ **Golden hour** 6:44:22 PM  ·  ⏳ **Day length** 11:58:50
+🌅 **Sunrise** 7:31:10 AM  ·  🌇 **Sunset** 7:26:06 PM
+✨ **Golden hour** 6:42:02 PM  ·  ⏳ **Day length** 11:54:55
 🌕 **Moon**: Full Moon (100% lit)
 
-> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
+> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 16°C (feels 15°C) · Overcast 
+🌡️ **Eindhoven**: 13°C (feels 12°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)
 - [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe)
-- [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
-- [Drawgent: Coding agent on a live Excalidraw canvas](https://tangled.org/yanndegat.tngl.sh/drawgent)
 - [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
+- [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
 <!-- HN:end -->
 
 ---
