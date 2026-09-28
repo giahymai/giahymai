@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 27 September 2026** — refreshed 23:08 CET
+📅 **Monday, 28 September 2026** — refreshed 06:40 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:31:10 AM  ·  🌇 **Sunset** 7:26:06 PM
-✨ **Golden hour** 6:42:02 PM  ·  ⏳ **Day length** 11:54:55
-🌕 **Moon**: Full Moon (98% lit)
+🌅 **Sunrise** 7:32:47 AM  ·  🌇 **Sunset** 7:23:48 PM
+✨ **Golden hour** 6:39:41 PM  ·  ⏳ **Day length** 11:51:01
+🌕 **Moon**: Full Moon (97% lit)
 
-> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
+> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 18°C) · Cloudy 
+🌡️ **Eindhoven**: 16°C (feels 16°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
+💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/)
+- [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html)
+- [Nissan's third generation e-POWER powertrain](https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/)
+- [Thinking Fast and Slow in AI: The Role of Metacognition](https://arxiv.org/abs/2110.01834)
 - [Ember-1](https://fireworks.ai/blog/ember-1)
-- [Alan Kay's answer to "Did the ENIAC have a BIOS"?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11)
-- [The state of SIMD in Rust in 2026](https://shnatsel.github.io/state-of-simd-rust-2026/)
 <!-- HN:end -->
 
 ---
