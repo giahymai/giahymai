@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 28 September 2026** — refreshed 15:24 CET
+📅 **Tuesday, 29 September 2026** — refreshed 01:05 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:32:47 AM  ·  🌇 **Sunset** 7:23:48 PM
 ✨ **Golden hour** 6:39:41 PM  ·  ⏳ **Day length** 11:51:01
-🌖 **Moon**: Waning Gibbous (96% lit)
+🌖 **Moon**: Waning Gibbous (94% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 23°C (feels 23°C) · Overcast 
+🌡️ **Eindhoven**: 17°C (feels 16°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Parley: Federated, decentralised chat that speaks plain IRC](https://git.mills.io/prologic/parley)
-- [AI companies in race to demonstrate their model most threatening to humanity](https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/)
-- [Show HN: Hntui – A TUI for Hacker News](https://github.com/ahmd-sh/hntui)
-- [37,500 border drawings: a map of the world as people remember it](https://www.habibicode.org/thedrawnworld)
+- [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
+- [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
+- [Who should be held accountable when an AI Agent (accidentally) acts maliciously?](https://blog.greenpants.net/ai-accountability/)
+- [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/)
 <!-- HN:end -->
 
 ---
