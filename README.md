@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 29 September 2026** — refreshed 01:05 CET
+📅 **Tuesday, 29 September 2026** — refreshed 07:07 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:32:47 AM  ·  🌇 **Sunset** 7:23:48 PM
-✨ **Golden hour** 6:39:41 PM  ·  ⏳ **Day length** 11:51:01
-🌖 **Moon**: Waning Gibbous (94% lit)
+🌅 **Sunrise** 7:34:24 AM  ·  🌇 **Sunset** 7:21:31 PM
+✨ **Golden hour** 6:37:21 PM  ·  ⏳ **Day length** 11:47:07
+🌖 **Moon**: Waning Gibbous (92% lit)
 
-> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 16°C) · Overcast 
+🌫️ **Eindhoven**: 16°C (feels 16°C) · Fog
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
+- [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)
+- [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/)
 - [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
-- [Who should be held accountable when an AI Agent (accidentally) acts maliciously?](https://blog.greenpants.net/ai-accountability/)
-- [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/)
 <!-- HN:end -->
 
 ---
