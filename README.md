@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 29 September 2026** — refreshed 07:07 CET
+📅 **Tuesday, 29 September 2026** — refreshed 14:28 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:34:24 AM  ·  🌇 **Sunset** 7:21:31 PM
 ✨ **Golden hour** 6:37:21 PM  ·  ⏳ **Day length** 11:47:07
-🌖 **Moon**: Waning Gibbous (92% lit)
+🌖 **Moon**: Waning Gibbous (90% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌫️ **Eindhoven**: 16°C (feels 16°C) · Fog
+🌡️ **Eindhoven**: 26°C (feels 26°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff)
-- [Phyllotaxis: An audio-reactive LED display](https://jagi.studio/posts/phyllotaxis/)
-- [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/)
-- [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
+- [You Are No Longer Invited to Dinner](https://www.derekthompson.org/p/the-death-of-the-american-host)
+- [AI companies leak data to advertisers [pdf]](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)
+- [Jeeves. Reasoning improves Jev-like decision models](https://github.com/PostHog/jeeves)
+- [Using any C++ library in Godot](https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html)
 <!-- HN:end -->
 
 ---
