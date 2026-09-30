@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 30 September 2026** — refreshed 06:55 CET
+📅 **Wednesday, 30 September 2026** — refreshed 14:13 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:36:01 AM  ·  🌇 **Sunset** 7:19:15 PM
 ✨ **Golden hour** 6:35:00 PM  ·  ⏳ **Day length** 11:43:13
-🌖 **Moon**: Waning Gibbous (85% lit)
+🌖 **Moon**: Waning Gibbous (82% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 16°C) · Clear 
+🌡️ **Eindhoven**: 25°C (feels 22°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Pi.dev: You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)
+- [Show HN: JBR-001 – An open-source 3D printable desktop robot](https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96)
 - [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
-- [PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa)
-- [Dots: Always-on agents](https://openai.com/index/introducing-dots/)
-- [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
+- [Solving Factorio Quality](https://exyr.org/2026/solving-factorio-quality/)
 <!-- HN:end -->
 
 ---
