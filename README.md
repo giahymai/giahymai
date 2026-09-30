@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 30 September 2026** — refreshed 00:03 CET
+📅 **Wednesday, 30 September 2026** — refreshed 06:55 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:34:24 AM  ·  🌇 **Sunset** 7:21:31 PM
-✨ **Golden hour** 6:37:21 PM  ·  ⏳ **Day length** 11:47:07
-🌖 **Moon**: Waning Gibbous (87% lit)
+🌅 **Sunrise** 7:36:01 AM  ·  🌇 **Sunset** 7:19:15 PM
+✨ **Golden hour** 6:35:00 PM  ·  ⏳ **Day length** 11:43:13
+🌖 **Moon**: Waning Gibbous (85% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 20°C (feels 18°C) · Overcast 
+🌡️ **Eindhoven**: 19°C (feels 16°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
+💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
+- [PSSA: A non-transformer language model written from scratch in Rust](https://github.com/Sparticle62ops/pssa)
+- [Dots: Always-on agents](https://openai.com/index/introducing-dots/)
 - [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/)
-- [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/)
-- [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss)
-- [PS5 Relapse Exploit](https://github.com/ntfargo/Relapse-Exploit)
 <!-- HN:end -->
 
 ---
