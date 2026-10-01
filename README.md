@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 01 October 2026** — refreshed 00:02 CET
+📅 **Thursday, 01 October 2026** — refreshed 07:08 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:36:01 AM  ·  🌇 **Sunset** 7:19:15 PM
-✨ **Golden hour** 6:35:00 PM  ·  ⏳ **Day length** 11:43:13
-🌖 **Moon**: Waning Gibbous (79% lit)
+🌅 **Sunrise** 7:37:39 AM  ·  🌇 **Sunset** 7:16:59 PM
+✨ **Golden hour** 6:32:40 PM  ·  ⏳ **Day length** 11:39:19
+🌖 **Moon**: Waning Gibbous (76% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 20°C) · Light drizzle
+🌡️ **Eindhoven**: 18°C (feels 18°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+💡 `git` was written by Linus Torvalds in about 10 days in 2005.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
+- [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1)
+- [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)
 - [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/)
-- [EDG C++ front-end goes public](https://edgcpp.org/#transition)
-- [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude)
 <!-- HN:end -->
 
 ---
