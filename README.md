@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 01 October 2026** — refreshed 07:08 CET
+📅 **Thursday, 01 October 2026** — refreshed 14:48 CET
 <!-- DATE:end -->
 
 ---
@@ -20,13 +20,13 @@
 <!-- SKY:start -->
 🌅 **Sunrise** 7:37:39 AM  ·  🌇 **Sunset** 7:16:59 PM
 ✨ **Golden hour** 6:32:40 PM  ·  ⏳ **Day length** 11:39:19
-🌖 **Moon**: Waning Gibbous (76% lit)
+🌖 **Moon**: Waning Gibbous (74% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 18°C (feels 18°C) · Light rain shower
+🌡️ **Eindhoven**: 16°C (feels 15°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421)
+- [GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design](https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design)
+- [OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network](https://github.com/maanHimself/OpenDLSS-NR)
 - [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
-- [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1)
-- [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age)
-- [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/)
 <!-- HN:end -->
 
 ---
