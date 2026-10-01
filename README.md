@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 01 October 2026** — refreshed 14:48 CET
+📅 **Friday, 02 October 2026** — refreshed 00:30 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:37:39 AM  ·  🌇 **Sunset** 7:16:59 PM
-✨ **Golden hour** 6:32:40 PM  ·  ⏳ **Day length** 11:39:19
-🌖 **Moon**: Waning Gibbous (74% lit)
+🌅 **Sunrise** 7:39:17 AM  ·  🌇 **Sunset** 7:14:43 PM
+✨ **Golden hour** 6:30:19 PM  ·  ⏳ **Day length** 11:35:25
+🌗 **Moon**: Last Quarter (63% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 16°C (feels 15°C) · Light rain shower
+🌡️ **Eindhoven**: 14°C (feels 13°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421)
-- [GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design](https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design)
-- [OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network](https://github.com/maanHimself/OpenDLSS-NR)
-- [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/)
+- [Pi 1.0](https://earendil.com/posts/pi-1-0/)
+- [The death of web development education](https://molily.de/web-dev-education/)
+- [Clef: Open-source decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
+- [Car Is a Smartphone on Wheels. Here's Who's Listening](https://automatictransmission.khoury.northeastern.edu/index.html)
 <!-- HN:end -->
 
 ---
