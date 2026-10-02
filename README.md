@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 02 October 2026** — refreshed 00:30 CET
+📅 **Friday, 02 October 2026** — refreshed 06:57 CET
 <!-- DATE:end -->
 
 ---
@@ -22,26 +22,26 @@
 ✨ **Golden hour** 6:30:19 PM  ·  ⏳ **Day length** 11:35:25
 🌗 **Moon**: Last Quarter (63% lit)
 
-> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
+> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 14°C (feels 13°C) · Clear 
+🌡️ **Eindhoven**: 12°C (feels 12°C) · Cloudy 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 `git` was written by Linus Torvalds in about 10 days in 2005.
+💡 Python is named after Monty Python, not the snake.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Pi 1.0](https://earendil.com/posts/pi-1-0/)
-- [The death of web development education](https://molily.de/web-dev-education/)
-- [Clef: Open-source decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/)
-- [Car Is a Smartphone on Wheels. Here's Who's Listening](https://automatictransmission.khoury.northeastern.edu/index.html)
+- [DeepSeek Harness](https://www.deepseek.com/en/harness/)
+- [How Singapore's government-run dating service works](https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works)
+- [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
 <!-- HN:end -->
 
 ---
