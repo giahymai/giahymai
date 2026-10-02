@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 02 October 2026** — refreshed 14:11 CET
+📅 **Saturday, 03 October 2026** — refreshed 00:00 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:39:17 AM  ·  🌇 **Sunset** 7:14:43 PM
-✨ **Golden hour** 6:30:19 PM  ·  ⏳ **Day length** 11:35:25
-🌗 **Moon**: Last Quarter (63% lit)
+🌅 **Sunrise** 7:40:55 AM  ·  🌇 **Sunset** 7:12:27 PM
+✨ **Golden hour** 6:27:59 PM  ·  ⏳ **Day length** 11:31:32
+🌗 **Moon**: Last Quarter (52% lit)
 
 > 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 17°C) · Overcast 
+🌡️ **Eindhoven**: 15°C (feels 14°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Pi 1.0](https://earendil.com/posts/pi-1-0/)
-- [Shimano Bicycle Museum Review](https://inrng.com/2026/10/shimano-bicycle-museum/)
-- [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/)
-- [Show HN: Audionaut – an open-source cross-platform multitrack audio editor](https://github.com/kvoltmer/Audionaut)
+- [Zig v0.17.0](https://ziglang.org/download/0.17.0/release-notes.html)
+- [Apple Pass Designer](https://developer.apple.com/pass-designer/)
+- [Everyone's Packing Up](https://widdershins.verja.net/everyones-packing-up/)
+- [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
 <!-- HN:end -->
 
 ---
