@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 03 October 2026** — refreshed 06:40 CET
+📅 **Saturday, 03 October 2026** — refreshed 13:21 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 11°C) · Overcast 
+🌡️ **Eindhoven**: 18°C (feels 18°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,8 +38,8 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [GitHub's new dashboard experience now the default](https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/)
 - [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
-- [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html)
 - [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
 - [Apple Pass Designer](https://developer.apple.com/pass-designer/)
 <!-- HN:end -->
