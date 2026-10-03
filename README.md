@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 03 October 2026** — refreshed 00:00 CET
+📅 **Saturday, 03 October 2026** — refreshed 06:40 CET
 <!-- DATE:end -->
 
 ---
@@ -22,26 +22,26 @@
 ✨ **Golden hour** 6:27:59 PM  ·  ⏳ **Day length** 11:31:32
 🌗 **Moon**: Last Quarter (52% lit)
 
-> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
+> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 15°C (feels 14°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 12°C (feels 11°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Python is named after Monty Python, not the snake.
+💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Zig v0.17.0](https://ziglang.org/download/0.17.0/release-notes.html)
-- [Apple Pass Designer](https://developer.apple.com/pass-designer/)
-- [Everyone's Packing Up](https://widdershins.verja.net/everyones-packing-up/)
+- [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
+- [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html)
 - [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
+- [Apple Pass Designer](https://developer.apple.com/pass-designer/)
 <!-- HN:end -->
 
 ---
