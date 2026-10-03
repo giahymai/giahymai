@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 03 October 2026** — refreshed 17:59 CET
+📅 **Saturday, 03 October 2026** — refreshed 22:49 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 21°C (feels 20°C) · Overcast 
+🌡️ **Eindhoven**: 15°C (feels 13°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Kolibri is an open-weight LLM from Aleph Alpha for German and English](https://tej.as/blog/aleph-alpha-kolibri)
-- [Woking Electrical Control Room (2016)](http://www.darbiansphotography.com/woking-electrical-control-room-urbex)
-- [Kolibri Has Landed: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/)
-- [FTL: A new operating system for clouds](https://ftl-os.org/)
+- [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/)
+- [Kolibri – Tech Report [pdf]](https://aleph-alpha.com/downloads/tech-report.pdf)
+- [We want you to build the next Git platform on Cloudflare](https://blog.cloudflare.com/next-git-platform-on-cloudflare/)
+- [Celebrating the 100th birthday of the kidney donated to him as a teenager](https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/)
 <!-- HN:end -->
 
 ---
