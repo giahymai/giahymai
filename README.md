@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 05 October 2026** — refreshed 06:56 CET
+📅 **Monday, 05 October 2026** — refreshed 16:07 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 12°C) · Clear 
+🌡️ **Eindhoven**: 22°C (feels 19°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/)
-- [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
-- [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
-- [Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
+- [Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped](https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped)
+- [Europe's new robotics unicorn: Germany's RobCo hits $1B valuation](https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/)
+- [Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/)
+- [Gitframes](https://github.com/gatewai-dev/gitframes)
 <!-- HN:end -->
 
 ---
