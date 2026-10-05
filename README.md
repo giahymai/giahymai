@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 04 October 2026** — refreshed 23:05 CET
+📅 **Monday, 05 October 2026** — refreshed 06:56 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:42:33 AM  ·  🌇 **Sunset** 7:10:12 PM
-✨ **Golden hour** 6:25:38 PM  ·  ⏳ **Day length** 11:27:38
-🌗 **Moon**: Last Quarter (40% lit)
+🌅 **Sunrise** 7:44:12 AM  ·  🌇 **Sunset** 7:07:57 PM
+✨ **Golden hour** 6:23:18 PM  ·  ⏳ **Day length** 11:23:45
+🌘 **Moon**: Waning Crescent (30% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 15°C (feels 14°C) · Overcast 
+🌡️ **Eindhoven**: 13°C (feels 12°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+💡 `git` was written by Linus Torvalds in about 10 days in 2005.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Remove and Disable Apple Macos27 AI Models Tool](https://github.com/omlahore/RemoveMacAI)
+- [Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/)
 - [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
-- [Improper redaction reveals Google Data Center water and electricity usage](https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/)
-- [A map of every lighthouse](https://mapped.earth/lighthouses/world)
+- [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/)
+- [Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857)
 <!-- HN:end -->
 
 ---
