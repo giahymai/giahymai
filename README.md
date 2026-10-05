@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 05 October 2026** — refreshed 16:07 CET
+📅 **Tuesday, 06 October 2026** — refreshed 01:54 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:44:12 AM  ·  🌇 **Sunset** 7:07:57 PM
-✨ **Golden hour** 6:23:18 PM  ·  ⏳ **Day length** 11:23:45
-🌘 **Moon**: Waning Crescent (30% lit)
+🌅 **Sunrise** 7:45:51 AM  ·  🌇 **Sunset** 7:05:43 PM
+✨ **Golden hour** 6:20:58 PM  ·  ⏳ **Day length** 11:19:52
+🌘 **Moon**: Waning Crescent (20% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 22°C (feels 19°C) · Overcast 
+🌡️ **Eindhoven**: 14°C (feels 13°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped](https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped)
-- [Europe's new robotics unicorn: Germany's RobCo hits $1B valuation](https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/)
-- [Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/)
-- [Gitframes](https://github.com/gatewai-dev/gitframes)
+- [ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons](https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/)
+- [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam)
+- [Find the flattest route between any two points in SF](https://flattensf.com/)
+- [Example.com Just Launched the Biggest Redesign in Decades](https://www.debugbear.com/blog/example-dot-com-redesign-history)
 <!-- HN:end -->
 
 ---
