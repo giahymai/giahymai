@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 06 October 2026** — refreshed 07:44 CET
+📅 **Tuesday, 06 October 2026** — refreshed 15:04 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 12°C) · Clear 
+🌡️ **Eindhoven**: 21°C (feels 21°C) · Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Why Common Lisp is now the best programming language](https://www.vivienhenz.com/common-lisp)
-- [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam)
-- [Find the flattest route between any two points in SF](https://flattensf.com/)
-- [Example.com just launched the biggest redesign in decades](https://www.debugbear.com/blog/example-dot-com-redesign-history)
+- [Nobel Prize in Physics goes to Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/)
+- [JetBrains reported a net financial loss first time in its tracked history](https://www.helgilibrary.com/companies/jetbrains)
+- [Release of Polars 2.0](https://pola.rs/posts/release-polars-2/)
+- [Gleam doesn't compile to Erlang source anymore](https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/)
 <!-- HN:end -->
 
 ---
