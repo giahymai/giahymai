@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 06 October 2026** — refreshed 01:54 CET
+📅 **Tuesday, 06 October 2026** — refreshed 07:44 CET
 <!-- DATE:end -->
 
 ---
@@ -22,26 +22,26 @@
 ✨ **Golden hour** 6:20:58 PM  ·  ⏳ **Day length** 11:19:52
 🌘 **Moon**: Waning Crescent (20% lit)
 
-> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
+> 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 14°C (feels 13°C) · Clear 
+🌡️ **Eindhoven**: 13°C (feels 12°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 `git` was written by Linus Torvalds in about 10 days in 2005.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons](https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/)
+- [Why Common Lisp is now the best programming language](https://www.vivienhenz.com/common-lisp)
 - [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam)
 - [Find the flattest route between any two points in SF](https://flattensf.com/)
-- [Example.com Just Launched the Biggest Redesign in Decades](https://www.debugbear.com/blog/example-dot-com-redesign-history)
+- [Example.com just launched the biggest redesign in decades](https://www.debugbear.com/blog/example-dot-com-redesign-history)
 <!-- HN:end -->
 
 ---
