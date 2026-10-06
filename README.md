@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 06 October 2026** — refreshed 15:04 CET
+📅 **Wednesday, 07 October 2026** — refreshed 00:31 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:45:51 AM  ·  🌇 **Sunset** 7:05:43 PM
-✨ **Golden hour** 6:20:58 PM  ·  ⏳ **Day length** 11:19:52
-🌘 **Moon**: Waning Crescent (20% lit)
+🌅 **Sunrise** 7:47:30 AM  ·  🌇 **Sunset** 7:03:30 PM
+✨ **Golden hour** 6:18:38 PM  ·  ⏳ **Day length** 11:15:59
+🌘 **Moon**: Waning Crescent (12% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 21°C (feels 21°C) · Cloudy 
+🌡️ **Eindhoven**: 16°C (feels 15°C) · Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Nobel Prize in Physics goes to Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/)
-- [JetBrains reported a net financial loss first time in its tracked history](https://www.helgilibrary.com/companies/jetbrains)
-- [Release of Polars 2.0](https://pola.rs/posts/release-polars-2/)
-- [Gleam doesn't compile to Erlang source anymore](https://gleam.run/news/gleam-doesnt-compile-to-erlang-source-anymore/)
+- [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\)
+- [Sharing AI Progress in Mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
+- [Mathematical manuscripts and supporting proof artifacts produced by OpenAI](https://github.com/openai/math)
+- [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions)
 <!-- HN:end -->
 
 ---
