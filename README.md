@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 07 October 2026** — refreshed 00:31 CET
+📅 **Wednesday, 07 October 2026** — refreshed 07:15 CET
 <!-- DATE:end -->
 
 ---
@@ -26,21 +26,21 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 16°C (feels 15°C) · Cloudy 
+🌡️ **Eindhoven**: 13°C (feels 12°C) · Cloudy 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
+💡 `git` was written by Linus Torvalds in about 10 days in 2005.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Mistral Large 4](https://mistral.ai/news/mistral-large-4/\)
-- [Sharing AI Progress in Mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
-- [Mathematical manuscripts and supporting proof artifacts produced by OpenAI](https://github.com/openai/math)
+- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
+- [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/)
+- [Calling It Quits on ServerFault](https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml)
 - [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions)
 <!-- HN:end -->
 
