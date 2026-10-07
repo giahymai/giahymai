@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 07 October 2026** — refreshed 07:15 CET
+📅 **Wednesday, 07 October 2026** — refreshed 14:59 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 12°C) · Cloudy 
+🌡️ **Eindhoven**: 22°C (feels 20°C) · Smoky haze
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Sharing AI progress in mathematics](https://openai.com/index/sharing-ai-progress-in-mathematics/)
-- [Strands Decider 2B: a small, open-source, decision model](https://strandsagents.com/blog/introducing-strands-decider/)
-- [Calling It Quits on ServerFault](https://sysadmin1138.net/mt/blog/2026/10/calling-it-quits-on-serverfault.shtml)
-- [Decisions API is in public beta](https://developers.openai.com/api/docs/guides/decisions)
+- [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
+- [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
+- [Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](https://www.nobelprize.org/prizes/chemistry/2026/press-release/)
+- [Write Like It's 1866: LLMs Relearn Telegraphese](https://fiveminutesforward.com/post/2026-10-04-telegraph-test/)
 <!-- HN:end -->
 
 ---
