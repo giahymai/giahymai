@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 07 October 2026** — refreshed 14:59 CET
+📅 **Thursday, 08 October 2026** — refreshed 00:55 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:47:30 AM  ·  🌇 **Sunset** 7:03:30 PM
-✨ **Golden hour** 6:18:38 PM  ·  ⏳ **Day length** 11:15:59
-🌘 **Moon**: Waning Crescent (12% lit)
+🌅 **Sunrise** 7:49:10 AM  ·  🌇 **Sunset** 7:01:16 PM
+✨ **Golden hour** 6:16:18 PM  ·  ⏳ **Day length** 11:12:06
+🌘 **Moon**: Waning Crescent (6% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 22°C (feels 20°C) · Smoky haze
+🌡️ **Eindhoven**: 14°C (feels 11°C) · Light drizzle
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome)
-- [A font recreated from photographs of classic Commodore 64 keycaps](https://github.com/szabadkai/c64-keyboard-font/)
-- [Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai](https://www.nobelprize.org/prizes/chemistry/2026/press-release/)
-- [Write Like It's 1866: LLMs Relearn Telegraphese](https://fiveminutesforward.com/post/2026-10-04-telegraph-test/)
+- [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
+- [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/)
+- [Margaret Hamilton, who led software development for the Apollo program, has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
+- [Docker Agent](https://github.com/docker/docker-agent)
 <!-- HN:end -->
 
 ---
