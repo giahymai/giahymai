@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 08 October 2026** — refreshed 00:55 CET
+📅 **Thursday, 08 October 2026** — refreshed 07:25 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 14°C (feels 11°C) · Light drizzle
+🌡️ **Eindhoven**: 13°C (feels 10°C) · Light drizzle
 <!-- WEATHER:end -->
 ---
 
@@ -39,9 +39,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
-- [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/)
-- [Margaret Hamilton, who led software development for the Apollo program, has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
-- [Docker Agent](https://github.com/docker/docker-agent)
+- [Living off-grid: Hundred Rabbits](https://100r.ca/site/home.html)
+- [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
+- [How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't](https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t)
 <!-- HN:end -->
 
 ---
