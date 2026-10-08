@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 08 October 2026** — refreshed 15:07 CET
+📅 **Friday, 09 October 2026** — refreshed 01:07 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:49:10 AM  ·  🌇 **Sunset** 7:01:16 PM
-✨ **Golden hour** 6:16:18 PM  ·  ⏳ **Day length** 11:12:06
-🌘 **Moon**: Waning Crescent (6% lit)
+🌅 **Sunrise** 7:50:49 AM  ·  🌇 **Sunset** 6:59:04 PM
+✨ **Golden hour** 6:13:59 PM  ·  ⏳ **Day length** 11:08:14
+🌑 **Moon**: New Moon (2% lit)
 
 > 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 15°C (feels 10°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 11°C (feels 8°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [“Math 2.0” will need to value mathematical progress more holistically](https://mathstodon.xyz/@tao/117395269325940185)
-- [The Slow Formation of Durable Software](https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/)
-- [I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities](https://quesma.com/blog/invisible-cities-one-shot/)
-- [Telnet BBS Guide](https://www.telnetbbsguide.com/)
+- [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
+- [Theranos.world](https://www.theranos.world/)
+- [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
+- [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
 <!-- HN:end -->
 
 ---
