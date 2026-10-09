@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 09 October 2026** — refreshed 07:28 CET
+📅 **Friday, 09 October 2026** — refreshed 14:53 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 10°C (feels 7°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 12°C (feels 8°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
-- [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
-- [Theranos.world](https://www.theranos.world/)
-- [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/)
+- [Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
+- [Nobel Peace Prize for 2026 to Navanethem "NAVI" Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
+- [I'm in a Meeting](https://iminafleeting.com/)
+- [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
 <!-- HN:end -->
 
 ---
