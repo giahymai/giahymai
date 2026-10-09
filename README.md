@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 09 October 2026** — refreshed 01:07 CET
+📅 **Friday, 09 October 2026** — refreshed 07:28 CET
 <!-- DATE:end -->
 
 ---
@@ -22,26 +22,26 @@
 ✨ **Golden hour** 6:13:59 PM  ·  ⏳ **Day length** 11:08:14
 🌑 **Moon**: New Moon (2% lit)
 
-> 🔭 *A day on Venus is longer than its year.*
+> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 11°C (feels 8°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 10°C (feels 7°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 `git` was written by Linus Torvalds in about 10 days in 2005.
+💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle)
+- [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/)
 - [Theranos.world](https://www.theranos.world/)
-- [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
-- [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/)
+- [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/)
 <!-- HN:end -->
 
 ---
