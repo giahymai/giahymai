@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 09 October 2026** — refreshed 14:53 CET
+📅 **Saturday, 10 October 2026** — refreshed 00:27 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:50:49 AM  ·  🌇 **Sunset** 6:59:04 PM
-✨ **Golden hour** 6:13:59 PM  ·  ⏳ **Day length** 11:08:14
-🌑 **Moon**: New Moon (2% lit)
+🌅 **Sunrise** 7:52:29 AM  ·  🌇 **Sunset** 6:56:52 PM
+✨ **Golden hour** 6:11:40 PM  ·  ⏳ **Day length** 11:04:22
+🌑 **Moon**: New Moon (0% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 8°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 15°C (feels 11°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Let your AI agents paint big arrows, boxes and text on your screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen)
-- [Nobel Peace Prize for 2026 to Navanethem "NAVI" Pillay](https://www.nobelprize.org/prizes/peace/2026/press-release/)
-- [I'm in a Meeting](https://iminafleeting.com/)
-- [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/)
+- [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
+- [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
+- [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
+- [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
 <!-- HN:end -->
 
 ---
