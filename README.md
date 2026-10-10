@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 10 October 2026** — refreshed 07:12 CET
+📅 **Saturday, 10 October 2026** — refreshed 14:11 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 10°C (feels 8°C) · Clear 
+🌡️ **Eindhoven**: 14°C (feels 9°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Lobbying](https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html)
+- [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
+- [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
+- [Apple/macOS silently removed from official Unix registry](https://www.opengroup.org//openbrand/register/)
 - [REA Reverse – Engineer Anything](https://rea.tools/)
-- [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
-- [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
 <!-- HN:end -->
 
 ---
