@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 10 October 2026** — refreshed 00:27 CET
+📅 **Saturday, 10 October 2026** — refreshed 07:12 CET
 <!-- DATE:end -->
 
 ---
@@ -22,25 +22,25 @@
 ✨ **Golden hour** 6:11:40 PM  ·  ⏳ **Day length** 11:04:22
 🌑 **Moon**: New Moon (0% lit)
 
-> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
+> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 15°C (feels 11°C) · Light rain shower
+🌡️ **Eindhoven**: 10°C (feels 8°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
+💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306)
+- [Lobbying](https://geohot.github.io//blog/jekyll/update/2026/10/10/lobbying.html)
+- [REA Reverse – Engineer Anything](https://rea.tools/)
 - [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
-- [No Man Is an Island](https://borretti.me/article/no-man-is-an-island)
 - [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
 <!-- HN:end -->
 
