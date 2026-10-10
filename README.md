@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 10 October 2026** — refreshed 14:11 CET
+📅 **Saturday, 10 October 2026** — refreshed 23:23 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 14°C (feels 9°C) · Light rain shower
+🌡️ **Eindhoven**: 10°C (feels 7°C) · Patchy light drizzle
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
-- [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
-- [Apple/macOS silently removed from official Unix registry](https://www.opengroup.org//openbrand/register/)
-- [REA Reverse – Engineer Anything](https://rea.tools/)
+- [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
+- [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/)
+- [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/)
+- [Recent AI models struggled to match a human algorithmic innovation](https://epoch.ai/publications/innovationeval)
 <!-- HN:end -->
 
 ---
