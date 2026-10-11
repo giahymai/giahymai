@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 11 October 2026** — refreshed 07:02 CET
+📅 **Sunday, 11 October 2026** — refreshed 14:25 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 9°C (feels 6°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 14°C (feels 9°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/)
-- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
-- [CIA World Facebook Is Dead – Here Is an Attempt at Recreation](https://worldfacts.app)
-- [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
+- [Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter](https://radar.cloudflare.com/bots/as13238?dateRange=7d)
+- [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
+- [IRCv3](https://ircv3.net/)
+- [Nitter: Update Oct 10th seeking funding and legal help](https://nitter.net)
 <!-- HN:end -->
 
 ---
