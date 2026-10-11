@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 10 October 2026** — refreshed 23:23 CET
+📅 **Sunday, 11 October 2026** — refreshed 07:02 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:52:29 AM  ·  🌇 **Sunset** 6:56:52 PM
-✨ **Golden hour** 6:11:40 PM  ·  ⏳ **Day length** 11:04:22
-🌑 **Moon**: New Moon (0% lit)
+🌅 **Sunrise** 7:54:10 AM  ·  🌇 **Sunset** 6:54:41 PM
+✨ **Golden hour** 6:09:21 PM  ·  ⏳ **Day length** 11:00:31
+🌑 **Moon**: New Moon (1% lit)
 
-> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
+> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 10°C (feels 7°C) · Patchy light drizzle
+🌡️ **Eindhoven**: 9°C (feels 6°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/)
+- [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/)
+- [CIA World Facebook Is Dead – Here Is an Attempt at Recreation](https://worldfacts.app)
 - [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
-- [Why DuckDB 2.0 is faster](https://motherduck.com/blog/why-duckdb-20-is-faster/)
-- [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/)
-- [Recent AI models struggled to match a human algorithmic innovation](https://epoch.ai/publications/innovationeval)
 <!-- HN:end -->
 
 ---
