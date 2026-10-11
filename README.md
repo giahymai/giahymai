@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 11 October 2026** — refreshed 14:25 CET
+📅 **Sunday, 11 October 2026** — refreshed 23:41 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 14°C (feels 9°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 11°C (feels 9°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter](https://radar.cloudflare.com/bots/as13238?dateRange=7d)
-- [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
-- [IRCv3](https://ircv3.net/)
-- [Nitter: Update Oct 10th seeking funding and legal help](https://nitter.net)
+- [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
+- [Cartographers of North Korea](https://cartographers-nk.wonyoung.so/)
+- [Do You Have Pre-2012 Onion Issues?](https://theonion.com/archivehunt/)
+- [Chapter 1 of Ways of Seeing by John Berger](https://www.ways-of-seeing.com/ch1)
 <!-- HN:end -->
 
 ---
