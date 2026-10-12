@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 11 October 2026** — refreshed 23:41 CET
+📅 **Monday, 12 October 2026** — refreshed 07:17 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:54:10 AM  ·  🌇 **Sunset** 6:54:41 PM
-✨ **Golden hour** 6:09:21 PM  ·  ⏳ **Day length** 11:00:31
-🌑 **Moon**: New Moon (1% lit)
+🌅 **Sunrise** 7:55:50 AM  ·  🌇 **Sunset** 6:52:30 PM
+✨ **Golden hour** 6:07:02 PM  ·  ⏳ **Day length** 10:56:40
+🌑 **Moon**: New Moon (3% lit)
 
-> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
+> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 11°C (feels 9°C) · Clear 
+🌡️ **Eindhoven**: 7°C (feels 6°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
+💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
 - [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
-- [Cartographers of North Korea](https://cartographers-nk.wonyoung.so/)
-- [Do You Have Pre-2012 Onion Issues?](https://theonion.com/archivehunt/)
-- [Chapter 1 of Ways of Seeing by John Berger](https://www.ways-of-seeing.com/ch1)
+- [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)
+- [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
 <!-- HN:end -->
 
 ---
