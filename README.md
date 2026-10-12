@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 12 October 2026** — refreshed 07:17 CET
+📅 **Monday, 12 October 2026** — refreshed 16:56 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 7°C (feels 6°C) · Clear 
+☀️ **Eindhoven**: 17°C (feels 15°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
-- [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg)
-- [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography)
-- [Calculus with Julia](https://jverzani.github.io/CalculusWithJuliaNotes.jl/)
+- [Why aren't AI companies being charged for hacking?](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
+- ["Just Ask Claude" Is a Rare and Valuable Skill](https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable)
+- [The Making Of Super Mario 64 – full Giles Goddard interview (2001)](https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/)
+- [Incident with Actions, Pull Requests and Issues](https://www.githubstatus.com/incidents/93njd414rpbx)
 <!-- HN:end -->
 
 ---
