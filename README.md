@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 13 October 2026** — refreshed 15:53 CET
+📅 **Wednesday, 14 October 2026** — refreshed 00:27 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:57:31 AM  ·  🌇 **Sunset** 6:50:21 PM
-✨ **Golden hour** 6:04:44 PM  ·  ⏳ **Day length** 10:52:49
-🌒 **Moon**: Waxing Crescent (8% lit)
+🌅 **Sunrise** 7:59:12 AM  ·  🌇 **Sunset** 6:48:11 PM
+✨ **Golden hour** 6:02:26 PM  ·  ⏳ **Day length** 10:48:59
+🌒 **Moon**: Waxing Crescent (14% lit)
 
 > 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 20°C (feels 18°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 14°C (feels 12°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
-- [An hour of audio transcribed in about 13s on MacBook Air](https://eg2.haku.sh/)
-- [Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs](https://machinelearning.apple.com/research/distributed-gpu-cloud)
-- [Hittite royal archive found in Turkey](https://www.thehistoryblog.com/archives/77107)
+- [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
+- [Gemini 4 Argon](https://deepmind.google/models/gemini/)
+- [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
+- [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
 <!-- HN:end -->
 
 ---
