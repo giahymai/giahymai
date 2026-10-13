@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 12 October 2026** — refreshed 16:56 CET
+📅 **Tuesday, 13 October 2026** — refreshed 02:23 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:55:50 AM  ·  🌇 **Sunset** 6:52:30 PM
-✨ **Golden hour** 6:07:02 PM  ·  ⏳ **Day length** 10:56:40
-🌑 **Moon**: New Moon (3% lit)
+🌅 **Sunrise** 7:57:31 AM  ·  🌇 **Sunset** 6:50:21 PM
+✨ **Golden hour** 6:04:44 PM  ·  ⏳ **Day length** 10:52:49
+🌒 **Moon**: Waxing Crescent (8% lit)
 
-> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 17°C (feels 15°C) · Sunny
+🌡️ **Eindhoven**: 14°C (feels 11°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
+💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Why aren't AI companies being charged for hacking?](https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/)
-- ["Just Ask Claude" Is a Rare and Valuable Skill](https://justismills.substack.com/p/just-ask-claude-is-a-rare-and-valuable)
-- [The Making Of Super Mario 64 – full Giles Goddard interview (2001)](https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/)
-- [Incident with Actions, Pull Requests and Issues](https://www.githubstatus.com/incidents/93njd414rpbx)
+- [Blood cells from 80-year-old donor become stem cells with molecular age under 20](https://doi.org/10.1111/acel.70751)
+- [GLM-Legal](https://z.ai/blog/glm-legal)
+- [GPT-6 Astra Helped Me Jailbreak My Kindle](https://nirajrajgor.com/blog/kindle-photo-frame-with-ai)
+- [Who Is Vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/)
 <!-- HN:end -->
 
 ---
