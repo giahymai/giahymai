@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 14 October 2026** — refreshed 00:27 CET
+📅 **Wednesday, 14 October 2026** — refreshed 06:17 CET
 <!-- DATE:end -->
 
 ---
@@ -22,11 +22,11 @@
 ✨ **Golden hour** 6:02:26 PM  ·  ⏳ **Day length** 10:48:59
 🌒 **Moon**: Waxing Crescent (14% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 14°C (feels 12°C) · Clear 
+🌡️ **Eindhoven**: 12°C (feels 10°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [OpenAI engineer arrested in bugging of executive conference room](https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/)
 - [Gemini 4 Argon](https://deepmind.google/models/gemini/)
-- [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
 - [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
+- [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
+- [Grace Hopper Celebration Cancelled](https://anitab.org/press-release)
 <!-- HN:end -->
 
 ---
