@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 14 October 2026** — refreshed 18:52 CET
+📅 **Wednesday, 14 October 2026** — refreshed 23:26 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 18°C (feels 16°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 13°C (feels 11°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
-- [Submarine Cable Resilience](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/)
-- [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
-- [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
+- [Things to know when you get cancer – 2026 Edition](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
+- [Yandex outage: data shows that instead of going dark, malicious bots moved](https://blog.cloudflare.com/yandex-outage/)
+- [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
+- [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
 <!-- HN:end -->
 
 ---
