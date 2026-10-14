@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 14 October 2026** — refreshed 06:17 CET
+📅 **Wednesday, 14 October 2026** — refreshed 13:30 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 10°C) · Clear 
+🌡️ **Eindhoven**: 17°C (feels 15°C) · Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Gemini 4 Argon](https://deepmind.google/models/gemini/)
-- [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/)
-- [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
-- [Grace Hopper Celebration Cancelled](https://anitab.org/press-release)
+- [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
+- [Show HN: Building an LLM from Scratch in TypeScript](https://book.humanexperiences.io/)
+- [Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/)
+- [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
 <!-- HN:end -->
 
 ---
