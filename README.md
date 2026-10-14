@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 14 October 2026** — refreshed 13:30 CET
+📅 **Wednesday, 14 October 2026** — refreshed 18:52 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 15°C) · Cloudy 
+🌡️ **Eindhoven**: 18°C (feels 16°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -39,8 +39,8 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
-- [Show HN: Building an LLM from Scratch in TypeScript](https://book.humanexperiences.io/)
-- [Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/)
+- [Submarine Cable Resilience](https://blog.apnic.net/2026/10/14/submarine-cable-resilience/)
+- [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
 - [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
 <!-- HN:end -->
 
