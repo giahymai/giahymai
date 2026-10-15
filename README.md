@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 15 October 2026** — refreshed 05:59 CET
+📅 **Thursday, 15 October 2026** — refreshed 13:08 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 11°C (feels 9°C) · Overcast 
+🌡️ **Eindhoven**: 15°C (feels 11°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -39,9 +39,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
+- [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
 - [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
 - [Tiny Little Office](https://tinylittleoffice.com/)
-- [Future of Cancer Care Today (FCCT)](https://sijbrandijfoundation.org/fcct)
 <!-- HN:end -->
 
 ---
