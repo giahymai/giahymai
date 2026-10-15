@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 14 October 2026** — refreshed 23:26 CET
+📅 **Thursday, 15 October 2026** — refreshed 05:59 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:59:12 AM  ·  🌇 **Sunset** 6:48:11 PM
-✨ **Golden hour** 6:02:26 PM  ·  ⏳ **Day length** 10:48:59
-🌒 **Moon**: Waxing Crescent (14% lit)
+🌅 **Sunrise** 8:00:54 AM  ·  🌇 **Sunset** 6:46:03 PM
+✨ **Golden hour** 6:00:09 PM  ·  ⏳ **Day length** 10:45:09
+🌒 **Moon**: Waxing Crescent (21% lit)
 
-> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
+> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 11°C) · Overcast 
+🌡️ **Eindhoven**: 11°C (feels 9°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Things to know when you get cancer – 2026 Edition](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
-- [Yandex outage: data shows that instead of going dark, malicious bots moved](https://blog.cloudflare.com/yandex-outage/)
-- [Anthropic's Scion is heavily inspired by Mononoke](https://sunshowers.io/posts/anthropic-mononoke/)
+- [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
 - [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
+- [Tiny Little Office](https://tinylittleoffice.com/)
+- [Future of Cancer Care Today (FCCT)](https://sijbrandijfoundation.org/fcct)
 <!-- HN:end -->
 
 ---
