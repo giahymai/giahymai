@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 15 October 2026** — refreshed 13:08 CET
+📅 **Thursday, 15 October 2026** — refreshed 18:39 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 15°C (feels 11°C) · Overcast 
+🌡️ **Eindhoven**: 20°C (feels 19°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
-- [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
-- [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
-- [Tiny Little Office](https://tinylittleoffice.com/)
+- [I designed a nose guard for my dog and gave it away. Now 500 dogs wear one](https://snoutcover.com/one-year)
+- [Simons Foundation Launches $15M Effort to Help Mathematicians Navigate AI Era](https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/)
+- [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk)
+- [I know why Mathematicians weep](https://www.derekthompson.org/p/i-know-why-the-mathematicians-weep)
 <!-- HN:end -->
 
 ---
