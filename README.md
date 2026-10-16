@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 16 October 2026** — refreshed 18:22 CET
+📅 **Friday, 16 October 2026** — refreshed 22:44 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 19°C (feels 18°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 13°C (feels 9°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [What on Earth Is Dekton?](https://www.worksinprogress.news/p/porcelain)
-- [Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD](https://calif.io/research/big-fish)
-- [Apple ML Research: Muse Spark Open with MLX on Mac Studio](https://machinelearning.apple.com/research/mlx-distributed-inference)
-- [Show HN: Gemini 4 Argon plays StarCraft](https://starskirmish.com/bench/v0-2/)
+- [Tesla Roadster](https://www.tesla.com/roadster)
+- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
+- [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
+- [Flux 3 Image Klein: open weights, 5.6B parameters](https://bfl.ai/blog/flux-3-image-klein)
 <!-- HN:end -->
 
 ---
