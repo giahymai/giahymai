@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 16 October 2026** — refreshed 05:56 CET
+📅 **Friday, 16 October 2026** — refreshed 13:03 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 14°C (feels 13°C) · Clear 
+☀️ **Eindhoven**: 18°C (feels 15°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Yet another way to invoke functions without parentheses](https://blog.ikaes.de/yet-another-way-to-invoke-functions-without-parentheses/)
+- [Meta’s new commercial terms will allow the scraping of news sites: experts](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
+- [Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]](https://www.youtube.com/watch?v=sjNpfz4UzqU)
 - [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
-- [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
-- [Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
-- [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
 <!-- HN:end -->
 
 ---
