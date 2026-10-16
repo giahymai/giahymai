@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 15 October 2026** — refreshed 23:07 CET
+📅 **Friday, 16 October 2026** — refreshed 05:56 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 8:00:54 AM  ·  🌇 **Sunset** 6:46:03 PM
-✨ **Golden hour** 6:00:09 PM  ·  ⏳ **Day length** 10:45:09
-🌒 **Moon**: Waxing Crescent (21% lit)
+🌅 **Sunrise** 8:02:36 AM  ·  🌇 **Sunset** 6:43:56 PM
+✨ **Golden hour** 5:57:52 PM  ·  ⏳ **Day length** 10:41:20
+🌒 **Moon**: Waxing Crescent (29% lit)
 
-> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
+> 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 16°C (feels 14°C) · Overcast 
+🌡️ **Eindhoven**: 14°C (feels 13°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
+💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open)
-- [Why are we even doing all this?](https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this/)
-- [Neural networks are clean](https://already-clean.goodfire.com/)
-- [E Ink Kaleido 4](https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4)
+- [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes)
+- [Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/)
+- [Any window from your Mac, on your iPhone and iPad](https://github.com/Saffsanity/sill)
 <!-- HN:end -->
 
 ---
