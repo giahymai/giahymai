@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 16 October 2026** — refreshed 22:44 CET
+📅 **Saturday, 17 October 2026** — refreshed 05:46 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 8:02:36 AM  ·  🌇 **Sunset** 6:43:56 PM
-✨ **Golden hour** 5:57:52 PM  ·  ⏳ **Day length** 10:41:20
-🌒 **Moon**: Waxing Crescent (29% lit)
+🌅 **Sunrise** 8:04:18 AM  ·  🌇 **Sunset** 6:41:49 PM
+✨ **Golden hour** 5:55:36 PM  ·  ⏳ **Day length** 10:37:31
+🌓 **Moon**: First Quarter (38% lit)
 
-> 🔭 *A day on Venus is longer than its year.*
+> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 9°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 11°C (feels 9°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
+💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine)
 - [Tesla Roadster](https://www.tesla.com/roadster)
-- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
 - [Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console](https://github.com/cobanov/PS5LM)
-- [Flux 3 Image Klein: open weights, 5.6B parameters](https://bfl.ai/blog/flux-3-image-klein)
+- [Claude reveals ECDSA curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
 <!-- HN:end -->
 
 ---
