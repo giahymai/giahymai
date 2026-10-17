@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 17 October 2026** — refreshed 12:23 CET
+📅 **Saturday, 17 October 2026** — refreshed 17:16 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 9°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 15°C (feels 9°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -39,9 +39,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [DeepSeek: DeepSeek v4.1 Flash 1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
-- ["Tame" boar and deer are instinctively adapting to the wolf in the Netherlands](https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf)
-- [Ultramarine 1 Flash](https://www.paperinstruments.com/ultramarine)
-- [Is MCP becoming the common foundation of smart, decentralised search?](https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search)
+- [Making Chicken Transparent Using Dorito Dust](https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using)
+- [Solar surpasses nuclear power globally for first time – pv magazine Global](https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/)
+- [Rendering pretty sky in Around The World game](https://frozenfractal.com/blog/2026/10/12/around-the-world-34-a-pretty-sky/)
 <!-- HN:end -->
 
 ---
