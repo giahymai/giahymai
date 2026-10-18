@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 18 October 2026** — refreshed 12:41 CET
+📅 **Sunday, 18 October 2026** — refreshed 17:38 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 9°C (feels 7°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 12°C (feels 10°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
+- [Will it be a golden age or a dark age for mathematics (and science)?](https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/)
+- [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
 - [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
-- [Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping](https://sphinx-six-theta.vercel.app/)
-- [How the Elizabeth Holmes documentary “You Can See Everything” is deceiving](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
-- [Parser Combinators](https://t3.at/blog/2026-10-17-parser-combinators/)
 <!-- HN:end -->
 
 ---
