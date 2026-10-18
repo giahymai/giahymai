@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 18 October 2026** — refreshed 17:38 CET
+📅 **Sunday, 18 October 2026** — refreshed 22:22 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 10°C) · Patchy rain nearby
+🌦️ **Eindhoven**: 10°C (feels 9°C) · Light rain
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/)
 - [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
-- [Will it be a golden age or a dark age for mathematics (and science)?](https://terrytao.wordpress.com/2026/10/18/will-it-be-a-golden-age-or-a-dark-age-for-mathematics-and-science/)
-- [Legal experts warn Meta's new terms still grant broad scraping permissions](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
-- [DeepSeek search and fetch – $0.75 per 1000 successful requests](https://api-docs.deepseek.com/guides/search/)
+- [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/)
+- [PalmOS Lemmings](https://github.com/ardiri/palmos-lemmings)
 <!-- HN:end -->
 
 ---
