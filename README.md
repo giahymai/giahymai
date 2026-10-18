@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 17 October 2026** — refreshed 22:21 CET
+📅 **Sunday, 18 October 2026** — refreshed 05:53 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 8:04:18 AM  ·  🌇 **Sunset** 6:41:49 PM
-✨ **Golden hour** 5:55:36 PM  ·  ⏳ **Day length** 10:37:31
-🌓 **Moon**: First Quarter (38% lit)
+🌅 **Sunrise** 8:06:00 AM  ·  🌇 **Sunset** 6:39:44 PM
+✨ **Golden hour** 5:53:20 PM  ·  ⏳ **Day length** 10:33:43
+🌓 **Moon**: First Quarter (48% lit)
 
 > 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 10°C (feels 8°C) · Clear 
+🌡️ **Eindhoven**: 7°C (feels 5°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
+💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Bleached corals thrive within days when touching healthy neighbour](https://www.nature.com/articles/d41586-026-03266-x)
-- [Source code of the Estonian online voting system](https://github.com/valimised/ivxv)
-- [The Commodore 64 hardware simulator: break chips and pins, see the results](https://github.com/antirez/c64-hw-simulator)
-- [Furifont, a Japanese font that shows furigana](https://furifont.antfu.me/)
+- [Lean now ships with verified kernels](https://leodemoura.github.io/blog/2026-10-15-lean-now-ships-with-verified-kernels/)
+- [Dam removals are bringing fish back across the northeastern United States](https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/)
+- [DeepSeek-v4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 <!-- HN:end -->
 
 ---
