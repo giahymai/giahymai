@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 18 October 2026** — refreshed 22:22 CET
+📅 **Monday, 19 October 2026** — refreshed 06:02 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 8:06:00 AM  ·  🌇 **Sunset** 6:39:44 PM
-✨ **Golden hour** 5:53:20 PM  ·  ⏳ **Day length** 10:33:43
-🌓 **Moon**: First Quarter (48% lit)
+🌅 **Sunrise** 8:07:43 AM  ·  🌇 **Sunset** 6:37:39 PM
+✨ **Golden hour** 5:51:05 PM  ·  ⏳ **Day length** 10:29:56
+🌓 **Moon**: First Quarter (57% lit)
 
-> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
+> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌦️ **Eindhoven**: 10°C (feels 9°C) · Light rain
+🌫️ **Eindhoven**: 10°C (feels 9°C) · Fog
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
+💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Someone behind the software](https://karrisaarinen.com/posts/someone-behind-the-software/)
-- [RepRapMicron](https://github.com/VikOlliver/RepRapMicron/wiki)
-- [Free Pascal compiler now supports dynamic packages](https://www.getlazarus.org/dynamic/)
-- [PalmOS Lemmings](https://github.com/ardiri/palmos-lemmings)
+- [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
+- [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
+- [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
+- [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
 <!-- HN:end -->
 
 ---
