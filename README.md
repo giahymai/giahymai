@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 19 October 2026** — refreshed 14:40 CET
+📅 **Tuesday, 20 October 2026** — refreshed 00:09 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 8:07:43 AM  ·  🌇 **Sunset** 6:37:39 PM
-✨ **Golden hour** 5:51:05 PM  ·  ⏳ **Day length** 10:29:56
-🌓 **Moon**: First Quarter (57% lit)
+🌅 **Sunrise** 8:09:26 AM  ·  🌇 **Sunset** 6:35:35 PM
+✨ **Golden hour** 5:48:50 PM  ·  ⏳ **Day length** 10:26:09
+🌓 **Moon**: First Quarter (67% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 14°C (feels 11°C) · Cloudy 
+🌡️ **Eindhoven**: 9°C (feels 6°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Documents: Police officer gave her Flock login to her ICE agent husband](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816)
-- [Linux 7.3 Released](https://lwn.net/Articles/1101143/)
-- [Timestral: Mistral release time-series foundation models](https://mistral.ai/news/timestral/)
-- [Harness Engineering 101: The LLM is the brain, the harness is the body](https://github.com/IsuruMaduranga/harness-engineering-101)
+- [Putting Linux on my RTX spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
+- [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
+- [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU)
+- [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
 <!-- HN:end -->
 
 ---
