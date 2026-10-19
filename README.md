@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 19 October 2026** — refreshed 06:02 CET
+📅 **Monday, 19 October 2026** — refreshed 14:40 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌫️ **Eindhoven**: 10°C (feels 9°C) · Fog
+🌡️ **Eindhoven**: 14°C (feels 11°C) · Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Hybrid Reasoning Agents: LLM agents that think in latent space, act through text](https://arxiv.org/abs/2610.18861)
-- [William Gibson and the trademarking of cyberspace](https://colo.to/cyberspace.html)
-- [There's never been a better time to go into math (by: 3blue1brown) [video]](https://www.youtube.com/watch?v=LKrwhjOI8Nc)
-- [Superlite: A Faster Alternatie to Superpowers](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
+- [Documents: Police officer gave her Flock login to her ICE agent husband](https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816)
+- [Linux 7.3 Released](https://lwn.net/Articles/1101143/)
+- [Timestral: Mistral release time-series foundation models](https://mistral.ai/news/timestral/)
+- [Harness Engineering 101: The LLM is the brain, the harness is the body](https://github.com/IsuruMaduranga/harness-engineering-101)
 <!-- HN:end -->
 
 ---
