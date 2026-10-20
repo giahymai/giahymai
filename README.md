@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 20 October 2026** — refreshed 18:36 CET
+📅 **Tuesday, 20 October 2026** — refreshed 23:25 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 9°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 12°C (feels 9°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Facebook now charging to post more than 2 links a month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919)
-- [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
-- [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/)
+- [SimCity, but with Permits](https://permit.petercai.com/)
 - [Voxtral 3](https://mistral.ai/news/voxtral-3/)
+- [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
+- [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
 <!-- HN:end -->
 
 ---
