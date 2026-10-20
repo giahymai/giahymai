@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 20 October 2026** — refreshed 00:09 CET
+📅 **Tuesday, 20 October 2026** — refreshed 06:15 CET
 <!-- DATE:end -->
 
 ---
@@ -22,26 +22,26 @@
 ✨ **Golden hour** 5:48:50 PM  ·  ⏳ **Day length** 10:26:09
 🌓 **Moon**: First Quarter (67% lit)
 
-> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
+> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 9°C (feels 6°C) · Overcast 
+🌡️ **Eindhoven**: 6°C (feels 3°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Putting Linux on my RTX spark laptop because I don't have a Microsoft account](https://josie.lol/blog/linux-rtx-spark)
+- [OpenBSD 8.0](https://www.openbsd.org/80.html)
 - [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
+- [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
 - [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU)
-- [The reverts will continue until morale improves](http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves)
 <!-- HN:end -->
 
 ---
