@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 20 October 2026** — refreshed 13:12 CET
+📅 **Tuesday, 20 October 2026** — refreshed 18:36 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 9°C (feels 6°C) · Overcast 
+🌡️ **Eindhoven**: 12°C (feels 9°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Facebook now charging to post more than 2 links a month](https://mastodon.gamedev.place/@AshleyGullen/117473851565913919)
 - [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
-- [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
-- [OpenBSD 8.0](https://www.openbsd.org/80.html)
-- [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)
+- [EMudhra Intermediate CA Compromise](https://emudhra.we-have-a-problem.com/)
+- [Voxtral 3](https://mistral.ai/news/voxtral-3/)
 <!-- HN:end -->
 
 ---
