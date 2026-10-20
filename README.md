@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 20 October 2026** — refreshed 06:15 CET
+📅 **Tuesday, 20 October 2026** — refreshed 13:12 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 6°C (feels 3°C) · Clear 
+🌡️ **Eindhoven**: 9°C (feels 6°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
+- [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
 - [OpenBSD 8.0](https://www.openbsd.org/80.html)
-- [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f)
-- [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
-- [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU)
+- [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)
 <!-- HN:end -->
 
 ---
