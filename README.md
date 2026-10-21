@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 21 October 2026** — refreshed 13:27 CET
+📅 **Wednesday, 21 October 2026** — refreshed 18:55 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 9°C) · Overcast 
+🌡️ **Eindhoven**: 13°C (feels 9°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
-- [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes)
-- [The 1.5°C goal of the Paris Agreement is no longer viable](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/)
-- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
+- [PHP 8.2.35](https://github.com/php/php-src/releases/tag/php-8.2.35)
+- [Today's PHP Security Release, and How We're Strengthening PHP Security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
+- [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/)
+- [DuckDB 2.0.0 LTS “Cinnamon Teal”](https://duckdb.org/2026/10/21/announcing-duckdb-200)
 <!-- HN:end -->
 
 ---
