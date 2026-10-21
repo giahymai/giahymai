@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 20 October 2026** — refreshed 23:25 CET
+📅 **Wednesday, 21 October 2026** — refreshed 06:03 CET
 <!-- DATE:end -->
 
 ---
@@ -18,11 +18,11 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 8:09:26 AM  ·  🌇 **Sunset** 6:35:35 PM
-✨ **Golden hour** 5:48:50 PM  ·  ⏳ **Day length** 10:26:09
-🌓 **Moon**: First Quarter (67% lit)
+🌅 **Sunrise** 8:11:09 AM  ·  🌇 **Sunset** 6:33:32 PM
+✨ **Golden hour** 5:46:36 PM  ·  ⏳ **Day length** 10:22:23
+🌔 **Moon**: Waxing Gibbous (76% lit)
 
-> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
+> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
@@ -33,15 +33,15 @@
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
+💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [SimCity, but with Permits](https://permit.petercai.com/)
-- [Voxtral 3](https://mistral.ai/news/voxtral-3/)
-- [DeepInfer: High-performance inference framework for DeepSeek models](https://github.com/deepseek-ai/DeepInfer)
-- [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu)
+- [Show HN: SimCity, but with Permits](https://permit.petercai.com/)
+- [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
+- [In Hilbert space, all things are quantumly possible](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
+- [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
 <!-- HN:end -->
 
 ---
