@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 22 October 2026** — refreshed 18:54 CET
+📅 **Thursday, 22 October 2026** — refreshed 23:21 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 9°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 9°C (feels 7°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -39,9 +39,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
-- [eMudhra to exit global SSL/TLS certificate business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
+- [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)
+- [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html)
 - [Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)
-- [What's Getting Pwned](https://pwn.watch/)
 <!-- HN:end -->
 
 ---
