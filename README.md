@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 22 October 2026** — refreshed 06:04 CET
+📅 **Thursday, 22 October 2026** — refreshed 13:28 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 8°C (feels 5°C) · Clear 
+🌡️ **Eindhoven**: 10°C (feels 6°C) · Light drizzle
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
+- [CVE-2026-111943: Compromised Intermediate Certificate Authority](https://nvd.nist.gov/vuln/detail/cve-2026-111943)
+- [Faster than earcut: triangulating 3.7M map polygons in 489 ms](https://globus.software/blog/2026/10/16/cutting-map-polygons/)
+- [WorldTUI: I trained a 360M model to pretend to be a terminal](https://simedw.com/2026/10/21/world-model-terminal/)
 - [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
-- [Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552)
-- [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
 <!-- HN:end -->
 
 ---
