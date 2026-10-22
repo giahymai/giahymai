@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 21 October 2026** — refreshed 23:26 CET
+📅 **Thursday, 22 October 2026** — refreshed 06:04 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 8:11:09 AM  ·  🌇 **Sunset** 6:33:32 PM
-✨ **Golden hour** 5:46:36 PM  ·  ⏳ **Day length** 10:22:23
-🌔 **Moon**: Waxing Gibbous (76% lit)
+🌅 **Sunrise** 8:12:52 AM  ·  🌇 **Sunset** 6:31:31 PM
+✨ **Golden hour** 5:44:23 PM  ·  ⏳ **Day length** 10:18:38
+🌔 **Moon**: Waxing Gibbous (84% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 11°C (feels 7°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 8°C (feels 5°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
-- [Meta hit with $25B penalty for deceiving users about privacy on Facebook](https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/)
-- [Today's PHP security release, and how we're strengthening security](https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/)
-- [GitLab Remote Code Execution - Integer Overflow issue](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
+- [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
+- [The recently proposed o(n log n) integer multiplication algorithm [pdf]](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
+- [Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552)
+- [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/)
 <!-- HN:end -->
 
 ---
