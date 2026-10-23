@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 23 October 2026** — refreshed 18:46 CET
+📅 **Friday, 23 October 2026** — refreshed 23:12 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 8°C) · Light rain shower
+🌦️ **Eindhoven**: 10°C (feels 6°C) · Light rain
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- ["Today, we hacked what we'd set out to hack: the iPhone."](https://blog.calif.io/p/iphone)
-- [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
-- [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
-- [eMudhra Login Bypass](https://mastodon.catgirl.cloud/@49016/117475921584308861)
+- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
+- [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
+- [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
+- [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa)
 <!-- HN:end -->
 
 ---
