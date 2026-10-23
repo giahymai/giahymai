@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 23 October 2026** — refreshed 13:17 CET
+📅 **Friday, 23 October 2026** — refreshed 18:46 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 13°C (feels 10°C) · Overcast
+🌡️ **Eindhoven**: 12°C (feels 8°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- ["Today, we hacked what we'd set out to hack: the iPhone."](https://blog.calif.io/p/iphone)
+- [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
 - [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
-- [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
-- [The Rise and Fall of Jev](https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm)
-- [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
+- [eMudhra Login Bypass](https://mastodon.catgirl.cloud/@49016/117475921584308861)
 <!-- HN:end -->
 
 ---
