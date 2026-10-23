@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 23 October 2026** — refreshed 06:07 CET
+📅 **Friday, 23 October 2026** — refreshed 13:17 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 11°C (feels 8°C) · Light drizzle
+☁️ **Eindhoven**: 13°C (feels 10°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
 - [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
-- [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
-- [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
-- [The Secret Life of Circuits is now in stock everywhere](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now)
+- [The Rise and Fall of Jev](https://blog.alexewerlof.com/p/rise-and-fall-of-jev-eval-hype-vs-llm)
+- [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 <!-- HN:end -->
 
 ---
