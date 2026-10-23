@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 22 October 2026** — refreshed 23:21 CET
+📅 **Friday, 23 October 2026** — refreshed 06:07 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 8:12:52 AM  ·  🌇 **Sunset** 6:31:31 PM
-✨ **Golden hour** 5:44:23 PM  ·  ⏳ **Day length** 10:18:38
-🌔 **Moon**: Waxing Gibbous (84% lit)
+🌅 **Sunrise** 8:14:36 AM  ·  🌇 **Sunset** 6:29:30 PM
+✨ **Golden hour** 5:42:11 PM  ·  ⏳ **Day length** 10:14:54
+🌔 **Moon**: Waxing Gibbous (91% lit)
 
-> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
+> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 9°C (feels 7°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 11°C (feels 8°C) · Light drizzle
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
+💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
+- [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification)
 - [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/)
-- [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell)
-- [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html)
-- [Show HN: Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel)
+- [The Secret Life of Circuits is now in stock everywhere](https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now)
 <!-- HN:end -->
 
 ---
