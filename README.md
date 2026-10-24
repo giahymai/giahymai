@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 24 October 2026** — refreshed 12:37 CET
+📅 **Saturday, 24 October 2026** — refreshed 17:40 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 10°C (feels 7°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 12°C (feels 8°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [I Don't Understand Quantum Physics](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
+- [Google illegally cut down 250K trees in Finland for data center](https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/)
+- [TornadoVM 7 Enables GPU-Native Workloads from Java Applications](https://www.infoq.com/news/2026/10/tornadovm-7-gpu/)
 - [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
-- [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
-- [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
+- [Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)
 <!-- HN:end -->
 
 ---
