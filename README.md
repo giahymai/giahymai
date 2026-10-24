@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 24 October 2026** — refreshed 06:00 CET
+📅 **Saturday, 24 October 2026** — refreshed 12:37 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌦️ **Eindhoven**: 9°C (feels 5°C) · Light rain
+🌡️ **Eindhoven**: 10°C (feels 7°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [I Don't Understand Quantum Physics](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
+- [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
 - [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
-- [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
-- [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
-- [CVE Tracker](https://cve.0xosprey.com/)
+- [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
 <!-- HN:end -->
 
 ---
