@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 23 October 2026** — refreshed 23:12 CET
+📅 **Saturday, 24 October 2026** — refreshed 06:00 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 8:14:36 AM  ·  🌇 **Sunset** 6:29:30 PM
-✨ **Golden hour** 5:42:11 PM  ·  ⏳ **Day length** 10:14:54
-🌔 **Moon**: Waxing Gibbous (91% lit)
+🌅 **Sunrise** 8:16:20 AM  ·  🌇 **Sunset** 6:27:31 PM
+✨ **Golden hour** 5:39:59 PM  ·  ⏳ **Day length** 10:11:10
+🌔 **Moon**: Waxing Gibbous (96% lit)
 
-> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
+> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌦️ **Eindhoven**: 10°C (feels 6°C) · Light rain
+🌦️ **Eindhoven**: 9°C (feels 5°C) · Light rain
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
+💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
+- [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
 - [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist)
-- [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
-- [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa)
+- [CVE Tracker](https://cve.0xosprey.com/)
 <!-- HN:end -->
 
 ---
