@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 24 October 2026** — refreshed 22:29 CET
+📅 **Sunday, 25 October 2026** — refreshed 06:00 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 8:16:20 AM  ·  🌇 **Sunset** 6:27:31 PM
-✨ **Golden hour** 5:39:59 PM  ·  ⏳ **Day length** 10:11:10
-🌔 **Moon**: Waxing Gibbous (96% lit)
+🌅 **Sunrise** 7:18:04 AM  ·  🌇 **Sunset** 5:25:33 PM
+✨ **Golden hour** 4:37:49 PM  ·  ⏳ **Day length** 10:07:28
+🌕 **Moon**: Full Moon (99% lit)
 
-> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
+> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌦️ **Eindhoven**: 10°C (feels 6°C) · Light rain
+🌡️ **Eindhoven**: 12°C (feels 9°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [No Signs of AI Payoff Outside the Tech Sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
+- [Xbox Turns Down Netflix $500M Offer](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/)
+- [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
+- [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
 - [The Goose Programming Language](https://aardappel.github.io/goose/)
-- [Roku developer repositories moved from GitHub to GitLab](https://blog.roku.com/developer/gitlab-move)
-- [John Carmack on the Goose Language: multiple data stacks and relative references](https://twitter.com/ID_AA_Carmack/status/2113704269274636568)
 <!-- HN:end -->
 
 ---
