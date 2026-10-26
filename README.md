@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 26 October 2026** — refreshed 06:05 CET
+📅 **Monday, 26 October 2026** — refreshed 14:34 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 9°C (feels 6°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 12°C (feels 9°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
+- [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
+- [Birdwatching rewires the brain and slows cognitive decline](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline)
 - [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
-- [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
-- [Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)
-- [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/)
 <!-- HN:end -->
 
 ---
