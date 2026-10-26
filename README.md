@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 26 October 2026** — refreshed 14:34 CET
+📅 **Tuesday, 27 October 2026** — refreshed 00:28 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 9°C) · Overcast 
+🌡️ **Eindhoven**: 12°C (feels 9°C) · Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Websites Should Be Printable](https://brennenputh.me/blog/printable-websites/)
-- [Switzerland. Block by block. At 1:1 scale](https://blocks.manifold3d.ch/)
-- [Birdwatching rewires the brain and slows cognitive decline](https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline)
-- [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
+- [Working with academic communities to build scientific understanding](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
+- [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
+- [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
+- [CorridorKey 2.0](https://corridorkey.com/)
 <!-- HN:end -->
 
 ---
