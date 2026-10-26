@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 25 October 2026** — refreshed 22:37 CET
+📅 **Monday, 26 October 2026** — refreshed 06:05 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:18:04 AM  ·  🌇 **Sunset** 5:25:33 PM
-✨ **Golden hour** 4:37:49 PM  ·  ⏳ **Day length** 10:07:28
-🌕 **Moon**: Full Moon (99% lit)
+🌅 **Sunrise** 7:19:49 AM  ·  🌇 **Sunset** 5:23:36 PM
+✨ **Golden hour** 4:35:39 PM  ·  ⏳ **Day length** 10:03:46
+🌕 **Moon**: Full Moon (100% lit)
 
-> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
+> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 10°C (feels 6°C) · Clear 
+🌡️ **Eindhoven**: 9°C (feels 6°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
+💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Show HN: TitleArt – Make text like it's 1997](https://titleart.dvy.io/)
 - [Dolly Parton's Imagination Library](https://imaginationlibrary.com/)
-- [Eunice is almost here (William Gibson, Agency)](https://armincat.com/articles/eunice-is-almost-here)
-- [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer)
-- [I refuse to accept a censored Internet. Join Me at FOSDEM 27](https://talkweb.eu/openweb/4558/)
+- [Show HN: A Truly Modular Keyboard](https://github.com/notaroomba/keybytes)
+- [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/)
 <!-- HN:end -->
 
 ---
