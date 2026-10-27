@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 27 October 2026** — refreshed 13:51 CET
+📅 **Tuesday, 27 October 2026** — refreshed 19:45 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 17°C (feels 13°C) · Overcast 
+🌡️ **Eindhoven**: 13°C (feels 10°C) · Light drizzle
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Roblox downloaded 145GB models from us (including adult content) without asking](https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/)
-- [Software may be getting worse, but it used to be horrible](https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/)
-- [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
-- [The Mythical Man-Month in the Age of AI](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
+- [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+- [Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)
+- [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
+- [Mossad Has Devices Like the Exploding Pagers in "Every Country You Can Imagine"](https://www.theyeshivaworld.com/news/israel-news/2462875/former-mossad-chief-yossi-cohen-planted-devices-like-the-exploding-hezbollah-pagers-are-in-every-country-you-can-imagine.html)
 <!-- HN:end -->
 
 ---
