@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 27 October 2026** — refreshed 06:25 CET
+📅 **Tuesday, 27 October 2026** — refreshed 13:51 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 10°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 17°C (feels 13°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Roblox downloaded 145GB models from us (including adult content) without asking](https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/)
+- [Software may be getting worse, but it used to be horrible](https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/)
 - [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
-- [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
-- [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models)
-- [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm)
+- [The Mythical Man-Month in the Age of AI](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
 <!-- HN:end -->
 
 ---
