@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 27 October 2026** — refreshed 19:45 CET
+📅 **Tuesday, 27 October 2026** — refreshed 23:58 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 13°C (feels 10°C) · Light drizzle
+🌡️ **Eindhoven**: 12°C (feels 10°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -39,9 +39,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
-- [Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior](https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220)
-- [Ghostty 1.4.0](https://ghostty.org/docs/install/release-notes/1-4-0)
-- [Mossad Has Devices Like the Exploding Pagers in "Every Country You Can Imagine"](https://www.theyeshivaworld.com/news/israel-news/2462875/former-mossad-chief-yossi-cohen-planted-devices-like-the-exploding-hezbollah-pagers-are-in-every-country-you-can-imagine.html)
+- [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
+- [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
+- [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
 <!-- HN:end -->
 
 ---
