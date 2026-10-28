@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 28 October 2026** — refreshed 14:26 CET
+📅 **Thursday, 29 October 2026** — refreshed 00:23 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 14°C (feels 10°C) · Sunny
+🌡️ **Eindhoven**: 9°C (feels 8°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Ten days later, Git on macOS still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
-- [Start Doing Graph Theory](https://vertex.degree/)
-- [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)
-- [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+- [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
+- [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
+- [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
+- [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)
 <!-- HN:end -->
 
 ---
