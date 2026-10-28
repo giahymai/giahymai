@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 28 October 2026** — refreshed 06:56 CET
+📅 **Wednesday, 28 October 2026** — refreshed 14:26 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌫️ **Eindhoven**: 8°C (feels 7°C) · Mist
+☀️ **Eindhoven**: 14°C (feels 10°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code)
+- [Ten days later, Git on macOS still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
+- [Start Doing Graph Theory](https://vertex.degree/)
+- [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)
 - [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
-- [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
-- [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
 <!-- HN:end -->
 
 ---
