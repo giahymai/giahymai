@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 27 October 2026** — refreshed 23:58 CET
+📅 **Wednesday, 28 October 2026** — refreshed 06:56 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:21:34 AM  ·  🌇 **Sunset** 5:21:40 PM
-✨ **Golden hour** 4:33:30 PM  ·  ⏳ **Day length** 10:00:06
-🌕 **Moon**: Full Moon (98% lit)
+🌅 **Sunrise** 7:23:18 AM  ·  🌇 **Sunset** 5:19:46 PM
+✨ **Golden hour** 4:31:22 PM  ·  ⏳ **Day length** 9:56:27
+🌖 **Moon**: Waning Gibbous (93% lit)
 
-> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
+> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 12°C (feels 10°C) · Clear 
+🌫️ **Eindhoven**: 8°C (feels 7°C) · Mist
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
+💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code)
 - [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/)
+- [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
 - [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
-- [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update)
-- [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm)
 <!-- HN:end -->
 
 ---
