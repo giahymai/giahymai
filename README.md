@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 29 October 2026** — refreshed 00:23 CET
+📅 **Thursday, 29 October 2026** — refreshed 07:07 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:23:18 AM  ·  🌇 **Sunset** 5:19:46 PM
-✨ **Golden hour** 4:31:22 PM  ·  ⏳ **Day length** 9:56:27
-🌖 **Moon**: Waning Gibbous (93% lit)
+🌅 **Sunrise** 7:25:03 AM  ·  🌇 **Sunset** 5:17:53 PM
+✨ **Golden hour** 4:29:15 PM  ·  ⏳ **Day length** 9:52:49
+🌖 **Moon**: Waning Gibbous (85% lit)
 
-> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
+> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 9°C (feels 8°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 8°C (feels 7°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
 - [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
-- [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
-- [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/)
-- [Dayjob: Tax – evaluating AI agents on 50 professional tax assignments](https://surgehq.ai/blog/dayjob-tax)
+- [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
+- [Claude Code burns ~15–20% of your tokens on a 3-word status line](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
 <!-- HN:end -->
 
 ---
