@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 29 October 2026** — refreshed 07:07 CET
+📅 **Thursday, 29 October 2026** — refreshed 14:37 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 8°C (feels 7°C) · Overcast 
+☀️ **Eindhoven**: 14°C (feels 13°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [If IPv4 Were Land](https://iptrust.co/blog/if-ipv4-were-land)
 - [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer)
+- [NetBSD adds a new beginner-friendly text editor called atto](https://mastodon.sdf.org/@netbsd/117518160563539748)
 - [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons)
-- [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
-- [Claude Code burns ~15–20% of your tokens on a 3-word status line](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
 <!-- HN:end -->
 
 ---
