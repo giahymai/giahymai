@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 30 October 2026** — refreshed 00:36 CET
+📅 **Friday, 30 October 2026** — refreshed 07:07 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:25:03 AM  ·  🌇 **Sunset** 5:17:53 PM
-✨ **Golden hour** 4:29:15 PM  ·  ⏳ **Day length** 9:52:49
-🌖 **Moon**: Waning Gibbous (85% lit)
+🌅 **Sunrise** 7:26:49 AM  ·  🌇 **Sunset** 5:16:01 PM
+✨ **Golden hour** 4:27:09 PM  ·  ⏳ **Day length** 9:49:12
+🌖 **Moon**: Waning Gibbous (76% lit)
 
-> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
+> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 9°C (feels 9°C) · Clear 
+🌫️ **Eindhoven**: 8°C (feels 6°C) · Mist
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
 - [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
-- [We ran AI agent swarms in Minecraft and Mindustry](https://labs.ycombinator.com/projects/games/index.html)
-- [The Great American Rascal: Tom Sawyer at 150](https://claremontreviewofbooks.com/the-great-american-rascal/)
+- [Cuis: The Modern Smalltalk-80](https://cuis.st/)
+- [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm)
 <!-- HN:end -->
 
 ---
