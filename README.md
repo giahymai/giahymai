@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 30 October 2026** — refreshed 14:28 CET
+📅 **Saturday, 31 October 2026** — refreshed 00:05 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 14°C (feels 11°C) · Sunny
+🌡️ **Eindhoven**: 8°C (feels 6°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [elect.horse](https://elect.horse/)
-- [Backdoors in official Claude Code extensions](https://cyberplace.social/@GossiTheDog/117528831681803563)
-- [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
-- [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
+- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
+- [Bunny CDN Security Incident](https://status.bunny.net/incidents/p6gf1by9kr7m)
+- [Northflank Breached](https://status.northflank.com)
+- [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
 <!-- HN:end -->
 
 ---
