@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 30 October 2026** — refreshed 07:07 CET
+📅 **Friday, 30 October 2026** — refreshed 14:28 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌫️ **Eindhoven**: 8°C (feels 6°C) · Mist
+☀️ **Eindhoven**: 14°C (feels 11°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [elect.horse](https://elect.horse/)
+- [Backdoors in official Claude Code extensions](https://cyberplace.social/@GossiTheDog/117528831681803563)
 - [Binance-hacker-1029 – $5.6B stolen from Binance](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
 - [We're releasing the weights of Mistral Large 4](https://mistral.ai/news/mistral-large-4-oss/)
-- [Cuis: The Modern Smalltalk-80](https://cuis.st/)
-- [Astroterm: A Planetarium for Your Terminal](https://github.com/da-luce/astroterm)
 <!-- HN:end -->
 
 ---
