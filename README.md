@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 31 October 2026** — refreshed 00:05 CET
+📅 **Saturday, 31 October 2026** — refreshed 06:53 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:26:49 AM  ·  🌇 **Sunset** 5:16:01 PM
-✨ **Golden hour** 4:27:09 PM  ·  ⏳ **Day length** 9:49:12
-🌖 **Moon**: Waning Gibbous (76% lit)
+🌅 **Sunrise** 7:28:34 AM  ·  🌇 **Sunset** 5:14:11 PM
+✨ **Golden hour** 4:25:04 PM  ·  ⏳ **Day length** 9:45:37
+🌗 **Moon**: Last Quarter (66% lit)
 
-> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
+> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 8°C (feels 6°C) · Clear 
+🌡️ **Eindhoven**: 6°C (feels 4°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
+💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
-- [Bunny CDN Security Incident](https://status.bunny.net/incidents/p6gf1by9kr7m)
-- [Northflank Breached](https://status.northflank.com)
+- [Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game](https://tng.episodle.com/)
 - [Backdoor in Claude Code for VS Code extension on the Cursor Marketplace](https://phorion.io/blog/offical-claude-code-vsx-compromise/)
+- [Cloudflare Turnstile solver library (no headless browser required)](https://github.com/chris124567/cfsolve)
+- [My favourite PowerMac is a Nintendo Wii](https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/)
 <!-- HN:end -->
 
 ---
