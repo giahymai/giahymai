@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 31 October 2026** — refreshed 13:56 CET
+📅 **Saturday, 31 October 2026** — refreshed 19:10 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 12°C (feels 10°C) · Sunny
+🌡️ **Eindhoven**: 10°C (feels 8°C) · Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)
-- [French lawmakers approved a tax of €0.055 for every gigabyte of internet traffic](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026)
-- [Molly(Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
-- [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
+- [Malware uses LLMs to rank victims by how much they're worth](https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/)
+- [Molly (Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
+- [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
+- [A/SIDE – Private photo sharing and encrypted messages](https://a-side.social/)
 <!-- HN:end -->
 
 ---
