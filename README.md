@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 01 November 2026** — refreshed 23:52 CET
+📅 **Monday, 02 November 2026** — refreshed 07:19 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:30:19 AM  ·  🌇 **Sunset** 5:12:22 PM
-✨ **Golden hour** 4:23:01 PM  ·  ⏳ **Day length** 9:42:03
-🌗 **Moon**: Last Quarter (55% lit)
+🌅 **Sunrise** 7:32:05 AM  ·  🌇 **Sunset** 5:10:35 PM
+✨ **Golden hour** 4:20:58 PM  ·  ⏳ **Day length** 9:38:30
+🌗 **Moon**: Last Quarter (43% lit)
 
-> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 9°C (feels 9°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 9°C (feels 8°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Python is named after Monty Python, not the snake.
+💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)
-- [Apple captures 50% of consumer revenue of the top half of the S&P 500](https://asymco.com/2026/11/01/the-last-consumer-company/)
+- [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
+- [Postgres 19 is late because so many more bugs are being found now](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html)
 - [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
-- [Nibnib: Image compression with extreme decompression speed](https://github.com/raphlinus/nibnib)
 <!-- HN:end -->
 
 ---
