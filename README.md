@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 02 November 2026** — refreshed 07:19 CET
+📅 **Monday, 02 November 2026** — refreshed 17:15 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 9°C (feels 8°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 11°C (feels 9°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [WTF Ubuntu?](https://chalmovsky.com/posts/wtf-ubuntu)
+- [Show HN: I've updated my Linux System Call website and API](https://syscall.sh/)
 - [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)
-- [F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
 - [Postgres 19 is late because so many more bugs are being found now](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html)
-- [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
 <!-- HN:end -->
 
 ---
