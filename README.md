@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 02 November 2026** — refreshed 17:15 CET
+📅 **Tuesday, 03 November 2026** — refreshed 02:46 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:32:05 AM  ·  🌇 **Sunset** 5:10:35 PM
-✨ **Golden hour** 4:20:58 PM  ·  ⏳ **Day length** 9:38:30
-🌗 **Moon**: Last Quarter (43% lit)
+🌅 **Sunrise** 7:33:50 AM  ·  🌇 **Sunset** 5:08:50 PM
+✨ **Golden hour** 4:18:57 PM  ·  ⏳ **Day length** 9:34:59
+🌗 **Moon**: Last Quarter (33% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 11°C (feels 9°C) · Overcast 
+🌡️ Weather unavailable (URLError)
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+💡 `git` was written by Linus Torvalds in about 10 days in 2005.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [WTF Ubuntu?](https://chalmovsky.com/posts/wtf-ubuntu)
-- [Show HN: I've updated my Linux System Call website and API](https://syscall.sh/)
-- [Show HN: HackerBooks – HackerTube, but for books mentioned on HN](https://hackerbooks.org)
-- [Postgres 19 is late because so many more bugs are being found now](http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html)
+- [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
+- [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088)
+- [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names)
+- [If you love a website, back it up](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
 <!-- HN:end -->
 
 ---
