@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 03 November 2026** — refreshed 15:53 CET
+📅 **Wednesday, 04 November 2026** — refreshed 01:02 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:33:50 AM  ·  🌇 **Sunset** 5:08:50 PM
-✨ **Golden hour** 4:18:57 PM  ·  ⏳ **Day length** 9:34:59
-🌗 **Moon**: Last Quarter (33% lit)
+🌅 **Sunrise** 7:35:35 AM  ·  🌇 **Sunset** 5:07:06 PM
+✨ **Golden hour** 4:16:58 PM  ·  ⏳ **Day length** 9:31:30
+🌘 **Moon**: Waning Crescent (23% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 9°C (feels 7°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 6°C (feels 2°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [The 'Astra can read and write weights to improve Qwen' post is misleading](https://honnibal.dev/blog/astra-read-write-misleading)
-- [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
-- [Life with Down Syndrome](https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/)
-- [Charles Tandy, the mastermind behind Radio Shack](https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/)
+- [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)
+- [Safari introduces Adaptive Dark Mode in 27.3](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
+- [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
+- [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)
 <!-- HN:end -->
 
 ---
