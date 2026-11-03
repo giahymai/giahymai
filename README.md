@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 03 November 2026** — refreshed 02:46 CET
+📅 **Tuesday, 03 November 2026** — refreshed 15:53 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ Weather unavailable (URLError)
+🌡️ **Eindhoven**: 9°C (feels 7°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [The 'Astra can read and write weights to improve Qwen' post is misleading](https://honnibal.dev/blog/astra-read-write-misleading)
 - [Astra can read and write weights to improve Qwen](https://rikiyat.github.io/blog/weight-space-programming/)
-- [Show HN: Subvocal – Talk to your computer without making noise](https://news.ycombinator.com/item?id=50340088)
-- [US boy names that became girl names and vice versa](https://namedaisy.com/blog/boy-names-that-became-girl-names)
-- [If you love a website, back it up](https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/)
+- [Life with Down Syndrome](https://www.esquire.com/news-politics/a74031571/life-with-down-syndrome/)
+- [Charles Tandy, the mastermind behind Radio Shack](https://dfarq.homeip.net/charles-tandy-the-mastermind-behind-radio-shack/)
 <!-- HN:end -->
 
 ---
