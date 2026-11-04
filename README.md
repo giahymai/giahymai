@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 04 November 2026** — refreshed 16:03 CET
+📅 **Thursday, 05 November 2026** — refreshed 01:26 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:35:35 AM  ·  🌇 **Sunset** 5:07:06 PM
-✨ **Golden hour** 4:16:58 PM  ·  ⏳ **Day length** 9:31:30
-🌘 **Moon**: Waning Crescent (23% lit)
+🌅 **Sunrise** 7:37:21 AM  ·  🌇 **Sunset** 5:05:24 PM
+✨ **Golden hour** 4:15:00 PM  ·  ⏳ **Day length** 9:28:03
+🌘 **Moon**: Waning Crescent (15% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 9°C (feels 6°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 4°C (feels 1°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
+- [Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple)
+- [Insects don't swarm at LED lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/)
 - [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
-- [Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop)
-- [Incident with Pull Requests, Git Operations and Issues](https://www.githubstatus.com/incidents/smtdswd1h2w4)
-- [Verification Is Not Knowledge: Science needs more than answers](https://blog.cosmos-institute.org/p/verification-is-not-knowledge)
 <!-- HN:end -->
 
 ---
