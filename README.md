@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 04 November 2026** — refreshed 01:02 CET
+📅 **Wednesday, 04 November 2026** — refreshed 07:38 CET
 <!-- DATE:end -->
 
 ---
@@ -22,26 +22,26 @@
 ✨ **Golden hour** 4:16:58 PM  ·  ⏳ **Day length** 9:31:30
 🌘 **Moon**: Waning Crescent (23% lit)
 
-> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
+> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 6°C (feels 2°C) · Clear 
+🌡️ **Eindhoven**: 5°C (feels 1°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 `git` was written by Linus Torvalds in about 10 days in 2005.
+💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer](https://arxiv.org/abs/2605.29713)
-- [Safari introduces Adaptive Dark Mode in 27.3](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
+- [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/)
+- [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/)
+- [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
 - [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
-- [Jailbreaking my car's navigation system just so I can change the time](https://blog.nns.ee/2026/11/02/renault-hack/)
 <!-- HN:end -->
 
 ---
