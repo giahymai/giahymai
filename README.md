@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 04 November 2026** — refreshed 07:38 CET
+📅 **Wednesday, 04 November 2026** — refreshed 16:03 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 5°C (feels 1°C) · Clear 
+🌡️ **Eindhoven**: 9°C (feels 6°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [C++26 Disapproved](https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/)
-- [Jelly Sheet](https://mrdoob.github.io/codevember-2026/01/)
-- [Distinct cellular and genetic differences in colorectal cancer in young patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
-- [The Internals of PostgreSQL](https://www.interdb.jp/pg/index.html)
+- [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
+- [Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux](https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop)
+- [Incident with Pull Requests, Git Operations and Issues](https://www.githubstatus.com/incidents/smtdswd1h2w4)
+- [Verification Is Not Knowledge: Science needs more than answers](https://blog.cosmos-institute.org/p/verification-is-not-knowledge)
 <!-- HN:end -->
 
 ---
