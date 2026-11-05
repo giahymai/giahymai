@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 05 November 2026** — refreshed 16:29 CET
+📅 **Friday, 06 November 2026** — refreshed 01:28 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:37:21 AM  ·  🌇 **Sunset** 5:05:24 PM
-✨ **Golden hour** 4:15:00 PM  ·  ⏳ **Day length** 9:28:03
-🌘 **Moon**: Waning Crescent (15% lit)
+🌅 **Sunrise** 7:39:06 AM  ·  🌇 **Sunset** 5:03:44 PM
+✨ **Golden hour** 4:13:03 PM  ·  ⏳ **Day length** 9:24:37
+🌘 **Moon**: Waning Crescent (8% lit)
 
 > 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 11°C (feels 8°C) · Sunny
+🌡️ **Eindhoven**: 4°C (feels 2°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Sshole](https://sshhole.com)
-- [MCP Explained](https://mcp-explained.com/)
-- [OpenSSH 10.6p2 Critical workaround for alpine without PAM](https://www.openssh.org/releasenotes.html#10.6p2)
-- [Baidu released ERNIE 5.5 Flash Base](https://ernie.baidu.com/release/ernie-5-5-flash-base/)
+- [Search for everyone](https://kagi.com/changelog#11820)
+- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
+- [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
+- [sshole](https://sshhole.com)
 <!-- HN:end -->
 
 ---
