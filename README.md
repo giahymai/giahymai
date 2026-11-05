@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 05 November 2026** — refreshed 01:26 CET
+📅 **Thursday, 05 November 2026** — refreshed 07:56 CET
 <!-- DATE:end -->
 
 ---
@@ -22,26 +22,26 @@
 ✨ **Golden hour** 4:15:00 PM  ·  ⏳ **Day length** 9:28:03
 🌘 **Moon**: Waning Crescent (15% lit)
 
-> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
+> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 4°C (feels 1°C) · Clear 
+🌡️ **Eindhoven**: 3°C (feels -0°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
+💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
-- [Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding](https://www.ricursive.com/ripple)
-- [Insects don't swarm at LED lights](https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/)
-- [AI is forcing us to pay off 40 years of technical debt](https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability)
+- [Images 2.6](https://openai.com/index/introducing-images-2-6/)
+- [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)
+- [Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall)
 <!-- HN:end -->
 
 ---
