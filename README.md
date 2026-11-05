@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 05 November 2026** — refreshed 07:56 CET
+📅 **Thursday, 05 November 2026** — refreshed 16:29 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 3°C (feels -0°C) · Clear 
+☀️ **Eindhoven**: 11°C (feels 8°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Residential proxies detected on White House network](https://layer3intel.com/blog/residential-proxies-white-house-network)
-- [Images 2.6](https://openai.com/index/introducing-images-2-6/)
-- [A thousand fewer paths to root](https://openai.com/index/a-thousand-fewer-paths-to-root/)
-- [Starfall – Affordable, routine access to microgravity](https://www.spacex.com/starfall)
+- [Sshole](https://sshhole.com)
+- [MCP Explained](https://mcp-explained.com/)
+- [OpenSSH 10.6p2 Critical workaround for alpine without PAM](https://www.openssh.org/releasenotes.html#10.6p2)
+- [Baidu released ERNIE 5.5 Flash Base](https://ernie.baidu.com/release/ernie-5-5-flash-base/)
 <!-- HN:end -->
 
 ---
