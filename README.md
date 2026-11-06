@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 06 November 2026** — refreshed 01:28 CET
+📅 **Friday, 06 November 2026** — refreshed 07:53 CET
 <!-- DATE:end -->
 
 ---
@@ -22,7 +22,7 @@
 ✨ **Golden hour** 4:13:03 PM  ·  ⏳ **Day length** 9:24:37
 🌘 **Moon**: Waning Crescent (8% lit)
 
-> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
+> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
@@ -33,15 +33,15 @@
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
+💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Search for everyone](https://kagi.com/changelog#11820)
 - [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
-- [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
 - [sshole](https://sshhole.com)
+- [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
+- [Pwn.college](https://pwn.college/)
 <!-- HN:end -->
 
 ---
