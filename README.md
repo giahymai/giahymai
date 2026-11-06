@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 06 November 2026** — refreshed 15:59 CET
+📅 **Saturday, 07 November 2026** — refreshed 00:53 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 10°C (feels 9°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 4°C (feels 3°C) · Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
-- [Blender's UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI)
-- [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
-- [Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
+- [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
+- [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
+- [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape)
+- [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/)
 <!-- HN:end -->
 
 ---
