@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 06 November 2026** — refreshed 07:53 CET
+📅 **Friday, 06 November 2026** — refreshed 15:59 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 4°C (feels 2°C) · Clear 
+🌡️ **Eindhoven**: 10°C (feels 9°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
+- [Blender's UI and Runtime: Much Faster Than GPUI](https://github.com/ppmpreetham/BUI)
 - [Claude Code sends your email address to websites](https://github.com/anthropics/claude-code/issues/107757)
-- [sshole](https://sshhole.com)
-- [MS Paint Remote Code Execution Vulnerability](https://www.cve.org/CVERecord?id=CVE-2026-83844)
-- [Pwn.college](https://pwn.college/)
+- [Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
 <!-- HN:end -->
 
 ---
