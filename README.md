@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 07 November 2026** — refreshed 14:43 CET
+📅 **Saturday, 07 November 2026** — refreshed 23:38 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 9°C (feels 8°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 8°C (feels 7°C) · Light drizzle
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Upload Your RAM](https://uploadyourram.org)
-- [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
-- [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
-- [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
+- [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006)
+- [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
+- [Apple’s grey list: Words and phrases your iPhone won’t help you spell](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you)
+- [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)
 <!-- HN:end -->
 
 ---
