@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 07 November 2026** — refreshed 07:24 CET
+📅 **Saturday, 07 November 2026** — refreshed 14:43 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 4°C (feels 2°C) · Overcast 
+🌡️ **Eindhoven**: 9°C (feels 8°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Upload Your RAM](https://uploadyourram.org)
 - [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
-- [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
-- [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
-- [I Toured Unitree's Factory. I'm More Bullish on the West](https://josef.cn/blog/unitree)
+- [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
+- [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
 <!-- HN:end -->
 
 ---
