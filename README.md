@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 07 November 2026** — refreshed 00:53 CET
+📅 **Saturday, 07 November 2026** — refreshed 07:24 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:39:06 AM  ·  🌇 **Sunset** 5:03:44 PM
-✨ **Golden hour** 4:13:03 PM  ·  ⏳ **Day length** 9:24:37
-🌘 **Moon**: Waning Crescent (8% lit)
+🌅 **Sunrise** 7:40:51 AM  ·  🌇 **Sunset** 5:02:05 PM
+✨ **Golden hour** 4:11:08 PM  ·  ⏳ **Day length** 9:21:13
+🌑 **Moon**: New Moon (4% lit)
 
-> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
+> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 4°C (feels 3°C) · Cloudy 
+🌡️ **Eindhoven**: 4°C (feels 2°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
+💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
 - [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
-- [AI is dramatically accelerating AI research](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
-- [Firecracker VM Escape: PwnEscape Part 2](https://pwn.ai/blog/firecracker-escape)
-- [US FAA says it will phase out floppy disks from air traffic control by 2028](https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/)
+- [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
+- [I Toured Unitree's Factory. I'm More Bullish on the West](https://josef.cn/blog/unitree)
 <!-- HN:end -->
 
 ---
