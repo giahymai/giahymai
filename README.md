@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 07 November 2026** — refreshed 23:38 CET
+📅 **Sunday, 08 November 2026** — refreshed 07:24 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:40:51 AM  ·  🌇 **Sunset** 5:02:05 PM
-✨ **Golden hour** 4:11:08 PM  ·  ⏳ **Day length** 9:21:13
-🌑 **Moon**: New Moon (4% lit)
+🌅 **Sunrise** 7:42:36 AM  ·  🌇 **Sunset** 5:00:28 PM
+✨ **Golden hour** 4:09:14 PM  ·  ⏳ **Day length** 9:17:52
+🌑 **Moon**: New Moon (1% lit)
 
-> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
+> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 8°C (feels 7°C) · Light drizzle
+🌡️ **Eindhoven**: 7°C (feels 5°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
+💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [The end of Microsoft Research's AI Frontiers group](https://hunch.net/?p=13764006)
+- [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)
 - [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
-- [Apple’s grey list: Words and phrases your iPhone won’t help you spell](https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you)
-- [Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller](https://github.com/hedgerow-dev/coldframe)
+- [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
+- [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
 <!-- HN:end -->
 
 ---
