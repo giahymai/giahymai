@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 08 November 2026** — refreshed 07:24 CET
+📅 **Sunday, 08 November 2026** — refreshed 15:00 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 7°C (feels 5°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 11°C (feels 9°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Person of Interest](https://krthr.co/person-of-interest/)
+- [Petered (what happens after the Peter Principle)](https://aworkinglibrary.com/writing/petered)
+- [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
 - [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)
-- [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
-- [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
-- [Making any integer with four 2s (2025)](https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/)
 <!-- HN:end -->
 
 ---
