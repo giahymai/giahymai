@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 08 November 2026** — refreshed 15:00 CET
+📅 **Sunday, 08 November 2026** — refreshed 23:52 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 11°C (feels 9°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 7°C (feels 6°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Person of Interest](https://krthr.co/person-of-interest/)
-- [Petered (what happens after the Peter Principle)](https://aworkinglibrary.com/writing/petered)
-- [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
-- [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)
+- [Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
+- [RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC](https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/)
+- [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)
+- [Declarative Dragging](https://declarative-dragging.github.io/)
 <!-- HN:end -->
 
 ---
