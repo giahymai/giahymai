@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 09 November 2026** — refreshed 07:34 CET
+📅 **Monday, 09 November 2026** — refreshed 17:43 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 5°C (feels 4°C) · Clear 
+☀️ **Eindhoven**: 10°C (feels 9°C) · Sunny
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest)
-- [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
-- [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
-- [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
+- [Fold Epic Paper Airplanes](https://www.foldableflight.com)
+- [Humans will never again create a project like Wikipedia](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia)
+- [Zebkit – Chromium as an embeddable library](https://github.com/ikey4u/zebkit)
+- [What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway)
 <!-- HN:end -->
 
 ---
