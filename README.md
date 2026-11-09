@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 08 November 2026** — refreshed 23:52 CET
+📅 **Monday, 09 November 2026** — refreshed 07:34 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:42:36 AM  ·  🌇 **Sunset** 5:00:28 PM
-✨ **Golden hour** 4:09:14 PM  ·  ⏳ **Day length** 9:17:52
-🌑 **Moon**: New Moon (1% lit)
+🌅 **Sunrise** 7:44:21 AM  ·  🌇 **Sunset** 4:58:54 PM
+✨ **Golden hour** 4:07:22 PM  ·  ⏳ **Day length** 9:14:32
+🌑 **Moon**: New Moon (0% lit)
 
-> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
+> 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 7°C (feels 6°C) · Overcast 
+🌡️ **Eindhoven**: 5°C (feels 4°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
-- [RAM Altman: Linux Script Emails Sam Altman Daily How Much Unused RAM in Your PC](https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/)
-- [Dux: Free, open-source Wayland desktop shell with file manager and theming](https://duxlabs.dev/)
-- [Declarative Dragging](https://declarative-dragging.github.io/)
+- [RIP, Harvest](https://aphyr.com/posts/427-rip-harvest)
+- [A Critique of GPUI](https://blog.zortax.de/posts/a-critique-of-gpui)
+- [KetchUp – Open-source SketchUp alternative built with Rust and WebGPU](https://ketchup3d.github.io/app/)
+- [Unlocking any car from X brand in most of the world](https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/)
 <!-- HN:end -->
 
 ---
