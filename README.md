@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 10 November 2026** — refreshed 16:37 CET
+📅 **Wednesday, 11 November 2026** — refreshed 01:01 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:46:06 AM  ·  🌇 **Sunset** 4:57:21 PM
-✨ **Golden hour** 4:05:32 PM  ·  ⏳ **Day length** 9:11:15
-🌑 **Moon**: New Moon (2% lit)
+🌅 **Sunrise** 7:47:50 AM  ·  🌇 **Sunset** 4:55:50 PM
+✨ **Golden hour** 4:03:44 PM  ·  ⏳ **Day length** 9:08:00
+🌒 **Moon**: Waxing Crescent (5% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 8°C (feels 6°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 5°C (feels 2°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
-- [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
-- [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
-- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
+- [Toyota brand Scion is back and it's going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
+- [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
+- [After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
+- [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
 <!-- HN:end -->
 
 ---
