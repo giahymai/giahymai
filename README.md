@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 09 November 2026** — refreshed 17:43 CET
+📅 **Tuesday, 10 November 2026** — refreshed 03:20 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:44:21 AM  ·  🌇 **Sunset** 4:58:54 PM
-✨ **Golden hour** 4:07:22 PM  ·  ⏳ **Day length** 9:14:32
-🌑 **Moon**: New Moon (0% lit)
+🌅 **Sunrise** 7:46:06 AM  ·  🌇 **Sunset** 4:57:21 PM
+✨ **Golden hour** 4:05:32 PM  ·  ⏳ **Day length** 9:11:15
+🌑 **Moon**: New Moon (2% lit)
 
 > 🔭 *Sunlight takes about 8 minutes 20 seconds to reach Earth.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☀️ **Eindhoven**: 10°C (feels 9°C) · Sunny
+🌡️ **Eindhoven**: 3°C (feels 1°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
+💡 `git` was written by Linus Torvalds in about 10 days in 2005.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Fold Epic Paper Airplanes](https://www.foldableflight.com)
-- [Humans will never again create a project like Wikipedia](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia)
-- [Zebkit – Chromium as an embeddable library](https://github.com/ikey4u/zebkit)
-- [What is malloc doing, anyway?](https://benmandrew.com/articles/what-is-malloc-doing-anyway)
+- [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
+- [USPS now offers official ZIP Code boundary polygons](https://postalpro.usps.com/zcb)
+- [TPU 8tx and TPU 8i Max](https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/)
+- [Google Gemini routes personal Drive files and emails to human annotators](https://github.com/thisisme6598/gemini_files/)
 <!-- HN:end -->
 
 ---
