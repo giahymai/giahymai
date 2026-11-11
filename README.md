@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 11 November 2026** — refreshed 07:31 CET
+📅 **Wednesday, 11 November 2026** — refreshed 15:52 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 5°C (feels 3°C) · Light drizzle
+🌡️ **Eindhoven**: 6°C (feels 5°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)
+- [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/)
+- [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
 - [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
-- [Scion is back and is going to sell a kei truck in America](https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/)
-- [.name Grandfathered](https://neil.fraser.name/news/2026/11/10/)
-- [Smart home devices should work without the internet](https://docodethatmatters.com/home-automation-overnight-success/)
 <!-- HN:end -->
 
 ---
