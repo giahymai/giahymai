@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 12 November 2026** — refreshed 16:54 CET
+📅 **Friday, 13 November 2026** — refreshed 01:23 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:49:34 AM  ·  🌇 **Sunset** 4:54:21 PM
-✨ **Golden hour** 4:01:57 PM  ·  ⏳ **Day length** 9:04:47
-🌒 **Moon**: Waxing Crescent (9% lit)
+🌅 **Sunrise** 7:51:17 AM  ·  🌇 **Sunset** 4:52:55 PM
+✨ **Golden hour** 4:00:13 PM  ·  ⏳ **Day length** 9:01:37
+🌒 **Moon**: Waxing Crescent (15% lit)
 
 > 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 8°C (feels 6°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 4°C (feels 1°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [NVIDIA Announces CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)
-- [Why Writing Correct Software Is Hard](https://pron.github.io/posts/correctness-and-complexity)
-- [Jensen Huang resigns as Nvidia CEO immediately](https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/)
-- [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
+- [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
+- [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
+- [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
+- [Foundation Models framework](https://developer.apple.com/foundation-models-framework/)
 <!-- HN:end -->
 
 ---
