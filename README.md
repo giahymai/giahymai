@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 11 November 2026** — refreshed 15:52 CET
+📅 **Thursday, 12 November 2026** — refreshed 02:18 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:47:50 AM  ·  🌇 **Sunset** 4:55:50 PM
-✨ **Golden hour** 4:03:44 PM  ·  ⏳ **Day length** 9:08:00
-🌒 **Moon**: Waxing Crescent (5% lit)
+🌅 **Sunrise** 7:49:34 AM  ·  🌇 **Sunset** 4:54:21 PM
+✨ **Golden hour** 4:01:57 PM  ·  ⏳ **Day length** 9:04:47
+🌒 **Moon**: Waxing Crescent (9% lit)
 
-> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
+> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 6°C (feels 5°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 5°C (feels 3°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
+💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)
-- [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/)
-- [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
-- [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
+- [AWS emulator](https://github.com/aws/aws-emulator)
+- [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
+- [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
+- [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
 <!-- HN:end -->
 
 ---
