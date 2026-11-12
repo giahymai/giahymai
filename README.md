@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 12 November 2026** — refreshed 02:18 CET
+📅 **Thursday, 12 November 2026** — refreshed 16:54 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 5°C (feels 3°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 8°C (feels 6°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [AWS emulator](https://github.com/aws/aws-emulator)
-- [93% of Paint Splatters Are Valid Perl Programs (2019)](https://www.mcmillen.dev/sigbovik/)
-- [Tim Peters has died](https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028)
-- [United Airlines bans AI agents from booking flights on behalf of travelers](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
+- [NVIDIA Announces CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)
+- [Why Writing Correct Software Is Hard](https://pron.github.io/posts/correctness-and-complexity)
+- [Jensen Huang resigns as Nvidia CEO immediately](https://www.reuters.com/live/nvidia-live-board-meets-fate-ceo-jensen-huang-after-affair-reports-2026-11-12/)
+- [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
 <!-- HN:end -->
 
 ---
