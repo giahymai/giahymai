@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 13 November 2026** — refreshed 16:19 CET
+📅 **Saturday, 14 November 2026** — refreshed 01:24 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:51:17 AM  ·  🌇 **Sunset** 4:52:55 PM
-✨ **Golden hour** 4:00:13 PM  ·  ⏳ **Day length** 9:01:37
-🌒 **Moon**: Waxing Crescent (15% lit)
+🌅 **Sunrise** 7:53:00 AM  ·  🌇 **Sunset** 4:51:30 PM
+✨ **Golden hour** 3:58:30 PM  ·  ⏳ **Day length** 8:58:30
+🌒 **Moon**: Waxing Crescent (23% lit)
 
 > 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 9°C (feels 7°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 4°C (feels 2°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)
-- [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
-- [Eli Lilly CEO pushes back on Dario Amodei's ludicrous medical claims](https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest)
-- [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
+- [FAA Issues National Ground Stop](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111)
+- [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/)
+- [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
+- [FM-1 Workbench](https://open.m-vave.com/fm1-workbench)
 <!-- HN:end -->
 
 ---
