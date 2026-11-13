@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 13 November 2026** — refreshed 01:23 CET
+📅 **Friday, 13 November 2026** — refreshed 07:55 CET
 <!-- DATE:end -->
 
 ---
@@ -22,26 +22,26 @@
 ✨ **Golden hour** 4:00:13 PM  ·  ⏳ **Day length** 9:01:37
 🌒 **Moon**: Waxing Crescent (15% lit)
 
-> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
+> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 4°C (feels 1°C) · Clear 
+🌡️ **Eindhoven**: 3°C (feels 0°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 QWERTY was designed to slow typists down so mechanical typewriters wouldn't jam.
+💡 `git` was written by Linus Torvalds in about 10 days in 2005.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
+- [IceWM](https://ice-wm.org/)
 - [Rust 1.100](https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/)
-- [Gemini 4 Hydrogen and Orchestrator](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
-- [Foundation Models framework](https://developer.apple.com/foundation-models-framework/)
+- [Switcher (2004)](https://folklore.org/Switcher.html)
 <!-- HN:end -->
 
 ---
