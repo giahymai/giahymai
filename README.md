@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 14 November 2026** — refreshed 15:15 CET
+📅 **Sunday, 15 November 2026** — refreshed 00:09 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 8°C (feels 6°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 3°C (feels -0°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
-- [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
-- [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)
-- [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
+- [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
+- [SpaceX Catches the Starship to end Flight 15](https://x.com/i/broadcasts/2brajgZlOKRMka)
+- [A Family Tree of Software Job Titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
+- [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
 <!-- HN:end -->
 
 ---
