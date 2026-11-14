@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 14 November 2026** — refreshed 01:24 CET
+📅 **Saturday, 14 November 2026** — refreshed 07:43 CET
 <!-- DATE:end -->
 
 ---
@@ -22,26 +22,26 @@
 ✨ **Golden hour** 3:58:30 PM  ·  ⏳ **Day length** 8:58:30
 🌒 **Moon**: Waxing Crescent (23% lit)
 
-> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 4°C (feels 2°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 2°C (feels 0°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 `git` was written by Linus Torvalds in about 10 days in 2005.
+💡 Python is named after Monty Python, not the snake.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [FAA Issues National Ground Stop](https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111)
-- [Live airband on all frequencies from KORS. Victoria, CA also ground stopped](https://orcasairband.com/)
+- [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
+- [Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
+- [FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
 - [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
-- [FM-1 Workbench](https://open.m-vave.com/fm1-workbench)
 <!-- HN:end -->
 
 ---
