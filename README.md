@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 14 November 2026** — refreshed 07:43 CET
+📅 **Saturday, 14 November 2026** — refreshed 15:15 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 2°C (feels 0°C) · Clear 
+🌡️ **Eindhoven**: 8°C (feels 6°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
 - [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
-- [Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
-- [FAA issues national ground stop – lifted 4.5 hours later](https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247)
-- [Terminal borders that don't cost a cell](https://www.joshka.net/cell-borders/)
+- [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)
+- [Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
 <!-- HN:end -->
 
 ---
