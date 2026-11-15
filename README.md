@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 15 November 2026** — refreshed 15:43 CET
+📅 **Monday, 16 November 2026** — refreshed 00:38 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 9°C (feels 6°C) · Cloudy 
+☁️ **Eindhoven**: 10°C (feels 8°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
-- [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775)
-- [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
-- [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal)
+- [Your Agent Will Pick the Hackable One](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/)
+- [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8)
+- [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
+- [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/)
 <!-- HN:end -->
 
 ---
