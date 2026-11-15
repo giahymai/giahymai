@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 15 November 2026** — refreshed 07:43 CET
+📅 **Sunday, 15 November 2026** — refreshed 15:43 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 3°C (feels 0°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 9°C (feels 6°C) · Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -39,9 +39,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
+- [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775)
 - [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
-- [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)
-- [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)
+- [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal)
 <!-- HN:end -->
 
 ---
