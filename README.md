@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 15 November 2026** — refreshed 00:09 CET
+📅 **Sunday, 15 November 2026** — refreshed 07:43 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:53:00 AM  ·  🌇 **Sunset** 4:51:30 PM
-✨ **Golden hour** 3:58:30 PM  ·  ⏳ **Day length** 8:58:30
-🌒 **Moon**: Waxing Crescent (23% lit)
+🌅 **Sunrise** 7:54:43 AM  ·  🌇 **Sunset** 4:50:08 PM
+✨ **Golden hour** 3:56:50 PM  ·  ⏳ **Day length** 8:55:25
+🌓 **Moon**: First Quarter (31% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 3°C (feels -0°C) · Clear 
+🌡️ **Eindhoven**: 3°C (feels 0°C) · Patchy rain nearby
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Python is named after Monty Python, not the snake.
+💡 `git` was written by Linus Torvalds in about 10 days in 2005.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
+- [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
 - [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
-- [SpaceX Catches the Starship to end Flight 15](https://x.com/i/broadcasts/2brajgZlOKRMka)
-- [A Family Tree of Software Job Titles](https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/)
-- [PyPI's redesigned project pages with clearer security signals are now live](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
+- [Show HN: Gawain – Require type hints on all Python variables](https://github.com/matheuzgomes/gawain)
+- [How did Woz write the Apple 1 BASIC before building the computer?](https://retrocomputing.stackexchange.com/questions/17957)
 <!-- HN:end -->
 
 ---
