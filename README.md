@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 16 November 2026** — refreshed 00:38 CET
+📅 **Monday, 16 November 2026** — refreshed 07:43 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:54:43 AM  ·  🌇 **Sunset** 4:50:08 PM
-✨ **Golden hour** 3:56:50 PM  ·  ⏳ **Day length** 8:55:25
-🌓 **Moon**: First Quarter (31% lit)
+🌅 **Sunrise** 7:56:25 AM  ·  🌇 **Sunset** 4:48:48 PM
+✨ **Golden hour** 3:55:12 PM  ·  ⏳ **Day length** 8:52:23
+🌓 **Moon**: First Quarter (40% lit)
 
-> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 10°C (feels 8°C) · Overcast
+🌡️ **Eindhoven**: 9°C (feels 6°C) · Light rain shower
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 `git` was written by Linus Torvalds in about 10 days in 2005.
+💡 Python is named after Monty Python, not the snake.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Your Agent Will Pick the Hackable One](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/)
-- [A short explainer on how El Niño works [video]](https://www.youtube.com/watch?v=7_JF3etiAv8)
-- [Old Bitly Links Are Being Hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
-- [Protomaps: Self-hosting map tiles has gotten cheap and easy](https://bruceroettgers.eu/blog/protomaps/)
+- [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
+- [Qwen4-Max](https://qwen.ai/blog?id=qwen4-max)
+- [Old Bitly links are being hijacked](https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/)
+- [What's Next for Nvidia?](https://steveblank.com/2026/11/15/whats-next-for-nvidia/)
 <!-- HN:end -->
 
 ---
