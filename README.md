@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 17 November 2026** — refreshed 03:45 CET
+📅 **Tuesday, 17 November 2026** — refreshed 17:44 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 4°C (feels 1°C) · Light drizzle
+🌡️ **Eindhoven**: 14°C (feels 12°C) · Moderate or heavy rain shower
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
-- [Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use](https://xusheng.dev/posts/windows-coding-agent-telemetry/)
-- [BugMeNot has closed](https://www.bugmenot.com/)
-- [Optimizely Compromised, Served Malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
+- [We don't need more apps. We need better open source](https://jordankrueger.com/blog/better-open-source-not-more-apps/)
+- [Loopholes Are for Assholes](https://actsofvolition.com/2026/11/loopholes-are-for-assholes/)
+- [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
+- [First Photos of the Poles of a Rod-Shaped Bacterium](https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664)
 <!-- HN:end -->
 
 ---
