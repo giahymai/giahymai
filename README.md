@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 17 November 2026** — refreshed 17:44 CET
+📅 **Wednesday, 18 November 2026** — refreshed 02:46 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:58:06 AM  ·  🌇 **Sunset** 4:47:31 PM
-✨ **Golden hour** 3:53:36 PM  ·  ⏳ **Day length** 8:49:25
-🌓 **Moon**: First Quarter (50% lit)
+🌅 **Sunrise** 7:59:46 AM  ·  🌇 **Sunset** 4:46:16 PM
+✨ **Golden hour** 3:52:02 PM  ·  ⏳ **Day length** 8:46:29
+🌓 **Moon**: First Quarter (60% lit)
 
-> 🔭 *Drive straight up at highway speed and you'd hit space in about an hour.*
+> 🔭 *A day on Venus is longer than its year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 14°C (feels 12°C) · Moderate or heavy rain shower
+☁️ **Eindhoven**: 10°C (feels 7°C) · Cloudy
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Python is named after Monty Python, not the snake.
+💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [We don't need more apps. We need better open source](https://jordankrueger.com/blog/better-open-source-not-more-apps/)
-- [Loopholes Are for Assholes](https://actsofvolition.com/2026/11/loopholes-are-for-assholes/)
-- [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
-- [First Photos of the Poles of a Rod-Shaped Bacterium](https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664)
+- [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
+- [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
+- [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
+- [Archive Team is archiving the Apple Support Community (closes November 20, 2026)](https://wiki.archiveteam.org/index.php/Apple_Discussions)
 <!-- HN:end -->
 
 ---
