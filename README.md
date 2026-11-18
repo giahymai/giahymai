@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 18 November 2026** — refreshed 02:46 CET
+📅 **Wednesday, 18 November 2026** — refreshed 17:24 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 10°C (feels 7°C) · Cloudy
+🌡️ **Eindhoven**: 11°C (feels 8°C) · Moderate or heavy rain shower
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Java4Shell: RCE in OpenJDK when processing Base64](https://calif.io/java4shell/)
-- [GPT‑6.2 Astra and Sol](https://openai.com/index/introducing-gpt-6-2-astra-sol/)
-- [Quad9's withdrawal from France: A canary in the coal mine](https://blog.cloudflare.com/quad9-withdrawal-from-france/)
-- [Archive Team is archiving the Apple Support Community (closes November 20, 2026)](https://wiki.archiveteam.org/index.php/Apple_Discussions)
+- [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
+- ['Human' Is Cambridge Dictionary's Word of the Year 2026](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)
+- [Can Peer Review Survive AI-Generated Text? [pdf]](https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf)
+- [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
 <!-- HN:end -->
 
 ---
