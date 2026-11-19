@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 19 November 2026** — refreshed 02:04 CET
+📅 **Thursday, 19 November 2026** — refreshed 17:29 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 9°C (feels 6°C) · Overcast
+☁️ **Eindhoven**: 10°C (feels 7°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
-- [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
-- [Inside Deutsche Bank](https://www.inside-db.com/)
-- [AI agents ask better questions than KPMG accountants in audit trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/)
+- [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
+- [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
+- [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)
+- [OpenAI still has a WebRTC Problem](https://moq.dev/blog/webrtc-is-still-the-problem/)
 <!-- HN:end -->
 
 ---
