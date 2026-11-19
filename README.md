@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 18 November 2026** — refreshed 17:24 CET
+📅 **Thursday, 19 November 2026** — refreshed 02:04 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 7:59:46 AM  ·  🌇 **Sunset** 4:46:16 PM
-✨ **Golden hour** 3:52:02 PM  ·  ⏳ **Day length** 8:46:29
-🌓 **Moon**: First Quarter (60% lit)
+🌅 **Sunrise** 8:01:26 AM  ·  🌇 **Sunset** 4:45:03 PM
+✨ **Golden hour** 3:50:31 PM  ·  ⏳ **Day length** 8:43:37
+🌔 **Moon**: Waxing Gibbous (69% lit)
 
-> 🔭 *A day on Venus is longer than its year.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 11°C (feels 8°C) · Moderate or heavy rain shower
+☁️ **Eindhoven**: 9°C (feels 6°C) · Overcast
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first 1GB hard drive (1980) weighed over 250 kg and cost $40,000.
+💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
-- ['Human' Is Cambridge Dictionary's Word of the Year 2026](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)
-- [Can Peer Review Survive AI-Generated Text? [pdf]](https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf)
-- [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
+- [Unauthenticated remote code execution in Nginx](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
+- [Seven new models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
+- [Inside Deutsche Bank](https://www.inside-db.com/)
+- [AI agents ask better questions than KPMG accountants in audit trial](https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/)
 <!-- HN:end -->
 
 ---
