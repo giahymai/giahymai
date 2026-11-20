@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 19 November 2026** — refreshed 17:29 CET
+📅 **Friday, 20 November 2026** — refreshed 02:27 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 8:01:26 AM  ·  🌇 **Sunset** 4:45:03 PM
-✨ **Golden hour** 3:50:31 PM  ·  ⏳ **Day length** 8:43:37
-🌔 **Moon**: Waxing Gibbous (69% lit)
+🌅 **Sunrise** 8:03:05 AM  ·  🌇 **Sunset** 4:43:53 PM
+✨ **Golden hour** 3:49:02 PM  ·  ⏳ **Day length** 8:40:48
+🌔 **Moon**: Waxing Gibbous (79% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-☁️ **Eindhoven**: 10°C (feels 7°C) · Overcast
+🌫️ **Eindhoven**: 9°C (feels 9°C) · Mist
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
+💡 `git` was written by Linus Torvalds in about 10 days in 2005.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [How the European Commission rolled out Matrix to more than 40k staff](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
-- [Garage Door Spam](https://blog.harrison.page/garage-door-spam/)
-- [Making 8-page foldable zines from a single A4 sheet in the browser](https://krthr.co/paper-folds-and-whats-new-in-fanzines-app/)
-- [OpenAI still has a WebRTC Problem](https://moq.dev/blog/webrtc-is-still-the-problem/)
+- [Anthropic’s Nasdaq debut](https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/)
+- [Pancreatic cancer halted by virus injection in three patients](https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/)
+- [Synology Security Advisory](https://www.synology.com/en-uk/security/advisory/Synology_SA_26_21)
+- [Claude solves two open problems in the physics of black holes](https://www.anthropic.com/research/claude-black-hole-physics)
 <!-- HN:end -->
 
 ---
