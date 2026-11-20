@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 20 November 2026** — refreshed 17:08 CET
+📅 **Saturday, 21 November 2026** — refreshed 01:50 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 8:03:05 AM  ·  🌇 **Sunset** 4:43:53 PM
-✨ **Golden hour** 3:49:02 PM  ·  ⏳ **Day length** 8:40:48
-🌔 **Moon**: Waxing Gibbous (79% lit)
+🌅 **Sunrise** 8:04:43 AM  ·  🌇 **Sunset** 4:42:45 PM
+✨ **Golden hour** 3:47:36 PM  ·  ⏳ **Day length** 8:38:02
+🌔 **Moon**: Waxing Gibbous (87% lit)
 
 > 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 6°C (feels 3°C) · Patchy rain nearby
+🌡️ **Eindhoven**: 2°C (feels 0°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Anthropic employee claims general proof of the Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
-- [If you can't explain something in simple terms, you don't understand it (2017)](https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it)
-- [Frostbite: A new CPU architecture discovered, designed and verified by AI](https://architectlabs.com/blog/frostbite)
-- [Show HN: I made an audio-to-MIDI model 60x more efficient](https://kobi.music/research/dettato)
+- [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
+- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
+- [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
+- [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
 <!-- HN:end -->
 
 ---
