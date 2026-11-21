@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 21 November 2026** — refreshed 01:50 CET
+📅 **Saturday, 21 November 2026** — refreshed 08:27 CET
 <!-- DATE:end -->
 
 ---
@@ -22,25 +22,25 @@
 ✨ **Golden hour** 3:47:36 PM  ·  ⏳ **Day length** 8:38:02
 🌔 **Moon**: Waxing Gibbous (87% lit)
 
-> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
+> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 2°C (feels 0°C) · Clear 
+🌫️ **Eindhoven**: 3°C (feels -0°C) · Mist
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 `git` was written by Linus Torvalds in about 10 days in 2005.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
-- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
 - [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
+- [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
 - [NINLIVE: The Nine Inch Nails live archive](https://ninlive.com/)
 <!-- HN:end -->
 
