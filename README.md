@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Saturday, 21 November 2026** — refreshed 20:55 CET
+📅 **Sunday, 22 November 2026** — refreshed 07:56 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 8:04:43 AM  ·  🌇 **Sunset** 4:42:45 PM
-✨ **Golden hour** 3:47:36 PM  ·  ⏳ **Day length** 8:38:02
-🌔 **Moon**: Waxing Gibbous (87% lit)
+🌅 **Sunrise** 8:06:19 AM  ·  🌇 **Sunset** 4:41:40 PM
+✨ **Golden hour** 3:46:13 PM  ·  ⏳ **Day length** 8:35:20
+🌔 **Moon**: Waxing Gibbous (93% lit)
 
-> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
+> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 4°C (feels 3°C) · Clear 
+🌫️ **Eindhoven**: 0°C (feels -2°C) · Mist
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
+💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Jensen Huang's fall is bad news for Silicon Valley's accelerationists](https://www.economist.com/business/2026/11/19/jensen-huangs-fall-is-bad-news-for-silicon-valleys-accelerationists)
-- [Inkling-2-Mini in 5.4 GB Memory](https://github.com/ShinMegamiBoson/lookatmyquant)
-- [Detonating a pile of lead azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
+- [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
+- [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
 - [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
+- [Sandwich Simulator](https://stulle.app/)
 <!-- HN:end -->
 
 ---
