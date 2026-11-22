@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 22 November 2026** — refreshed 07:56 CET
+📅 **Sunday, 22 November 2026** — refreshed 16:26 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌫️ **Eindhoven**: 0°C (feels -2°C) · Mist
+🌡️ **Eindhoven**: 6°C (feels 4°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
@@ -39,9 +39,9 @@
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
 - [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
+- [A real Linux kernel, compiled to WebAssembly](https://github.com/pithings/unkernel)
 - [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
 - [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
-- [Sandwich Simulator](https://stulle.app/)
 <!-- HN:end -->
 
 ---
