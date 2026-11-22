@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Sunday, 22 November 2026** — refreshed 16:26 CET
+📅 **Monday, 23 November 2026** — refreshed 01:26 CET
 <!-- DATE:end -->
 
 ---
@@ -18,15 +18,15 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 8:06:19 AM  ·  🌇 **Sunset** 4:41:40 PM
-✨ **Golden hour** 3:46:13 PM  ·  ⏳ **Day length** 8:35:20
-🌔 **Moon**: Waxing Gibbous (93% lit)
+🌅 **Sunrise** 8:07:55 AM  ·  🌇 **Sunset** 4:40:38 PM
+✨ **Golden hour** 3:44:52 PM  ·  ⏳ **Day length** 8:32:42
+🌕 **Moon**: Full Moon (98% lit)
 
 > 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 6°C (feels 4°C) · Partly Cloudy 
+🌡️ **Eindhoven**: 1°C (feels -3°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
-- [A real Linux kernel, compiled to WebAssembly](https://github.com/pithings/unkernel)
-- [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
-- [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
+- [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
+- [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
+- [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
+- [Agent swarm trying to solve P vs. NP](https://pequalnp.com/)
 <!-- HN:end -->
 
 ---
