@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 23 November 2026** — refreshed 08:47 CET
+📅 **Tuesday, 24 November 2026** — refreshed 01:38 CET
 <!-- DATE:end -->
 
 ---
@@ -18,9 +18,9 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 8:07:55 AM  ·  🌇 **Sunset** 4:40:38 PM
-✨ **Golden hour** 3:44:52 PM  ·  ⏳ **Day length** 8:32:42
-🌕 **Moon**: Full Moon (98% lit)
+🌅 **Sunrise** 8:09:30 AM  ·  🌇 **Sunset** 4:39:39 PM
+✨ **Golden hour** 3:43:34 PM  ·  ⏳ **Day length** 8:30:08
+🌕 **Moon**: Full Moon (100% lit)
 
 > 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
-- [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux)
-- [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/)
-- [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
+- [Nvidia Reinstates Jensen Huang as CEO](https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html)
+- [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)
+- [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
+- [VP ≠ VNP over Every Field](https://github.com/anthropics/formal-math/tree/main/vp-vnp)
 <!-- HN:end -->
 
 ---
