@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Monday, 23 November 2026** — refreshed 01:26 CET
+📅 **Monday, 23 November 2026** — refreshed 08:47 CET
 <!-- DATE:end -->
 
 ---
@@ -22,26 +22,26 @@
 ✨ **Golden hour** 3:44:52 PM  ·  ⏳ **Day length** 8:32:42
 🌕 **Moon**: Full Moon (98% lit)
 
-> 🔭 *Saturn is less dense than water — it would float in a big enough bathtub.*
+> 🔭 *A supermoon looks ~14% bigger and ~30% brighter than a micromoon.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: 1°C (feels -3°C) · Clear 
+🌡️ **Eindhoven**: -1°C (feels -3°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Ada Lovelace wrote the first algorithm intended for a machine, ~100 years before computers existed.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Progress map for the Lean formalization of Alessandro Masullo's manuscript](https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3)
-- [The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife](https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife)
+- [Free alternative TV network built from the Internet Archive's forgotten videos](https://spelunkr.tv)
+- [XNU Linux: Full OS X GUI Userspace on Linux](https://github.com/AFK-surf/xnulinux)
+- [Masullo on the Riemann Hypothesis](https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/)
 - [A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth](https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth)
-- [Agent swarm trying to solve P vs. NP](https://pequalnp.com/)
 <!-- HN:end -->
 
 ---
