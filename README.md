@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Tuesday, 24 November 2026** — refreshed 11:14 CET
+📅 **Wednesday, 25 November 2026** — refreshed 00:09 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: -2°C (feels -5°C) · Partly Cloudy 
+🌡️ **Eindhoven**: -0°C (feels -5°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [2035 Came Early](https://fzakaria.com/2026/11/23/2035-came-early)
-- [Ladybird is now in alpha](https://ladybird.org/posts/alpha/)
-- [Stalwart is now a drop-in replacement for Microsoft Exchange](https://stalw.art/blog/microsoft-exchange-replacement/)
-- [AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years](https://www.phoronix.com/review/amd-epyc-9006-7601)
+- [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
+- [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426)
+- [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
+- [Working with AI](https://www.anthropic.com/research/working-with-ai)
 <!-- HN:end -->
 
 ---
