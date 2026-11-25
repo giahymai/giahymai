@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 25 November 2026** — refreshed 00:09 CET
+📅 **Wednesday, 25 November 2026** — refreshed 09:49 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 8:09:30 AM  ·  🌇 **Sunset** 4:39:39 PM
-✨ **Golden hour** 3:43:34 PM  ·  ⏳ **Day length** 8:30:08
-🌕 **Moon**: Full Moon (100% lit)
+🌅 **Sunrise** 8:11:03 AM  ·  🌇 **Sunset** 4:38:42 PM
+✨ **Golden hour** 3:42:19 PM  ·  ⏳ **Day length** 8:27:38
+🌕 **Moon**: Full Moon (99% lit)
 
-> 🔭 *Jupiter's Great Red Spot is a storm raging for at least 350 years.*
+> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: -0°C (feels -5°C) · Clear 
+🌡️ **Eindhoven**: -1°C (feels -6°C) · Overcast 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The '@' in email was chosen by Ray Tomlinson in 1971 because it was rarely used in names.
+💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Ternary Bonsai 2.5 27B](https://prismml.com/news/bonsai-2-5-27b)
-- [Launch HN: Versine (YC F26) – MCP to send and receive money](https://news.ycombinator.com/item?id=50634426)
-- [Active intrusion campaign against Check Point security management servers](https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign)
-- [Working with AI](https://www.anthropic.com/research/working-with-ai)
+- [Matrix Multiplication is Θ(n^2.25) [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
+- [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
+- [Models Can Communicate via Inference Servers Despite Being Sandboxed](https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being)
+- [Show HN: Old Nvidia and ATI tech demos, running again in the browser](https://gpu-demo-gallery.pages.dev/)
 <!-- HN:end -->
 
 ---
