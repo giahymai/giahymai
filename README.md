@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Wednesday, 25 November 2026** — refreshed 23:25 CET
+📅 **Thursday, 26 November 2026** — refreshed 09:40 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 8:11:03 AM  ·  🌇 **Sunset** 4:38:42 PM
-✨ **Golden hour** 3:42:19 PM  ·  ⏳ **Day length** 8:27:38
-🌕 **Moon**: Full Moon (99% lit)
+🌅 **Sunrise** 8:12:35 AM  ·  🌇 **Sunset** 4:37:48 PM
+✨ **Golden hour** 3:41:07 PM  ·  ⏳ **Day length** 8:25:12
+🌖 **Moon**: Waning Gibbous (95% lit)
 
-> 🔭 *The Moon drifts ~3.8 cm farther from Earth every year.*
+> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: -0°C (feels -5°C) · Clear 
+🌡️ **Eindhoven**: -2°C (feels -7°C) · Cloudy 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 The first computer bug was a real moth, taped into a logbook by Grace Hopper's team in 1947.
+💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
 - [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)
-- [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts)
-- [GPT-6.2 Astra is the first model to beat Googlers' code golf records](https://bjin.github.io/go-codegolf-benchmark/#leaderboard)
+- [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
+- [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)
+- [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
 <!-- HN:end -->
 
 ---
