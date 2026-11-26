@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 26 November 2026** — refreshed 09:40 CET
+📅 **Thursday, 26 November 2026** — refreshed 23:12 CET
 <!-- DATE:end -->
 
 ---
@@ -26,7 +26,7 @@
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: -2°C (feels -7°C) · Cloudy 
+🌡️ **Eindhoven**: -2°C (feels -6°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
@@ -38,10 +38,10 @@
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening](https://scottaaronson.blog/?p=10379)
-- [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
-- [Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years](https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/)
-- [Much shorter version of GRH Lean verification from Anthropic](https://github.com/lsernau/grh-lean)
+- [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)
+- [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
+- [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
+- [Show HN: Fuck_data_brokers.py](https://github.com/gary23w/f-ck_data_brokers)
 <!-- HN:end -->
 
 ---
