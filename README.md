@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Thursday, 26 November 2026** — refreshed 23:12 CET
+📅 **Friday, 27 November 2026** — refreshed 09:39 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 8:12:35 AM  ·  🌇 **Sunset** 4:37:48 PM
-✨ **Golden hour** 3:41:07 PM  ·  ⏳ **Day length** 8:25:12
-🌖 **Moon**: Waning Gibbous (95% lit)
+🌅 **Sunrise** 8:14:06 AM  ·  🌇 **Sunset** 4:36:57 PM
+✨ **Golden hour** 3:39:58 PM  ·  ⏳ **Day length** 8:22:50
+🌖 **Moon**: Waning Gibbous (88% lit)
 
-> 🔭 *There are more stars in the universe than grains of sand on Earth's beaches.*
+> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: -2°C (feels -6°C) · Clear 
+🌡️ **Eindhoven**: -3°C (feels -7°C) · Clear 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 Java was originally called 'Oak', after a tree outside James Gosling's office.
+💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)
-- [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
-- [YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays](https://github.com/antonpictures/youtube-punisher)
-- [Show HN: Fuck_data_brokers.py](https://github.com/gary23w/f-ck_data_brokers)
+- [The group chat where your AI talks behind your back](https://construct22.com/)
+- [The need for a formally verifiable mainstream programming language](https://blainehansen.me/post/mainstream-verifiable-language/)
+- [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
+- [Hard Drive pricing has gotten bad](https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/)
 <!-- HN:end -->
 
 ---
