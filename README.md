@@ -5,7 +5,7 @@
 </p>
 
 <!-- DATE:start -->
-📅 **Friday, 27 November 2026** — refreshed 22:55 CET
+📅 **Saturday, 28 November 2026** — refreshed 09:06 CET
 <!-- DATE:end -->
 
 ---
@@ -18,30 +18,30 @@
 </p>
 
 <!-- SKY:start -->
-🌅 **Sunrise** 8:14:06 AM  ·  🌇 **Sunset** 4:36:57 PM
-✨ **Golden hour** 3:39:58 PM  ·  ⏳ **Day length** 8:22:50
-🌖 **Moon**: Waning Gibbous (88% lit)
+🌅 **Sunrise** 8:15:35 AM  ·  🌇 **Sunset** 4:36:09 PM
+✨ **Golden hour** 3:38:53 PM  ·  ⏳ **Day length** 8:20:33
+🌖 **Moon**: Waning Gibbous (80% lit)
 
-> 🔭 *A teaspoon of neutron star would weigh about a billion tonnes.*
+> 🔭 *Footprints on the Moon may last millions of years — there's no wind.*
 <!-- SKY:end -->
 
 <!-- WEATHER:start -->
-🌡️ **Eindhoven**: -2°C (feels -6°C) · Clear 
+🌡️ **Eindhoven**: -3°C (feels -7°C) · Partly Cloudy 
 <!-- WEATHER:end -->
 ---
 
 
 ### 🧠 Dev fact of the day
 <!-- FACT:start -->
-💡 There are two hard things in CS: cache invalidation, naming things, and off-by-one errors.
+💡 The `null` reference was called a 'billion-dollar mistake' by its own inventor, Tony Hoare.
 <!-- FACT:end -->
 
 ### 📰 What's hot on Hacker News
 <!-- HN:start -->
-- [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
-- [Convex skills send the user's app idea to a remote server without telling them](https://github.com/convex/convex-backend-skill/issues/64)
+- [Unkernel: Real Linux kernel, compiled to WebAssembly](https://unkernel.dev)
+- [Google's DeepCrossAttention achieves comparable model quality up to 3x faster](https://research.google/blog/supercharging-transformer-residual-connections/)
+- [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh)
 - [GPT 6.2 Astra Solves a Historical Mystery](https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical)
-- [Citroën Hydraulic System](https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html)
 <!-- HN:end -->
 
 ---
